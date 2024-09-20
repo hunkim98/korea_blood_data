@@ -1,0 +1,46 @@
+Operation,No. of patients,Transfused patients No.,Transfused patients %,Total units transfused,Mean units transfused,MSBOS,Korean Translation
+Laparoscopic cholecystectomy,893,7,0.0,11,0.0,T&S,복강경 담낭절제술
+Total gastrectomy,293,13,0.0,19,0.1,T&S,전위절제술
+Subtotal gastrectomy,794,16,0.0,30,0.0,T&S,부분 위절제술
+Exploratory laparotomy,38,6,0.2,13,0.3,T&S,탐색적 개복술
+Low anterior resection,430,32,0.1,96,0.2,T&S,저위 전방 절제술
+Hemicolectomy,251,27,0.1,49,0.2,T&S,반대장절제술
+Lobectomy of liver,178,35,0.2,93,0.5,1,간엽절제술
+Wedge resection of liver,215,23,0.1,44,0.2,T&S,간 쐐기 절제술
+Mastectomy,704,1,0.0,1,0.0,T&S,유방절제술
+Pylorus preserving pancreaticoduodenectomy,131,23,0.2,38,0.3,T&S,유문보존 췌십이지장절제술
+Bilateral thyroidectomy,1484,3,0.0,5,0.0,T&S,양측 갑상선절제술
+Excision of retroperitoneal mass,70,14,0.2,107,1.5,2,후복강종양 절제술
+Renal allograft,124,103,0.8,250,2.0,2,신장이식
+Liver transplantation,46,32,0.7,196,4.3,5,간 이식
+Laminectomy,150,28,0.2,60,0.4,T&S,척추 후궁 절제술
+Posterior spinal fusion,233,93,0.4,227,1.0,1,척추 후방 유합술
+Excision of lesion of spinal cord,169,10,0.1,22,0.1,T&S,척수 병변 절제술
+Laminoplasty & cervical,135,7,0.1,12,0.1,T&S,경추 후궁 성형술
+Removal of spinal body tumor,57,18,0.3,90,1.6,2,척추체 종양 제거술
+Craniotomy and Removal of brain tumor,428,195,0.5,452,1.1,1,두개절개술 및 뇌종양 제거
+Cranioplasty,92,61,0.7,107,1.2,1,두개 성형술
+Discectomy,872,94,0.1,216,0.3,T&S,추간판 절제술
+Transsphenoidal approach & removal of tumor,263,7,0.0,15,0.1,T&S,경접형 접근법을 통한 종양 제거
+Removal of ICH,73,46,0.6,80,1.1,1,뇌출혈 제거술
+C/O & clipping of aneurysm,176,11,0.1,26,0.2,T&S,뇌동맥류 결찰 및 절제술
+C/O & Grid insertion OB&GYN,107,29,0.3,59,0.6,1,산부인과 그리드 삽입 및 절제술
+Total abdominal hysterectomy,794,58,0.1,165,0.2,T&S,복식 자궁 절제술
+Low cervical cesarean section,330,25,0.1,108,0.3,T&S,저경부 제왕절개술
+Myomectomy & uterus,374,10,0.0,14,0.0,T&S,자궁근종 절제술
+Operative laparoscope ovarian cystectomy,307,1,0.0,2,0.0,T&S,복강경 난소낭종 절제술
+Graft replacement of aorta,15,11,0.7,77,5.1,5,대동맥 이식 대체술
+Aortic valve replacement,138,84,0.6,242,1.8,2,대동맥판막 교체술
+Mitral valve replacement,80,60,0.8,198,2.5,2,승모판막 교체술
+PDA ligation,51,27,0.5,143,2.8,3,동맥관 결찰술
+Lobectomy of lung,326,19,0.1,59,0.2,T&S,폐엽절제술
+Lung transplantation,2,2,1.0,22,11.0,11,폐 이식
+Total knee replacement,357,351,1.0,604,1.7,2,전슬관절 치환술
+Total hip replacement,123,93,0.8,138,1.1,1,전고관절 치환술
+Partial Nephrectomy,193,14,0.1,32,0.2,T&S,부분 신절제술
+Nephrectomy,289,34,0.1,112,0.4,T&S,신절제술
+Radical cystectomy,45,25,0.6,90,2.0,2,근치적 방광절제술
+Transurethral resection of prostate,286,7,0.0,14,0.1,T&S,경요도 전립선 절제술
+Prostatectomy,546,26,0.1,55,0.1,T&S,전립선절제술
+Transurethral resection of bladder tumor,513,9,0.0,16,0.0,T&S,경요도 방광 종양 절제술
+Mn: B-IVRO setback,172,16,0.1,39,0.2,T&S,하악골 양측 내상부 수직절골술
