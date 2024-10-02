@@ -1,0 +1,4285 @@
+Year,Month,Month_Number,Surgery,Patients
+2006,January,1, Bilateral thyroidectomy ,12528.0
+2006,February,2, Bilateral thyroidectomy ,0.0
+2006,March,3, Bilateral thyroidectomy ,0.0
+2006,April,4, Bilateral thyroidectomy ,0.0
+2006,May,5, Bilateral thyroidectomy ,0.0
+2006,June,6, Bilateral thyroidectomy ,0.0
+2006,July,7, Bilateral thyroidectomy ,0.0
+2006,August,8, Bilateral thyroidectomy ,0.0
+2006,September,9, Bilateral thyroidectomy ,0.0
+2006,October,10, Bilateral thyroidectomy ,0.0
+2006,November,11, Bilateral thyroidectomy ,0.0
+2006,December,12, Bilateral thyroidectomy ,0.0
+2007,January,1, Bilateral thyroidectomy ,14758.0
+2007,February,2, Bilateral thyroidectomy ,0.0
+2007,March,3, Bilateral thyroidectomy ,0.0
+2007,April,4, Bilateral thyroidectomy ,0.0
+2007,May,5, Bilateral thyroidectomy ,0.0
+2007,June,6, Bilateral thyroidectomy ,0.0
+2007,July,7, Bilateral thyroidectomy ,0.0
+2007,August,8, Bilateral thyroidectomy ,0.0
+2007,September,9, Bilateral thyroidectomy ,0.0
+2007,October,10, Bilateral thyroidectomy ,0.0
+2007,November,11, Bilateral thyroidectomy ,0.0
+2007,December,12, Bilateral thyroidectomy ,0.0
+2008,January,1, Bilateral thyroidectomy ,14810.0
+2008,February,2, Bilateral thyroidectomy ,0.0
+2008,March,3, Bilateral thyroidectomy ,0.0
+2008,April,4, Bilateral thyroidectomy ,0.0
+2008,May,5, Bilateral thyroidectomy ,0.0
+2008,June,6, Bilateral thyroidectomy ,0.0
+2008,July,7, Bilateral thyroidectomy ,0.0
+2008,August,8, Bilateral thyroidectomy ,0.0
+2008,September,9, Bilateral thyroidectomy ,0.0
+2008,October,10, Bilateral thyroidectomy ,0.0
+2008,November,11, Bilateral thyroidectomy ,0.0
+2008,December,12, Bilateral thyroidectomy ,0.0
+2009,January,1, Bilateral thyroidectomy ,16659.0
+2009,February,2, Bilateral thyroidectomy ,0.0
+2009,March,3, Bilateral thyroidectomy ,0.0
+2009,April,4, Bilateral thyroidectomy ,0.0
+2009,May,5, Bilateral thyroidectomy ,0.0
+2009,June,6, Bilateral thyroidectomy ,0.0
+2009,July,7, Bilateral thyroidectomy ,0.0
+2009,August,8, Bilateral thyroidectomy ,0.0
+2009,September,9, Bilateral thyroidectomy ,0.0
+2009,October,10, Bilateral thyroidectomy ,0.0
+2009,November,11, Bilateral thyroidectomy ,0.0
+2009,December,12, Bilateral thyroidectomy ,0.0
+2010,January,1, Bilateral thyroidectomy ,17207.0
+2010,February,2, Bilateral thyroidectomy ,0.0
+2010,March,3, Bilateral thyroidectomy ,0.0
+2010,April,4, Bilateral thyroidectomy ,0.0
+2010,May,5, Bilateral thyroidectomy ,0.0
+2010,June,6, Bilateral thyroidectomy ,0.0
+2010,July,7, Bilateral thyroidectomy ,0.0
+2010,August,8, Bilateral thyroidectomy ,0.0
+2010,September,9, Bilateral thyroidectomy ,0.0
+2010,October,10, Bilateral thyroidectomy ,0.0
+2010,November,11, Bilateral thyroidectomy ,0.0
+2010,December,12, Bilateral thyroidectomy ,0.0
+2011,January,1, Bilateral thyroidectomy ,18096.0
+2011,February,2, Bilateral thyroidectomy ,0.0
+2011,March,3, Bilateral thyroidectomy ,0.0
+2011,April,4, Bilateral thyroidectomy ,0.0
+2011,May,5, Bilateral thyroidectomy ,0.0
+2011,June,6, Bilateral thyroidectomy ,0.0
+2011,July,7, Bilateral thyroidectomy ,0.0
+2011,August,8, Bilateral thyroidectomy ,0.0
+2011,September,9, Bilateral thyroidectomy ,0.0
+2011,October,10, Bilateral thyroidectomy ,0.0
+2011,November,11, Bilateral thyroidectomy ,0.0
+2011,December,12, Bilateral thyroidectomy ,0.0
+2012,January,1, Bilateral thyroidectomy ,19932.0
+2012,February,2, Bilateral thyroidectomy ,0.0
+2012,March,3, Bilateral thyroidectomy ,0.0
+2012,April,4, Bilateral thyroidectomy ,0.0
+2012,May,5, Bilateral thyroidectomy ,0.0
+2012,June,6, Bilateral thyroidectomy ,0.0
+2012,July,7, Bilateral thyroidectomy ,0.0
+2012,August,8, Bilateral thyroidectomy ,0.0
+2012,September,9, Bilateral thyroidectomy ,0.0
+2012,October,10, Bilateral thyroidectomy ,0.0
+2012,November,11, Bilateral thyroidectomy ,0.0
+2012,December,12, Bilateral thyroidectomy ,0.0
+2013,January,1, Bilateral thyroidectomy ,21241.0
+2013,February,2, Bilateral thyroidectomy ,0.0
+2013,March,3, Bilateral thyroidectomy ,0.0
+2013,April,4, Bilateral thyroidectomy ,0.0
+2013,May,5, Bilateral thyroidectomy ,0.0
+2013,June,6, Bilateral thyroidectomy ,0.0
+2013,July,7, Bilateral thyroidectomy ,0.0
+2013,August,8, Bilateral thyroidectomy ,0.0
+2013,September,9, Bilateral thyroidectomy ,0.0
+2013,October,10, Bilateral thyroidectomy ,0.0
+2013,November,11, Bilateral thyroidectomy ,0.0
+2013,December,12, Bilateral thyroidectomy ,0.0
+2014,January,1, Bilateral thyroidectomy ,18675.0
+2014,February,2, Bilateral thyroidectomy ,0.0
+2014,March,3, Bilateral thyroidectomy ,0.0
+2014,April,4, Bilateral thyroidectomy ,0.0
+2014,May,5, Bilateral thyroidectomy ,0.0
+2014,June,6, Bilateral thyroidectomy ,0.0
+2014,July,7, Bilateral thyroidectomy ,0.0
+2014,August,8, Bilateral thyroidectomy ,0.0
+2014,September,9, Bilateral thyroidectomy ,0.0
+2014,October,10, Bilateral thyroidectomy ,0.0
+2014,November,11, Bilateral thyroidectomy ,0.0
+2014,December,12, Bilateral thyroidectomy ,0.0
+2015,January,1, Bilateral thyroidectomy ,17333.0
+2015,February,2, Bilateral thyroidectomy ,0.0
+2015,March,3, Bilateral thyroidectomy ,0.0
+2015,April,4, Bilateral thyroidectomy ,0.0
+2015,May,5, Bilateral thyroidectomy ,0.0
+2015,June,6, Bilateral thyroidectomy ,0.0
+2015,July,7, Bilateral thyroidectomy ,0.0
+2015,August,8, Bilateral thyroidectomy ,0.0
+2015,September,9, Bilateral thyroidectomy ,0.0
+2015,October,10, Bilateral thyroidectomy ,0.0
+2015,November,11, Bilateral thyroidectomy ,0.0
+2015,December,12, Bilateral thyroidectomy ,0.0
+2016,January,1, Bilateral thyroidectomy ,16991.0
+2016,February,2, Bilateral thyroidectomy ,0.0
+2016,March,3, Bilateral thyroidectomy ,0.0
+2016,April,4, Bilateral thyroidectomy ,0.0
+2016,May,5, Bilateral thyroidectomy ,0.0
+2016,June,6, Bilateral thyroidectomy ,0.0
+2016,July,7, Bilateral thyroidectomy ,0.0
+2016,August,8, Bilateral thyroidectomy ,0.0
+2016,September,9, Bilateral thyroidectomy ,0.0
+2016,October,10, Bilateral thyroidectomy ,0.0
+2016,November,11, Bilateral thyroidectomy ,0.0
+2016,December,12, Bilateral thyroidectomy ,0.0
+2017,January,1, Bilateral thyroidectomy ,15105.0
+2017,February,2, Bilateral thyroidectomy ,0.0
+2017,March,3, Bilateral thyroidectomy ,0.0
+2017,April,4, Bilateral thyroidectomy ,0.0
+2017,May,5, Bilateral thyroidectomy ,0.0
+2017,June,6, Bilateral thyroidectomy ,0.0
+2017,July,7, Bilateral thyroidectomy ,0.0
+2017,August,8, Bilateral thyroidectomy ,0.0
+2017,September,9, Bilateral thyroidectomy ,0.0
+2017,October,10, Bilateral thyroidectomy ,0.0
+2017,November,11, Bilateral thyroidectomy ,0.0
+2017,December,12, Bilateral thyroidectomy ,0.0
+2018,January,1, Bilateral thyroidectomy ,16917.0
+2018,February,2, Bilateral thyroidectomy ,0.0
+2018,March,3, Bilateral thyroidectomy ,0.0
+2018,April,4, Bilateral thyroidectomy ,0.0
+2018,May,5, Bilateral thyroidectomy ,0.0
+2018,June,6, Bilateral thyroidectomy ,0.0
+2018,July,7, Bilateral thyroidectomy ,0.0
+2018,August,8, Bilateral thyroidectomy ,0.0
+2018,September,9, Bilateral thyroidectomy ,0.0
+2018,October,10, Bilateral thyroidectomy ,0.0
+2018,November,11, Bilateral thyroidectomy ,0.0
+2018,December,12, Bilateral thyroidectomy ,0.0
+2019,January,1, Bilateral thyroidectomy ,16659.0
+2019,February,2, Bilateral thyroidectomy ,0.0
+2019,March,3, Bilateral thyroidectomy ,0.0
+2019,April,4, Bilateral thyroidectomy ,0.0
+2019,May,5, Bilateral thyroidectomy ,0.0
+2019,June,6, Bilateral thyroidectomy ,0.0
+2019,July,7, Bilateral thyroidectomy ,0.0
+2019,August,8, Bilateral thyroidectomy ,0.0
+2019,September,9, Bilateral thyroidectomy ,0.0
+2019,October,10, Bilateral thyroidectomy ,0.0
+2019,November,11, Bilateral thyroidectomy ,0.0
+2019,December,12, Bilateral thyroidectomy ,0.0
+2020,January,1, Bilateral thyroidectomy ,11421.0
+2020,February,2, Bilateral thyroidectomy ,0.0
+2020,March,3, Bilateral thyroidectomy ,0.0
+2020,April,4, Bilateral thyroidectomy ,0.0
+2020,May,5, Bilateral thyroidectomy ,0.0
+2020,June,6, Bilateral thyroidectomy ,0.0
+2020,July,7, Bilateral thyroidectomy ,0.0
+2020,August,8, Bilateral thyroidectomy ,0.0
+2020,September,9, Bilateral thyroidectomy ,0.0
+2020,October,10, Bilateral thyroidectomy ,0.0
+2020,November,11, Bilateral thyroidectomy ,0.0
+2020,December,12, Bilateral thyroidectomy ,0.0
+2021,January,1, Bilateral thyroidectomy ,8903.0
+2021,February,2, Bilateral thyroidectomy ,0.0
+2021,March,3, Bilateral thyroidectomy ,0.0
+2021,April,4, Bilateral thyroidectomy ,0.0
+2021,May,5, Bilateral thyroidectomy ,0.0
+2021,June,6, Bilateral thyroidectomy ,0.0
+2021,July,7, Bilateral thyroidectomy ,0.0
+2021,August,8, Bilateral thyroidectomy ,0.0
+2021,September,9, Bilateral thyroidectomy ,0.0
+2021,October,10, Bilateral thyroidectomy ,0.0
+2021,November,11, Bilateral thyroidectomy ,0.0
+2021,December,12, Bilateral thyroidectomy ,0.0
+2022,January,1, Bilateral thyroidectomy ,8888.0
+2022,February,2, Bilateral thyroidectomy ,0.0
+2022,March,3, Bilateral thyroidectomy ,0.0
+2022,April,4, Bilateral thyroidectomy ,0.0
+2022,May,5, Bilateral thyroidectomy ,0.0
+2022,June,6, Bilateral thyroidectomy ,0.0
+2022,July,7, Bilateral thyroidectomy ,0.0
+2022,August,8, Bilateral thyroidectomy ,0.0
+2022,September,9, Bilateral thyroidectomy ,0.0
+2022,October,10, Bilateral thyroidectomy ,0.0
+2022,November,11, Bilateral thyroidectomy ,0.0
+2022,December,12, Bilateral thyroidectomy ,0.0
+2006,January,1, Aortic valve replacement ,3798.0
+2006,February,2, Aortic valve replacement ,0.0
+2006,March,3, Aortic valve replacement ,0.0
+2006,April,4, Aortic valve replacement ,0.0
+2006,May,5, Aortic valve replacement ,0.0
+2006,June,6, Aortic valve replacement ,0.0
+2006,July,7, Aortic valve replacement ,0.0
+2006,August,8, Aortic valve replacement ,0.0
+2006,September,9, Aortic valve replacement ,0.0
+2006,October,10, Aortic valve replacement ,0.0
+2006,November,11, Aortic valve replacement ,0.0
+2006,December,12, Aortic valve replacement ,0.0
+2007,January,1, Aortic valve replacement ,4519.0
+2007,February,2, Aortic valve replacement ,0.0
+2007,March,3, Aortic valve replacement ,0.0
+2007,April,4, Aortic valve replacement ,0.0
+2007,May,5, Aortic valve replacement ,0.0
+2007,June,6, Aortic valve replacement ,0.0
+2007,July,7, Aortic valve replacement ,0.0
+2007,August,8, Aortic valve replacement ,0.0
+2007,September,9, Aortic valve replacement ,0.0
+2007,October,10, Aortic valve replacement ,0.0
+2007,November,11, Aortic valve replacement ,0.0
+2007,December,12, Aortic valve replacement ,0.0
+2008,January,1, Aortic valve replacement ,4826.0
+2008,February,2, Aortic valve replacement ,0.0
+2008,March,3, Aortic valve replacement ,0.0
+2008,April,4, Aortic valve replacement ,0.0
+2008,May,5, Aortic valve replacement ,0.0
+2008,June,6, Aortic valve replacement ,0.0
+2008,July,7, Aortic valve replacement ,0.0
+2008,August,8, Aortic valve replacement ,0.0
+2008,September,9, Aortic valve replacement ,0.0
+2008,October,10, Aortic valve replacement ,0.0
+2008,November,11, Aortic valve replacement ,0.0
+2008,December,12, Aortic valve replacement ,0.0
+2009,January,1, Aortic valve replacement ,4498.0
+2009,February,2, Aortic valve replacement ,0.0
+2009,March,3, Aortic valve replacement ,0.0
+2009,April,4, Aortic valve replacement ,0.0
+2009,May,5, Aortic valve replacement ,0.0
+2009,June,6, Aortic valve replacement ,0.0
+2009,July,7, Aortic valve replacement ,0.0
+2009,August,8, Aortic valve replacement ,0.0
+2009,September,9, Aortic valve replacement ,0.0
+2009,October,10, Aortic valve replacement ,0.0
+2009,November,11, Aortic valve replacement ,0.0
+2009,December,12, Aortic valve replacement ,0.0
+2010,January,1, Aortic valve replacement ,4995.0
+2010,February,2, Aortic valve replacement ,0.0
+2010,March,3, Aortic valve replacement ,0.0
+2010,April,4, Aortic valve replacement ,0.0
+2010,May,5, Aortic valve replacement ,0.0
+2010,June,6, Aortic valve replacement ,0.0
+2010,July,7, Aortic valve replacement ,0.0
+2010,August,8, Aortic valve replacement ,0.0
+2010,September,9, Aortic valve replacement ,0.0
+2010,October,10, Aortic valve replacement ,0.0
+2010,November,11, Aortic valve replacement ,0.0
+2010,December,12, Aortic valve replacement ,0.0
+2011,January,1, Aortic valve replacement ,5268.0
+2011,February,2, Aortic valve replacement ,0.0
+2011,March,3, Aortic valve replacement ,0.0
+2011,April,4, Aortic valve replacement ,0.0
+2011,May,5, Aortic valve replacement ,0.0
+2011,June,6, Aortic valve replacement ,0.0
+2011,July,7, Aortic valve replacement ,0.0
+2011,August,8, Aortic valve replacement ,0.0
+2011,September,9, Aortic valve replacement ,0.0
+2011,October,10, Aortic valve replacement ,0.0
+2011,November,11, Aortic valve replacement ,0.0
+2011,December,12, Aortic valve replacement ,0.0
+2012,January,1, Aortic valve replacement ,6261.0
+2012,February,2, Aortic valve replacement ,0.0
+2012,March,3, Aortic valve replacement ,0.0
+2012,April,4, Aortic valve replacement ,0.0
+2012,May,5, Aortic valve replacement ,0.0
+2012,June,6, Aortic valve replacement ,0.0
+2012,July,7, Aortic valve replacement ,0.0
+2012,August,8, Aortic valve replacement ,0.0
+2012,September,9, Aortic valve replacement ,0.0
+2012,October,10, Aortic valve replacement ,0.0
+2012,November,11, Aortic valve replacement ,0.0
+2012,December,12, Aortic valve replacement ,0.0
+2013,January,1, Aortic valve replacement ,6340.0
+2013,February,2, Aortic valve replacement ,0.0
+2013,March,3, Aortic valve replacement ,0.0
+2013,April,4, Aortic valve replacement ,0.0
+2013,May,5, Aortic valve replacement ,0.0
+2013,June,6, Aortic valve replacement ,0.0
+2013,July,7, Aortic valve replacement ,0.0
+2013,August,8, Aortic valve replacement ,0.0
+2013,September,9, Aortic valve replacement ,0.0
+2013,October,10, Aortic valve replacement ,0.0
+2013,November,11, Aortic valve replacement ,0.0
+2013,December,12, Aortic valve replacement ,0.0
+2014,January,1, Aortic valve replacement ,6834.0
+2014,February,2, Aortic valve replacement ,0.0
+2014,March,3, Aortic valve replacement ,0.0
+2014,April,4, Aortic valve replacement ,0.0
+2014,May,5, Aortic valve replacement ,0.0
+2014,June,6, Aortic valve replacement ,0.0
+2014,July,7, Aortic valve replacement ,0.0
+2014,August,8, Aortic valve replacement ,0.0
+2014,September,9, Aortic valve replacement ,0.0
+2014,October,10, Aortic valve replacement ,0.0
+2014,November,11, Aortic valve replacement ,0.0
+2014,December,12, Aortic valve replacement ,0.0
+2015,January,1, Aortic valve replacement ,7473.0
+2015,February,2, Aortic valve replacement ,0.0
+2015,March,3, Aortic valve replacement ,0.0
+2015,April,4, Aortic valve replacement ,0.0
+2015,May,5, Aortic valve replacement ,0.0
+2015,June,6, Aortic valve replacement ,0.0
+2015,July,7, Aortic valve replacement ,0.0
+2015,August,8, Aortic valve replacement ,0.0
+2015,September,9, Aortic valve replacement ,0.0
+2015,October,10, Aortic valve replacement ,0.0
+2015,November,11, Aortic valve replacement ,0.0
+2015,December,12, Aortic valve replacement ,0.0
+2016,January,1, Aortic valve replacement ,7710.0
+2016,February,2, Aortic valve replacement ,0.0
+2016,March,3, Aortic valve replacement ,0.0
+2016,April,4, Aortic valve replacement ,0.0
+2016,May,5, Aortic valve replacement ,0.0
+2016,June,6, Aortic valve replacement ,0.0
+2016,July,7, Aortic valve replacement ,0.0
+2016,August,8, Aortic valve replacement ,0.0
+2016,September,9, Aortic valve replacement ,0.0
+2016,October,10, Aortic valve replacement ,0.0
+2016,November,11, Aortic valve replacement ,0.0
+2016,December,12, Aortic valve replacement ,0.0
+2017,January,1, Aortic valve replacement ,8109.0
+2017,February,2, Aortic valve replacement ,0.0
+2017,March,3, Aortic valve replacement ,0.0
+2017,April,4, Aortic valve replacement ,0.0
+2017,May,5, Aortic valve replacement ,0.0
+2017,June,6, Aortic valve replacement ,0.0
+2017,July,7, Aortic valve replacement ,0.0
+2017,August,8, Aortic valve replacement ,0.0
+2017,September,9, Aortic valve replacement ,0.0
+2017,October,10, Aortic valve replacement ,0.0
+2017,November,11, Aortic valve replacement ,0.0
+2017,December,12, Aortic valve replacement ,0.0
+2018,January,1, Aortic valve replacement ,9218.0
+2018,February,2, Aortic valve replacement ,0.0
+2018,March,3, Aortic valve replacement ,0.0
+2018,April,4, Aortic valve replacement ,0.0
+2018,May,5, Aortic valve replacement ,0.0
+2018,June,6, Aortic valve replacement ,0.0
+2018,July,7, Aortic valve replacement ,0.0
+2018,August,8, Aortic valve replacement ,0.0
+2018,September,9, Aortic valve replacement ,0.0
+2018,October,10, Aortic valve replacement ,0.0
+2018,November,11, Aortic valve replacement ,0.0
+2018,December,12, Aortic valve replacement ,0.0
+2019,January,1, Aortic valve replacement ,9469.0
+2019,February,2, Aortic valve replacement ,0.0
+2019,March,3, Aortic valve replacement ,0.0
+2019,April,4, Aortic valve replacement ,0.0
+2019,May,5, Aortic valve replacement ,0.0
+2019,June,6, Aortic valve replacement ,0.0
+2019,July,7, Aortic valve replacement ,0.0
+2019,August,8, Aortic valve replacement ,0.0
+2019,September,9, Aortic valve replacement ,0.0
+2019,October,10, Aortic valve replacement ,0.0
+2019,November,11, Aortic valve replacement ,0.0
+2019,December,12, Aortic valve replacement ,0.0
+2020,January,1, Aortic valve replacement ,8889.0
+2020,February,2, Aortic valve replacement ,0.0
+2020,March,3, Aortic valve replacement ,0.0
+2020,April,4, Aortic valve replacement ,0.0
+2020,May,5, Aortic valve replacement ,0.0
+2020,June,6, Aortic valve replacement ,0.0
+2020,July,7, Aortic valve replacement ,0.0
+2020,August,8, Aortic valve replacement ,0.0
+2020,September,9, Aortic valve replacement ,0.0
+2020,October,10, Aortic valve replacement ,0.0
+2020,November,11, Aortic valve replacement ,0.0
+2020,December,12, Aortic valve replacement ,0.0
+2021,January,1, Aortic valve replacement ,9239.0
+2021,February,2, Aortic valve replacement ,0.0
+2021,March,3, Aortic valve replacement ,0.0
+2021,April,4, Aortic valve replacement ,0.0
+2021,May,5, Aortic valve replacement ,0.0
+2021,June,6, Aortic valve replacement ,0.0
+2021,July,7, Aortic valve replacement ,0.0
+2021,August,8, Aortic valve replacement ,0.0
+2021,September,9, Aortic valve replacement ,0.0
+2021,October,10, Aortic valve replacement ,0.0
+2021,November,11, Aortic valve replacement ,0.0
+2021,December,12, Aortic valve replacement ,0.0
+2022,January,1, Aortic valve replacement ,9575.0
+2022,February,2, Aortic valve replacement ,0.0
+2022,March,3, Aortic valve replacement ,0.0
+2022,April,4, Aortic valve replacement ,0.0
+2022,May,5, Aortic valve replacement ,0.0
+2022,June,6, Aortic valve replacement ,0.0
+2022,July,7, Aortic valve replacement ,0.0
+2022,August,8, Aortic valve replacement ,0.0
+2022,September,9, Aortic valve replacement ,0.0
+2022,October,10, Aortic valve replacement ,0.0
+2022,November,11, Aortic valve replacement ,0.0
+2022,December,12, Aortic valve replacement ,0.0
+2006,January,1, Graft replacement of Aorta ,280.0
+2006,February,2, Graft replacement of Aorta ,0.0
+2006,March,3, Graft replacement of Aorta ,0.0
+2006,April,4, Graft replacement of Aorta ,0.0
+2006,May,5, Graft replacement of Aorta ,0.0
+2006,June,6, Graft replacement of Aorta ,0.0
+2006,July,7, Graft replacement of Aorta ,0.0
+2006,August,8, Graft replacement of Aorta ,0.0
+2006,September,9, Graft replacement of Aorta ,0.0
+2006,October,10, Graft replacement of Aorta ,0.0
+2006,November,11, Graft replacement of Aorta ,0.0
+2006,December,12, Graft replacement of Aorta ,0.0
+2007,January,1, Graft replacement of Aorta ,330.0
+2007,February,2, Graft replacement of Aorta ,0.0
+2007,March,3, Graft replacement of Aorta ,0.0
+2007,April,4, Graft replacement of Aorta ,0.0
+2007,May,5, Graft replacement of Aorta ,0.0
+2007,June,6, Graft replacement of Aorta ,0.0
+2007,July,7, Graft replacement of Aorta ,0.0
+2007,August,8, Graft replacement of Aorta ,0.0
+2007,September,9, Graft replacement of Aorta ,0.0
+2007,October,10, Graft replacement of Aorta ,0.0
+2007,November,11, Graft replacement of Aorta ,0.0
+2007,December,12, Graft replacement of Aorta ,0.0
+2008,January,1, Graft replacement of Aorta ,342.0
+2008,February,2, Graft replacement of Aorta ,0.0
+2008,March,3, Graft replacement of Aorta ,0.0
+2008,April,4, Graft replacement of Aorta ,0.0
+2008,May,5, Graft replacement of Aorta ,0.0
+2008,June,6, Graft replacement of Aorta ,0.0
+2008,July,7, Graft replacement of Aorta ,0.0
+2008,August,8, Graft replacement of Aorta ,0.0
+2008,September,9, Graft replacement of Aorta ,0.0
+2008,October,10, Graft replacement of Aorta ,0.0
+2008,November,11, Graft replacement of Aorta ,0.0
+2008,December,12, Graft replacement of Aorta ,0.0
+2009,January,1, Graft replacement of Aorta ,292.0
+2009,February,2, Graft replacement of Aorta ,0.0
+2009,March,3, Graft replacement of Aorta ,0.0
+2009,April,4, Graft replacement of Aorta ,0.0
+2009,May,5, Graft replacement of Aorta ,0.0
+2009,June,6, Graft replacement of Aorta ,0.0
+2009,July,7, Graft replacement of Aorta ,0.0
+2009,August,8, Graft replacement of Aorta ,0.0
+2009,September,9, Graft replacement of Aorta ,0.0
+2009,October,10, Graft replacement of Aorta ,0.0
+2009,November,11, Graft replacement of Aorta ,0.0
+2009,December,12, Graft replacement of Aorta ,0.0
+2010,January,1, Graft replacement of Aorta ,369.0
+2010,February,2, Graft replacement of Aorta ,0.0
+2010,March,3, Graft replacement of Aorta ,0.0
+2010,April,4, Graft replacement of Aorta ,0.0
+2010,May,5, Graft replacement of Aorta ,0.0
+2010,June,6, Graft replacement of Aorta ,0.0
+2010,July,7, Graft replacement of Aorta ,0.0
+2010,August,8, Graft replacement of Aorta ,0.0
+2010,September,9, Graft replacement of Aorta ,0.0
+2010,October,10, Graft replacement of Aorta ,0.0
+2010,November,11, Graft replacement of Aorta ,0.0
+2010,December,12, Graft replacement of Aorta ,0.0
+2011,January,1, Graft replacement of Aorta ,316.0
+2011,February,2, Graft replacement of Aorta ,0.0
+2011,March,3, Graft replacement of Aorta ,0.0
+2011,April,4, Graft replacement of Aorta ,0.0
+2011,May,5, Graft replacement of Aorta ,0.0
+2011,June,6, Graft replacement of Aorta ,0.0
+2011,July,7, Graft replacement of Aorta ,0.0
+2011,August,8, Graft replacement of Aorta ,0.0
+2011,September,9, Graft replacement of Aorta ,0.0
+2011,October,10, Graft replacement of Aorta ,0.0
+2011,November,11, Graft replacement of Aorta ,0.0
+2011,December,12, Graft replacement of Aorta ,0.0
+2012,January,1, Graft replacement of Aorta ,326.0
+2012,February,2, Graft replacement of Aorta ,0.0
+2012,March,3, Graft replacement of Aorta ,0.0
+2012,April,4, Graft replacement of Aorta ,0.0
+2012,May,5, Graft replacement of Aorta ,0.0
+2012,June,6, Graft replacement of Aorta ,0.0
+2012,July,7, Graft replacement of Aorta ,0.0
+2012,August,8, Graft replacement of Aorta ,0.0
+2012,September,9, Graft replacement of Aorta ,0.0
+2012,October,10, Graft replacement of Aorta ,0.0
+2012,November,11, Graft replacement of Aorta ,0.0
+2012,December,12, Graft replacement of Aorta ,0.0
+2013,January,1, Graft replacement of Aorta ,308.0
+2013,February,2, Graft replacement of Aorta ,0.0
+2013,March,3, Graft replacement of Aorta ,0.0
+2013,April,4, Graft replacement of Aorta ,0.0
+2013,May,5, Graft replacement of Aorta ,0.0
+2013,June,6, Graft replacement of Aorta ,0.0
+2013,July,7, Graft replacement of Aorta ,0.0
+2013,August,8, Graft replacement of Aorta ,0.0
+2013,September,9, Graft replacement of Aorta ,0.0
+2013,October,10, Graft replacement of Aorta ,0.0
+2013,November,11, Graft replacement of Aorta ,0.0
+2013,December,12, Graft replacement of Aorta ,0.0
+2014,January,1, Graft replacement of Aorta ,287.0
+2014,February,2, Graft replacement of Aorta ,0.0
+2014,March,3, Graft replacement of Aorta ,0.0
+2014,April,4, Graft replacement of Aorta ,0.0
+2014,May,5, Graft replacement of Aorta ,0.0
+2014,June,6, Graft replacement of Aorta ,0.0
+2014,July,7, Graft replacement of Aorta ,0.0
+2014,August,8, Graft replacement of Aorta ,0.0
+2014,September,9, Graft replacement of Aorta ,0.0
+2014,October,10, Graft replacement of Aorta ,0.0
+2014,November,11, Graft replacement of Aorta ,0.0
+2014,December,12, Graft replacement of Aorta ,0.0
+2015,January,1, Graft replacement of Aorta ,378.0
+2015,February,2, Graft replacement of Aorta ,0.0
+2015,March,3, Graft replacement of Aorta ,0.0
+2015,April,4, Graft replacement of Aorta ,0.0
+2015,May,5, Graft replacement of Aorta ,0.0
+2015,June,6, Graft replacement of Aorta ,0.0
+2015,July,7, Graft replacement of Aorta ,0.0
+2015,August,8, Graft replacement of Aorta ,0.0
+2015,September,9, Graft replacement of Aorta ,0.0
+2015,October,10, Graft replacement of Aorta ,0.0
+2015,November,11, Graft replacement of Aorta ,0.0
+2015,December,12, Graft replacement of Aorta ,0.0
+2016,January,1, Graft replacement of Aorta ,356.0
+2016,February,2, Graft replacement of Aorta ,0.0
+2016,March,3, Graft replacement of Aorta ,0.0
+2016,April,4, Graft replacement of Aorta ,0.0
+2016,May,5, Graft replacement of Aorta ,0.0
+2016,June,6, Graft replacement of Aorta ,0.0
+2016,July,7, Graft replacement of Aorta ,0.0
+2016,August,8, Graft replacement of Aorta ,0.0
+2016,September,9, Graft replacement of Aorta ,0.0
+2016,October,10, Graft replacement of Aorta ,0.0
+2016,November,11, Graft replacement of Aorta ,0.0
+2016,December,12, Graft replacement of Aorta ,0.0
+2017,January,1, Graft replacement of Aorta ,350.0
+2017,February,2, Graft replacement of Aorta ,0.0
+2017,March,3, Graft replacement of Aorta ,0.0
+2017,April,4, Graft replacement of Aorta ,0.0
+2017,May,5, Graft replacement of Aorta ,0.0
+2017,June,6, Graft replacement of Aorta ,0.0
+2017,July,7, Graft replacement of Aorta ,0.0
+2017,August,8, Graft replacement of Aorta ,0.0
+2017,September,9, Graft replacement of Aorta ,0.0
+2017,October,10, Graft replacement of Aorta ,0.0
+2017,November,11, Graft replacement of Aorta ,0.0
+2017,December,12, Graft replacement of Aorta ,0.0
+2018,January,1, Graft replacement of Aorta ,439.0
+2018,February,2, Graft replacement of Aorta ,0.0
+2018,March,3, Graft replacement of Aorta ,0.0
+2018,April,4, Graft replacement of Aorta ,0.0
+2018,May,5, Graft replacement of Aorta ,0.0
+2018,June,6, Graft replacement of Aorta ,0.0
+2018,July,7, Graft replacement of Aorta ,0.0
+2018,August,8, Graft replacement of Aorta ,0.0
+2018,September,9, Graft replacement of Aorta ,0.0
+2018,October,10, Graft replacement of Aorta ,0.0
+2018,November,11, Graft replacement of Aorta ,0.0
+2018,December,12, Graft replacement of Aorta ,0.0
+2019,January,1, Graft replacement of Aorta ,433.0
+2019,February,2, Graft replacement of Aorta ,0.0
+2019,March,3, Graft replacement of Aorta ,0.0
+2019,April,4, Graft replacement of Aorta ,0.0
+2019,May,5, Graft replacement of Aorta ,0.0
+2019,June,6, Graft replacement of Aorta ,0.0
+2019,July,7, Graft replacement of Aorta ,0.0
+2019,August,8, Graft replacement of Aorta ,0.0
+2019,September,9, Graft replacement of Aorta ,0.0
+2019,October,10, Graft replacement of Aorta ,0.0
+2019,November,11, Graft replacement of Aorta ,0.0
+2019,December,12, Graft replacement of Aorta ,0.0
+2020,January,1, Graft replacement of Aorta ,414.0
+2020,February,2, Graft replacement of Aorta ,0.0
+2020,March,3, Graft replacement of Aorta ,0.0
+2020,April,4, Graft replacement of Aorta ,0.0
+2020,May,5, Graft replacement of Aorta ,0.0
+2020,June,6, Graft replacement of Aorta ,0.0
+2020,July,7, Graft replacement of Aorta ,0.0
+2020,August,8, Graft replacement of Aorta ,0.0
+2020,September,9, Graft replacement of Aorta ,0.0
+2020,October,10, Graft replacement of Aorta ,0.0
+2020,November,11, Graft replacement of Aorta ,0.0
+2020,December,12, Graft replacement of Aorta ,0.0
+2021,January,1, Graft replacement of Aorta ,398.0
+2021,February,2, Graft replacement of Aorta ,0.0
+2021,March,3, Graft replacement of Aorta ,0.0
+2021,April,4, Graft replacement of Aorta ,0.0
+2021,May,5, Graft replacement of Aorta ,0.0
+2021,June,6, Graft replacement of Aorta ,0.0
+2021,July,7, Graft replacement of Aorta ,0.0
+2021,August,8, Graft replacement of Aorta ,0.0
+2021,September,9, Graft replacement of Aorta ,0.0
+2021,October,10, Graft replacement of Aorta ,0.0
+2021,November,11, Graft replacement of Aorta ,0.0
+2021,December,12, Graft replacement of Aorta ,0.0
+2022,January,1, Graft replacement of Aorta ,453.0
+2022,February,2, Graft replacement of Aorta ,0.0
+2022,March,3, Graft replacement of Aorta ,0.0
+2022,April,4, Graft replacement of Aorta ,0.0
+2022,May,5, Graft replacement of Aorta ,0.0
+2022,June,6, Graft replacement of Aorta ,0.0
+2022,July,7, Graft replacement of Aorta ,0.0
+2022,August,8, Graft replacement of Aorta ,0.0
+2022,September,9, Graft replacement of Aorta ,0.0
+2022,October,10, Graft replacement of Aorta ,0.0
+2022,November,11, Graft replacement of Aorta ,0.0
+2022,December,12, Graft replacement of Aorta ,0.0
+2006,January,1, PDA ligation ,2095.0
+2006,February,2, PDA ligation ,0.0
+2006,March,3, PDA ligation ,0.0
+2006,April,4, PDA ligation ,0.0
+2006,May,5, PDA ligation ,0.0
+2006,June,6, PDA ligation ,0.0
+2006,July,7, PDA ligation ,0.0
+2006,August,8, PDA ligation ,0.0
+2006,September,9, PDA ligation ,0.0
+2006,October,10, PDA ligation ,0.0
+2006,November,11, PDA ligation ,0.0
+2006,December,12, PDA ligation ,0.0
+2007,January,1, PDA ligation ,2812.0
+2007,February,2, PDA ligation ,0.0
+2007,March,3, PDA ligation ,0.0
+2007,April,4, PDA ligation ,0.0
+2007,May,5, PDA ligation ,0.0
+2007,June,6, PDA ligation ,0.0
+2007,July,7, PDA ligation ,0.0
+2007,August,8, PDA ligation ,0.0
+2007,September,9, PDA ligation ,0.0
+2007,October,10, PDA ligation ,0.0
+2007,November,11, PDA ligation ,0.0
+2007,December,12, PDA ligation ,0.0
+2008,January,1, PDA ligation ,1109.0
+2008,February,2, PDA ligation ,0.0
+2008,March,3, PDA ligation ,0.0
+2008,April,4, PDA ligation ,0.0
+2008,May,5, PDA ligation ,0.0
+2008,June,6, PDA ligation ,0.0
+2008,July,7, PDA ligation ,0.0
+2008,August,8, PDA ligation ,0.0
+2008,September,9, PDA ligation ,0.0
+2008,October,10, PDA ligation ,0.0
+2008,November,11, PDA ligation ,0.0
+2008,December,12, PDA ligation ,0.0
+2009,January,1, PDA ligation ,2280.0
+2009,February,2, PDA ligation ,0.0
+2009,March,3, PDA ligation ,0.0
+2009,April,4, PDA ligation ,0.0
+2009,May,5, PDA ligation ,0.0
+2009,June,6, PDA ligation ,0.0
+2009,July,7, PDA ligation ,0.0
+2009,August,8, PDA ligation ,0.0
+2009,September,9, PDA ligation ,0.0
+2009,October,10, PDA ligation ,0.0
+2009,November,11, PDA ligation ,0.0
+2009,December,12, PDA ligation ,0.0
+2010,January,1, PDA ligation ,2950.0
+2010,February,2, PDA ligation ,0.0
+2010,March,3, PDA ligation ,0.0
+2010,April,4, PDA ligation ,0.0
+2010,May,5, PDA ligation ,0.0
+2010,June,6, PDA ligation ,0.0
+2010,July,7, PDA ligation ,0.0
+2010,August,8, PDA ligation ,0.0
+2010,September,9, PDA ligation ,0.0
+2010,October,10, PDA ligation ,0.0
+2010,November,11, PDA ligation ,0.0
+2010,December,12, PDA ligation ,0.0
+2011,January,1, PDA ligation ,3546.0
+2011,February,2, PDA ligation ,0.0
+2011,March,3, PDA ligation ,0.0
+2011,April,4, PDA ligation ,0.0
+2011,May,5, PDA ligation ,0.0
+2011,June,6, PDA ligation ,0.0
+2011,July,7, PDA ligation ,0.0
+2011,August,8, PDA ligation ,0.0
+2011,September,9, PDA ligation ,0.0
+2011,October,10, PDA ligation ,0.0
+2011,November,11, PDA ligation ,0.0
+2011,December,12, PDA ligation ,0.0
+2012,January,1, PDA ligation ,2935.0
+2012,February,2, PDA ligation ,0.0
+2012,March,3, PDA ligation ,0.0
+2012,April,4, PDA ligation ,0.0
+2012,May,5, PDA ligation ,0.0
+2012,June,6, PDA ligation ,0.0
+2012,July,7, PDA ligation ,0.0
+2012,August,8, PDA ligation ,0.0
+2012,September,9, PDA ligation ,0.0
+2012,October,10, PDA ligation ,0.0
+2012,November,11, PDA ligation ,0.0
+2012,December,12, PDA ligation ,0.0
+2013,January,1, PDA ligation ,3521.0
+2013,February,2, PDA ligation ,0.0
+2013,March,3, PDA ligation ,0.0
+2013,April,4, PDA ligation ,0.0
+2013,May,5, PDA ligation ,0.0
+2013,June,6, PDA ligation ,0.0
+2013,July,7, PDA ligation ,0.0
+2013,August,8, PDA ligation ,0.0
+2013,September,9, PDA ligation ,0.0
+2013,October,10, PDA ligation ,0.0
+2013,November,11, PDA ligation ,0.0
+2013,December,12, PDA ligation ,0.0
+2014,January,1, PDA ligation ,2322.0
+2014,February,2, PDA ligation ,0.0
+2014,March,3, PDA ligation ,0.0
+2014,April,4, PDA ligation ,0.0
+2014,May,5, PDA ligation ,0.0
+2014,June,6, PDA ligation ,0.0
+2014,July,7, PDA ligation ,0.0
+2014,August,8, PDA ligation ,0.0
+2014,September,9, PDA ligation ,0.0
+2014,October,10, PDA ligation ,0.0
+2014,November,11, PDA ligation ,0.0
+2014,December,12, PDA ligation ,0.0
+2015,January,1, PDA ligation ,2212.0
+2015,February,2, PDA ligation ,0.0
+2015,March,3, PDA ligation ,0.0
+2015,April,4, PDA ligation ,0.0
+2015,May,5, PDA ligation ,0.0
+2015,June,6, PDA ligation ,0.0
+2015,July,7, PDA ligation ,0.0
+2015,August,8, PDA ligation ,0.0
+2015,September,9, PDA ligation ,0.0
+2015,October,10, PDA ligation ,0.0
+2015,November,11, PDA ligation ,0.0
+2015,December,12, PDA ligation ,0.0
+2016,January,1, PDA ligation ,2029.0
+2016,February,2, PDA ligation ,0.0
+2016,March,3, PDA ligation ,0.0
+2016,April,4, PDA ligation ,0.0
+2016,May,5, PDA ligation ,0.0
+2016,June,6, PDA ligation ,0.0
+2016,July,7, PDA ligation ,0.0
+2016,August,8, PDA ligation ,0.0
+2016,September,9, PDA ligation ,0.0
+2016,October,10, PDA ligation ,0.0
+2016,November,11, PDA ligation ,0.0
+2016,December,12, PDA ligation ,0.0
+2017,January,1, PDA ligation ,1825.0
+2017,February,2, PDA ligation ,0.0
+2017,March,3, PDA ligation ,0.0
+2017,April,4, PDA ligation ,0.0
+2017,May,5, PDA ligation ,0.0
+2017,June,6, PDA ligation ,0.0
+2017,July,7, PDA ligation ,0.0
+2017,August,8, PDA ligation ,0.0
+2017,September,9, PDA ligation ,0.0
+2017,October,10, PDA ligation ,0.0
+2017,November,11, PDA ligation ,0.0
+2017,December,12, PDA ligation ,0.0
+2018,January,1, PDA ligation ,1793.0
+2018,February,2, PDA ligation ,0.0
+2018,March,3, PDA ligation ,0.0
+2018,April,4, PDA ligation ,0.0
+2018,May,5, PDA ligation ,0.0
+2018,June,6, PDA ligation ,0.0
+2018,July,7, PDA ligation ,0.0
+2018,August,8, PDA ligation ,0.0
+2018,September,9, PDA ligation ,0.0
+2018,October,10, PDA ligation ,0.0
+2018,November,11, PDA ligation ,0.0
+2018,December,12, PDA ligation ,0.0
+2019,January,1, PDA ligation ,2034.0
+2019,February,2, PDA ligation ,0.0
+2019,March,3, PDA ligation ,0.0
+2019,April,4, PDA ligation ,0.0
+2019,May,5, PDA ligation ,0.0
+2019,June,6, PDA ligation ,0.0
+2019,July,7, PDA ligation ,0.0
+2019,August,8, PDA ligation ,0.0
+2019,September,9, PDA ligation ,0.0
+2019,October,10, PDA ligation ,0.0
+2019,November,11, PDA ligation ,0.0
+2019,December,12, PDA ligation ,0.0
+2020,January,1, PDA ligation ,1602.0
+2020,February,2, PDA ligation ,0.0
+2020,March,3, PDA ligation ,0.0
+2020,April,4, PDA ligation ,0.0
+2020,May,5, PDA ligation ,0.0
+2020,June,6, PDA ligation ,0.0
+2020,July,7, PDA ligation ,0.0
+2020,August,8, PDA ligation ,0.0
+2020,September,9, PDA ligation ,0.0
+2020,October,10, PDA ligation ,0.0
+2020,November,11, PDA ligation ,0.0
+2020,December,12, PDA ligation ,0.0
+2021,January,1, PDA ligation ,1250.0
+2021,February,2, PDA ligation ,0.0
+2021,March,3, PDA ligation ,0.0
+2021,April,4, PDA ligation ,0.0
+2021,May,5, PDA ligation ,0.0
+2021,June,6, PDA ligation ,0.0
+2021,July,7, PDA ligation ,0.0
+2021,August,8, PDA ligation ,0.0
+2021,September,9, PDA ligation ,0.0
+2021,October,10, PDA ligation ,0.0
+2021,November,11, PDA ligation ,0.0
+2021,December,12, PDA ligation ,0.0
+2022,January,1, PDA ligation ,1571.0
+2022,February,2, PDA ligation ,0.0
+2022,March,3, PDA ligation ,0.0
+2022,April,4, PDA ligation ,0.0
+2022,May,5, PDA ligation ,0.0
+2022,June,6, PDA ligation ,0.0
+2022,July,7, PDA ligation ,0.0
+2022,August,8, PDA ligation ,0.0
+2022,September,9, PDA ligation ,0.0
+2022,October,10, PDA ligation ,0.0
+2022,November,11, PDA ligation ,0.0
+2022,December,12, PDA ligation ,0.0
+2006,January,1, Exploratory Laparotomy ,7833.0
+2006,February,2, Exploratory Laparotomy ,0.0
+2006,March,3, Exploratory Laparotomy ,0.0
+2006,April,4, Exploratory Laparotomy ,0.0
+2006,May,5, Exploratory Laparotomy ,0.0
+2006,June,6, Exploratory Laparotomy ,0.0
+2006,July,7, Exploratory Laparotomy ,0.0
+2006,August,8, Exploratory Laparotomy ,0.0
+2006,September,9, Exploratory Laparotomy ,0.0
+2006,October,10, Exploratory Laparotomy ,0.0
+2006,November,11, Exploratory Laparotomy ,0.0
+2006,December,12, Exploratory Laparotomy ,0.0
+2007,January,1, Exploratory Laparotomy ,8175.0
+2007,February,2, Exploratory Laparotomy ,0.0
+2007,March,3, Exploratory Laparotomy ,0.0
+2007,April,4, Exploratory Laparotomy ,0.0
+2007,May,5, Exploratory Laparotomy ,0.0
+2007,June,6, Exploratory Laparotomy ,0.0
+2007,July,7, Exploratory Laparotomy ,0.0
+2007,August,8, Exploratory Laparotomy ,0.0
+2007,September,9, Exploratory Laparotomy ,0.0
+2007,October,10, Exploratory Laparotomy ,0.0
+2007,November,11, Exploratory Laparotomy ,0.0
+2007,December,12, Exploratory Laparotomy ,0.0
+2008,January,1, Exploratory Laparotomy ,7869.0
+2008,February,2, Exploratory Laparotomy ,0.0
+2008,March,3, Exploratory Laparotomy ,0.0
+2008,April,4, Exploratory Laparotomy ,0.0
+2008,May,5, Exploratory Laparotomy ,0.0
+2008,June,6, Exploratory Laparotomy ,0.0
+2008,July,7, Exploratory Laparotomy ,0.0
+2008,August,8, Exploratory Laparotomy ,0.0
+2008,September,9, Exploratory Laparotomy ,0.0
+2008,October,10, Exploratory Laparotomy ,0.0
+2008,November,11, Exploratory Laparotomy ,0.0
+2008,December,12, Exploratory Laparotomy ,0.0
+2009,January,1, Exploratory Laparotomy ,7835.0
+2009,February,2, Exploratory Laparotomy ,0.0
+2009,March,3, Exploratory Laparotomy ,0.0
+2009,April,4, Exploratory Laparotomy ,0.0
+2009,May,5, Exploratory Laparotomy ,0.0
+2009,June,6, Exploratory Laparotomy ,0.0
+2009,July,7, Exploratory Laparotomy ,0.0
+2009,August,8, Exploratory Laparotomy ,0.0
+2009,September,9, Exploratory Laparotomy ,0.0
+2009,October,10, Exploratory Laparotomy ,0.0
+2009,November,11, Exploratory Laparotomy ,0.0
+2009,December,12, Exploratory Laparotomy ,0.0
+2010,January,1, Exploratory Laparotomy ,7975.0
+2010,February,2, Exploratory Laparotomy ,0.0
+2010,March,3, Exploratory Laparotomy ,0.0
+2010,April,4, Exploratory Laparotomy ,0.0
+2010,May,5, Exploratory Laparotomy ,0.0
+2010,June,6, Exploratory Laparotomy ,0.0
+2010,July,7, Exploratory Laparotomy ,0.0
+2010,August,8, Exploratory Laparotomy ,0.0
+2010,September,9, Exploratory Laparotomy ,0.0
+2010,October,10, Exploratory Laparotomy ,0.0
+2010,November,11, Exploratory Laparotomy ,0.0
+2010,December,12, Exploratory Laparotomy ,0.0
+2011,January,1, Exploratory Laparotomy ,7460.0
+2011,February,2, Exploratory Laparotomy ,0.0
+2011,March,3, Exploratory Laparotomy ,0.0
+2011,April,4, Exploratory Laparotomy ,0.0
+2011,May,5, Exploratory Laparotomy ,0.0
+2011,June,6, Exploratory Laparotomy ,0.0
+2011,July,7, Exploratory Laparotomy ,0.0
+2011,August,8, Exploratory Laparotomy ,0.0
+2011,September,9, Exploratory Laparotomy ,0.0
+2011,October,10, Exploratory Laparotomy ,0.0
+2011,November,11, Exploratory Laparotomy ,0.0
+2011,December,12, Exploratory Laparotomy ,0.0
+2012,January,1, Exploratory Laparotomy ,7802.0
+2012,February,2, Exploratory Laparotomy ,0.0
+2012,March,3, Exploratory Laparotomy ,0.0
+2012,April,4, Exploratory Laparotomy ,0.0
+2012,May,5, Exploratory Laparotomy ,0.0
+2012,June,6, Exploratory Laparotomy ,0.0
+2012,July,7, Exploratory Laparotomy ,0.0
+2012,August,8, Exploratory Laparotomy ,0.0
+2012,September,9, Exploratory Laparotomy ,0.0
+2012,October,10, Exploratory Laparotomy ,0.0
+2012,November,11, Exploratory Laparotomy ,0.0
+2012,December,12, Exploratory Laparotomy ,0.0
+2013,January,1, Exploratory Laparotomy ,7797.0
+2013,February,2, Exploratory Laparotomy ,0.0
+2013,March,3, Exploratory Laparotomy ,0.0
+2013,April,4, Exploratory Laparotomy ,0.0
+2013,May,5, Exploratory Laparotomy ,0.0
+2013,June,6, Exploratory Laparotomy ,0.0
+2013,July,7, Exploratory Laparotomy ,0.0
+2013,August,8, Exploratory Laparotomy ,0.0
+2013,September,9, Exploratory Laparotomy ,0.0
+2013,October,10, Exploratory Laparotomy ,0.0
+2013,November,11, Exploratory Laparotomy ,0.0
+2013,December,12, Exploratory Laparotomy ,0.0
+2014,January,1, Exploratory Laparotomy ,7249.0
+2014,February,2, Exploratory Laparotomy ,0.0
+2014,March,3, Exploratory Laparotomy ,0.0
+2014,April,4, Exploratory Laparotomy ,0.0
+2014,May,5, Exploratory Laparotomy ,0.0
+2014,June,6, Exploratory Laparotomy ,0.0
+2014,July,7, Exploratory Laparotomy ,0.0
+2014,August,8, Exploratory Laparotomy ,0.0
+2014,September,9, Exploratory Laparotomy ,0.0
+2014,October,10, Exploratory Laparotomy ,0.0
+2014,November,11, Exploratory Laparotomy ,0.0
+2014,December,12, Exploratory Laparotomy ,0.0
+2015,January,1, Exploratory Laparotomy ,7187.0
+2015,February,2, Exploratory Laparotomy ,0.0
+2015,March,3, Exploratory Laparotomy ,0.0
+2015,April,4, Exploratory Laparotomy ,0.0
+2015,May,5, Exploratory Laparotomy ,0.0
+2015,June,6, Exploratory Laparotomy ,0.0
+2015,July,7, Exploratory Laparotomy ,0.0
+2015,August,8, Exploratory Laparotomy ,0.0
+2015,September,9, Exploratory Laparotomy ,0.0
+2015,October,10, Exploratory Laparotomy ,0.0
+2015,November,11, Exploratory Laparotomy ,0.0
+2015,December,12, Exploratory Laparotomy ,0.0
+2016,January,1, Exploratory Laparotomy ,6673.0
+2016,February,2, Exploratory Laparotomy ,0.0
+2016,March,3, Exploratory Laparotomy ,0.0
+2016,April,4, Exploratory Laparotomy ,0.0
+2016,May,5, Exploratory Laparotomy ,0.0
+2016,June,6, Exploratory Laparotomy ,0.0
+2016,July,7, Exploratory Laparotomy ,0.0
+2016,August,8, Exploratory Laparotomy ,0.0
+2016,September,9, Exploratory Laparotomy ,0.0
+2016,October,10, Exploratory Laparotomy ,0.0
+2016,November,11, Exploratory Laparotomy ,0.0
+2016,December,12, Exploratory Laparotomy ,0.0
+2017,January,1, Exploratory Laparotomy ,6525.0
+2017,February,2, Exploratory Laparotomy ,0.0
+2017,March,3, Exploratory Laparotomy ,0.0
+2017,April,4, Exploratory Laparotomy ,0.0
+2017,May,5, Exploratory Laparotomy ,0.0
+2017,June,6, Exploratory Laparotomy ,0.0
+2017,July,7, Exploratory Laparotomy ,0.0
+2017,August,8, Exploratory Laparotomy ,0.0
+2017,September,9, Exploratory Laparotomy ,0.0
+2017,October,10, Exploratory Laparotomy ,0.0
+2017,November,11, Exploratory Laparotomy ,0.0
+2017,December,12, Exploratory Laparotomy ,0.0
+2018,January,1, Exploratory Laparotomy ,6679.0
+2018,February,2, Exploratory Laparotomy ,0.0
+2018,March,3, Exploratory Laparotomy ,0.0
+2018,April,4, Exploratory Laparotomy ,0.0
+2018,May,5, Exploratory Laparotomy ,0.0
+2018,June,6, Exploratory Laparotomy ,0.0
+2018,July,7, Exploratory Laparotomy ,0.0
+2018,August,8, Exploratory Laparotomy ,0.0
+2018,September,9, Exploratory Laparotomy ,0.0
+2018,October,10, Exploratory Laparotomy ,0.0
+2018,November,11, Exploratory Laparotomy ,0.0
+2018,December,12, Exploratory Laparotomy ,0.0
+2019,January,1, Exploratory Laparotomy ,6656.0
+2019,February,2, Exploratory Laparotomy ,0.0
+2019,March,3, Exploratory Laparotomy ,0.0
+2019,April,4, Exploratory Laparotomy ,0.0
+2019,May,5, Exploratory Laparotomy ,0.0
+2019,June,6, Exploratory Laparotomy ,0.0
+2019,July,7, Exploratory Laparotomy ,0.0
+2019,August,8, Exploratory Laparotomy ,0.0
+2019,September,9, Exploratory Laparotomy ,0.0
+2019,October,10, Exploratory Laparotomy ,0.0
+2019,November,11, Exploratory Laparotomy ,0.0
+2019,December,12, Exploratory Laparotomy ,0.0
+2020,January,1, Exploratory Laparotomy ,6301.0
+2020,February,2, Exploratory Laparotomy ,0.0
+2020,March,3, Exploratory Laparotomy ,0.0
+2020,April,4, Exploratory Laparotomy ,0.0
+2020,May,5, Exploratory Laparotomy ,0.0
+2020,June,6, Exploratory Laparotomy ,0.0
+2020,July,7, Exploratory Laparotomy ,0.0
+2020,August,8, Exploratory Laparotomy ,0.0
+2020,September,9, Exploratory Laparotomy ,0.0
+2020,October,10, Exploratory Laparotomy ,0.0
+2020,November,11, Exploratory Laparotomy ,0.0
+2020,December,12, Exploratory Laparotomy ,0.0
+2021,January,1, Exploratory Laparotomy ,5941.0
+2021,February,2, Exploratory Laparotomy ,0.0
+2021,March,3, Exploratory Laparotomy ,0.0
+2021,April,4, Exploratory Laparotomy ,0.0
+2021,May,5, Exploratory Laparotomy ,0.0
+2021,June,6, Exploratory Laparotomy ,0.0
+2021,July,7, Exploratory Laparotomy ,0.0
+2021,August,8, Exploratory Laparotomy ,0.0
+2021,September,9, Exploratory Laparotomy ,0.0
+2021,October,10, Exploratory Laparotomy ,0.0
+2021,November,11, Exploratory Laparotomy ,0.0
+2021,December,12, Exploratory Laparotomy ,0.0
+2022,January,1, Exploratory Laparotomy ,5494.0
+2022,February,2, Exploratory Laparotomy ,0.0
+2022,March,3, Exploratory Laparotomy ,0.0
+2022,April,4, Exploratory Laparotomy ,0.0
+2022,May,5, Exploratory Laparotomy ,0.0
+2022,June,6, Exploratory Laparotomy ,0.0
+2022,July,7, Exploratory Laparotomy ,0.0
+2022,August,8, Exploratory Laparotomy ,0.0
+2022,September,9, Exploratory Laparotomy ,0.0
+2022,October,10, Exploratory Laparotomy ,0.0
+2022,November,11, Exploratory Laparotomy ,0.0
+2022,December,12, Exploratory Laparotomy ,0.0
+2006,January,1, Laparoscopic cholecystectomy ,2872.0
+2006,February,2, Laparoscopic cholecystectomy ,0.0
+2006,March,3, Laparoscopic cholecystectomy ,0.0
+2006,April,4, Laparoscopic cholecystectomy ,0.0
+2006,May,5, Laparoscopic cholecystectomy ,0.0
+2006,June,6, Laparoscopic cholecystectomy ,0.0
+2006,July,7, Laparoscopic cholecystectomy ,0.0
+2006,August,8, Laparoscopic cholecystectomy ,0.0
+2006,September,9, Laparoscopic cholecystectomy ,0.0
+2006,October,10, Laparoscopic cholecystectomy ,0.0
+2006,November,11, Laparoscopic cholecystectomy ,0.0
+2006,December,12, Laparoscopic cholecystectomy ,0.0
+2007,January,1, Laparoscopic cholecystectomy ,3364.0
+2007,February,2, Laparoscopic cholecystectomy ,0.0
+2007,March,3, Laparoscopic cholecystectomy ,0.0
+2007,April,4, Laparoscopic cholecystectomy ,0.0
+2007,May,5, Laparoscopic cholecystectomy ,0.0
+2007,June,6, Laparoscopic cholecystectomy ,0.0
+2007,July,7, Laparoscopic cholecystectomy ,0.0
+2007,August,8, Laparoscopic cholecystectomy ,0.0
+2007,September,9, Laparoscopic cholecystectomy ,0.0
+2007,October,10, Laparoscopic cholecystectomy ,0.0
+2007,November,11, Laparoscopic cholecystectomy ,0.0
+2007,December,12, Laparoscopic cholecystectomy ,0.0
+2008,January,1, Laparoscopic cholecystectomy ,3635.0
+2008,February,2, Laparoscopic cholecystectomy ,0.0
+2008,March,3, Laparoscopic cholecystectomy ,0.0
+2008,April,4, Laparoscopic cholecystectomy ,0.0
+2008,May,5, Laparoscopic cholecystectomy ,0.0
+2008,June,6, Laparoscopic cholecystectomy ,0.0
+2008,July,7, Laparoscopic cholecystectomy ,0.0
+2008,August,8, Laparoscopic cholecystectomy ,0.0
+2008,September,9, Laparoscopic cholecystectomy ,0.0
+2008,October,10, Laparoscopic cholecystectomy ,0.0
+2008,November,11, Laparoscopic cholecystectomy ,0.0
+2008,December,12, Laparoscopic cholecystectomy ,0.0
+2009,January,1, Laparoscopic cholecystectomy ,3922.0
+2009,February,2, Laparoscopic cholecystectomy ,0.0
+2009,March,3, Laparoscopic cholecystectomy ,0.0
+2009,April,4, Laparoscopic cholecystectomy ,0.0
+2009,May,5, Laparoscopic cholecystectomy ,0.0
+2009,June,6, Laparoscopic cholecystectomy ,0.0
+2009,July,7, Laparoscopic cholecystectomy ,0.0
+2009,August,8, Laparoscopic cholecystectomy ,0.0
+2009,September,9, Laparoscopic cholecystectomy ,0.0
+2009,October,10, Laparoscopic cholecystectomy ,0.0
+2009,November,11, Laparoscopic cholecystectomy ,0.0
+2009,December,12, Laparoscopic cholecystectomy ,0.0
+2010,January,1, Laparoscopic cholecystectomy ,4378.0
+2010,February,2, Laparoscopic cholecystectomy ,0.0
+2010,March,3, Laparoscopic cholecystectomy ,0.0
+2010,April,4, Laparoscopic cholecystectomy ,0.0
+2010,May,5, Laparoscopic cholecystectomy ,0.0
+2010,June,6, Laparoscopic cholecystectomy ,0.0
+2010,July,7, Laparoscopic cholecystectomy ,0.0
+2010,August,8, Laparoscopic cholecystectomy ,0.0
+2010,September,9, Laparoscopic cholecystectomy ,0.0
+2010,October,10, Laparoscopic cholecystectomy ,0.0
+2010,November,11, Laparoscopic cholecystectomy ,0.0
+2010,December,12, Laparoscopic cholecystectomy ,0.0
+2011,January,1, Laparoscopic cholecystectomy ,4766.0
+2011,February,2, Laparoscopic cholecystectomy ,0.0
+2011,March,3, Laparoscopic cholecystectomy ,0.0
+2011,April,4, Laparoscopic cholecystectomy ,0.0
+2011,May,5, Laparoscopic cholecystectomy ,0.0
+2011,June,6, Laparoscopic cholecystectomy ,0.0
+2011,July,7, Laparoscopic cholecystectomy ,0.0
+2011,August,8, Laparoscopic cholecystectomy ,0.0
+2011,September,9, Laparoscopic cholecystectomy ,0.0
+2011,October,10, Laparoscopic cholecystectomy ,0.0
+2011,November,11, Laparoscopic cholecystectomy ,0.0
+2011,December,12, Laparoscopic cholecystectomy ,0.0
+2012,January,1, Laparoscopic cholecystectomy ,5500.0
+2012,February,2, Laparoscopic cholecystectomy ,0.0
+2012,March,3, Laparoscopic cholecystectomy ,0.0
+2012,April,4, Laparoscopic cholecystectomy ,0.0
+2012,May,5, Laparoscopic cholecystectomy ,0.0
+2012,June,6, Laparoscopic cholecystectomy ,0.0
+2012,July,7, Laparoscopic cholecystectomy ,0.0
+2012,August,8, Laparoscopic cholecystectomy ,0.0
+2012,September,9, Laparoscopic cholecystectomy ,0.0
+2012,October,10, Laparoscopic cholecystectomy ,0.0
+2012,November,11, Laparoscopic cholecystectomy ,0.0
+2012,December,12, Laparoscopic cholecystectomy ,0.0
+2013,January,1, Laparoscopic cholecystectomy ,5836.0
+2013,February,2, Laparoscopic cholecystectomy ,0.0
+2013,March,3, Laparoscopic cholecystectomy ,0.0
+2013,April,4, Laparoscopic cholecystectomy ,0.0
+2013,May,5, Laparoscopic cholecystectomy ,0.0
+2013,June,6, Laparoscopic cholecystectomy ,0.0
+2013,July,7, Laparoscopic cholecystectomy ,0.0
+2013,August,8, Laparoscopic cholecystectomy ,0.0
+2013,September,9, Laparoscopic cholecystectomy ,0.0
+2013,October,10, Laparoscopic cholecystectomy ,0.0
+2013,November,11, Laparoscopic cholecystectomy ,0.0
+2013,December,12, Laparoscopic cholecystectomy ,0.0
+2014,January,1, Laparoscopic cholecystectomy ,5491.0
+2014,February,2, Laparoscopic cholecystectomy ,0.0
+2014,March,3, Laparoscopic cholecystectomy ,0.0
+2014,April,4, Laparoscopic cholecystectomy ,0.0
+2014,May,5, Laparoscopic cholecystectomy ,0.0
+2014,June,6, Laparoscopic cholecystectomy ,0.0
+2014,July,7, Laparoscopic cholecystectomy ,0.0
+2014,August,8, Laparoscopic cholecystectomy ,0.0
+2014,September,9, Laparoscopic cholecystectomy ,0.0
+2014,October,10, Laparoscopic cholecystectomy ,0.0
+2014,November,11, Laparoscopic cholecystectomy ,0.0
+2014,December,12, Laparoscopic cholecystectomy ,0.0
+2015,January,1, Laparoscopic cholecystectomy ,5988.0
+2015,February,2, Laparoscopic cholecystectomy ,0.0
+2015,March,3, Laparoscopic cholecystectomy ,0.0
+2015,April,4, Laparoscopic cholecystectomy ,0.0
+2015,May,5, Laparoscopic cholecystectomy ,0.0
+2015,June,6, Laparoscopic cholecystectomy ,0.0
+2015,July,7, Laparoscopic cholecystectomy ,0.0
+2015,August,8, Laparoscopic cholecystectomy ,0.0
+2015,September,9, Laparoscopic cholecystectomy ,0.0
+2015,October,10, Laparoscopic cholecystectomy ,0.0
+2015,November,11, Laparoscopic cholecystectomy ,0.0
+2015,December,12, Laparoscopic cholecystectomy ,0.0
+2016,January,1, Laparoscopic cholecystectomy ,6232.0
+2016,February,2, Laparoscopic cholecystectomy ,0.0
+2016,March,3, Laparoscopic cholecystectomy ,0.0
+2016,April,4, Laparoscopic cholecystectomy ,0.0
+2016,May,5, Laparoscopic cholecystectomy ,0.0
+2016,June,6, Laparoscopic cholecystectomy ,0.0
+2016,July,7, Laparoscopic cholecystectomy ,0.0
+2016,August,8, Laparoscopic cholecystectomy ,0.0
+2016,September,9, Laparoscopic cholecystectomy ,0.0
+2016,October,10, Laparoscopic cholecystectomy ,0.0
+2016,November,11, Laparoscopic cholecystectomy ,0.0
+2016,December,12, Laparoscopic cholecystectomy ,0.0
+2017,January,1, Laparoscopic cholecystectomy ,6650.0
+2017,February,2, Laparoscopic cholecystectomy ,0.0
+2017,March,3, Laparoscopic cholecystectomy ,0.0
+2017,April,4, Laparoscopic cholecystectomy ,0.0
+2017,May,5, Laparoscopic cholecystectomy ,0.0
+2017,June,6, Laparoscopic cholecystectomy ,0.0
+2017,July,7, Laparoscopic cholecystectomy ,0.0
+2017,August,8, Laparoscopic cholecystectomy ,0.0
+2017,September,9, Laparoscopic cholecystectomy ,0.0
+2017,October,10, Laparoscopic cholecystectomy ,0.0
+2017,November,11, Laparoscopic cholecystectomy ,0.0
+2017,December,12, Laparoscopic cholecystectomy ,0.0
+2018,January,1, Laparoscopic cholecystectomy ,7563.0
+2018,February,2, Laparoscopic cholecystectomy ,0.0
+2018,March,3, Laparoscopic cholecystectomy ,0.0
+2018,April,4, Laparoscopic cholecystectomy ,0.0
+2018,May,5, Laparoscopic cholecystectomy ,0.0
+2018,June,6, Laparoscopic cholecystectomy ,0.0
+2018,July,7, Laparoscopic cholecystectomy ,0.0
+2018,August,8, Laparoscopic cholecystectomy ,0.0
+2018,September,9, Laparoscopic cholecystectomy ,0.0
+2018,October,10, Laparoscopic cholecystectomy ,0.0
+2018,November,11, Laparoscopic cholecystectomy ,0.0
+2018,December,12, Laparoscopic cholecystectomy ,0.0
+2019,January,1, Laparoscopic cholecystectomy ,8101.0
+2019,February,2, Laparoscopic cholecystectomy ,0.0
+2019,March,3, Laparoscopic cholecystectomy ,0.0
+2019,April,4, Laparoscopic cholecystectomy ,0.0
+2019,May,5, Laparoscopic cholecystectomy ,0.0
+2019,June,6, Laparoscopic cholecystectomy ,0.0
+2019,July,7, Laparoscopic cholecystectomy ,0.0
+2019,August,8, Laparoscopic cholecystectomy ,0.0
+2019,September,9, Laparoscopic cholecystectomy ,0.0
+2019,October,10, Laparoscopic cholecystectomy ,0.0
+2019,November,11, Laparoscopic cholecystectomy ,0.0
+2019,December,12, Laparoscopic cholecystectomy ,0.0
+2020,January,1, Laparoscopic cholecystectomy ,7814.0
+2020,February,2, Laparoscopic cholecystectomy ,0.0
+2020,March,3, Laparoscopic cholecystectomy ,0.0
+2020,April,4, Laparoscopic cholecystectomy ,0.0
+2020,May,5, Laparoscopic cholecystectomy ,0.0
+2020,June,6, Laparoscopic cholecystectomy ,0.0
+2020,July,7, Laparoscopic cholecystectomy ,0.0
+2020,August,8, Laparoscopic cholecystectomy ,0.0
+2020,September,9, Laparoscopic cholecystectomy ,0.0
+2020,October,10, Laparoscopic cholecystectomy ,0.0
+2020,November,11, Laparoscopic cholecystectomy ,0.0
+2020,December,12, Laparoscopic cholecystectomy ,0.0
+2021,January,1, Laparoscopic cholecystectomy ,7516.0
+2021,February,2, Laparoscopic cholecystectomy ,0.0
+2021,March,3, Laparoscopic cholecystectomy ,0.0
+2021,April,4, Laparoscopic cholecystectomy ,0.0
+2021,May,5, Laparoscopic cholecystectomy ,0.0
+2021,June,6, Laparoscopic cholecystectomy ,0.0
+2021,July,7, Laparoscopic cholecystectomy ,0.0
+2021,August,8, Laparoscopic cholecystectomy ,0.0
+2021,September,9, Laparoscopic cholecystectomy ,0.0
+2021,October,10, Laparoscopic cholecystectomy ,0.0
+2021,November,11, Laparoscopic cholecystectomy ,0.0
+2021,December,12, Laparoscopic cholecystectomy ,0.0
+2022,January,1, Laparoscopic cholecystectomy ,7963.0
+2022,February,2, Laparoscopic cholecystectomy ,0.0
+2022,March,3, Laparoscopic cholecystectomy ,0.0
+2022,April,4, Laparoscopic cholecystectomy ,0.0
+2022,May,5, Laparoscopic cholecystectomy ,0.0
+2022,June,6, Laparoscopic cholecystectomy ,0.0
+2022,July,7, Laparoscopic cholecystectomy ,0.0
+2022,August,8, Laparoscopic cholecystectomy ,0.0
+2022,September,9, Laparoscopic cholecystectomy ,0.0
+2022,October,10, Laparoscopic cholecystectomy ,0.0
+2022,November,11, Laparoscopic cholecystectomy ,0.0
+2022,December,12, Laparoscopic cholecystectomy ,0.0
+2006,January,1, Pylorus preserving pancreaticoduodenectomy ,1418.0
+2006,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,January,1, Pylorus preserving pancreaticoduodenectomy ,1604.0
+2007,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2007,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,January,1, Pylorus preserving pancreaticoduodenectomy ,1920.0
+2008,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2008,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,January,1, Pylorus preserving pancreaticoduodenectomy ,1937.0
+2009,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2009,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,January,1, Pylorus preserving pancreaticoduodenectomy ,2484.0
+2010,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2010,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,January,1, Pylorus preserving pancreaticoduodenectomy ,2645.0
+2011,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2011,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,January,1, Pylorus preserving pancreaticoduodenectomy ,2755.0
+2012,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2012,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,January,1, Pylorus preserving pancreaticoduodenectomy ,3039.0
+2013,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2013,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,January,1, Pylorus preserving pancreaticoduodenectomy ,2981.0
+2014,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2014,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,January,1, Pylorus preserving pancreaticoduodenectomy ,3461.0
+2015,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2015,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,January,1, Pylorus preserving pancreaticoduodenectomy ,3497.0
+2016,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2016,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,January,1, Pylorus preserving pancreaticoduodenectomy ,3841.0
+2017,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2017,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,January,1, Pylorus preserving pancreaticoduodenectomy ,4499.0
+2018,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2018,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,January,1, Pylorus preserving pancreaticoduodenectomy ,4658.0
+2019,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2019,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,January,1, Pylorus preserving pancreaticoduodenectomy ,4755.0
+2020,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2020,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,January,1, Pylorus preserving pancreaticoduodenectomy ,6092.0
+2021,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2021,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,January,1, Pylorus preserving pancreaticoduodenectomy ,6232.0
+2022,February,2, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,March,3, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,April,4, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,May,5, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,June,6, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,July,7, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,August,8, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,September,9, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,October,10, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,November,11, Pylorus preserving pancreaticoduodenectomy ,0.0
+2022,December,12, Pylorus preserving pancreaticoduodenectomy ,0.0
+2006,January,1, Exploratory laparotomy ,3383.0
+2006,February,2, Exploratory laparotomy ,0.0
+2006,March,3, Exploratory laparotomy ,0.0
+2006,April,4, Exploratory laparotomy ,0.0
+2006,May,5, Exploratory laparotomy ,0.0
+2006,June,6, Exploratory laparotomy ,0.0
+2006,July,7, Exploratory laparotomy ,0.0
+2006,August,8, Exploratory laparotomy ,0.0
+2006,September,9, Exploratory laparotomy ,0.0
+2006,October,10, Exploratory laparotomy ,0.0
+2006,November,11, Exploratory laparotomy ,0.0
+2006,December,12, Exploratory laparotomy ,0.0
+2007,January,1, Exploratory laparotomy ,4015.0
+2007,February,2, Exploratory laparotomy ,0.0
+2007,March,3, Exploratory laparotomy ,0.0
+2007,April,4, Exploratory laparotomy ,0.0
+2007,May,5, Exploratory laparotomy ,0.0
+2007,June,6, Exploratory laparotomy ,0.0
+2007,July,7, Exploratory laparotomy ,0.0
+2007,August,8, Exploratory laparotomy ,0.0
+2007,September,9, Exploratory laparotomy ,0.0
+2007,October,10, Exploratory laparotomy ,0.0
+2007,November,11, Exploratory laparotomy ,0.0
+2007,December,12, Exploratory laparotomy ,0.0
+2008,January,1, Exploratory laparotomy ,3740.0
+2008,February,2, Exploratory laparotomy ,0.0
+2008,March,3, Exploratory laparotomy ,0.0
+2008,April,4, Exploratory laparotomy ,0.0
+2008,May,5, Exploratory laparotomy ,0.0
+2008,June,6, Exploratory laparotomy ,0.0
+2008,July,7, Exploratory laparotomy ,0.0
+2008,August,8, Exploratory laparotomy ,0.0
+2008,September,9, Exploratory laparotomy ,0.0
+2008,October,10, Exploratory laparotomy ,0.0
+2008,November,11, Exploratory laparotomy ,0.0
+2008,December,12, Exploratory laparotomy ,0.0
+2009,January,1, Exploratory laparotomy ,3336.0
+2009,February,2, Exploratory laparotomy ,0.0
+2009,March,3, Exploratory laparotomy ,0.0
+2009,April,4, Exploratory laparotomy ,0.0
+2009,May,5, Exploratory laparotomy ,0.0
+2009,June,6, Exploratory laparotomy ,0.0
+2009,July,7, Exploratory laparotomy ,0.0
+2009,August,8, Exploratory laparotomy ,0.0
+2009,September,9, Exploratory laparotomy ,0.0
+2009,October,10, Exploratory laparotomy ,0.0
+2009,November,11, Exploratory laparotomy ,0.0
+2009,December,12, Exploratory laparotomy ,0.0
+2010,January,1, Exploratory laparotomy ,3068.0
+2010,February,2, Exploratory laparotomy ,0.0
+2010,March,3, Exploratory laparotomy ,0.0
+2010,April,4, Exploratory laparotomy ,0.0
+2010,May,5, Exploratory laparotomy ,0.0
+2010,June,6, Exploratory laparotomy ,0.0
+2010,July,7, Exploratory laparotomy ,0.0
+2010,August,8, Exploratory laparotomy ,0.0
+2010,September,9, Exploratory laparotomy ,0.0
+2010,October,10, Exploratory laparotomy ,0.0
+2010,November,11, Exploratory laparotomy ,0.0
+2010,December,12, Exploratory laparotomy ,0.0
+2011,January,1, Exploratory laparotomy ,3223.0
+2011,February,2, Exploratory laparotomy ,0.0
+2011,March,3, Exploratory laparotomy ,0.0
+2011,April,4, Exploratory laparotomy ,0.0
+2011,May,5, Exploratory laparotomy ,0.0
+2011,June,6, Exploratory laparotomy ,0.0
+2011,July,7, Exploratory laparotomy ,0.0
+2011,August,8, Exploratory laparotomy ,0.0
+2011,September,9, Exploratory laparotomy ,0.0
+2011,October,10, Exploratory laparotomy ,0.0
+2011,November,11, Exploratory laparotomy ,0.0
+2011,December,12, Exploratory laparotomy ,0.0
+2012,January,1, Exploratory laparotomy ,3265.0
+2012,February,2, Exploratory laparotomy ,0.0
+2012,March,3, Exploratory laparotomy ,0.0
+2012,April,4, Exploratory laparotomy ,0.0
+2012,May,5, Exploratory laparotomy ,0.0
+2012,June,6, Exploratory laparotomy ,0.0
+2012,July,7, Exploratory laparotomy ,0.0
+2012,August,8, Exploratory laparotomy ,0.0
+2012,September,9, Exploratory laparotomy ,0.0
+2012,October,10, Exploratory laparotomy ,0.0
+2012,November,11, Exploratory laparotomy ,0.0
+2012,December,12, Exploratory laparotomy ,0.0
+2013,January,1, Exploratory laparotomy ,3587.0
+2013,February,2, Exploratory laparotomy ,0.0
+2013,March,3, Exploratory laparotomy ,0.0
+2013,April,4, Exploratory laparotomy ,0.0
+2013,May,5, Exploratory laparotomy ,0.0
+2013,June,6, Exploratory laparotomy ,0.0
+2013,July,7, Exploratory laparotomy ,0.0
+2013,August,8, Exploratory laparotomy ,0.0
+2013,September,9, Exploratory laparotomy ,0.0
+2013,October,10, Exploratory laparotomy ,0.0
+2013,November,11, Exploratory laparotomy ,0.0
+2013,December,12, Exploratory laparotomy ,0.0
+2014,January,1, Exploratory laparotomy ,3263.0
+2014,February,2, Exploratory laparotomy ,0.0
+2014,March,3, Exploratory laparotomy ,0.0
+2014,April,4, Exploratory laparotomy ,0.0
+2014,May,5, Exploratory laparotomy ,0.0
+2014,June,6, Exploratory laparotomy ,0.0
+2014,July,7, Exploratory laparotomy ,0.0
+2014,August,8, Exploratory laparotomy ,0.0
+2014,September,9, Exploratory laparotomy ,0.0
+2014,October,10, Exploratory laparotomy ,0.0
+2014,November,11, Exploratory laparotomy ,0.0
+2014,December,12, Exploratory laparotomy ,0.0
+2015,January,1, Exploratory laparotomy ,3344.0
+2015,February,2, Exploratory laparotomy ,0.0
+2015,March,3, Exploratory laparotomy ,0.0
+2015,April,4, Exploratory laparotomy ,0.0
+2015,May,5, Exploratory laparotomy ,0.0
+2015,June,6, Exploratory laparotomy ,0.0
+2015,July,7, Exploratory laparotomy ,0.0
+2015,August,8, Exploratory laparotomy ,0.0
+2015,September,9, Exploratory laparotomy ,0.0
+2015,October,10, Exploratory laparotomy ,0.0
+2015,November,11, Exploratory laparotomy ,0.0
+2015,December,12, Exploratory laparotomy ,0.0
+2016,January,1, Exploratory laparotomy ,3152.0
+2016,February,2, Exploratory laparotomy ,0.0
+2016,March,3, Exploratory laparotomy ,0.0
+2016,April,4, Exploratory laparotomy ,0.0
+2016,May,5, Exploratory laparotomy ,0.0
+2016,June,6, Exploratory laparotomy ,0.0
+2016,July,7, Exploratory laparotomy ,0.0
+2016,August,8, Exploratory laparotomy ,0.0
+2016,September,9, Exploratory laparotomy ,0.0
+2016,October,10, Exploratory laparotomy ,0.0
+2016,November,11, Exploratory laparotomy ,0.0
+2016,December,12, Exploratory laparotomy ,0.0
+2017,January,1, Exploratory laparotomy ,3056.0
+2017,February,2, Exploratory laparotomy ,0.0
+2017,March,3, Exploratory laparotomy ,0.0
+2017,April,4, Exploratory laparotomy ,0.0
+2017,May,5, Exploratory laparotomy ,0.0
+2017,June,6, Exploratory laparotomy ,0.0
+2017,July,7, Exploratory laparotomy ,0.0
+2017,August,8, Exploratory laparotomy ,0.0
+2017,September,9, Exploratory laparotomy ,0.0
+2017,October,10, Exploratory laparotomy ,0.0
+2017,November,11, Exploratory laparotomy ,0.0
+2017,December,12, Exploratory laparotomy ,0.0
+2018,January,1, Exploratory laparotomy ,3372.0
+2018,February,2, Exploratory laparotomy ,0.0
+2018,March,3, Exploratory laparotomy ,0.0
+2018,April,4, Exploratory laparotomy ,0.0
+2018,May,5, Exploratory laparotomy ,0.0
+2018,June,6, Exploratory laparotomy ,0.0
+2018,July,7, Exploratory laparotomy ,0.0
+2018,August,8, Exploratory laparotomy ,0.0
+2018,September,9, Exploratory laparotomy ,0.0
+2018,October,10, Exploratory laparotomy ,0.0
+2018,November,11, Exploratory laparotomy ,0.0
+2018,December,12, Exploratory laparotomy ,0.0
+2019,January,1, Exploratory laparotomy ,3361.0
+2019,February,2, Exploratory laparotomy ,0.0
+2019,March,3, Exploratory laparotomy ,0.0
+2019,April,4, Exploratory laparotomy ,0.0
+2019,May,5, Exploratory laparotomy ,0.0
+2019,June,6, Exploratory laparotomy ,0.0
+2019,July,7, Exploratory laparotomy ,0.0
+2019,August,8, Exploratory laparotomy ,0.0
+2019,September,9, Exploratory laparotomy ,0.0
+2019,October,10, Exploratory laparotomy ,0.0
+2019,November,11, Exploratory laparotomy ,0.0
+2019,December,12, Exploratory laparotomy ,0.0
+2020,January,1, Exploratory laparotomy ,2932.0
+2020,February,2, Exploratory laparotomy ,0.0
+2020,March,3, Exploratory laparotomy ,0.0
+2020,April,4, Exploratory laparotomy ,0.0
+2020,May,5, Exploratory laparotomy ,0.0
+2020,June,6, Exploratory laparotomy ,0.0
+2020,July,7, Exploratory laparotomy ,0.0
+2020,August,8, Exploratory laparotomy ,0.0
+2020,September,9, Exploratory laparotomy ,0.0
+2020,October,10, Exploratory laparotomy ,0.0
+2020,November,11, Exploratory laparotomy ,0.0
+2020,December,12, Exploratory laparotomy ,0.0
+2021,January,1, Exploratory laparotomy ,2586.0
+2021,February,2, Exploratory laparotomy ,0.0
+2021,March,3, Exploratory laparotomy ,0.0
+2021,April,4, Exploratory laparotomy ,0.0
+2021,May,5, Exploratory laparotomy ,0.0
+2021,June,6, Exploratory laparotomy ,0.0
+2021,July,7, Exploratory laparotomy ,0.0
+2021,August,8, Exploratory laparotomy ,0.0
+2021,September,9, Exploratory laparotomy ,0.0
+2021,October,10, Exploratory laparotomy ,0.0
+2021,November,11, Exploratory laparotomy ,0.0
+2021,December,12, Exploratory laparotomy ,0.0
+2022,January,1, Exploratory laparotomy ,2705.0
+2022,February,2, Exploratory laparotomy ,0.0
+2022,March,3, Exploratory laparotomy ,0.0
+2022,April,4, Exploratory laparotomy ,0.0
+2022,May,5, Exploratory laparotomy ,0.0
+2022,June,6, Exploratory laparotomy ,0.0
+2022,July,7, Exploratory laparotomy ,0.0
+2022,August,8, Exploratory laparotomy ,0.0
+2022,September,9, Exploratory laparotomy ,0.0
+2022,October,10, Exploratory laparotomy ,0.0
+2022,November,11, Exploratory laparotomy ,0.0
+2022,December,12, Exploratory laparotomy ,0.0
+2006,January,1, Transurethral resection of prostate ,456.0
+2006,February,2, Transurethral resection of prostate ,0.0
+2006,March,3, Transurethral resection of prostate ,0.0
+2006,April,4, Transurethral resection of prostate ,0.0
+2006,May,5, Transurethral resection of prostate ,0.0
+2006,June,6, Transurethral resection of prostate ,0.0
+2006,July,7, Transurethral resection of prostate ,0.0
+2006,August,8, Transurethral resection of prostate ,0.0
+2006,September,9, Transurethral resection of prostate ,0.0
+2006,October,10, Transurethral resection of prostate ,0.0
+2006,November,11, Transurethral resection of prostate ,0.0
+2006,December,12, Transurethral resection of prostate ,0.0
+2007,January,1, Transurethral resection of prostate ,568.0
+2007,February,2, Transurethral resection of prostate ,0.0
+2007,March,3, Transurethral resection of prostate ,0.0
+2007,April,4, Transurethral resection of prostate ,0.0
+2007,May,5, Transurethral resection of prostate ,0.0
+2007,June,6, Transurethral resection of prostate ,0.0
+2007,July,7, Transurethral resection of prostate ,0.0
+2007,August,8, Transurethral resection of prostate ,0.0
+2007,September,9, Transurethral resection of prostate ,0.0
+2007,October,10, Transurethral resection of prostate ,0.0
+2007,November,11, Transurethral resection of prostate ,0.0
+2007,December,12, Transurethral resection of prostate ,0.0
+2008,January,1, Transurethral resection of prostate ,574.0
+2008,February,2, Transurethral resection of prostate ,0.0
+2008,March,3, Transurethral resection of prostate ,0.0
+2008,April,4, Transurethral resection of prostate ,0.0
+2008,May,5, Transurethral resection of prostate ,0.0
+2008,June,6, Transurethral resection of prostate ,0.0
+2008,July,7, Transurethral resection of prostate ,0.0
+2008,August,8, Transurethral resection of prostate ,0.0
+2008,September,9, Transurethral resection of prostate ,0.0
+2008,October,10, Transurethral resection of prostate ,0.0
+2008,November,11, Transurethral resection of prostate ,0.0
+2008,December,12, Transurethral resection of prostate ,0.0
+2009,January,1, Transurethral resection of prostate ,532.0
+2009,February,2, Transurethral resection of prostate ,0.0
+2009,March,3, Transurethral resection of prostate ,0.0
+2009,April,4, Transurethral resection of prostate ,0.0
+2009,May,5, Transurethral resection of prostate ,0.0
+2009,June,6, Transurethral resection of prostate ,0.0
+2009,July,7, Transurethral resection of prostate ,0.0
+2009,August,8, Transurethral resection of prostate ,0.0
+2009,September,9, Transurethral resection of prostate ,0.0
+2009,October,10, Transurethral resection of prostate ,0.0
+2009,November,11, Transurethral resection of prostate ,0.0
+2009,December,12, Transurethral resection of prostate ,0.0
+2010,January,1, Transurethral resection of prostate ,683.0
+2010,February,2, Transurethral resection of prostate ,0.0
+2010,March,3, Transurethral resection of prostate ,0.0
+2010,April,4, Transurethral resection of prostate ,0.0
+2010,May,5, Transurethral resection of prostate ,0.0
+2010,June,6, Transurethral resection of prostate ,0.0
+2010,July,7, Transurethral resection of prostate ,0.0
+2010,August,8, Transurethral resection of prostate ,0.0
+2010,September,9, Transurethral resection of prostate ,0.0
+2010,October,10, Transurethral resection of prostate ,0.0
+2010,November,11, Transurethral resection of prostate ,0.0
+2010,December,12, Transurethral resection of prostate ,0.0
+2011,January,1, Transurethral resection of prostate ,575.0
+2011,February,2, Transurethral resection of prostate ,0.0
+2011,March,3, Transurethral resection of prostate ,0.0
+2011,April,4, Transurethral resection of prostate ,0.0
+2011,May,5, Transurethral resection of prostate ,0.0
+2011,June,6, Transurethral resection of prostate ,0.0
+2011,July,7, Transurethral resection of prostate ,0.0
+2011,August,8, Transurethral resection of prostate ,0.0
+2011,September,9, Transurethral resection of prostate ,0.0
+2011,October,10, Transurethral resection of prostate ,0.0
+2011,November,11, Transurethral resection of prostate ,0.0
+2011,December,12, Transurethral resection of prostate ,0.0
+2012,January,1, Transurethral resection of prostate ,921.0
+2012,February,2, Transurethral resection of prostate ,0.0
+2012,March,3, Transurethral resection of prostate ,0.0
+2012,April,4, Transurethral resection of prostate ,0.0
+2012,May,5, Transurethral resection of prostate ,0.0
+2012,June,6, Transurethral resection of prostate ,0.0
+2012,July,7, Transurethral resection of prostate ,0.0
+2012,August,8, Transurethral resection of prostate ,0.0
+2012,September,9, Transurethral resection of prostate ,0.0
+2012,October,10, Transurethral resection of prostate ,0.0
+2012,November,11, Transurethral resection of prostate ,0.0
+2012,December,12, Transurethral resection of prostate ,0.0
+2013,January,1, Transurethral resection of prostate ,1029.0
+2013,February,2, Transurethral resection of prostate ,0.0
+2013,March,3, Transurethral resection of prostate ,0.0
+2013,April,4, Transurethral resection of prostate ,0.0
+2013,May,5, Transurethral resection of prostate ,0.0
+2013,June,6, Transurethral resection of prostate ,0.0
+2013,July,7, Transurethral resection of prostate ,0.0
+2013,August,8, Transurethral resection of prostate ,0.0
+2013,September,9, Transurethral resection of prostate ,0.0
+2013,October,10, Transurethral resection of prostate ,0.0
+2013,November,11, Transurethral resection of prostate ,0.0
+2013,December,12, Transurethral resection of prostate ,0.0
+2014,January,1, Transurethral resection of prostate ,872.0
+2014,February,2, Transurethral resection of prostate ,0.0
+2014,March,3, Transurethral resection of prostate ,0.0
+2014,April,4, Transurethral resection of prostate ,0.0
+2014,May,5, Transurethral resection of prostate ,0.0
+2014,June,6, Transurethral resection of prostate ,0.0
+2014,July,7, Transurethral resection of prostate ,0.0
+2014,August,8, Transurethral resection of prostate ,0.0
+2014,September,9, Transurethral resection of prostate ,0.0
+2014,October,10, Transurethral resection of prostate ,0.0
+2014,November,11, Transurethral resection of prostate ,0.0
+2014,December,12, Transurethral resection of prostate ,0.0
+2015,January,1, Transurethral resection of prostate ,909.0
+2015,February,2, Transurethral resection of prostate ,0.0
+2015,March,3, Transurethral resection of prostate ,0.0
+2015,April,4, Transurethral resection of prostate ,0.0
+2015,May,5, Transurethral resection of prostate ,0.0
+2015,June,6, Transurethral resection of prostate ,0.0
+2015,July,7, Transurethral resection of prostate ,0.0
+2015,August,8, Transurethral resection of prostate ,0.0
+2015,September,9, Transurethral resection of prostate ,0.0
+2015,October,10, Transurethral resection of prostate ,0.0
+2015,November,11, Transurethral resection of prostate ,0.0
+2015,December,12, Transurethral resection of prostate ,0.0
+2016,January,1, Transurethral resection of prostate ,966.0
+2016,February,2, Transurethral resection of prostate ,0.0
+2016,March,3, Transurethral resection of prostate ,0.0
+2016,April,4, Transurethral resection of prostate ,0.0
+2016,May,5, Transurethral resection of prostate ,0.0
+2016,June,6, Transurethral resection of prostate ,0.0
+2016,July,7, Transurethral resection of prostate ,0.0
+2016,August,8, Transurethral resection of prostate ,0.0
+2016,September,9, Transurethral resection of prostate ,0.0
+2016,October,10, Transurethral resection of prostate ,0.0
+2016,November,11, Transurethral resection of prostate ,0.0
+2016,December,12, Transurethral resection of prostate ,0.0
+2017,January,1, Transurethral resection of prostate ,1088.0
+2017,February,2, Transurethral resection of prostate ,0.0
+2017,March,3, Transurethral resection of prostate ,0.0
+2017,April,4, Transurethral resection of prostate ,0.0
+2017,May,5, Transurethral resection of prostate ,0.0
+2017,June,6, Transurethral resection of prostate ,0.0
+2017,July,7, Transurethral resection of prostate ,0.0
+2017,August,8, Transurethral resection of prostate ,0.0
+2017,September,9, Transurethral resection of prostate ,0.0
+2017,October,10, Transurethral resection of prostate ,0.0
+2017,November,11, Transurethral resection of prostate ,0.0
+2017,December,12, Transurethral resection of prostate ,0.0
+2018,January,1, Transurethral resection of prostate ,1180.0
+2018,February,2, Transurethral resection of prostate ,0.0
+2018,March,3, Transurethral resection of prostate ,0.0
+2018,April,4, Transurethral resection of prostate ,0.0
+2018,May,5, Transurethral resection of prostate ,0.0
+2018,June,6, Transurethral resection of prostate ,0.0
+2018,July,7, Transurethral resection of prostate ,0.0
+2018,August,8, Transurethral resection of prostate ,0.0
+2018,September,9, Transurethral resection of prostate ,0.0
+2018,October,10, Transurethral resection of prostate ,0.0
+2018,November,11, Transurethral resection of prostate ,0.0
+2018,December,12, Transurethral resection of prostate ,0.0
+2019,January,1, Transurethral resection of prostate ,1246.0
+2019,February,2, Transurethral resection of prostate ,0.0
+2019,March,3, Transurethral resection of prostate ,0.0
+2019,April,4, Transurethral resection of prostate ,0.0
+2019,May,5, Transurethral resection of prostate ,0.0
+2019,June,6, Transurethral resection of prostate ,0.0
+2019,July,7, Transurethral resection of prostate ,0.0
+2019,August,8, Transurethral resection of prostate ,0.0
+2019,September,9, Transurethral resection of prostate ,0.0
+2019,October,10, Transurethral resection of prostate ,0.0
+2019,November,11, Transurethral resection of prostate ,0.0
+2019,December,12, Transurethral resection of prostate ,0.0
+2020,January,1, Transurethral resection of prostate ,1064.0
+2020,February,2, Transurethral resection of prostate ,0.0
+2020,March,3, Transurethral resection of prostate ,0.0
+2020,April,4, Transurethral resection of prostate ,0.0
+2020,May,5, Transurethral resection of prostate ,0.0
+2020,June,6, Transurethral resection of prostate ,0.0
+2020,July,7, Transurethral resection of prostate ,0.0
+2020,August,8, Transurethral resection of prostate ,0.0
+2020,September,9, Transurethral resection of prostate ,0.0
+2020,October,10, Transurethral resection of prostate ,0.0
+2020,November,11, Transurethral resection of prostate ,0.0
+2020,December,12, Transurethral resection of prostate ,0.0
+2021,January,1, Transurethral resection of prostate ,1089.0
+2021,February,2, Transurethral resection of prostate ,0.0
+2021,March,3, Transurethral resection of prostate ,0.0
+2021,April,4, Transurethral resection of prostate ,0.0
+2021,May,5, Transurethral resection of prostate ,0.0
+2021,June,6, Transurethral resection of prostate ,0.0
+2021,July,7, Transurethral resection of prostate ,0.0
+2021,August,8, Transurethral resection of prostate ,0.0
+2021,September,9, Transurethral resection of prostate ,0.0
+2021,October,10, Transurethral resection of prostate ,0.0
+2021,November,11, Transurethral resection of prostate ,0.0
+2021,December,12, Transurethral resection of prostate ,0.0
+2022,January,1, Transurethral resection of prostate ,1037.0
+2022,February,2, Transurethral resection of prostate ,0.0
+2022,March,3, Transurethral resection of prostate ,0.0
+2022,April,4, Transurethral resection of prostate ,0.0
+2022,May,5, Transurethral resection of prostate ,0.0
+2022,June,6, Transurethral resection of prostate ,0.0
+2022,July,7, Transurethral resection of prostate ,0.0
+2022,August,8, Transurethral resection of prostate ,0.0
+2022,September,9, Transurethral resection of prostate ,0.0
+2022,October,10, Transurethral resection of prostate ,0.0
+2022,November,11, Transurethral resection of prostate ,0.0
+2022,December,12, Transurethral resection of prostate ,0.0
+2006,January,1, Prostatectomy ,197.0
+2006,February,2, Prostatectomy ,0.0
+2006,March,3, Prostatectomy ,0.0
+2006,April,4, Prostatectomy ,0.0
+2006,May,5, Prostatectomy ,0.0
+2006,June,6, Prostatectomy ,0.0
+2006,July,7, Prostatectomy ,0.0
+2006,August,8, Prostatectomy ,0.0
+2006,September,9, Prostatectomy ,0.0
+2006,October,10, Prostatectomy ,0.0
+2006,November,11, Prostatectomy ,0.0
+2006,December,12, Prostatectomy ,0.0
+2007,January,1, Prostatectomy ,257.0
+2007,February,2, Prostatectomy ,0.0
+2007,March,3, Prostatectomy ,0.0
+2007,April,4, Prostatectomy ,0.0
+2007,May,5, Prostatectomy ,0.0
+2007,June,6, Prostatectomy ,0.0
+2007,July,7, Prostatectomy ,0.0
+2007,August,8, Prostatectomy ,0.0
+2007,September,9, Prostatectomy ,0.0
+2007,October,10, Prostatectomy ,0.0
+2007,November,11, Prostatectomy ,0.0
+2007,December,12, Prostatectomy ,0.0
+2008,January,1, Prostatectomy ,256.0
+2008,February,2, Prostatectomy ,0.0
+2008,March,3, Prostatectomy ,0.0
+2008,April,4, Prostatectomy ,0.0
+2008,May,5, Prostatectomy ,0.0
+2008,June,6, Prostatectomy ,0.0
+2008,July,7, Prostatectomy ,0.0
+2008,August,8, Prostatectomy ,0.0
+2008,September,9, Prostatectomy ,0.0
+2008,October,10, Prostatectomy ,0.0
+2008,November,11, Prostatectomy ,0.0
+2008,December,12, Prostatectomy ,0.0
+2009,January,1, Prostatectomy ,227.0
+2009,February,2, Prostatectomy ,0.0
+2009,March,3, Prostatectomy ,0.0
+2009,April,4, Prostatectomy ,0.0
+2009,May,5, Prostatectomy ,0.0
+2009,June,6, Prostatectomy ,0.0
+2009,July,7, Prostatectomy ,0.0
+2009,August,8, Prostatectomy ,0.0
+2009,September,9, Prostatectomy ,0.0
+2009,October,10, Prostatectomy ,0.0
+2009,November,11, Prostatectomy ,0.0
+2009,December,12, Prostatectomy ,0.0
+2010,January,1, Prostatectomy ,250.0
+2010,February,2, Prostatectomy ,0.0
+2010,March,3, Prostatectomy ,0.0
+2010,April,4, Prostatectomy ,0.0
+2010,May,5, Prostatectomy ,0.0
+2010,June,6, Prostatectomy ,0.0
+2010,July,7, Prostatectomy ,0.0
+2010,August,8, Prostatectomy ,0.0
+2010,September,9, Prostatectomy ,0.0
+2010,October,10, Prostatectomy ,0.0
+2010,November,11, Prostatectomy ,0.0
+2010,December,12, Prostatectomy ,0.0
+2011,January,1, Prostatectomy ,275.0
+2011,February,2, Prostatectomy ,0.0
+2011,March,3, Prostatectomy ,0.0
+2011,April,4, Prostatectomy ,0.0
+2011,May,5, Prostatectomy ,0.0
+2011,June,6, Prostatectomy ,0.0
+2011,July,7, Prostatectomy ,0.0
+2011,August,8, Prostatectomy ,0.0
+2011,September,9, Prostatectomy ,0.0
+2011,October,10, Prostatectomy ,0.0
+2011,November,11, Prostatectomy ,0.0
+2011,December,12, Prostatectomy ,0.0
+2012,January,1, Prostatectomy ,222.0
+2012,February,2, Prostatectomy ,0.0
+2012,March,3, Prostatectomy ,0.0
+2012,April,4, Prostatectomy ,0.0
+2012,May,5, Prostatectomy ,0.0
+2012,June,6, Prostatectomy ,0.0
+2012,July,7, Prostatectomy ,0.0
+2012,August,8, Prostatectomy ,0.0
+2012,September,9, Prostatectomy ,0.0
+2012,October,10, Prostatectomy ,0.0
+2012,November,11, Prostatectomy ,0.0
+2012,December,12, Prostatectomy ,0.0
+2013,January,1, Prostatectomy ,249.0
+2013,February,2, Prostatectomy ,0.0
+2013,March,3, Prostatectomy ,0.0
+2013,April,4, Prostatectomy ,0.0
+2013,May,5, Prostatectomy ,0.0
+2013,June,6, Prostatectomy ,0.0
+2013,July,7, Prostatectomy ,0.0
+2013,August,8, Prostatectomy ,0.0
+2013,September,9, Prostatectomy ,0.0
+2013,October,10, Prostatectomy ,0.0
+2013,November,11, Prostatectomy ,0.0
+2013,December,12, Prostatectomy ,0.0
+2014,January,1, Prostatectomy ,193.0
+2014,February,2, Prostatectomy ,0.0
+2014,March,3, Prostatectomy ,0.0
+2014,April,4, Prostatectomy ,0.0
+2014,May,5, Prostatectomy ,0.0
+2014,June,6, Prostatectomy ,0.0
+2014,July,7, Prostatectomy ,0.0
+2014,August,8, Prostatectomy ,0.0
+2014,September,9, Prostatectomy ,0.0
+2014,October,10, Prostatectomy ,0.0
+2014,November,11, Prostatectomy ,0.0
+2014,December,12, Prostatectomy ,0.0
+2015,January,1, Prostatectomy ,190.0
+2015,February,2, Prostatectomy ,0.0
+2015,March,3, Prostatectomy ,0.0
+2015,April,4, Prostatectomy ,0.0
+2015,May,5, Prostatectomy ,0.0
+2015,June,6, Prostatectomy ,0.0
+2015,July,7, Prostatectomy ,0.0
+2015,August,8, Prostatectomy ,0.0
+2015,September,9, Prostatectomy ,0.0
+2015,October,10, Prostatectomy ,0.0
+2015,November,11, Prostatectomy ,0.0
+2015,December,12, Prostatectomy ,0.0
+2016,January,1, Prostatectomy ,173.0
+2016,February,2, Prostatectomy ,0.0
+2016,March,3, Prostatectomy ,0.0
+2016,April,4, Prostatectomy ,0.0
+2016,May,5, Prostatectomy ,0.0
+2016,June,6, Prostatectomy ,0.0
+2016,July,7, Prostatectomy ,0.0
+2016,August,8, Prostatectomy ,0.0
+2016,September,9, Prostatectomy ,0.0
+2016,October,10, Prostatectomy ,0.0
+2016,November,11, Prostatectomy ,0.0
+2016,December,12, Prostatectomy ,0.0
+2017,January,1, Prostatectomy ,168.0
+2017,February,2, Prostatectomy ,0.0
+2017,March,3, Prostatectomy ,0.0
+2017,April,4, Prostatectomy ,0.0
+2017,May,5, Prostatectomy ,0.0
+2017,June,6, Prostatectomy ,0.0
+2017,July,7, Prostatectomy ,0.0
+2017,August,8, Prostatectomy ,0.0
+2017,September,9, Prostatectomy ,0.0
+2017,October,10, Prostatectomy ,0.0
+2017,November,11, Prostatectomy ,0.0
+2017,December,12, Prostatectomy ,0.0
+2018,January,1, Prostatectomy ,216.0
+2018,February,2, Prostatectomy ,0.0
+2018,March,3, Prostatectomy ,0.0
+2018,April,4, Prostatectomy ,0.0
+2018,May,5, Prostatectomy ,0.0
+2018,June,6, Prostatectomy ,0.0
+2018,July,7, Prostatectomy ,0.0
+2018,August,8, Prostatectomy ,0.0
+2018,September,9, Prostatectomy ,0.0
+2018,October,10, Prostatectomy ,0.0
+2018,November,11, Prostatectomy ,0.0
+2018,December,12, Prostatectomy ,0.0
+2019,January,1, Prostatectomy ,232.0
+2019,February,2, Prostatectomy ,0.0
+2019,March,3, Prostatectomy ,0.0
+2019,April,4, Prostatectomy ,0.0
+2019,May,5, Prostatectomy ,0.0
+2019,June,6, Prostatectomy ,0.0
+2019,July,7, Prostatectomy ,0.0
+2019,August,8, Prostatectomy ,0.0
+2019,September,9, Prostatectomy ,0.0
+2019,October,10, Prostatectomy ,0.0
+2019,November,11, Prostatectomy ,0.0
+2019,December,12, Prostatectomy ,0.0
+2020,January,1, Prostatectomy ,159.0
+2020,February,2, Prostatectomy ,0.0
+2020,March,3, Prostatectomy ,0.0
+2020,April,4, Prostatectomy ,0.0
+2020,May,5, Prostatectomy ,0.0
+2020,June,6, Prostatectomy ,0.0
+2020,July,7, Prostatectomy ,0.0
+2020,August,8, Prostatectomy ,0.0
+2020,September,9, Prostatectomy ,0.0
+2020,October,10, Prostatectomy ,0.0
+2020,November,11, Prostatectomy ,0.0
+2020,December,12, Prostatectomy ,0.0
+2021,January,1, Prostatectomy ,162.0
+2021,February,2, Prostatectomy ,0.0
+2021,March,3, Prostatectomy ,0.0
+2021,April,4, Prostatectomy ,0.0
+2021,May,5, Prostatectomy ,0.0
+2021,June,6, Prostatectomy ,0.0
+2021,July,7, Prostatectomy ,0.0
+2021,August,8, Prostatectomy ,0.0
+2021,September,9, Prostatectomy ,0.0
+2021,October,10, Prostatectomy ,0.0
+2021,November,11, Prostatectomy ,0.0
+2021,December,12, Prostatectomy ,0.0
+2022,January,1, Prostatectomy ,115.0
+2022,February,2, Prostatectomy ,0.0
+2022,March,3, Prostatectomy ,0.0
+2022,April,4, Prostatectomy ,0.0
+2022,May,5, Prostatectomy ,0.0
+2022,June,6, Prostatectomy ,0.0
+2022,July,7, Prostatectomy ,0.0
+2022,August,8, Prostatectomy ,0.0
+2022,September,9, Prostatectomy ,0.0
+2022,October,10, Prostatectomy ,0.0
+2022,November,11, Prostatectomy ,0.0
+2022,December,12, Prostatectomy ,0.0
+2006,January,1, Total abdominal hysterectomy ,9579.0
+2006,February,2, Total abdominal hysterectomy ,0.0
+2006,March,3, Total abdominal hysterectomy ,0.0
+2006,April,4, Total abdominal hysterectomy ,0.0
+2006,May,5, Total abdominal hysterectomy ,0.0
+2006,June,6, Total abdominal hysterectomy ,0.0
+2006,July,7, Total abdominal hysterectomy ,0.0
+2006,August,8, Total abdominal hysterectomy ,0.0
+2006,September,9, Total abdominal hysterectomy ,0.0
+2006,October,10, Total abdominal hysterectomy ,0.0
+2006,November,11, Total abdominal hysterectomy ,0.0
+2006,December,12, Total abdominal hysterectomy ,0.0
+2007,January,1, Total abdominal hysterectomy ,10778.0
+2007,February,2, Total abdominal hysterectomy ,0.0
+2007,March,3, Total abdominal hysterectomy ,0.0
+2007,April,4, Total abdominal hysterectomy ,0.0
+2007,May,5, Total abdominal hysterectomy ,0.0
+2007,June,6, Total abdominal hysterectomy ,0.0
+2007,July,7, Total abdominal hysterectomy ,0.0
+2007,August,8, Total abdominal hysterectomy ,0.0
+2007,September,9, Total abdominal hysterectomy ,0.0
+2007,October,10, Total abdominal hysterectomy ,0.0
+2007,November,11, Total abdominal hysterectomy ,0.0
+2007,December,12, Total abdominal hysterectomy ,0.0
+2008,January,1, Total abdominal hysterectomy ,10840.0
+2008,February,2, Total abdominal hysterectomy ,0.0
+2008,March,3, Total abdominal hysterectomy ,0.0
+2008,April,4, Total abdominal hysterectomy ,0.0
+2008,May,5, Total abdominal hysterectomy ,0.0
+2008,June,6, Total abdominal hysterectomy ,0.0
+2008,July,7, Total abdominal hysterectomy ,0.0
+2008,August,8, Total abdominal hysterectomy ,0.0
+2008,September,9, Total abdominal hysterectomy ,0.0
+2008,October,10, Total abdominal hysterectomy ,0.0
+2008,November,11, Total abdominal hysterectomy ,0.0
+2008,December,12, Total abdominal hysterectomy ,0.0
+2009,January,1, Total abdominal hysterectomy ,9802.0
+2009,February,2, Total abdominal hysterectomy ,0.0
+2009,March,3, Total abdominal hysterectomy ,0.0
+2009,April,4, Total abdominal hysterectomy ,0.0
+2009,May,5, Total abdominal hysterectomy ,0.0
+2009,June,6, Total abdominal hysterectomy ,0.0
+2009,July,7, Total abdominal hysterectomy ,0.0
+2009,August,8, Total abdominal hysterectomy ,0.0
+2009,September,9, Total abdominal hysterectomy ,0.0
+2009,October,10, Total abdominal hysterectomy ,0.0
+2009,November,11, Total abdominal hysterectomy ,0.0
+2009,December,12, Total abdominal hysterectomy ,0.0
+2010,January,1, Total abdominal hysterectomy ,10378.0
+2010,February,2, Total abdominal hysterectomy ,0.0
+2010,March,3, Total abdominal hysterectomy ,0.0
+2010,April,4, Total abdominal hysterectomy ,0.0
+2010,May,5, Total abdominal hysterectomy ,0.0
+2010,June,6, Total abdominal hysterectomy ,0.0
+2010,July,7, Total abdominal hysterectomy ,0.0
+2010,August,8, Total abdominal hysterectomy ,0.0
+2010,September,9, Total abdominal hysterectomy ,0.0
+2010,October,10, Total abdominal hysterectomy ,0.0
+2010,November,11, Total abdominal hysterectomy ,0.0
+2010,December,12, Total abdominal hysterectomy ,0.0
+2011,January,1, Total abdominal hysterectomy ,5621.0
+2011,February,2, Total abdominal hysterectomy ,0.0
+2011,March,3, Total abdominal hysterectomy ,0.0
+2011,April,4, Total abdominal hysterectomy ,0.0
+2011,May,5, Total abdominal hysterectomy ,0.0
+2011,June,6, Total abdominal hysterectomy ,0.0
+2011,July,7, Total abdominal hysterectomy ,0.0
+2011,August,8, Total abdominal hysterectomy ,0.0
+2011,September,9, Total abdominal hysterectomy ,0.0
+2011,October,10, Total abdominal hysterectomy ,0.0
+2011,November,11, Total abdominal hysterectomy ,0.0
+2011,December,12, Total abdominal hysterectomy ,0.0
+2012,January,1, Total abdominal hysterectomy ,5215.0
+2012,February,2, Total abdominal hysterectomy ,0.0
+2012,March,3, Total abdominal hysterectomy ,0.0
+2012,April,4, Total abdominal hysterectomy ,0.0
+2012,May,5, Total abdominal hysterectomy ,0.0
+2012,June,6, Total abdominal hysterectomy ,0.0
+2012,July,7, Total abdominal hysterectomy ,0.0
+2012,August,8, Total abdominal hysterectomy ,0.0
+2012,September,9, Total abdominal hysterectomy ,0.0
+2012,October,10, Total abdominal hysterectomy ,0.0
+2012,November,11, Total abdominal hysterectomy ,0.0
+2012,December,12, Total abdominal hysterectomy ,0.0
+2013,January,1, Total abdominal hysterectomy ,5407.0
+2013,February,2, Total abdominal hysterectomy ,0.0
+2013,March,3, Total abdominal hysterectomy ,0.0
+2013,April,4, Total abdominal hysterectomy ,0.0
+2013,May,5, Total abdominal hysterectomy ,0.0
+2013,June,6, Total abdominal hysterectomy ,0.0
+2013,July,7, Total abdominal hysterectomy ,0.0
+2013,August,8, Total abdominal hysterectomy ,0.0
+2013,September,9, Total abdominal hysterectomy ,0.0
+2013,October,10, Total abdominal hysterectomy ,0.0
+2013,November,11, Total abdominal hysterectomy ,0.0
+2013,December,12, Total abdominal hysterectomy ,0.0
+2014,January,1, Total abdominal hysterectomy ,4441.0
+2014,February,2, Total abdominal hysterectomy ,0.0
+2014,March,3, Total abdominal hysterectomy ,0.0
+2014,April,4, Total abdominal hysterectomy ,0.0
+2014,May,5, Total abdominal hysterectomy ,0.0
+2014,June,6, Total abdominal hysterectomy ,0.0
+2014,July,7, Total abdominal hysterectomy ,0.0
+2014,August,8, Total abdominal hysterectomy ,0.0
+2014,September,9, Total abdominal hysterectomy ,0.0
+2014,October,10, Total abdominal hysterectomy ,0.0
+2014,November,11, Total abdominal hysterectomy ,0.0
+2014,December,12, Total abdominal hysterectomy ,0.0
+2015,January,1, Total abdominal hysterectomy ,4556.0
+2015,February,2, Total abdominal hysterectomy ,0.0
+2015,March,3, Total abdominal hysterectomy ,0.0
+2015,April,4, Total abdominal hysterectomy ,0.0
+2015,May,5, Total abdominal hysterectomy ,0.0
+2015,June,6, Total abdominal hysterectomy ,0.0
+2015,July,7, Total abdominal hysterectomy ,0.0
+2015,August,8, Total abdominal hysterectomy ,0.0
+2015,September,9, Total abdominal hysterectomy ,0.0
+2015,October,10, Total abdominal hysterectomy ,0.0
+2015,November,11, Total abdominal hysterectomy ,0.0
+2015,December,12, Total abdominal hysterectomy ,0.0
+2016,January,1, Total abdominal hysterectomy ,4432.0
+2016,February,2, Total abdominal hysterectomy ,0.0
+2016,March,3, Total abdominal hysterectomy ,0.0
+2016,April,4, Total abdominal hysterectomy ,0.0
+2016,May,5, Total abdominal hysterectomy ,0.0
+2016,June,6, Total abdominal hysterectomy ,0.0
+2016,July,7, Total abdominal hysterectomy ,0.0
+2016,August,8, Total abdominal hysterectomy ,0.0
+2016,September,9, Total abdominal hysterectomy ,0.0
+2016,October,10, Total abdominal hysterectomy ,0.0
+2016,November,11, Total abdominal hysterectomy ,0.0
+2016,December,12, Total abdominal hysterectomy ,0.0
+2017,January,1, Total abdominal hysterectomy ,4451.0
+2017,February,2, Total abdominal hysterectomy ,0.0
+2017,March,3, Total abdominal hysterectomy ,0.0
+2017,April,4, Total abdominal hysterectomy ,0.0
+2017,May,5, Total abdominal hysterectomy ,0.0
+2017,June,6, Total abdominal hysterectomy ,0.0
+2017,July,7, Total abdominal hysterectomy ,0.0
+2017,August,8, Total abdominal hysterectomy ,0.0
+2017,September,9, Total abdominal hysterectomy ,0.0
+2017,October,10, Total abdominal hysterectomy ,0.0
+2017,November,11, Total abdominal hysterectomy ,0.0
+2017,December,12, Total abdominal hysterectomy ,0.0
+2018,January,1, Total abdominal hysterectomy ,4547.0
+2018,February,2, Total abdominal hysterectomy ,0.0
+2018,March,3, Total abdominal hysterectomy ,0.0
+2018,April,4, Total abdominal hysterectomy ,0.0
+2018,May,5, Total abdominal hysterectomy ,0.0
+2018,June,6, Total abdominal hysterectomy ,0.0
+2018,July,7, Total abdominal hysterectomy ,0.0
+2018,August,8, Total abdominal hysterectomy ,0.0
+2018,September,9, Total abdominal hysterectomy ,0.0
+2018,October,10, Total abdominal hysterectomy ,0.0
+2018,November,11, Total abdominal hysterectomy ,0.0
+2018,December,12, Total abdominal hysterectomy ,0.0
+2019,January,1, Total abdominal hysterectomy ,4490.0
+2019,February,2, Total abdominal hysterectomy ,0.0
+2019,March,3, Total abdominal hysterectomy ,0.0
+2019,April,4, Total abdominal hysterectomy ,0.0
+2019,May,5, Total abdominal hysterectomy ,0.0
+2019,June,6, Total abdominal hysterectomy ,0.0
+2019,July,7, Total abdominal hysterectomy ,0.0
+2019,August,8, Total abdominal hysterectomy ,0.0
+2019,September,9, Total abdominal hysterectomy ,0.0
+2019,October,10, Total abdominal hysterectomy ,0.0
+2019,November,11, Total abdominal hysterectomy ,0.0
+2019,December,12, Total abdominal hysterectomy ,0.0
+2020,January,1, Total abdominal hysterectomy ,3676.0
+2020,February,2, Total abdominal hysterectomy ,0.0
+2020,March,3, Total abdominal hysterectomy ,0.0
+2020,April,4, Total abdominal hysterectomy ,0.0
+2020,May,5, Total abdominal hysterectomy ,0.0
+2020,June,6, Total abdominal hysterectomy ,0.0
+2020,July,7, Total abdominal hysterectomy ,0.0
+2020,August,8, Total abdominal hysterectomy ,0.0
+2020,September,9, Total abdominal hysterectomy ,0.0
+2020,October,10, Total abdominal hysterectomy ,0.0
+2020,November,11, Total abdominal hysterectomy ,0.0
+2020,December,12, Total abdominal hysterectomy ,0.0
+2021,January,1, Total abdominal hysterectomy ,3681.0
+2021,February,2, Total abdominal hysterectomy ,0.0
+2021,March,3, Total abdominal hysterectomy ,0.0
+2021,April,4, Total abdominal hysterectomy ,0.0
+2021,May,5, Total abdominal hysterectomy ,0.0
+2021,June,6, Total abdominal hysterectomy ,0.0
+2021,July,7, Total abdominal hysterectomy ,0.0
+2021,August,8, Total abdominal hysterectomy ,0.0
+2021,September,9, Total abdominal hysterectomy ,0.0
+2021,October,10, Total abdominal hysterectomy ,0.0
+2021,November,11, Total abdominal hysterectomy ,0.0
+2021,December,12, Total abdominal hysterectomy ,0.0
+2022,January,1, Total abdominal hysterectomy ,3738.0
+2022,February,2, Total abdominal hysterectomy ,0.0
+2022,March,3, Total abdominal hysterectomy ,0.0
+2022,April,4, Total abdominal hysterectomy ,0.0
+2022,May,5, Total abdominal hysterectomy ,0.0
+2022,June,6, Total abdominal hysterectomy ,0.0
+2022,July,7, Total abdominal hysterectomy ,0.0
+2022,August,8, Total abdominal hysterectomy ,0.0
+2022,September,9, Total abdominal hysterectomy ,0.0
+2022,October,10, Total abdominal hysterectomy ,0.0
+2022,November,11, Total abdominal hysterectomy ,0.0
+2022,December,12, Total abdominal hysterectomy ,0.0
+2006,January,1, Low cervical cesarean section ,12062.0
+2006,February,2, Low cervical cesarean section ,0.0
+2006,March,3, Low cervical cesarean section ,0.0
+2006,April,4, Low cervical cesarean section ,0.0
+2006,May,5, Low cervical cesarean section ,0.0
+2006,June,6, Low cervical cesarean section ,0.0
+2006,July,7, Low cervical cesarean section ,0.0
+2006,August,8, Low cervical cesarean section ,0.0
+2006,September,9, Low cervical cesarean section ,0.0
+2006,October,10, Low cervical cesarean section ,0.0
+2006,November,11, Low cervical cesarean section ,0.0
+2006,December,12, Low cervical cesarean section ,0.0
+2007,January,1, Low cervical cesarean section ,13439.0
+2007,February,2, Low cervical cesarean section ,0.0
+2007,March,3, Low cervical cesarean section ,0.0
+2007,April,4, Low cervical cesarean section ,0.0
+2007,May,5, Low cervical cesarean section ,0.0
+2007,June,6, Low cervical cesarean section ,0.0
+2007,July,7, Low cervical cesarean section ,0.0
+2007,August,8, Low cervical cesarean section ,0.0
+2007,September,9, Low cervical cesarean section ,0.0
+2007,October,10, Low cervical cesarean section ,0.0
+2007,November,11, Low cervical cesarean section ,0.0
+2007,December,12, Low cervical cesarean section ,0.0
+2008,January,1, Low cervical cesarean section ,15161.0
+2008,February,2, Low cervical cesarean section ,0.0
+2008,March,3, Low cervical cesarean section ,0.0
+2008,April,4, Low cervical cesarean section ,0.0
+2008,May,5, Low cervical cesarean section ,0.0
+2008,June,6, Low cervical cesarean section ,0.0
+2008,July,7, Low cervical cesarean section ,0.0
+2008,August,8, Low cervical cesarean section ,0.0
+2008,September,9, Low cervical cesarean section ,0.0
+2008,October,10, Low cervical cesarean section ,0.0
+2008,November,11, Low cervical cesarean section ,0.0
+2008,December,12, Low cervical cesarean section ,0.0
+2009,January,1, Low cervical cesarean section ,15098.0
+2009,February,2, Low cervical cesarean section ,0.0
+2009,March,3, Low cervical cesarean section ,0.0
+2009,April,4, Low cervical cesarean section ,0.0
+2009,May,5, Low cervical cesarean section ,0.0
+2009,June,6, Low cervical cesarean section ,0.0
+2009,July,7, Low cervical cesarean section ,0.0
+2009,August,8, Low cervical cesarean section ,0.0
+2009,September,9, Low cervical cesarean section ,0.0
+2009,October,10, Low cervical cesarean section ,0.0
+2009,November,11, Low cervical cesarean section ,0.0
+2009,December,12, Low cervical cesarean section ,0.0
+2010,January,1, Low cervical cesarean section ,14894.0
+2010,February,2, Low cervical cesarean section ,0.0
+2010,March,3, Low cervical cesarean section ,0.0
+2010,April,4, Low cervical cesarean section ,0.0
+2010,May,5, Low cervical cesarean section ,0.0
+2010,June,6, Low cervical cesarean section ,0.0
+2010,July,7, Low cervical cesarean section ,0.0
+2010,August,8, Low cervical cesarean section ,0.0
+2010,September,9, Low cervical cesarean section ,0.0
+2010,October,10, Low cervical cesarean section ,0.0
+2010,November,11, Low cervical cesarean section ,0.0
+2010,December,12, Low cervical cesarean section ,0.0
+2011,January,1, Low cervical cesarean section ,16815.0
+2011,February,2, Low cervical cesarean section ,0.0
+2011,March,3, Low cervical cesarean section ,0.0
+2011,April,4, Low cervical cesarean section ,0.0
+2011,May,5, Low cervical cesarean section ,0.0
+2011,June,6, Low cervical cesarean section ,0.0
+2011,July,7, Low cervical cesarean section ,0.0
+2011,August,8, Low cervical cesarean section ,0.0
+2011,September,9, Low cervical cesarean section ,0.0
+2011,October,10, Low cervical cesarean section ,0.0
+2011,November,11, Low cervical cesarean section ,0.0
+2011,December,12, Low cervical cesarean section ,0.0
+2012,January,1, Low cervical cesarean section ,16303.0
+2012,February,2, Low cervical cesarean section ,0.0
+2012,March,3, Low cervical cesarean section ,0.0
+2012,April,4, Low cervical cesarean section ,0.0
+2012,May,5, Low cervical cesarean section ,0.0
+2012,June,6, Low cervical cesarean section ,0.0
+2012,July,7, Low cervical cesarean section ,0.0
+2012,August,8, Low cervical cesarean section ,0.0
+2012,September,9, Low cervical cesarean section ,0.0
+2012,October,10, Low cervical cesarean section ,0.0
+2012,November,11, Low cervical cesarean section ,0.0
+2012,December,12, Low cervical cesarean section ,0.0
+2013,January,1, Low cervical cesarean section ,16298.0
+2013,February,2, Low cervical cesarean section ,0.0
+2013,March,3, Low cervical cesarean section ,0.0
+2013,April,4, Low cervical cesarean section ,0.0
+2013,May,5, Low cervical cesarean section ,0.0
+2013,June,6, Low cervical cesarean section ,0.0
+2013,July,7, Low cervical cesarean section ,0.0
+2013,August,8, Low cervical cesarean section ,0.0
+2013,September,9, Low cervical cesarean section ,0.0
+2013,October,10, Low cervical cesarean section ,0.0
+2013,November,11, Low cervical cesarean section ,0.0
+2013,December,12, Low cervical cesarean section ,0.0
+2014,January,1, Low cervical cesarean section ,15580.0
+2014,February,2, Low cervical cesarean section ,0.0
+2014,March,3, Low cervical cesarean section ,0.0
+2014,April,4, Low cervical cesarean section ,0.0
+2014,May,5, Low cervical cesarean section ,0.0
+2014,June,6, Low cervical cesarean section ,0.0
+2014,July,7, Low cervical cesarean section ,0.0
+2014,August,8, Low cervical cesarean section ,0.0
+2014,September,9, Low cervical cesarean section ,0.0
+2014,October,10, Low cervical cesarean section ,0.0
+2014,November,11, Low cervical cesarean section ,0.0
+2014,December,12, Low cervical cesarean section ,0.0
+2015,January,1, Low cervical cesarean section ,16506.0
+2015,February,2, Low cervical cesarean section ,0.0
+2015,March,3, Low cervical cesarean section ,0.0
+2015,April,4, Low cervical cesarean section ,0.0
+2015,May,5, Low cervical cesarean section ,0.0
+2015,June,6, Low cervical cesarean section ,0.0
+2015,July,7, Low cervical cesarean section ,0.0
+2015,August,8, Low cervical cesarean section ,0.0
+2015,September,9, Low cervical cesarean section ,0.0
+2015,October,10, Low cervical cesarean section ,0.0
+2015,November,11, Low cervical cesarean section ,0.0
+2015,December,12, Low cervical cesarean section ,0.0
+2016,January,1, Low cervical cesarean section ,16459.0
+2016,February,2, Low cervical cesarean section ,0.0
+2016,March,3, Low cervical cesarean section ,0.0
+2016,April,4, Low cervical cesarean section ,0.0
+2016,May,5, Low cervical cesarean section ,0.0
+2016,June,6, Low cervical cesarean section ,0.0
+2016,July,7, Low cervical cesarean section ,0.0
+2016,August,8, Low cervical cesarean section ,0.0
+2016,September,9, Low cervical cesarean section ,0.0
+2016,October,10, Low cervical cesarean section ,0.0
+2016,November,11, Low cervical cesarean section ,0.0
+2016,December,12, Low cervical cesarean section ,0.0
+2017,January,1, Low cervical cesarean section ,15345.0
+2017,February,2, Low cervical cesarean section ,0.0
+2017,March,3, Low cervical cesarean section ,0.0
+2017,April,4, Low cervical cesarean section ,0.0
+2017,May,5, Low cervical cesarean section ,0.0
+2017,June,6, Low cervical cesarean section ,0.0
+2017,July,7, Low cervical cesarean section ,0.0
+2017,August,8, Low cervical cesarean section ,0.0
+2017,September,9, Low cervical cesarean section ,0.0
+2017,October,10, Low cervical cesarean section ,0.0
+2017,November,11, Low cervical cesarean section ,0.0
+2017,December,12, Low cervical cesarean section ,0.0
+2018,January,1, Low cervical cesarean section ,15105.0
+2018,February,2, Low cervical cesarean section ,0.0
+2018,March,3, Low cervical cesarean section ,0.0
+2018,April,4, Low cervical cesarean section ,0.0
+2018,May,5, Low cervical cesarean section ,0.0
+2018,June,6, Low cervical cesarean section ,0.0
+2018,July,7, Low cervical cesarean section ,0.0
+2018,August,8, Low cervical cesarean section ,0.0
+2018,September,9, Low cervical cesarean section ,0.0
+2018,October,10, Low cervical cesarean section ,0.0
+2018,November,11, Low cervical cesarean section ,0.0
+2018,December,12, Low cervical cesarean section ,0.0
+2019,January,1, Low cervical cesarean section ,15506.0
+2019,February,2, Low cervical cesarean section ,0.0
+2019,March,3, Low cervical cesarean section ,0.0
+2019,April,4, Low cervical cesarean section ,0.0
+2019,May,5, Low cervical cesarean section ,0.0
+2019,June,6, Low cervical cesarean section ,0.0
+2019,July,7, Low cervical cesarean section ,0.0
+2019,August,8, Low cervical cesarean section ,0.0
+2019,September,9, Low cervical cesarean section ,0.0
+2019,October,10, Low cervical cesarean section ,0.0
+2019,November,11, Low cervical cesarean section ,0.0
+2019,December,12, Low cervical cesarean section ,0.0
+2020,January,1, Low cervical cesarean section ,14426.0
+2020,February,2, Low cervical cesarean section ,0.0
+2020,March,3, Low cervical cesarean section ,0.0
+2020,April,4, Low cervical cesarean section ,0.0
+2020,May,5, Low cervical cesarean section ,0.0
+2020,June,6, Low cervical cesarean section ,0.0
+2020,July,7, Low cervical cesarean section ,0.0
+2020,August,8, Low cervical cesarean section ,0.0
+2020,September,9, Low cervical cesarean section ,0.0
+2020,October,10, Low cervical cesarean section ,0.0
+2020,November,11, Low cervical cesarean section ,0.0
+2020,December,12, Low cervical cesarean section ,0.0
+2021,January,1, Low cervical cesarean section ,14358.0
+2021,February,2, Low cervical cesarean section ,0.0
+2021,March,3, Low cervical cesarean section ,0.0
+2021,April,4, Low cervical cesarean section ,0.0
+2021,May,5, Low cervical cesarean section ,0.0
+2021,June,6, Low cervical cesarean section ,0.0
+2021,July,7, Low cervical cesarean section ,0.0
+2021,August,8, Low cervical cesarean section ,0.0
+2021,September,9, Low cervical cesarean section ,0.0
+2021,October,10, Low cervical cesarean section ,0.0
+2021,November,11, Low cervical cesarean section ,0.0
+2021,December,12, Low cervical cesarean section ,0.0
+2022,January,1, Low cervical cesarean section ,14577.0
+2022,February,2, Low cervical cesarean section ,0.0
+2022,March,3, Low cervical cesarean section ,0.0
+2022,April,4, Low cervical cesarean section ,0.0
+2022,May,5, Low cervical cesarean section ,0.0
+2022,June,6, Low cervical cesarean section ,0.0
+2022,July,7, Low cervical cesarean section ,0.0
+2022,August,8, Low cervical cesarean section ,0.0
+2022,September,9, Low cervical cesarean section ,0.0
+2022,October,10, Low cervical cesarean section ,0.0
+2022,November,11, Low cervical cesarean section ,0.0
+2022,December,12, Low cervical cesarean section ,0.0
+2006,January,1, Total hip replacement ,549.0
+2006,February,2, Total hip replacement ,0.0
+2006,March,3, Total hip replacement ,0.0
+2006,April,4, Total hip replacement ,0.0
+2006,May,5, Total hip replacement ,0.0
+2006,June,6, Total hip replacement ,0.0
+2006,July,7, Total hip replacement ,0.0
+2006,August,8, Total hip replacement ,0.0
+2006,September,9, Total hip replacement ,0.0
+2006,October,10, Total hip replacement ,0.0
+2006,November,11, Total hip replacement ,0.0
+2006,December,12, Total hip replacement ,0.0
+2007,January,1, Total hip replacement ,767.0
+2007,February,2, Total hip replacement ,0.0
+2007,March,3, Total hip replacement ,0.0
+2007,April,4, Total hip replacement ,0.0
+2007,May,5, Total hip replacement ,0.0
+2007,June,6, Total hip replacement ,0.0
+2007,July,7, Total hip replacement ,0.0
+2007,August,8, Total hip replacement ,0.0
+2007,September,9, Total hip replacement ,0.0
+2007,October,10, Total hip replacement ,0.0
+2007,November,11, Total hip replacement ,0.0
+2007,December,12, Total hip replacement ,0.0
+2008,January,1, Total hip replacement ,903.0
+2008,February,2, Total hip replacement ,0.0
+2008,March,3, Total hip replacement ,0.0
+2008,April,4, Total hip replacement ,0.0
+2008,May,5, Total hip replacement ,0.0
+2008,June,6, Total hip replacement ,0.0
+2008,July,7, Total hip replacement ,0.0
+2008,August,8, Total hip replacement ,0.0
+2008,September,9, Total hip replacement ,0.0
+2008,October,10, Total hip replacement ,0.0
+2008,November,11, Total hip replacement ,0.0
+2008,December,12, Total hip replacement ,0.0
+2009,January,1, Total hip replacement ,670.0
+2009,February,2, Total hip replacement ,0.0
+2009,March,3, Total hip replacement ,0.0
+2009,April,4, Total hip replacement ,0.0
+2009,May,5, Total hip replacement ,0.0
+2009,June,6, Total hip replacement ,0.0
+2009,July,7, Total hip replacement ,0.0
+2009,August,8, Total hip replacement ,0.0
+2009,September,9, Total hip replacement ,0.0
+2009,October,10, Total hip replacement ,0.0
+2009,November,11, Total hip replacement ,0.0
+2009,December,12, Total hip replacement ,0.0
+2010,January,1, Total hip replacement ,865.0
+2010,February,2, Total hip replacement ,0.0
+2010,March,3, Total hip replacement ,0.0
+2010,April,4, Total hip replacement ,0.0
+2010,May,5, Total hip replacement ,0.0
+2010,June,6, Total hip replacement ,0.0
+2010,July,7, Total hip replacement ,0.0
+2010,August,8, Total hip replacement ,0.0
+2010,September,9, Total hip replacement ,0.0
+2010,October,10, Total hip replacement ,0.0
+2010,November,11, Total hip replacement ,0.0
+2010,December,12, Total hip replacement ,0.0
+2011,January,1, Total hip replacement ,872.0
+2011,February,2, Total hip replacement ,0.0
+2011,March,3, Total hip replacement ,0.0
+2011,April,4, Total hip replacement ,0.0
+2011,May,5, Total hip replacement ,0.0
+2011,June,6, Total hip replacement ,0.0
+2011,July,7, Total hip replacement ,0.0
+2011,August,8, Total hip replacement ,0.0
+2011,September,9, Total hip replacement ,0.0
+2011,October,10, Total hip replacement ,0.0
+2011,November,11, Total hip replacement ,0.0
+2011,December,12, Total hip replacement ,0.0
+2012,January,1, Total hip replacement ,903.0
+2012,February,2, Total hip replacement ,0.0
+2012,March,3, Total hip replacement ,0.0
+2012,April,4, Total hip replacement ,0.0
+2012,May,5, Total hip replacement ,0.0
+2012,June,6, Total hip replacement ,0.0
+2012,July,7, Total hip replacement ,0.0
+2012,August,8, Total hip replacement ,0.0
+2012,September,9, Total hip replacement ,0.0
+2012,October,10, Total hip replacement ,0.0
+2012,November,11, Total hip replacement ,0.0
+2012,December,12, Total hip replacement ,0.0
+2013,January,1, Total hip replacement ,1087.0
+2013,February,2, Total hip replacement ,0.0
+2013,March,3, Total hip replacement ,0.0
+2013,April,4, Total hip replacement ,0.0
+2013,May,5, Total hip replacement ,0.0
+2013,June,6, Total hip replacement ,0.0
+2013,July,7, Total hip replacement ,0.0
+2013,August,8, Total hip replacement ,0.0
+2013,September,9, Total hip replacement ,0.0
+2013,October,10, Total hip replacement ,0.0
+2013,November,11, Total hip replacement ,0.0
+2013,December,12, Total hip replacement ,0.0
+2014,January,1, Total hip replacement ,2384.0
+2014,February,2, Total hip replacement ,0.0
+2014,March,3, Total hip replacement ,0.0
+2014,April,4, Total hip replacement ,0.0
+2014,May,5, Total hip replacement ,0.0
+2014,June,6, Total hip replacement ,0.0
+2014,July,7, Total hip replacement ,0.0
+2014,August,8, Total hip replacement ,0.0
+2014,September,9, Total hip replacement ,0.0
+2014,October,10, Total hip replacement ,0.0
+2014,November,11, Total hip replacement ,0.0
+2014,December,12, Total hip replacement ,0.0
+2015,January,1, Total hip replacement ,2548.0
+2015,February,2, Total hip replacement ,0.0
+2015,March,3, Total hip replacement ,0.0
+2015,April,4, Total hip replacement ,0.0
+2015,May,5, Total hip replacement ,0.0
+2015,June,6, Total hip replacement ,0.0
+2015,July,7, Total hip replacement ,0.0
+2015,August,8, Total hip replacement ,0.0
+2015,September,9, Total hip replacement ,0.0
+2015,October,10, Total hip replacement ,0.0
+2015,November,11, Total hip replacement ,0.0
+2015,December,12, Total hip replacement ,0.0
+2016,January,1, Total hip replacement ,2720.0
+2016,February,2, Total hip replacement ,0.0
+2016,March,3, Total hip replacement ,0.0
+2016,April,4, Total hip replacement ,0.0
+2016,May,5, Total hip replacement ,0.0
+2016,June,6, Total hip replacement ,0.0
+2016,July,7, Total hip replacement ,0.0
+2016,August,8, Total hip replacement ,0.0
+2016,September,9, Total hip replacement ,0.0
+2016,October,10, Total hip replacement ,0.0
+2016,November,11, Total hip replacement ,0.0
+2016,December,12, Total hip replacement ,0.0
+2017,January,1, Total hip replacement ,2702.0
+2017,February,2, Total hip replacement ,0.0
+2017,March,3, Total hip replacement ,0.0
+2017,April,4, Total hip replacement ,0.0
+2017,May,5, Total hip replacement ,0.0
+2017,June,6, Total hip replacement ,0.0
+2017,July,7, Total hip replacement ,0.0
+2017,August,8, Total hip replacement ,0.0
+2017,September,9, Total hip replacement ,0.0
+2017,October,10, Total hip replacement ,0.0
+2017,November,11, Total hip replacement ,0.0
+2017,December,12, Total hip replacement ,0.0
+2018,January,1, Total hip replacement ,3023.0
+2018,February,2, Total hip replacement ,0.0
+2018,March,3, Total hip replacement ,0.0
+2018,April,4, Total hip replacement ,0.0
+2018,May,5, Total hip replacement ,0.0
+2018,June,6, Total hip replacement ,0.0
+2018,July,7, Total hip replacement ,0.0
+2018,August,8, Total hip replacement ,0.0
+2018,September,9, Total hip replacement ,0.0
+2018,October,10, Total hip replacement ,0.0
+2018,November,11, Total hip replacement ,0.0
+2018,December,12, Total hip replacement ,0.0
+2019,January,1, Total hip replacement ,2883.0
+2019,February,2, Total hip replacement ,0.0
+2019,March,3, Total hip replacement ,0.0
+2019,April,4, Total hip replacement ,0.0
+2019,May,5, Total hip replacement ,0.0
+2019,June,6, Total hip replacement ,0.0
+2019,July,7, Total hip replacement ,0.0
+2019,August,8, Total hip replacement ,0.0
+2019,September,9, Total hip replacement ,0.0
+2019,October,10, Total hip replacement ,0.0
+2019,November,11, Total hip replacement ,0.0
+2019,December,12, Total hip replacement ,0.0
+2020,January,1, Total hip replacement ,2894.0
+2020,February,2, Total hip replacement ,0.0
+2020,March,3, Total hip replacement ,0.0
+2020,April,4, Total hip replacement ,0.0
+2020,May,5, Total hip replacement ,0.0
+2020,June,6, Total hip replacement ,0.0
+2020,July,7, Total hip replacement ,0.0
+2020,August,8, Total hip replacement ,0.0
+2020,September,9, Total hip replacement ,0.0
+2020,October,10, Total hip replacement ,0.0
+2020,November,11, Total hip replacement ,0.0
+2020,December,12, Total hip replacement ,0.0
+2021,January,1, Total hip replacement ,2811.0
+2021,February,2, Total hip replacement ,0.0
+2021,March,3, Total hip replacement ,0.0
+2021,April,4, Total hip replacement ,0.0
+2021,May,5, Total hip replacement ,0.0
+2021,June,6, Total hip replacement ,0.0
+2021,July,7, Total hip replacement ,0.0
+2021,August,8, Total hip replacement ,0.0
+2021,September,9, Total hip replacement ,0.0
+2021,October,10, Total hip replacement ,0.0
+2021,November,11, Total hip replacement ,0.0
+2021,December,12, Total hip replacement ,0.0
+2022,January,1, Total hip replacement ,2763.0
+2022,February,2, Total hip replacement ,0.0
+2022,March,3, Total hip replacement ,0.0
+2022,April,4, Total hip replacement ,0.0
+2022,May,5, Total hip replacement ,0.0
+2022,June,6, Total hip replacement ,0.0
+2022,July,7, Total hip replacement ,0.0
+2022,August,8, Total hip replacement ,0.0
+2022,September,9, Total hip replacement ,0.0
+2022,October,10, Total hip replacement ,0.0
+2022,November,11, Total hip replacement ,0.0
+2022,December,12, Total hip replacement ,0.0
+2006,January,1, Total knee replacement ,2426.0
+2006,February,2, Total knee replacement ,0.0
+2006,March,3, Total knee replacement ,0.0
+2006,April,4, Total knee replacement ,0.0
+2006,May,5, Total knee replacement ,0.0
+2006,June,6, Total knee replacement ,0.0
+2006,July,7, Total knee replacement ,0.0
+2006,August,8, Total knee replacement ,0.0
+2006,September,9, Total knee replacement ,0.0
+2006,October,10, Total knee replacement ,0.0
+2006,November,11, Total knee replacement ,0.0
+2006,December,12, Total knee replacement ,0.0
+2007,January,1, Total knee replacement ,4371.0
+2007,February,2, Total knee replacement ,0.0
+2007,March,3, Total knee replacement ,0.0
+2007,April,4, Total knee replacement ,0.0
+2007,May,5, Total knee replacement ,0.0
+2007,June,6, Total knee replacement ,0.0
+2007,July,7, Total knee replacement ,0.0
+2007,August,8, Total knee replacement ,0.0
+2007,September,9, Total knee replacement ,0.0
+2007,October,10, Total knee replacement ,0.0
+2007,November,11, Total knee replacement ,0.0
+2007,December,12, Total knee replacement ,0.0
+2008,January,1, Total knee replacement ,4788.0
+2008,February,2, Total knee replacement ,0.0
+2008,March,3, Total knee replacement ,0.0
+2008,April,4, Total knee replacement ,0.0
+2008,May,5, Total knee replacement ,0.0
+2008,June,6, Total knee replacement ,0.0
+2008,July,7, Total knee replacement ,0.0
+2008,August,8, Total knee replacement ,0.0
+2008,September,9, Total knee replacement ,0.0
+2008,October,10, Total knee replacement ,0.0
+2008,November,11, Total knee replacement ,0.0
+2008,December,12, Total knee replacement ,0.0
+2009,January,1, Total knee replacement ,3898.0
+2009,February,2, Total knee replacement ,0.0
+2009,March,3, Total knee replacement ,0.0
+2009,April,4, Total knee replacement ,0.0
+2009,May,5, Total knee replacement ,0.0
+2009,June,6, Total knee replacement ,0.0
+2009,July,7, Total knee replacement ,0.0
+2009,August,8, Total knee replacement ,0.0
+2009,September,9, Total knee replacement ,0.0
+2009,October,10, Total knee replacement ,0.0
+2009,November,11, Total knee replacement ,0.0
+2009,December,12, Total knee replacement ,0.0
+2010,January,1, Total knee replacement ,5982.0
+2010,February,2, Total knee replacement ,0.0
+2010,March,3, Total knee replacement ,0.0
+2010,April,4, Total knee replacement ,0.0
+2010,May,5, Total knee replacement ,0.0
+2010,June,6, Total knee replacement ,0.0
+2010,July,7, Total knee replacement ,0.0
+2010,August,8, Total knee replacement ,0.0
+2010,September,9, Total knee replacement ,0.0
+2010,October,10, Total knee replacement ,0.0
+2010,November,11, Total knee replacement ,0.0
+2010,December,12, Total knee replacement ,0.0
+2011,January,1, Total knee replacement ,5142.0
+2011,February,2, Total knee replacement ,0.0
+2011,March,3, Total knee replacement ,0.0
+2011,April,4, Total knee replacement ,0.0
+2011,May,5, Total knee replacement ,0.0
+2011,June,6, Total knee replacement ,0.0
+2011,July,7, Total knee replacement ,0.0
+2011,August,8, Total knee replacement ,0.0
+2011,September,9, Total knee replacement ,0.0
+2011,October,10, Total knee replacement ,0.0
+2011,November,11, Total knee replacement ,0.0
+2011,December,12, Total knee replacement ,0.0
+2012,January,1, Total knee replacement ,5674.0
+2012,February,2, Total knee replacement ,0.0
+2012,March,3, Total knee replacement ,0.0
+2012,April,4, Total knee replacement ,0.0
+2012,May,5, Total knee replacement ,0.0
+2012,June,6, Total knee replacement ,0.0
+2012,July,7, Total knee replacement ,0.0
+2012,August,8, Total knee replacement ,0.0
+2012,September,9, Total knee replacement ,0.0
+2012,October,10, Total knee replacement ,0.0
+2012,November,11, Total knee replacement ,0.0
+2012,December,12, Total knee replacement ,0.0
+2013,January,1, Total knee replacement ,6811.0
+2013,February,2, Total knee replacement ,0.0
+2013,March,3, Total knee replacement ,0.0
+2013,April,4, Total knee replacement ,0.0
+2013,May,5, Total knee replacement ,0.0
+2013,June,6, Total knee replacement ,0.0
+2013,July,7, Total knee replacement ,0.0
+2013,August,8, Total knee replacement ,0.0
+2013,September,9, Total knee replacement ,0.0
+2013,October,10, Total knee replacement ,0.0
+2013,November,11, Total knee replacement ,0.0
+2013,December,12, Total knee replacement ,0.0
+2014,January,1, Total knee replacement ,5577.0
+2014,February,2, Total knee replacement ,0.0
+2014,March,3, Total knee replacement ,0.0
+2014,April,4, Total knee replacement ,0.0
+2014,May,5, Total knee replacement ,0.0
+2014,June,6, Total knee replacement ,0.0
+2014,July,7, Total knee replacement ,0.0
+2014,August,8, Total knee replacement ,0.0
+2014,September,9, Total knee replacement ,0.0
+2014,October,10, Total knee replacement ,0.0
+2014,November,11, Total knee replacement ,0.0
+2014,December,12, Total knee replacement ,0.0
+2015,January,1, Total knee replacement ,7092.0
+2015,February,2, Total knee replacement ,0.0
+2015,March,3, Total knee replacement ,0.0
+2015,April,4, Total knee replacement ,0.0
+2015,May,5, Total knee replacement ,0.0
+2015,June,6, Total knee replacement ,0.0
+2015,July,7, Total knee replacement ,0.0
+2015,August,8, Total knee replacement ,0.0
+2015,September,9, Total knee replacement ,0.0
+2015,October,10, Total knee replacement ,0.0
+2015,November,11, Total knee replacement ,0.0
+2015,December,12, Total knee replacement ,0.0
+2016,January,1, Total knee replacement ,7684.0
+2016,February,2, Total knee replacement ,0.0
+2016,March,3, Total knee replacement ,0.0
+2016,April,4, Total knee replacement ,0.0
+2016,May,5, Total knee replacement ,0.0
+2016,June,6, Total knee replacement ,0.0
+2016,July,7, Total knee replacement ,0.0
+2016,August,8, Total knee replacement ,0.0
+2016,September,9, Total knee replacement ,0.0
+2016,October,10, Total knee replacement ,0.0
+2016,November,11, Total knee replacement ,0.0
+2016,December,12, Total knee replacement ,0.0
+2017,January,1, Total knee replacement ,7138.0
+2017,February,2, Total knee replacement ,0.0
+2017,March,3, Total knee replacement ,0.0
+2017,April,4, Total knee replacement ,0.0
+2017,May,5, Total knee replacement ,0.0
+2017,June,6, Total knee replacement ,0.0
+2017,July,7, Total knee replacement ,0.0
+2017,August,8, Total knee replacement ,0.0
+2017,September,9, Total knee replacement ,0.0
+2017,October,10, Total knee replacement ,0.0
+2017,November,11, Total knee replacement ,0.0
+2017,December,12, Total knee replacement ,0.0
+2018,January,1, Total knee replacement ,8533.0
+2018,February,2, Total knee replacement ,0.0
+2018,March,3, Total knee replacement ,0.0
+2018,April,4, Total knee replacement ,0.0
+2018,May,5, Total knee replacement ,0.0
+2018,June,6, Total knee replacement ,0.0
+2018,July,7, Total knee replacement ,0.0
+2018,August,8, Total knee replacement ,0.0
+2018,September,9, Total knee replacement ,0.0
+2018,October,10, Total knee replacement ,0.0
+2018,November,11, Total knee replacement ,0.0
+2018,December,12, Total knee replacement ,0.0
+2019,January,1, Total knee replacement ,8458.0
+2019,February,2, Total knee replacement ,0.0
+2019,March,3, Total knee replacement ,0.0
+2019,April,4, Total knee replacement ,0.0
+2019,May,5, Total knee replacement ,0.0
+2019,June,6, Total knee replacement ,0.0
+2019,July,7, Total knee replacement ,0.0
+2019,August,8, Total knee replacement ,0.0
+2019,September,9, Total knee replacement ,0.0
+2019,October,10, Total knee replacement ,0.0
+2019,November,11, Total knee replacement ,0.0
+2019,December,12, Total knee replacement ,0.0
+2020,January,1, Total knee replacement ,8157.0
+2020,February,2, Total knee replacement ,0.0
+2020,March,3, Total knee replacement ,0.0
+2020,April,4, Total knee replacement ,0.0
+2020,May,5, Total knee replacement ,0.0
+2020,June,6, Total knee replacement ,0.0
+2020,July,7, Total knee replacement ,0.0
+2020,August,8, Total knee replacement ,0.0
+2020,September,9, Total knee replacement ,0.0
+2020,October,10, Total knee replacement ,0.0
+2020,November,11, Total knee replacement ,0.0
+2020,December,12, Total knee replacement ,0.0
+2021,January,1, Total knee replacement ,7199.0
+2021,February,2, Total knee replacement ,0.0
+2021,March,3, Total knee replacement ,0.0
+2021,April,4, Total knee replacement ,0.0
+2021,May,5, Total knee replacement ,0.0
+2021,June,6, Total knee replacement ,0.0
+2021,July,7, Total knee replacement ,0.0
+2021,August,8, Total knee replacement ,0.0
+2021,September,9, Total knee replacement ,0.0
+2021,October,10, Total knee replacement ,0.0
+2021,November,11, Total knee replacement ,0.0
+2021,December,12, Total knee replacement ,0.0
+2022,January,1, Total knee replacement ,7371.0
+2022,February,2, Total knee replacement ,0.0
+2022,March,3, Total knee replacement ,0.0
+2022,April,4, Total knee replacement ,0.0
+2022,May,5, Total knee replacement ,0.0
+2022,June,6, Total knee replacement ,0.0
+2022,July,7, Total knee replacement ,0.0
+2022,August,8, Total knee replacement ,0.0
+2022,September,9, Total knee replacement ,0.0
+2022,October,10, Total knee replacement ,0.0
+2022,November,11, Total knee replacement ,0.0
+2022,December,12, Total knee replacement ,0.0
+2006,January,1, Mastectomy ,2428.0
+2006,February,2, Mastectomy ,0.0
+2006,March,3, Mastectomy ,0.0
+2006,April,4, Mastectomy ,0.0
+2006,May,5, Mastectomy ,0.0
+2006,June,6, Mastectomy ,0.0
+2006,July,7, Mastectomy ,0.0
+2006,August,8, Mastectomy ,0.0
+2006,September,9, Mastectomy ,0.0
+2006,October,10, Mastectomy ,0.0
+2006,November,11, Mastectomy ,0.0
+2006,December,12, Mastectomy ,0.0
+2007,January,1, Mastectomy ,2896.0
+2007,February,2, Mastectomy ,0.0
+2007,March,3, Mastectomy ,0.0
+2007,April,4, Mastectomy ,0.0
+2007,May,5, Mastectomy ,0.0
+2007,June,6, Mastectomy ,0.0
+2007,July,7, Mastectomy ,0.0
+2007,August,8, Mastectomy ,0.0
+2007,September,9, Mastectomy ,0.0
+2007,October,10, Mastectomy ,0.0
+2007,November,11, Mastectomy ,0.0
+2007,December,12, Mastectomy ,0.0
+2008,January,1, Mastectomy ,3144.0
+2008,February,2, Mastectomy ,0.0
+2008,March,3, Mastectomy ,0.0
+2008,April,4, Mastectomy ,0.0
+2008,May,5, Mastectomy ,0.0
+2008,June,6, Mastectomy ,0.0
+2008,July,7, Mastectomy ,0.0
+2008,August,8, Mastectomy ,0.0
+2008,September,9, Mastectomy ,0.0
+2008,October,10, Mastectomy ,0.0
+2008,November,11, Mastectomy ,0.0
+2008,December,12, Mastectomy ,0.0
+2009,January,1, Mastectomy ,2723.0
+2009,February,2, Mastectomy ,0.0
+2009,March,3, Mastectomy ,0.0
+2009,April,4, Mastectomy ,0.0
+2009,May,5, Mastectomy ,0.0
+2009,June,6, Mastectomy ,0.0
+2009,July,7, Mastectomy ,0.0
+2009,August,8, Mastectomy ,0.0
+2009,September,9, Mastectomy ,0.0
+2009,October,10, Mastectomy ,0.0
+2009,November,11, Mastectomy ,0.0
+2009,December,12, Mastectomy ,0.0
+2010,January,1, Mastectomy ,3050.0
+2010,February,2, Mastectomy ,0.0
+2010,March,3, Mastectomy ,0.0
+2010,April,4, Mastectomy ,0.0
+2010,May,5, Mastectomy ,0.0
+2010,June,6, Mastectomy ,0.0
+2010,July,7, Mastectomy ,0.0
+2010,August,8, Mastectomy ,0.0
+2010,September,9, Mastectomy ,0.0
+2010,October,10, Mastectomy ,0.0
+2010,November,11, Mastectomy ,0.0
+2010,December,12, Mastectomy ,0.0
+2011,January,1, Mastectomy ,3159.0
+2011,February,2, Mastectomy ,0.0
+2011,March,3, Mastectomy ,0.0
+2011,April,4, Mastectomy ,0.0
+2011,May,5, Mastectomy ,0.0
+2011,June,6, Mastectomy ,0.0
+2011,July,7, Mastectomy ,0.0
+2011,August,8, Mastectomy ,0.0
+2011,September,9, Mastectomy ,0.0
+2011,October,10, Mastectomy ,0.0
+2011,November,11, Mastectomy ,0.0
+2011,December,12, Mastectomy ,0.0
+2012,January,1, Mastectomy ,3199.0
+2012,February,2, Mastectomy ,0.0
+2012,March,3, Mastectomy ,0.0
+2012,April,4, Mastectomy ,0.0
+2012,May,5, Mastectomy ,0.0
+2012,June,6, Mastectomy ,0.0
+2012,July,7, Mastectomy ,0.0
+2012,August,8, Mastectomy ,0.0
+2012,September,9, Mastectomy ,0.0
+2012,October,10, Mastectomy ,0.0
+2012,November,11, Mastectomy ,0.0
+2012,December,12, Mastectomy ,0.0
+2013,January,1, Mastectomy ,3901.0
+2013,February,2, Mastectomy ,0.0
+2013,March,3, Mastectomy ,0.0
+2013,April,4, Mastectomy ,0.0
+2013,May,5, Mastectomy ,0.0
+2013,June,6, Mastectomy ,0.0
+2013,July,7, Mastectomy ,0.0
+2013,August,8, Mastectomy ,0.0
+2013,September,9, Mastectomy ,0.0
+2013,October,10, Mastectomy ,0.0
+2013,November,11, Mastectomy ,0.0
+2013,December,12, Mastectomy ,0.0
+2014,January,1, Mastectomy ,3657.0
+2014,February,2, Mastectomy ,0.0
+2014,March,3, Mastectomy ,0.0
+2014,April,4, Mastectomy ,0.0
+2014,May,5, Mastectomy ,0.0
+2014,June,6, Mastectomy ,0.0
+2014,July,7, Mastectomy ,0.0
+2014,August,8, Mastectomy ,0.0
+2014,September,9, Mastectomy ,0.0
+2014,October,10, Mastectomy ,0.0
+2014,November,11, Mastectomy ,0.0
+2014,December,12, Mastectomy ,0.0
+2015,January,1, Mastectomy ,3968.0
+2015,February,2, Mastectomy ,0.0
+2015,March,3, Mastectomy ,0.0
+2015,April,4, Mastectomy ,0.0
+2015,May,5, Mastectomy ,0.0
+2015,June,6, Mastectomy ,0.0
+2015,July,7, Mastectomy ,0.0
+2015,August,8, Mastectomy ,0.0
+2015,September,9, Mastectomy ,0.0
+2015,October,10, Mastectomy ,0.0
+2015,November,11, Mastectomy ,0.0
+2015,December,12, Mastectomy ,0.0
+2016,January,1, Mastectomy ,4048.0
+2016,February,2, Mastectomy ,0.0
+2016,March,3, Mastectomy ,0.0
+2016,April,4, Mastectomy ,0.0
+2016,May,5, Mastectomy ,0.0
+2016,June,6, Mastectomy ,0.0
+2016,July,7, Mastectomy ,0.0
+2016,August,8, Mastectomy ,0.0
+2016,September,9, Mastectomy ,0.0
+2016,October,10, Mastectomy ,0.0
+2016,November,11, Mastectomy ,0.0
+2016,December,12, Mastectomy ,0.0
+2017,January,1, Mastectomy ,4332.0
+2017,February,2, Mastectomy ,0.0
+2017,March,3, Mastectomy ,0.0
+2017,April,4, Mastectomy ,0.0
+2017,May,5, Mastectomy ,0.0
+2017,June,6, Mastectomy ,0.0
+2017,July,7, Mastectomy ,0.0
+2017,August,8, Mastectomy ,0.0
+2017,September,9, Mastectomy ,0.0
+2017,October,10, Mastectomy ,0.0
+2017,November,11, Mastectomy ,0.0
+2017,December,12, Mastectomy ,0.0
+2018,January,1, Mastectomy ,4586.0
+2018,February,2, Mastectomy ,0.0
+2018,March,3, Mastectomy ,0.0
+2018,April,4, Mastectomy ,0.0
+2018,May,5, Mastectomy ,0.0
+2018,June,6, Mastectomy ,0.0
+2018,July,7, Mastectomy ,0.0
+2018,August,8, Mastectomy ,0.0
+2018,September,9, Mastectomy ,0.0
+2018,October,10, Mastectomy ,0.0
+2018,November,11, Mastectomy ,0.0
+2018,December,12, Mastectomy ,0.0
+2019,January,1, Mastectomy ,5130.0
+2019,February,2, Mastectomy ,0.0
+2019,March,3, Mastectomy ,0.0
+2019,April,4, Mastectomy ,0.0
+2019,May,5, Mastectomy ,0.0
+2019,June,6, Mastectomy ,0.0
+2019,July,7, Mastectomy ,0.0
+2019,August,8, Mastectomy ,0.0
+2019,September,9, Mastectomy ,0.0
+2019,October,10, Mastectomy ,0.0
+2019,November,11, Mastectomy ,0.0
+2019,December,12, Mastectomy ,0.0
+2020,January,1, Mastectomy ,4954.0
+2020,February,2, Mastectomy ,0.0
+2020,March,3, Mastectomy ,0.0
+2020,April,4, Mastectomy ,0.0
+2020,May,5, Mastectomy ,0.0
+2020,June,6, Mastectomy ,0.0
+2020,July,7, Mastectomy ,0.0
+2020,August,8, Mastectomy ,0.0
+2020,September,9, Mastectomy ,0.0
+2020,October,10, Mastectomy ,0.0
+2020,November,11, Mastectomy ,0.0
+2020,December,12, Mastectomy ,0.0
+2021,January,1, Mastectomy ,5130.0
+2021,February,2, Mastectomy ,0.0
+2021,March,3, Mastectomy ,0.0
+2021,April,4, Mastectomy ,0.0
+2021,May,5, Mastectomy ,0.0
+2021,June,6, Mastectomy ,0.0
+2021,July,7, Mastectomy ,0.0
+2021,August,8, Mastectomy ,0.0
+2021,September,9, Mastectomy ,0.0
+2021,October,10, Mastectomy ,0.0
+2021,November,11, Mastectomy ,0.0
+2021,December,12, Mastectomy ,0.0
+2022,January,1, Mastectomy ,5492.0
+2022,February,2, Mastectomy ,0.0
+2022,March,3, Mastectomy ,0.0
+2022,April,4, Mastectomy ,0.0
+2022,May,5, Mastectomy ,0.0
+2022,June,6, Mastectomy ,0.0
+2022,July,7, Mastectomy ,0.0
+2022,August,8, Mastectomy ,0.0
+2022,September,9, Mastectomy ,0.0
+2022,October,10, Mastectomy ,0.0
+2022,November,11, Mastectomy ,0.0
+2022,December,12, Mastectomy ,0.0
+2006,January,1, Craniotomy and removal of brain tumor ,404.0
+2006,February,2, Craniotomy and removal of brain tumor ,0.0
+2006,March,3, Craniotomy and removal of brain tumor ,0.0
+2006,April,4, Craniotomy and removal of brain tumor ,0.0
+2006,May,5, Craniotomy and removal of brain tumor ,0.0
+2006,June,6, Craniotomy and removal of brain tumor ,0.0
+2006,July,7, Craniotomy and removal of brain tumor ,0.0
+2006,August,8, Craniotomy and removal of brain tumor ,0.0
+2006,September,9, Craniotomy and removal of brain tumor ,0.0
+2006,October,10, Craniotomy and removal of brain tumor ,0.0
+2006,November,11, Craniotomy and removal of brain tumor ,0.0
+2006,December,12, Craniotomy and removal of brain tumor ,0.0
+2007,January,1, Craniotomy and removal of brain tumor ,492.0
+2007,February,2, Craniotomy and removal of brain tumor ,0.0
+2007,March,3, Craniotomy and removal of brain tumor ,0.0
+2007,April,4, Craniotomy and removal of brain tumor ,0.0
+2007,May,5, Craniotomy and removal of brain tumor ,0.0
+2007,June,6, Craniotomy and removal of brain tumor ,0.0
+2007,July,7, Craniotomy and removal of brain tumor ,0.0
+2007,August,8, Craniotomy and removal of brain tumor ,0.0
+2007,September,9, Craniotomy and removal of brain tumor ,0.0
+2007,October,10, Craniotomy and removal of brain tumor ,0.0
+2007,November,11, Craniotomy and removal of brain tumor ,0.0
+2007,December,12, Craniotomy and removal of brain tumor ,0.0
+2008,January,1, Craniotomy and removal of brain tumor ,523.0
+2008,February,2, Craniotomy and removal of brain tumor ,0.0
+2008,March,3, Craniotomy and removal of brain tumor ,0.0
+2008,April,4, Craniotomy and removal of brain tumor ,0.0
+2008,May,5, Craniotomy and removal of brain tumor ,0.0
+2008,June,6, Craniotomy and removal of brain tumor ,0.0
+2008,July,7, Craniotomy and removal of brain tumor ,0.0
+2008,August,8, Craniotomy and removal of brain tumor ,0.0
+2008,September,9, Craniotomy and removal of brain tumor ,0.0
+2008,October,10, Craniotomy and removal of brain tumor ,0.0
+2008,November,11, Craniotomy and removal of brain tumor ,0.0
+2008,December,12, Craniotomy and removal of brain tumor ,0.0
+2009,January,1, Craniotomy and removal of brain tumor ,521.0
+2009,February,2, Craniotomy and removal of brain tumor ,0.0
+2009,March,3, Craniotomy and removal of brain tumor ,0.0
+2009,April,4, Craniotomy and removal of brain tumor ,0.0
+2009,May,5, Craniotomy and removal of brain tumor ,0.0
+2009,June,6, Craniotomy and removal of brain tumor ,0.0
+2009,July,7, Craniotomy and removal of brain tumor ,0.0
+2009,August,8, Craniotomy and removal of brain tumor ,0.0
+2009,September,9, Craniotomy and removal of brain tumor ,0.0
+2009,October,10, Craniotomy and removal of brain tumor ,0.0
+2009,November,11, Craniotomy and removal of brain tumor ,0.0
+2009,December,12, Craniotomy and removal of brain tumor ,0.0
+2010,January,1, Craniotomy and removal of brain tumor ,594.0
+2010,February,2, Craniotomy and removal of brain tumor ,0.0
+2010,March,3, Craniotomy and removal of brain tumor ,0.0
+2010,April,4, Craniotomy and removal of brain tumor ,0.0
+2010,May,5, Craniotomy and removal of brain tumor ,0.0
+2010,June,6, Craniotomy and removal of brain tumor ,0.0
+2010,July,7, Craniotomy and removal of brain tumor ,0.0
+2010,August,8, Craniotomy and removal of brain tumor ,0.0
+2010,September,9, Craniotomy and removal of brain tumor ,0.0
+2010,October,10, Craniotomy and removal of brain tumor ,0.0
+2010,November,11, Craniotomy and removal of brain tumor ,0.0
+2010,December,12, Craniotomy and removal of brain tumor ,0.0
+2011,January,1, Craniotomy and removal of brain tumor ,586.0
+2011,February,2, Craniotomy and removal of brain tumor ,0.0
+2011,March,3, Craniotomy and removal of brain tumor ,0.0
+2011,April,4, Craniotomy and removal of brain tumor ,0.0
+2011,May,5, Craniotomy and removal of brain tumor ,0.0
+2011,June,6, Craniotomy and removal of brain tumor ,0.0
+2011,July,7, Craniotomy and removal of brain tumor ,0.0
+2011,August,8, Craniotomy and removal of brain tumor ,0.0
+2011,September,9, Craniotomy and removal of brain tumor ,0.0
+2011,October,10, Craniotomy and removal of brain tumor ,0.0
+2011,November,11, Craniotomy and removal of brain tumor ,0.0
+2011,December,12, Craniotomy and removal of brain tumor ,0.0
+2012,January,1, Craniotomy and removal of brain tumor ,659.0
+2012,February,2, Craniotomy and removal of brain tumor ,0.0
+2012,March,3, Craniotomy and removal of brain tumor ,0.0
+2012,April,4, Craniotomy and removal of brain tumor ,0.0
+2012,May,5, Craniotomy and removal of brain tumor ,0.0
+2012,June,6, Craniotomy and removal of brain tumor ,0.0
+2012,July,7, Craniotomy and removal of brain tumor ,0.0
+2012,August,8, Craniotomy and removal of brain tumor ,0.0
+2012,September,9, Craniotomy and removal of brain tumor ,0.0
+2012,October,10, Craniotomy and removal of brain tumor ,0.0
+2012,November,11, Craniotomy and removal of brain tumor ,0.0
+2012,December,12, Craniotomy and removal of brain tumor ,0.0
+2013,January,1, Craniotomy and removal of brain tumor ,705.0
+2013,February,2, Craniotomy and removal of brain tumor ,0.0
+2013,March,3, Craniotomy and removal of brain tumor ,0.0
+2013,April,4, Craniotomy and removal of brain tumor ,0.0
+2013,May,5, Craniotomy and removal of brain tumor ,0.0
+2013,June,6, Craniotomy and removal of brain tumor ,0.0
+2013,July,7, Craniotomy and removal of brain tumor ,0.0
+2013,August,8, Craniotomy and removal of brain tumor ,0.0
+2013,September,9, Craniotomy and removal of brain tumor ,0.0
+2013,October,10, Craniotomy and removal of brain tumor ,0.0
+2013,November,11, Craniotomy and removal of brain tumor ,0.0
+2013,December,12, Craniotomy and removal of brain tumor ,0.0
+2014,January,1, Craniotomy and removal of brain tumor ,590.0
+2014,February,2, Craniotomy and removal of brain tumor ,0.0
+2014,March,3, Craniotomy and removal of brain tumor ,0.0
+2014,April,4, Craniotomy and removal of brain tumor ,0.0
+2014,May,5, Craniotomy and removal of brain tumor ,0.0
+2014,June,6, Craniotomy and removal of brain tumor ,0.0
+2014,July,7, Craniotomy and removal of brain tumor ,0.0
+2014,August,8, Craniotomy and removal of brain tumor ,0.0
+2014,September,9, Craniotomy and removal of brain tumor ,0.0
+2014,October,10, Craniotomy and removal of brain tumor ,0.0
+2014,November,11, Craniotomy and removal of brain tumor ,0.0
+2014,December,12, Craniotomy and removal of brain tumor ,0.0
+2015,January,1, Craniotomy and removal of brain tumor ,676.0
+2015,February,2, Craniotomy and removal of brain tumor ,0.0
+2015,March,3, Craniotomy and removal of brain tumor ,0.0
+2015,April,4, Craniotomy and removal of brain tumor ,0.0
+2015,May,5, Craniotomy and removal of brain tumor ,0.0
+2015,June,6, Craniotomy and removal of brain tumor ,0.0
+2015,July,7, Craniotomy and removal of brain tumor ,0.0
+2015,August,8, Craniotomy and removal of brain tumor ,0.0
+2015,September,9, Craniotomy and removal of brain tumor ,0.0
+2015,October,10, Craniotomy and removal of brain tumor ,0.0
+2015,November,11, Craniotomy and removal of brain tumor ,0.0
+2015,December,12, Craniotomy and removal of brain tumor ,0.0
+2016,January,1, Craniotomy and removal of brain tumor ,693.0
+2016,February,2, Craniotomy and removal of brain tumor ,0.0
+2016,March,3, Craniotomy and removal of brain tumor ,0.0
+2016,April,4, Craniotomy and removal of brain tumor ,0.0
+2016,May,5, Craniotomy and removal of brain tumor ,0.0
+2016,June,6, Craniotomy and removal of brain tumor ,0.0
+2016,July,7, Craniotomy and removal of brain tumor ,0.0
+2016,August,8, Craniotomy and removal of brain tumor ,0.0
+2016,September,9, Craniotomy and removal of brain tumor ,0.0
+2016,October,10, Craniotomy and removal of brain tumor ,0.0
+2016,November,11, Craniotomy and removal of brain tumor ,0.0
+2016,December,12, Craniotomy and removal of brain tumor ,0.0
+2017,January,1, Craniotomy and removal of brain tumor ,653.0
+2017,February,2, Craniotomy and removal of brain tumor ,0.0
+2017,March,3, Craniotomy and removal of brain tumor ,0.0
+2017,April,4, Craniotomy and removal of brain tumor ,0.0
+2017,May,5, Craniotomy and removal of brain tumor ,0.0
+2017,June,6, Craniotomy and removal of brain tumor ,0.0
+2017,July,7, Craniotomy and removal of brain tumor ,0.0
+2017,August,8, Craniotomy and removal of brain tumor ,0.0
+2017,September,9, Craniotomy and removal of brain tumor ,0.0
+2017,October,10, Craniotomy and removal of brain tumor ,0.0
+2017,November,11, Craniotomy and removal of brain tumor ,0.0
+2017,December,12, Craniotomy and removal of brain tumor ,0.0
+2018,January,1, Craniotomy and removal of brain tumor ,565.0
+2018,February,2, Craniotomy and removal of brain tumor ,0.0
+2018,March,3, Craniotomy and removal of brain tumor ,0.0
+2018,April,4, Craniotomy and removal of brain tumor ,0.0
+2018,May,5, Craniotomy and removal of brain tumor ,0.0
+2018,June,6, Craniotomy and removal of brain tumor ,0.0
+2018,July,7, Craniotomy and removal of brain tumor ,0.0
+2018,August,8, Craniotomy and removal of brain tumor ,0.0
+2018,September,9, Craniotomy and removal of brain tumor ,0.0
+2018,October,10, Craniotomy and removal of brain tumor ,0.0
+2018,November,11, Craniotomy and removal of brain tumor ,0.0
+2018,December,12, Craniotomy and removal of brain tumor ,0.0
+2019,January,1, Craniotomy and removal of brain tumor ,608.0
+2019,February,2, Craniotomy and removal of brain tumor ,0.0
+2019,March,3, Craniotomy and removal of brain tumor ,0.0
+2019,April,4, Craniotomy and removal of brain tumor ,0.0
+2019,May,5, Craniotomy and removal of brain tumor ,0.0
+2019,June,6, Craniotomy and removal of brain tumor ,0.0
+2019,July,7, Craniotomy and removal of brain tumor ,0.0
+2019,August,8, Craniotomy and removal of brain tumor ,0.0
+2019,September,9, Craniotomy and removal of brain tumor ,0.0
+2019,October,10, Craniotomy and removal of brain tumor ,0.0
+2019,November,11, Craniotomy and removal of brain tumor ,0.0
+2019,December,12, Craniotomy and removal of brain tumor ,0.0
+2020,January,1, Craniotomy and removal of brain tumor ,556.0
+2020,February,2, Craniotomy and removal of brain tumor ,0.0
+2020,March,3, Craniotomy and removal of brain tumor ,0.0
+2020,April,4, Craniotomy and removal of brain tumor ,0.0
+2020,May,5, Craniotomy and removal of brain tumor ,0.0
+2020,June,6, Craniotomy and removal of brain tumor ,0.0
+2020,July,7, Craniotomy and removal of brain tumor ,0.0
+2020,August,8, Craniotomy and removal of brain tumor ,0.0
+2020,September,9, Craniotomy and removal of brain tumor ,0.0
+2020,October,10, Craniotomy and removal of brain tumor ,0.0
+2020,November,11, Craniotomy and removal of brain tumor ,0.0
+2020,December,12, Craniotomy and removal of brain tumor ,0.0
+2021,January,1, Craniotomy and removal of brain tumor ,895.0
+2021,February,2, Craniotomy and removal of brain tumor ,0.0
+2021,March,3, Craniotomy and removal of brain tumor ,0.0
+2021,April,4, Craniotomy and removal of brain tumor ,0.0
+2021,May,5, Craniotomy and removal of brain tumor ,0.0
+2021,June,6, Craniotomy and removal of brain tumor ,0.0
+2021,July,7, Craniotomy and removal of brain tumor ,0.0
+2021,August,8, Craniotomy and removal of brain tumor ,0.0
+2021,September,9, Craniotomy and removal of brain tumor ,0.0
+2021,October,10, Craniotomy and removal of brain tumor ,0.0
+2021,November,11, Craniotomy and removal of brain tumor ,0.0
+2021,December,12, Craniotomy and removal of brain tumor ,0.0
+2022,January,1, Craniotomy and removal of brain tumor ,824.0
+2022,February,2, Craniotomy and removal of brain tumor ,0.0
+2022,March,3, Craniotomy and removal of brain tumor ,0.0
+2022,April,4, Craniotomy and removal of brain tumor ,0.0
+2022,May,5, Craniotomy and removal of brain tumor ,0.0
+2022,June,6, Craniotomy and removal of brain tumor ,0.0
+2022,July,7, Craniotomy and removal of brain tumor ,0.0
+2022,August,8, Craniotomy and removal of brain tumor ,0.0
+2022,September,9, Craniotomy and removal of brain tumor ,0.0
+2022,October,10, Craniotomy and removal of brain tumor ,0.0
+2022,November,11, Craniotomy and removal of brain tumor ,0.0
+2022,December,12, Craniotomy and removal of brain tumor ,0.0
+2006,January,1, Total gastrectomy ,1568.0
+2006,February,2, Total gastrectomy ,0.0
+2006,March,3, Total gastrectomy ,0.0
+2006,April,4, Total gastrectomy ,0.0
+2006,May,5, Total gastrectomy ,0.0
+2006,June,6, Total gastrectomy ,0.0
+2006,July,7, Total gastrectomy ,0.0
+2006,August,8, Total gastrectomy ,0.0
+2006,September,9, Total gastrectomy ,0.0
+2006,October,10, Total gastrectomy ,0.0
+2006,November,11, Total gastrectomy ,0.0
+2006,December,12, Total gastrectomy ,0.0
+2007,January,1, Total gastrectomy ,1653.0
+2007,February,2, Total gastrectomy ,0.0
+2007,March,3, Total gastrectomy ,0.0
+2007,April,4, Total gastrectomy ,0.0
+2007,May,5, Total gastrectomy ,0.0
+2007,June,6, Total gastrectomy ,0.0
+2007,July,7, Total gastrectomy ,0.0
+2007,August,8, Total gastrectomy ,0.0
+2007,September,9, Total gastrectomy ,0.0
+2007,October,10, Total gastrectomy ,0.0
+2007,November,11, Total gastrectomy ,0.0
+2007,December,12, Total gastrectomy ,0.0
+2008,January,1, Total gastrectomy ,1685.0
+2008,February,2, Total gastrectomy ,0.0
+2008,March,3, Total gastrectomy ,0.0
+2008,April,4, Total gastrectomy ,0.0
+2008,May,5, Total gastrectomy ,0.0
+2008,June,6, Total gastrectomy ,0.0
+2008,July,7, Total gastrectomy ,0.0
+2008,August,8, Total gastrectomy ,0.0
+2008,September,9, Total gastrectomy ,0.0
+2008,October,10, Total gastrectomy ,0.0
+2008,November,11, Total gastrectomy ,0.0
+2008,December,12, Total gastrectomy ,0.0
+2009,January,1, Total gastrectomy ,1648.0
+2009,February,2, Total gastrectomy ,0.0
+2009,March,3, Total gastrectomy ,0.0
+2009,April,4, Total gastrectomy ,0.0
+2009,May,5, Total gastrectomy ,0.0
+2009,June,6, Total gastrectomy ,0.0
+2009,July,7, Total gastrectomy ,0.0
+2009,August,8, Total gastrectomy ,0.0
+2009,September,9, Total gastrectomy ,0.0
+2009,October,10, Total gastrectomy ,0.0
+2009,November,11, Total gastrectomy ,0.0
+2009,December,12, Total gastrectomy ,0.0
+2010,January,1, Total gastrectomy ,1935.0
+2010,February,2, Total gastrectomy ,0.0
+2010,March,3, Total gastrectomy ,0.0
+2010,April,4, Total gastrectomy ,0.0
+2010,May,5, Total gastrectomy ,0.0
+2010,June,6, Total gastrectomy ,0.0
+2010,July,7, Total gastrectomy ,0.0
+2010,August,8, Total gastrectomy ,0.0
+2010,September,9, Total gastrectomy ,0.0
+2010,October,10, Total gastrectomy ,0.0
+2010,November,11, Total gastrectomy ,0.0
+2010,December,12, Total gastrectomy ,0.0
+2011,January,1, Total gastrectomy ,1963.0
+2011,February,2, Total gastrectomy ,0.0
+2011,March,3, Total gastrectomy ,0.0
+2011,April,4, Total gastrectomy ,0.0
+2011,May,5, Total gastrectomy ,0.0
+2011,June,6, Total gastrectomy ,0.0
+2011,July,7, Total gastrectomy ,0.0
+2011,August,8, Total gastrectomy ,0.0
+2011,September,9, Total gastrectomy ,0.0
+2011,October,10, Total gastrectomy ,0.0
+2011,November,11, Total gastrectomy ,0.0
+2011,December,12, Total gastrectomy ,0.0
+2012,January,1, Total gastrectomy ,2003.0
+2012,February,2, Total gastrectomy ,0.0
+2012,March,3, Total gastrectomy ,0.0
+2012,April,4, Total gastrectomy ,0.0
+2012,May,5, Total gastrectomy ,0.0
+2012,June,6, Total gastrectomy ,0.0
+2012,July,7, Total gastrectomy ,0.0
+2012,August,8, Total gastrectomy ,0.0
+2012,September,9, Total gastrectomy ,0.0
+2012,October,10, Total gastrectomy ,0.0
+2012,November,11, Total gastrectomy ,0.0
+2012,December,12, Total gastrectomy ,0.0
+2013,January,1, Total gastrectomy ,2137.0
+2013,February,2, Total gastrectomy ,0.0
+2013,March,3, Total gastrectomy ,0.0
+2013,April,4, Total gastrectomy ,0.0
+2013,May,5, Total gastrectomy ,0.0
+2013,June,6, Total gastrectomy ,0.0
+2013,July,7, Total gastrectomy ,0.0
+2013,August,8, Total gastrectomy ,0.0
+2013,September,9, Total gastrectomy ,0.0
+2013,October,10, Total gastrectomy ,0.0
+2013,November,11, Total gastrectomy ,0.0
+2013,December,12, Total gastrectomy ,0.0
+2014,January,1, Total gastrectomy ,1871.0
+2014,February,2, Total gastrectomy ,0.0
+2014,March,3, Total gastrectomy ,0.0
+2014,April,4, Total gastrectomy ,0.0
+2014,May,5, Total gastrectomy ,0.0
+2014,June,6, Total gastrectomy ,0.0
+2014,July,7, Total gastrectomy ,0.0
+2014,August,8, Total gastrectomy ,0.0
+2014,September,9, Total gastrectomy ,0.0
+2014,October,10, Total gastrectomy ,0.0
+2014,November,11, Total gastrectomy ,0.0
+2014,December,12, Total gastrectomy ,0.0
+2015,January,1, Total gastrectomy ,1933.0
+2015,February,2, Total gastrectomy ,0.0
+2015,March,3, Total gastrectomy ,0.0
+2015,April,4, Total gastrectomy ,0.0
+2015,May,5, Total gastrectomy ,0.0
+2015,June,6, Total gastrectomy ,0.0
+2015,July,7, Total gastrectomy ,0.0
+2015,August,8, Total gastrectomy ,0.0
+2015,September,9, Total gastrectomy ,0.0
+2015,October,10, Total gastrectomy ,0.0
+2015,November,11, Total gastrectomy ,0.0
+2015,December,12, Total gastrectomy ,0.0
+2016,January,1, Total gastrectomy ,1970.0
+2016,February,2, Total gastrectomy ,0.0
+2016,March,3, Total gastrectomy ,0.0
+2016,April,4, Total gastrectomy ,0.0
+2016,May,5, Total gastrectomy ,0.0
+2016,June,6, Total gastrectomy ,0.0
+2016,July,7, Total gastrectomy ,0.0
+2016,August,8, Total gastrectomy ,0.0
+2016,September,9, Total gastrectomy ,0.0
+2016,October,10, Total gastrectomy ,0.0
+2016,November,11, Total gastrectomy ,0.0
+2016,December,12, Total gastrectomy ,0.0
+2017,January,1, Total gastrectomy ,1909.0
+2017,February,2, Total gastrectomy ,0.0
+2017,March,3, Total gastrectomy ,0.0
+2017,April,4, Total gastrectomy ,0.0
+2017,May,5, Total gastrectomy ,0.0
+2017,June,6, Total gastrectomy ,0.0
+2017,July,7, Total gastrectomy ,0.0
+2017,August,8, Total gastrectomy ,0.0
+2017,September,9, Total gastrectomy ,0.0
+2017,October,10, Total gastrectomy ,0.0
+2017,November,11, Total gastrectomy ,0.0
+2017,December,12, Total gastrectomy ,0.0
+2018,January,1, Total gastrectomy ,1978.0
+2018,February,2, Total gastrectomy ,0.0
+2018,March,3, Total gastrectomy ,0.0
+2018,April,4, Total gastrectomy ,0.0
+2018,May,5, Total gastrectomy ,0.0
+2018,June,6, Total gastrectomy ,0.0
+2018,July,7, Total gastrectomy ,0.0
+2018,August,8, Total gastrectomy ,0.0
+2018,September,9, Total gastrectomy ,0.0
+2018,October,10, Total gastrectomy ,0.0
+2018,November,11, Total gastrectomy ,0.0
+2018,December,12, Total gastrectomy ,0.0
+2019,January,1, Total gastrectomy ,1860.0
+2019,February,2, Total gastrectomy ,0.0
+2019,March,3, Total gastrectomy ,0.0
+2019,April,4, Total gastrectomy ,0.0
+2019,May,5, Total gastrectomy ,0.0
+2019,June,6, Total gastrectomy ,0.0
+2019,July,7, Total gastrectomy ,0.0
+2019,August,8, Total gastrectomy ,0.0
+2019,September,9, Total gastrectomy ,0.0
+2019,October,10, Total gastrectomy ,0.0
+2019,November,11, Total gastrectomy ,0.0
+2019,December,12, Total gastrectomy ,0.0
+2020,January,1, Total gastrectomy ,1638.0
+2020,February,2, Total gastrectomy ,0.0
+2020,March,3, Total gastrectomy ,0.0
+2020,April,4, Total gastrectomy ,0.0
+2020,May,5, Total gastrectomy ,0.0
+2020,June,6, Total gastrectomy ,0.0
+2020,July,7, Total gastrectomy ,0.0
+2020,August,8, Total gastrectomy ,0.0
+2020,September,9, Total gastrectomy ,0.0
+2020,October,10, Total gastrectomy ,0.0
+2020,November,11, Total gastrectomy ,0.0
+2020,December,12, Total gastrectomy ,0.0
+2021,January,1, Total gastrectomy ,1752.0
+2021,February,2, Total gastrectomy ,0.0
+2021,March,3, Total gastrectomy ,0.0
+2021,April,4, Total gastrectomy ,0.0
+2021,May,5, Total gastrectomy ,0.0
+2021,June,6, Total gastrectomy ,0.0
+2021,July,7, Total gastrectomy ,0.0
+2021,August,8, Total gastrectomy ,0.0
+2021,September,9, Total gastrectomy ,0.0
+2021,October,10, Total gastrectomy ,0.0
+2021,November,11, Total gastrectomy ,0.0
+2021,December,12, Total gastrectomy ,0.0
+2022,January,1, Total gastrectomy ,1611.0
+2022,February,2, Total gastrectomy ,0.0
+2022,March,3, Total gastrectomy ,0.0
+2022,April,4, Total gastrectomy ,0.0
+2022,May,5, Total gastrectomy ,0.0
+2022,June,6, Total gastrectomy ,0.0
+2022,July,7, Total gastrectomy ,0.0
+2022,August,8, Total gastrectomy ,0.0
+2022,September,9, Total gastrectomy ,0.0
+2022,October,10, Total gastrectomy ,0.0
+2022,November,11, Total gastrectomy ,0.0
+2022,December,12, Total gastrectomy ,0.0
+2006,January,1, Wedge resection of liver ,298.0
+2006,February,2, Wedge resection of liver ,0.0
+2006,March,3, Wedge resection of liver ,0.0
+2006,April,4, Wedge resection of liver ,0.0
+2006,May,5, Wedge resection of liver ,0.0
+2006,June,6, Wedge resection of liver ,0.0
+2006,July,7, Wedge resection of liver ,0.0
+2006,August,8, Wedge resection of liver ,0.0
+2006,September,9, Wedge resection of liver ,0.0
+2006,October,10, Wedge resection of liver ,0.0
+2006,November,11, Wedge resection of liver ,0.0
+2006,December,12, Wedge resection of liver ,0.0
+2007,January,1, Wedge resection of liver ,389.0
+2007,February,2, Wedge resection of liver ,0.0
+2007,March,3, Wedge resection of liver ,0.0
+2007,April,4, Wedge resection of liver ,0.0
+2007,May,5, Wedge resection of liver ,0.0
+2007,June,6, Wedge resection of liver ,0.0
+2007,July,7, Wedge resection of liver ,0.0
+2007,August,8, Wedge resection of liver ,0.0
+2007,September,9, Wedge resection of liver ,0.0
+2007,October,10, Wedge resection of liver ,0.0
+2007,November,11, Wedge resection of liver ,0.0
+2007,December,12, Wedge resection of liver ,0.0
+2008,January,1, Wedge resection of liver ,532.0
+2008,February,2, Wedge resection of liver ,0.0
+2008,March,3, Wedge resection of liver ,0.0
+2008,April,4, Wedge resection of liver ,0.0
+2008,May,5, Wedge resection of liver ,0.0
+2008,June,6, Wedge resection of liver ,0.0
+2008,July,7, Wedge resection of liver ,0.0
+2008,August,8, Wedge resection of liver ,0.0
+2008,September,9, Wedge resection of liver ,0.0
+2008,October,10, Wedge resection of liver ,0.0
+2008,November,11, Wedge resection of liver ,0.0
+2008,December,12, Wedge resection of liver ,0.0
+2009,January,1, Wedge resection of liver ,448.0
+2009,February,2, Wedge resection of liver ,0.0
+2009,March,3, Wedge resection of liver ,0.0
+2009,April,4, Wedge resection of liver ,0.0
+2009,May,5, Wedge resection of liver ,0.0
+2009,June,6, Wedge resection of liver ,0.0
+2009,July,7, Wedge resection of liver ,0.0
+2009,August,8, Wedge resection of liver ,0.0
+2009,September,9, Wedge resection of liver ,0.0
+2009,October,10, Wedge resection of liver ,0.0
+2009,November,11, Wedge resection of liver ,0.0
+2009,December,12, Wedge resection of liver ,0.0
+2010,January,1, Wedge resection of liver ,565.0
+2010,February,2, Wedge resection of liver ,0.0
+2010,March,3, Wedge resection of liver ,0.0
+2010,April,4, Wedge resection of liver ,0.0
+2010,May,5, Wedge resection of liver ,0.0
+2010,June,6, Wedge resection of liver ,0.0
+2010,July,7, Wedge resection of liver ,0.0
+2010,August,8, Wedge resection of liver ,0.0
+2010,September,9, Wedge resection of liver ,0.0
+2010,October,10, Wedge resection of liver ,0.0
+2010,November,11, Wedge resection of liver ,0.0
+2010,December,12, Wedge resection of liver ,0.0
+2011,January,1, Wedge resection of liver ,600.0
+2011,February,2, Wedge resection of liver ,0.0
+2011,March,3, Wedge resection of liver ,0.0
+2011,April,4, Wedge resection of liver ,0.0
+2011,May,5, Wedge resection of liver ,0.0
+2011,June,6, Wedge resection of liver ,0.0
+2011,July,7, Wedge resection of liver ,0.0
+2011,August,8, Wedge resection of liver ,0.0
+2011,September,9, Wedge resection of liver ,0.0
+2011,October,10, Wedge resection of liver ,0.0
+2011,November,11, Wedge resection of liver ,0.0
+2011,December,12, Wedge resection of liver ,0.0
+2012,January,1, Wedge resection of liver ,682.0
+2012,February,2, Wedge resection of liver ,0.0
+2012,March,3, Wedge resection of liver ,0.0
+2012,April,4, Wedge resection of liver ,0.0
+2012,May,5, Wedge resection of liver ,0.0
+2012,June,6, Wedge resection of liver ,0.0
+2012,July,7, Wedge resection of liver ,0.0
+2012,August,8, Wedge resection of liver ,0.0
+2012,September,9, Wedge resection of liver ,0.0
+2012,October,10, Wedge resection of liver ,0.0
+2012,November,11, Wedge resection of liver ,0.0
+2012,December,12, Wedge resection of liver ,0.0
+2013,January,1, Wedge resection of liver ,748.0
+2013,February,2, Wedge resection of liver ,0.0
+2013,March,3, Wedge resection of liver ,0.0
+2013,April,4, Wedge resection of liver ,0.0
+2013,May,5, Wedge resection of liver ,0.0
+2013,June,6, Wedge resection of liver ,0.0
+2013,July,7, Wedge resection of liver ,0.0
+2013,August,8, Wedge resection of liver ,0.0
+2013,September,9, Wedge resection of liver ,0.0
+2013,October,10, Wedge resection of liver ,0.0
+2013,November,11, Wedge resection of liver ,0.0
+2013,December,12, Wedge resection of liver ,0.0
+2014,January,1, Wedge resection of liver ,630.0
+2014,February,2, Wedge resection of liver ,0.0
+2014,March,3, Wedge resection of liver ,0.0
+2014,April,4, Wedge resection of liver ,0.0
+2014,May,5, Wedge resection of liver ,0.0
+2014,June,6, Wedge resection of liver ,0.0
+2014,July,7, Wedge resection of liver ,0.0
+2014,August,8, Wedge resection of liver ,0.0
+2014,September,9, Wedge resection of liver ,0.0
+2014,October,10, Wedge resection of liver ,0.0
+2014,November,11, Wedge resection of liver ,0.0
+2014,December,12, Wedge resection of liver ,0.0
+2015,January,1, Wedge resection of liver ,778.0
+2015,February,2, Wedge resection of liver ,0.0
+2015,March,3, Wedge resection of liver ,0.0
+2015,April,4, Wedge resection of liver ,0.0
+2015,May,5, Wedge resection of liver ,0.0
+2015,June,6, Wedge resection of liver ,0.0
+2015,July,7, Wedge resection of liver ,0.0
+2015,August,8, Wedge resection of liver ,0.0
+2015,September,9, Wedge resection of liver ,0.0
+2015,October,10, Wedge resection of liver ,0.0
+2015,November,11, Wedge resection of liver ,0.0
+2015,December,12, Wedge resection of liver ,0.0
+2016,January,1, Wedge resection of liver ,742.0
+2016,February,2, Wedge resection of liver ,0.0
+2016,March,3, Wedge resection of liver ,0.0
+2016,April,4, Wedge resection of liver ,0.0
+2016,May,5, Wedge resection of liver ,0.0
+2016,June,6, Wedge resection of liver ,0.0
+2016,July,7, Wedge resection of liver ,0.0
+2016,August,8, Wedge resection of liver ,0.0
+2016,September,9, Wedge resection of liver ,0.0
+2016,October,10, Wedge resection of liver ,0.0
+2016,November,11, Wedge resection of liver ,0.0
+2016,December,12, Wedge resection of liver ,0.0
+2017,January,1, Wedge resection of liver ,707.0
+2017,February,2, Wedge resection of liver ,0.0
+2017,March,3, Wedge resection of liver ,0.0
+2017,April,4, Wedge resection of liver ,0.0
+2017,May,5, Wedge resection of liver ,0.0
+2017,June,6, Wedge resection of liver ,0.0
+2017,July,7, Wedge resection of liver ,0.0
+2017,August,8, Wedge resection of liver ,0.0
+2017,September,9, Wedge resection of liver ,0.0
+2017,October,10, Wedge resection of liver ,0.0
+2017,November,11, Wedge resection of liver ,0.0
+2017,December,12, Wedge resection of liver ,0.0
+2018,January,1, Wedge resection of liver ,761.0
+2018,February,2, Wedge resection of liver ,0.0
+2018,March,3, Wedge resection of liver ,0.0
+2018,April,4, Wedge resection of liver ,0.0
+2018,May,5, Wedge resection of liver ,0.0
+2018,June,6, Wedge resection of liver ,0.0
+2018,July,7, Wedge resection of liver ,0.0
+2018,August,8, Wedge resection of liver ,0.0
+2018,September,9, Wedge resection of liver ,0.0
+2018,October,10, Wedge resection of liver ,0.0
+2018,November,11, Wedge resection of liver ,0.0
+2018,December,12, Wedge resection of liver ,0.0
+2019,January,1, Wedge resection of liver ,737.0
+2019,February,2, Wedge resection of liver ,0.0
+2019,March,3, Wedge resection of liver ,0.0
+2019,April,4, Wedge resection of liver ,0.0
+2019,May,5, Wedge resection of liver ,0.0
+2019,June,6, Wedge resection of liver ,0.0
+2019,July,7, Wedge resection of liver ,0.0
+2019,August,8, Wedge resection of liver ,0.0
+2019,September,9, Wedge resection of liver ,0.0
+2019,October,10, Wedge resection of liver ,0.0
+2019,November,11, Wedge resection of liver ,0.0
+2019,December,12, Wedge resection of liver ,0.0
+2020,January,1, Wedge resection of liver ,714.0
+2020,February,2, Wedge resection of liver ,0.0
+2020,March,3, Wedge resection of liver ,0.0
+2020,April,4, Wedge resection of liver ,0.0
+2020,May,5, Wedge resection of liver ,0.0
+2020,June,6, Wedge resection of liver ,0.0
+2020,July,7, Wedge resection of liver ,0.0
+2020,August,8, Wedge resection of liver ,0.0
+2020,September,9, Wedge resection of liver ,0.0
+2020,October,10, Wedge resection of liver ,0.0
+2020,November,11, Wedge resection of liver ,0.0
+2020,December,12, Wedge resection of liver ,0.0
+2021,January,1, Wedge resection of liver ,788.0
+2021,February,2, Wedge resection of liver ,0.0
+2021,March,3, Wedge resection of liver ,0.0
+2021,April,4, Wedge resection of liver ,0.0
+2021,May,5, Wedge resection of liver ,0.0
+2021,June,6, Wedge resection of liver ,0.0
+2021,July,7, Wedge resection of liver ,0.0
+2021,August,8, Wedge resection of liver ,0.0
+2021,September,9, Wedge resection of liver ,0.0
+2021,October,10, Wedge resection of liver ,0.0
+2021,November,11, Wedge resection of liver ,0.0
+2021,December,12, Wedge resection of liver ,0.0
+2022,January,1, Wedge resection of liver ,698.0
+2022,February,2, Wedge resection of liver ,0.0
+2022,March,3, Wedge resection of liver ,0.0
+2022,April,4, Wedge resection of liver ,0.0
+2022,May,5, Wedge resection of liver ,0.0
+2022,June,6, Wedge resection of liver ,0.0
+2022,July,7, Wedge resection of liver ,0.0
+2022,August,8, Wedge resection of liver ,0.0
+2022,September,9, Wedge resection of liver ,0.0
+2022,October,10, Wedge resection of liver ,0.0
+2022,November,11, Wedge resection of liver ,0.0
+2022,December,12, Wedge resection of liver ,0.0
+2006,January,1, Lobectomy of liver ,2441.0
+2006,February,2, Lobectomy of liver ,0.0
+2006,March,3, Lobectomy of liver ,0.0
+2006,April,4, Lobectomy of liver ,0.0
+2006,May,5, Lobectomy of liver ,0.0
+2006,June,6, Lobectomy of liver ,0.0
+2006,July,7, Lobectomy of liver ,0.0
+2006,August,8, Lobectomy of liver ,0.0
+2006,September,9, Lobectomy of liver ,0.0
+2006,October,10, Lobectomy of liver ,0.0
+2006,November,11, Lobectomy of liver ,0.0
+2006,December,12, Lobectomy of liver ,0.0
+2007,January,1, Lobectomy of liver ,2898.0
+2007,February,2, Lobectomy of liver ,0.0
+2007,March,3, Lobectomy of liver ,0.0
+2007,April,4, Lobectomy of liver ,0.0
+2007,May,5, Lobectomy of liver ,0.0
+2007,June,6, Lobectomy of liver ,0.0
+2007,July,7, Lobectomy of liver ,0.0
+2007,August,8, Lobectomy of liver ,0.0
+2007,September,9, Lobectomy of liver ,0.0
+2007,October,10, Lobectomy of liver ,0.0
+2007,November,11, Lobectomy of liver ,0.0
+2007,December,12, Lobectomy of liver ,0.0
+2008,January,1, Lobectomy of liver ,3200.0
+2008,February,2, Lobectomy of liver ,0.0
+2008,March,3, Lobectomy of liver ,0.0
+2008,April,4, Lobectomy of liver ,0.0
+2008,May,5, Lobectomy of liver ,0.0
+2008,June,6, Lobectomy of liver ,0.0
+2008,July,7, Lobectomy of liver ,0.0
+2008,August,8, Lobectomy of liver ,0.0
+2008,September,9, Lobectomy of liver ,0.0
+2008,October,10, Lobectomy of liver ,0.0
+2008,November,11, Lobectomy of liver ,0.0
+2008,December,12, Lobectomy of liver ,0.0
+2009,January,1, Lobectomy of liver ,2725.0
+2009,February,2, Lobectomy of liver ,0.0
+2009,March,3, Lobectomy of liver ,0.0
+2009,April,4, Lobectomy of liver ,0.0
+2009,May,5, Lobectomy of liver ,0.0
+2009,June,6, Lobectomy of liver ,0.0
+2009,July,7, Lobectomy of liver ,0.0
+2009,August,8, Lobectomy of liver ,0.0
+2009,September,9, Lobectomy of liver ,0.0
+2009,October,10, Lobectomy of liver ,0.0
+2009,November,11, Lobectomy of liver ,0.0
+2009,December,12, Lobectomy of liver ,0.0
+2010,January,1, Lobectomy of liver ,3099.0
+2010,February,2, Lobectomy of liver ,0.0
+2010,March,3, Lobectomy of liver ,0.0
+2010,April,4, Lobectomy of liver ,0.0
+2010,May,5, Lobectomy of liver ,0.0
+2010,June,6, Lobectomy of liver ,0.0
+2010,July,7, Lobectomy of liver ,0.0
+2010,August,8, Lobectomy of liver ,0.0
+2010,September,9, Lobectomy of liver ,0.0
+2010,October,10, Lobectomy of liver ,0.0
+2010,November,11, Lobectomy of liver ,0.0
+2010,December,12, Lobectomy of liver ,0.0
+2011,January,1, Lobectomy of liver ,3092.0
+2011,February,2, Lobectomy of liver ,0.0
+2011,March,3, Lobectomy of liver ,0.0
+2011,April,4, Lobectomy of liver ,0.0
+2011,May,5, Lobectomy of liver ,0.0
+2011,June,6, Lobectomy of liver ,0.0
+2011,July,7, Lobectomy of liver ,0.0
+2011,August,8, Lobectomy of liver ,0.0
+2011,September,9, Lobectomy of liver ,0.0
+2011,October,10, Lobectomy of liver ,0.0
+2011,November,11, Lobectomy of liver ,0.0
+2011,December,12, Lobectomy of liver ,0.0
+2012,January,1, Lobectomy of liver ,3221.0
+2012,February,2, Lobectomy of liver ,0.0
+2012,March,3, Lobectomy of liver ,0.0
+2012,April,4, Lobectomy of liver ,0.0
+2012,May,5, Lobectomy of liver ,0.0
+2012,June,6, Lobectomy of liver ,0.0
+2012,July,7, Lobectomy of liver ,0.0
+2012,August,8, Lobectomy of liver ,0.0
+2012,September,9, Lobectomy of liver ,0.0
+2012,October,10, Lobectomy of liver ,0.0
+2012,November,11, Lobectomy of liver ,0.0
+2012,December,12, Lobectomy of liver ,0.0
+2013,January,1, Lobectomy of liver ,3425.0
+2013,February,2, Lobectomy of liver ,0.0
+2013,March,3, Lobectomy of liver ,0.0
+2013,April,4, Lobectomy of liver ,0.0
+2013,May,5, Lobectomy of liver ,0.0
+2013,June,6, Lobectomy of liver ,0.0
+2013,July,7, Lobectomy of liver ,0.0
+2013,August,8, Lobectomy of liver ,0.0
+2013,September,9, Lobectomy of liver ,0.0
+2013,October,10, Lobectomy of liver ,0.0
+2013,November,11, Lobectomy of liver ,0.0
+2013,December,12, Lobectomy of liver ,0.0
+2014,January,1, Lobectomy of liver ,3038.0
+2014,February,2, Lobectomy of liver ,0.0
+2014,March,3, Lobectomy of liver ,0.0
+2014,April,4, Lobectomy of liver ,0.0
+2014,May,5, Lobectomy of liver ,0.0
+2014,June,6, Lobectomy of liver ,0.0
+2014,July,7, Lobectomy of liver ,0.0
+2014,August,8, Lobectomy of liver ,0.0
+2014,September,9, Lobectomy of liver ,0.0
+2014,October,10, Lobectomy of liver ,0.0
+2014,November,11, Lobectomy of liver ,0.0
+2014,December,12, Lobectomy of liver ,0.0
+2015,January,1, Lobectomy of liver ,3325.0
+2015,February,2, Lobectomy of liver ,0.0
+2015,March,3, Lobectomy of liver ,0.0
+2015,April,4, Lobectomy of liver ,0.0
+2015,May,5, Lobectomy of liver ,0.0
+2015,June,6, Lobectomy of liver ,0.0
+2015,July,7, Lobectomy of liver ,0.0
+2015,August,8, Lobectomy of liver ,0.0
+2015,September,9, Lobectomy of liver ,0.0
+2015,October,10, Lobectomy of liver ,0.0
+2015,November,11, Lobectomy of liver ,0.0
+2015,December,12, Lobectomy of liver ,0.0
+2016,January,1, Lobectomy of liver ,3434.0
+2016,February,2, Lobectomy of liver ,0.0
+2016,March,3, Lobectomy of liver ,0.0
+2016,April,4, Lobectomy of liver ,0.0
+2016,May,5, Lobectomy of liver ,0.0
+2016,June,6, Lobectomy of liver ,0.0
+2016,July,7, Lobectomy of liver ,0.0
+2016,August,8, Lobectomy of liver ,0.0
+2016,September,9, Lobectomy of liver ,0.0
+2016,October,10, Lobectomy of liver ,0.0
+2016,November,11, Lobectomy of liver ,0.0
+2016,December,12, Lobectomy of liver ,0.0
+2017,January,1, Lobectomy of liver ,3127.0
+2017,February,2, Lobectomy of liver ,0.0
+2017,March,3, Lobectomy of liver ,0.0
+2017,April,4, Lobectomy of liver ,0.0
+2017,May,5, Lobectomy of liver ,0.0
+2017,June,6, Lobectomy of liver ,0.0
+2017,July,7, Lobectomy of liver ,0.0
+2017,August,8, Lobectomy of liver ,0.0
+2017,September,9, Lobectomy of liver ,0.0
+2017,October,10, Lobectomy of liver ,0.0
+2017,November,11, Lobectomy of liver ,0.0
+2017,December,12, Lobectomy of liver ,0.0
+2018,January,1, Lobectomy of liver ,3706.0
+2018,February,2, Lobectomy of liver ,0.0
+2018,March,3, Lobectomy of liver ,0.0
+2018,April,4, Lobectomy of liver ,0.0
+2018,May,5, Lobectomy of liver ,0.0
+2018,June,6, Lobectomy of liver ,0.0
+2018,July,7, Lobectomy of liver ,0.0
+2018,August,8, Lobectomy of liver ,0.0
+2018,September,9, Lobectomy of liver ,0.0
+2018,October,10, Lobectomy of liver ,0.0
+2018,November,11, Lobectomy of liver ,0.0
+2018,December,12, Lobectomy of liver ,0.0
+2019,January,1, Lobectomy of liver ,3532.0
+2019,February,2, Lobectomy of liver ,0.0
+2019,March,3, Lobectomy of liver ,0.0
+2019,April,4, Lobectomy of liver ,0.0
+2019,May,5, Lobectomy of liver ,0.0
+2019,June,6, Lobectomy of liver ,0.0
+2019,July,7, Lobectomy of liver ,0.0
+2019,August,8, Lobectomy of liver ,0.0
+2019,September,9, Lobectomy of liver ,0.0
+2019,October,10, Lobectomy of liver ,0.0
+2019,November,11, Lobectomy of liver ,0.0
+2019,December,12, Lobectomy of liver ,0.0
+2020,January,1, Lobectomy of liver ,3391.0
+2020,February,2, Lobectomy of liver ,0.0
+2020,March,3, Lobectomy of liver ,0.0
+2020,April,4, Lobectomy of liver ,0.0
+2020,May,5, Lobectomy of liver ,0.0
+2020,June,6, Lobectomy of liver ,0.0
+2020,July,7, Lobectomy of liver ,0.0
+2020,August,8, Lobectomy of liver ,0.0
+2020,September,9, Lobectomy of liver ,0.0
+2020,October,10, Lobectomy of liver ,0.0
+2020,November,11, Lobectomy of liver ,0.0
+2020,December,12, Lobectomy of liver ,0.0
+2021,January,1, Lobectomy of liver ,3324.0
+2021,February,2, Lobectomy of liver ,0.0
+2021,March,3, Lobectomy of liver ,0.0
+2021,April,4, Lobectomy of liver ,0.0
+2021,May,5, Lobectomy of liver ,0.0
+2021,June,6, Lobectomy of liver ,0.0
+2021,July,7, Lobectomy of liver ,0.0
+2021,August,8, Lobectomy of liver ,0.0
+2021,September,9, Lobectomy of liver ,0.0
+2021,October,10, Lobectomy of liver ,0.0
+2021,November,11, Lobectomy of liver ,0.0
+2021,December,12, Lobectomy of liver ,0.0
+2022,January,1, Lobectomy of liver ,3039.0
+2022,February,2, Lobectomy of liver ,0.0
+2022,March,3, Lobectomy of liver ,0.0
+2022,April,4, Lobectomy of liver ,0.0
+2022,May,5, Lobectomy of liver ,0.0
+2022,June,6, Lobectomy of liver ,0.0
+2022,July,7, Lobectomy of liver ,0.0
+2022,August,8, Lobectomy of liver ,0.0
+2022,September,9, Lobectomy of liver ,0.0
+2022,October,10, Lobectomy of liver ,0.0
+2022,November,11, Lobectomy of liver ,0.0
+2022,December,12, Lobectomy of liver ,0.0
+2006,January,1, Laminectomy ,7787.0
+2006,February,2, Laminectomy ,0.0
+2006,March,3, Laminectomy ,0.0
+2006,April,4, Laminectomy ,0.0
+2006,May,5, Laminectomy ,0.0
+2006,June,6, Laminectomy ,0.0
+2006,July,7, Laminectomy ,0.0
+2006,August,8, Laminectomy ,0.0
+2006,September,9, Laminectomy ,0.0
+2006,October,10, Laminectomy ,0.0
+2006,November,11, Laminectomy ,0.0
+2006,December,12, Laminectomy ,0.0
+2007,January,1, Laminectomy ,10927.0
+2007,February,2, Laminectomy ,0.0
+2007,March,3, Laminectomy ,0.0
+2007,April,4, Laminectomy ,0.0
+2007,May,5, Laminectomy ,0.0
+2007,June,6, Laminectomy ,0.0
+2007,July,7, Laminectomy ,0.0
+2007,August,8, Laminectomy ,0.0
+2007,September,9, Laminectomy ,0.0
+2007,October,10, Laminectomy ,0.0
+2007,November,11, Laminectomy ,0.0
+2007,December,12, Laminectomy ,0.0
+2008,January,1, Laminectomy ,11641.0
+2008,February,2, Laminectomy ,0.0
+2008,March,3, Laminectomy ,0.0
+2008,April,4, Laminectomy ,0.0
+2008,May,5, Laminectomy ,0.0
+2008,June,6, Laminectomy ,0.0
+2008,July,7, Laminectomy ,0.0
+2008,August,8, Laminectomy ,0.0
+2008,September,9, Laminectomy ,0.0
+2008,October,10, Laminectomy ,0.0
+2008,November,11, Laminectomy ,0.0
+2008,December,12, Laminectomy ,0.0
+2009,January,1, Laminectomy ,11138.0
+2009,February,2, Laminectomy ,0.0
+2009,March,3, Laminectomy ,0.0
+2009,April,4, Laminectomy ,0.0
+2009,May,5, Laminectomy ,0.0
+2009,June,6, Laminectomy ,0.0
+2009,July,7, Laminectomy ,0.0
+2009,August,8, Laminectomy ,0.0
+2009,September,9, Laminectomy ,0.0
+2009,October,10, Laminectomy ,0.0
+2009,November,11, Laminectomy ,0.0
+2009,December,12, Laminectomy ,0.0
+2010,January,1, Laminectomy ,14800.0
+2010,February,2, Laminectomy ,0.0
+2010,March,3, Laminectomy ,0.0
+2010,April,4, Laminectomy ,0.0
+2010,May,5, Laminectomy ,0.0
+2010,June,6, Laminectomy ,0.0
+2010,July,7, Laminectomy ,0.0
+2010,August,8, Laminectomy ,0.0
+2010,September,9, Laminectomy ,0.0
+2010,October,10, Laminectomy ,0.0
+2010,November,11, Laminectomy ,0.0
+2010,December,12, Laminectomy ,0.0
+2011,January,1, Laminectomy ,14390.0
+2011,February,2, Laminectomy ,0.0
+2011,March,3, Laminectomy ,0.0
+2011,April,4, Laminectomy ,0.0
+2011,May,5, Laminectomy ,0.0
+2011,June,6, Laminectomy ,0.0
+2011,July,7, Laminectomy ,0.0
+2011,August,8, Laminectomy ,0.0
+2011,September,9, Laminectomy ,0.0
+2011,October,10, Laminectomy ,0.0
+2011,November,11, Laminectomy ,0.0
+2011,December,12, Laminectomy ,0.0
+2012,January,1, Laminectomy ,15357.0
+2012,February,2, Laminectomy ,0.0
+2012,March,3, Laminectomy ,0.0
+2012,April,4, Laminectomy ,0.0
+2012,May,5, Laminectomy ,0.0
+2012,June,6, Laminectomy ,0.0
+2012,July,7, Laminectomy ,0.0
+2012,August,8, Laminectomy ,0.0
+2012,September,9, Laminectomy ,0.0
+2012,October,10, Laminectomy ,0.0
+2012,November,11, Laminectomy ,0.0
+2012,December,12, Laminectomy ,0.0
+2013,January,1, Laminectomy ,17346.0
+2013,February,2, Laminectomy ,0.0
+2013,March,3, Laminectomy ,0.0
+2013,April,4, Laminectomy ,0.0
+2013,May,5, Laminectomy ,0.0
+2013,June,6, Laminectomy ,0.0
+2013,July,7, Laminectomy ,0.0
+2013,August,8, Laminectomy ,0.0
+2013,September,9, Laminectomy ,0.0
+2013,October,10, Laminectomy ,0.0
+2013,November,11, Laminectomy ,0.0
+2013,December,12, Laminectomy ,0.0
+2014,January,1, Laminectomy ,14853.0
+2014,February,2, Laminectomy ,0.0
+2014,March,3, Laminectomy ,0.0
+2014,April,4, Laminectomy ,0.0
+2014,May,5, Laminectomy ,0.0
+2014,June,6, Laminectomy ,0.0
+2014,July,7, Laminectomy ,0.0
+2014,August,8, Laminectomy ,0.0
+2014,September,9, Laminectomy ,0.0
+2014,October,10, Laminectomy ,0.0
+2014,November,11, Laminectomy ,0.0
+2014,December,12, Laminectomy ,0.0
+2015,January,1, Laminectomy ,15111.0
+2015,February,2, Laminectomy ,0.0
+2015,March,3, Laminectomy ,0.0
+2015,April,4, Laminectomy ,0.0
+2015,May,5, Laminectomy ,0.0
+2015,June,6, Laminectomy ,0.0
+2015,July,7, Laminectomy ,0.0
+2015,August,8, Laminectomy ,0.0
+2015,September,9, Laminectomy ,0.0
+2015,October,10, Laminectomy ,0.0
+2015,November,11, Laminectomy ,0.0
+2015,December,12, Laminectomy ,0.0
+2016,January,1, Laminectomy ,15554.0
+2016,February,2, Laminectomy ,0.0
+2016,March,3, Laminectomy ,0.0
+2016,April,4, Laminectomy ,0.0
+2016,May,5, Laminectomy ,0.0
+2016,June,6, Laminectomy ,0.0
+2016,July,7, Laminectomy ,0.0
+2016,August,8, Laminectomy ,0.0
+2016,September,9, Laminectomy ,0.0
+2016,October,10, Laminectomy ,0.0
+2016,November,11, Laminectomy ,0.0
+2016,December,12, Laminectomy ,0.0
+2017,January,1, Laminectomy ,15590.0
+2017,February,2, Laminectomy ,0.0
+2017,March,3, Laminectomy ,0.0
+2017,April,4, Laminectomy ,0.0
+2017,May,5, Laminectomy ,0.0
+2017,June,6, Laminectomy ,0.0
+2017,July,7, Laminectomy ,0.0
+2017,August,8, Laminectomy ,0.0
+2017,September,9, Laminectomy ,0.0
+2017,October,10, Laminectomy ,0.0
+2017,November,11, Laminectomy ,0.0
+2017,December,12, Laminectomy ,0.0
+2018,January,1, Laminectomy ,18062.0
+2018,February,2, Laminectomy ,0.0
+2018,March,3, Laminectomy ,0.0
+2018,April,4, Laminectomy ,0.0
+2018,May,5, Laminectomy ,0.0
+2018,June,6, Laminectomy ,0.0
+2018,July,7, Laminectomy ,0.0
+2018,August,8, Laminectomy ,0.0
+2018,September,9, Laminectomy ,0.0
+2018,October,10, Laminectomy ,0.0
+2018,November,11, Laminectomy ,0.0
+2018,December,12, Laminectomy ,0.0
+2019,January,1, Laminectomy ,17571.0
+2019,February,2, Laminectomy ,0.0
+2019,March,3, Laminectomy ,0.0
+2019,April,4, Laminectomy ,0.0
+2019,May,5, Laminectomy ,0.0
+2019,June,6, Laminectomy ,0.0
+2019,July,7, Laminectomy ,0.0
+2019,August,8, Laminectomy ,0.0
+2019,September,9, Laminectomy ,0.0
+2019,October,10, Laminectomy ,0.0
+2019,November,11, Laminectomy ,0.0
+2019,December,12, Laminectomy ,0.0
+2020,January,1, Laminectomy ,17107.0
+2020,February,2, Laminectomy ,0.0
+2020,March,3, Laminectomy ,0.0
+2020,April,4, Laminectomy ,0.0
+2020,May,5, Laminectomy ,0.0
+2020,June,6, Laminectomy ,0.0
+2020,July,7, Laminectomy ,0.0
+2020,August,8, Laminectomy ,0.0
+2020,September,9, Laminectomy ,0.0
+2020,October,10, Laminectomy ,0.0
+2020,November,11, Laminectomy ,0.0
+2020,December,12, Laminectomy ,0.0
+2021,January,1, Laminectomy ,17724.0
+2021,February,2, Laminectomy ,0.0
+2021,March,3, Laminectomy ,0.0
+2021,April,4, Laminectomy ,0.0
+2021,May,5, Laminectomy ,0.0
+2021,June,6, Laminectomy ,0.0
+2021,July,7, Laminectomy ,0.0
+2021,August,8, Laminectomy ,0.0
+2021,September,9, Laminectomy ,0.0
+2021,October,10, Laminectomy ,0.0
+2021,November,11, Laminectomy ,0.0
+2021,December,12, Laminectomy ,0.0
+2022,January,1, Laminectomy ,17501.0
+2022,February,2, Laminectomy ,0.0
+2022,March,3, Laminectomy ,0.0
+2022,April,4, Laminectomy ,0.0
+2022,May,5, Laminectomy ,0.0
+2022,June,6, Laminectomy ,0.0
+2022,July,7, Laminectomy ,0.0
+2022,August,8, Laminectomy ,0.0
+2022,September,9, Laminectomy ,0.0
+2022,October,10, Laminectomy ,0.0
+2022,November,11, Laminectomy ,0.0
+2022,December,12, Laminectomy ,0.0
+2006,January,1, Liver transplantation ,0.0
+2006,February,2, Liver transplantation ,0.0
+2006,March,3, Liver transplantation ,0.0
+2006,April,4, Liver transplantation ,0.0
+2006,May,5, Liver transplantation ,0.0
+2006,June,6, Liver transplantation ,0.0
+2006,July,7, Liver transplantation ,0.0
+2006,August,8, Liver transplantation ,0.0
+2006,September,9, Liver transplantation ,0.0
+2006,October,10, Liver transplantation ,0.0
+2006,November,11, Liver transplantation ,0.0
+2006,December,12, Liver transplantation ,0.0
+2007,January,1, Liver transplantation ,0.0
+2007,February,2, Liver transplantation ,0.0
+2007,March,3, Liver transplantation ,0.0
+2007,April,4, Liver transplantation ,0.0
+2007,May,5, Liver transplantation ,0.0
+2007,June,6, Liver transplantation ,0.0
+2007,July,7, Liver transplantation ,0.0
+2007,August,8, Liver transplantation ,0.0
+2007,September,9, Liver transplantation ,0.0
+2007,October,10, Liver transplantation ,0.0
+2007,November,11, Liver transplantation ,0.0
+2007,December,12, Liver transplantation ,0.0
+2008,January,1, Liver transplantation ,0.0
+2008,February,2, Liver transplantation ,0.0
+2008,March,3, Liver transplantation ,0.0
+2008,April,4, Liver transplantation ,0.0
+2008,May,5, Liver transplantation ,0.0
+2008,June,6, Liver transplantation ,0.0
+2008,July,7, Liver transplantation ,0.0
+2008,August,8, Liver transplantation ,0.0
+2008,September,9, Liver transplantation ,0.0
+2008,October,10, Liver transplantation ,0.0
+2008,November,11, Liver transplantation ,0.0
+2008,December,12, Liver transplantation ,0.0
+2009,January,1, Liver transplantation ,0.0
+2009,February,2, Liver transplantation ,0.0
+2009,March,3, Liver transplantation ,0.0
+2009,April,4, Liver transplantation ,0.0
+2009,May,5, Liver transplantation ,0.0
+2009,June,6, Liver transplantation ,0.0
+2009,July,7, Liver transplantation ,0.0
+2009,August,8, Liver transplantation ,0.0
+2009,September,9, Liver transplantation ,0.0
+2009,October,10, Liver transplantation ,0.0
+2009,November,11, Liver transplantation ,0.0
+2009,December,12, Liver transplantation ,0.0
+2010,January,1, Liver transplantation ,0.0
+2010,February,2, Liver transplantation ,0.0
+2010,March,3, Liver transplantation ,0.0
+2010,April,4, Liver transplantation ,0.0
+2010,May,5, Liver transplantation ,0.0
+2010,June,6, Liver transplantation ,0.0
+2010,July,7, Liver transplantation ,0.0
+2010,August,8, Liver transplantation ,0.0
+2010,September,9, Liver transplantation ,0.0
+2010,October,10, Liver transplantation ,0.0
+2010,November,11, Liver transplantation ,0.0
+2010,December,12, Liver transplantation ,0.0
+2011,January,1, Liver transplantation ,0.0
+2011,February,2, Liver transplantation ,0.0
+2011,March,3, Liver transplantation ,0.0
+2011,April,4, Liver transplantation ,0.0
+2011,May,5, Liver transplantation ,0.0
+2011,June,6, Liver transplantation ,0.0
+2011,July,7, Liver transplantation ,0.0
+2011,August,8, Liver transplantation ,0.0
+2011,September,9, Liver transplantation ,0.0
+2011,October,10, Liver transplantation ,0.0
+2011,November,11, Liver transplantation ,0.0
+2011,December,12, Liver transplantation ,0.0
+2012,January,1, Liver transplantation ,0.0
+2012,February,2, Liver transplantation ,0.0
+2012,March,3, Liver transplantation ,0.0
+2012,April,4, Liver transplantation ,0.0
+2012,May,5, Liver transplantation ,0.0
+2012,June,6, Liver transplantation ,0.0
+2012,July,7, Liver transplantation ,0.0
+2012,August,8, Liver transplantation ,0.0
+2012,September,9, Liver transplantation ,0.0
+2012,October,10, Liver transplantation ,0.0
+2012,November,11, Liver transplantation ,0.0
+2012,December,12, Liver transplantation ,0.0
+2013,January,1, Liver transplantation ,0.0
+2013,February,2, Liver transplantation ,0.0
+2013,March,3, Liver transplantation ,0.0
+2013,April,4, Liver transplantation ,0.0
+2013,May,5, Liver transplantation ,0.0
+2013,June,6, Liver transplantation ,0.0
+2013,July,7, Liver transplantation ,0.0
+2013,August,8, Liver transplantation ,0.0
+2013,September,9, Liver transplantation ,0.0
+2013,October,10, Liver transplantation ,0.0
+2013,November,11, Liver transplantation ,0.0
+2013,December,12, Liver transplantation ,0.0
+2014,January,1, Liver transplantation ,0.0
+2014,February,2, Liver transplantation ,0.0
+2014,March,3, Liver transplantation ,0.0
+2014,April,4, Liver transplantation ,0.0
+2014,May,5, Liver transplantation ,0.0
+2014,June,6, Liver transplantation ,0.0
+2014,July,7, Liver transplantation ,0.0
+2014,August,8, Liver transplantation ,0.0
+2014,September,9, Liver transplantation ,0.0
+2014,October,10, Liver transplantation ,0.0
+2014,November,11, Liver transplantation ,0.0
+2014,December,12, Liver transplantation ,0.0
+2015,January,1, Liver transplantation ,0.0
+2015,February,2, Liver transplantation ,0.0
+2015,March,3, Liver transplantation ,0.0
+2015,April,4, Liver transplantation ,0.0
+2015,May,5, Liver transplantation ,0.0
+2015,June,6, Liver transplantation ,0.0
+2015,July,7, Liver transplantation ,0.0
+2015,August,8, Liver transplantation ,0.0
+2015,September,9, Liver transplantation ,0.0
+2015,October,10, Liver transplantation ,0.0
+2015,November,11, Liver transplantation ,0.0
+2015,December,12, Liver transplantation ,0.0
+2016,January,1, Liver transplantation ,0.0
+2016,February,2, Liver transplantation ,0.0
+2016,March,3, Liver transplantation ,0.0
+2016,April,4, Liver transplantation ,0.0
+2016,May,5, Liver transplantation ,0.0
+2016,June,6, Liver transplantation ,0.0
+2016,July,7, Liver transplantation ,0.0
+2016,August,8, Liver transplantation ,0.0
+2016,September,9, Liver transplantation ,0.0
+2016,October,10, Liver transplantation ,0.0
+2016,November,11, Liver transplantation ,0.0
+2016,December,12, Liver transplantation ,0.0
+2017,January,1, Liver transplantation ,0.0
+2017,February,2, Liver transplantation ,0.0
+2017,March,3, Liver transplantation ,0.0
+2017,April,4, Liver transplantation ,0.0
+2017,May,5, Liver transplantation ,0.0
+2017,June,6, Liver transplantation ,0.0
+2017,July,7, Liver transplantation ,0.0
+2017,August,8, Liver transplantation ,0.0
+2017,September,9, Liver transplantation ,0.0
+2017,October,10, Liver transplantation ,0.0
+2017,November,11, Liver transplantation ,0.0
+2017,December,12, Liver transplantation ,0.0
+2018,January,1, Liver transplantation ,0.0
+2018,February,2, Liver transplantation ,0.0
+2018,March,3, Liver transplantation ,0.0
+2018,April,4, Liver transplantation ,0.0
+2018,May,5, Liver transplantation ,0.0
+2018,June,6, Liver transplantation ,0.0
+2018,July,7, Liver transplantation ,0.0
+2018,August,8, Liver transplantation ,0.0
+2018,September,9, Liver transplantation ,0.0
+2018,October,10, Liver transplantation ,0.0
+2018,November,11, Liver transplantation ,0.0
+2018,December,12, Liver transplantation ,0.0
+2019,January,1, Liver transplantation ,0.0
+2019,February,2, Liver transplantation ,0.0
+2019,March,3, Liver transplantation ,0.0
+2019,April,4, Liver transplantation ,0.0
+2019,May,5, Liver transplantation ,0.0
+2019,June,6, Liver transplantation ,0.0
+2019,July,7, Liver transplantation ,0.0
+2019,August,8, Liver transplantation ,0.0
+2019,September,9, Liver transplantation ,0.0
+2019,October,10, Liver transplantation ,0.0
+2019,November,11, Liver transplantation ,0.0
+2019,December,12, Liver transplantation ,0.0
+2020,January,1, Liver transplantation ,0.0
+2020,February,2, Liver transplantation ,0.0
+2020,March,3, Liver transplantation ,0.0
+2020,April,4, Liver transplantation ,0.0
+2020,May,5, Liver transplantation ,0.0
+2020,June,6, Liver transplantation ,0.0
+2020,July,7, Liver transplantation ,0.0
+2020,August,8, Liver transplantation ,0.0
+2020,September,9, Liver transplantation ,0.0
+2020,October,10, Liver transplantation ,0.0
+2020,November,11, Liver transplantation ,0.0
+2020,December,12, Liver transplantation ,0.0
+2021,January,1, Liver transplantation ,0.0
+2021,February,2, Liver transplantation ,0.0
+2021,March,3, Liver transplantation ,0.0
+2021,April,4, Liver transplantation ,0.0
+2021,May,5, Liver transplantation ,0.0
+2021,June,6, Liver transplantation ,0.0
+2021,July,7, Liver transplantation ,0.0
+2021,August,8, Liver transplantation ,0.0
+2021,September,9, Liver transplantation ,0.0
+2021,October,10, Liver transplantation ,0.0
+2021,November,11, Liver transplantation ,0.0
+2021,December,12, Liver transplantation ,0.0
+2022,January,1, Liver transplantation ,281.0
+2022,February,2, Liver transplantation ,0.0
+2022,March,3, Liver transplantation ,0.0
+2022,April,4, Liver transplantation ,0.0
+2022,May,5, Liver transplantation ,0.0
+2022,June,6, Liver transplantation ,0.0
+2022,July,7, Liver transplantation ,0.0
+2022,August,8, Liver transplantation ,0.0
+2022,September,9, Liver transplantation ,0.0
+2022,October,10, Liver transplantation ,0.0
+2022,November,11, Liver transplantation ,0.0
+2022,December,12, Liver transplantation ,0.0
