@@ -1,0 +1,3877 @@
+year,source,sex,age,count
+2005,Central Seoul,Men,16-19,31241
+2005,Central Seoul,Women,16-19,16265
+2005,Western Seoul,Men,16-19,28189
+2005,Western Seoul,Women,16-19,8755
+2005,Southern Seoul,Men,16-19,29271
+2005,Southern Seoul,Women,16-19,12243
+2005,Eastern Seoul,Men,16-19,45885
+2005,Eastern Seoul,Women,16-19,18640
+2005,Busan,Men,16-19,39611
+2005,Busan,Women,16-19,23726
+2005,DaeguGyeongbuk,Men,16-19,45536
+2005,DaeguGyeongbuk,Women,16-19,22931
+2005,Incheon,Men,16-19,32934
+2005,Incheon,Women,16-19,22478
+2005,Ulsan,Men,16-19,17197
+2005,Ulsan,Women,16-19,9340
+2005,Gyeonggi,Men,16-19,28680
+2005,Gyeonggi,Women,16-19,9173
+2005,Gangwon,Men,16-19,14495
+2005,Gangwon,Women,16-19,3245
+2005,Chungbuk,Men,16-19,18615
+2005,Chungbuk,Women,16-19,9294
+2005,DaejeonChungnam,Men,16-19,51247
+2005,DaejeonChungnam,Women,16-19,10359
+2005,Jeonbuk,Men,16-19,32553
+2005,Jeonbuk,Women,16-19,15191
+2005,Jeonnam,Men,16-19,37702
+2005,Jeonnam,Women,16-19,23483
+2005,Gyeongnam,Men,16-19,25602
+2005,Gyeongnam,Women,16-19,6215
+2005,Jeju,Men,16-19,5182
+2005,Jeju,Women,16-19,3319
+2005,Outside of Korean Red Cross,Men,16-19,6704
+2005,Outside of Korean Red Cross,Women,16-19,1961
+2006,Central Seoul,Men,16-19,36196
+2006,Central Seoul,Women,16-19,18787
+2006,Western Seoul,Men,16-19,31765
+2006,Western Seoul,Women,16-19,11474
+2006,Southern Seoul,Men,16-19,31366
+2006,Southern Seoul,Women,16-19,13739
+2006,Eastern Seoul,Men,16-19,44189
+2006,Eastern Seoul,Women,16-19,26547
+2006,Busan,Men,16-19,44939
+2006,Busan,Women,16-19,25786
+2006,DaeguGyeongbuk,Men,16-19,45027
+2006,DaeguGyeongbuk,Women,16-19,24941
+2006,Incheon,Men,16-19,30020
+2006,Incheon,Women,16-19,20346
+2006,Ulsan,Men,16-19,16839
+2006,Ulsan,Women,16-19,9215
+2006,Gyeonggi,Men,16-19,36689
+2006,Gyeonggi,Women,16-19,13426
+2006,Gangwon,Men,16-19,11135
+2006,Gangwon,Women,16-19,4032
+2006,Chungbuk,Men,16-19,18841
+2006,Chungbuk,Women,16-19,9727
+2006,DaejeonChungnam,Men,16-19,38149
+2006,DaejeonChungnam,Women,16-19,16832
+2006,Jeonbuk,Men,16-19,31187
+2006,Jeonbuk,Women,16-19,18539
+2006,Jeonnam,Men,16-19,47173
+2006,Jeonnam,Women,16-19,31464
+2006,Gyeongnam,Men,16-19,25768
+2006,Gyeongnam,Women,16-19,8199
+2006,Jeju,Men,16-19,5508
+2006,Jeju,Women,16-19,3106
+2006,Outside of Korean Red Cross,Men,16-19,7171
+2006,Outside of Korean Red Cross,Women,16-19,2023
+2007,Central Seoul,Men,16-19,31768
+2007,Central Seoul,Women,16-19,21630
+2007,Western Seoul,Men,16-19,32510
+2007,Western Seoul,Women,16-19,17301
+2007,Southern Seoul,Men,16-19,28251
+2007,Southern Seoul,Women,16-19,13268
+2007,Eastern Seoul,Men,16-19,47320
+2007,Eastern Seoul,Women,16-19,31815
+2007,Busan,Men,16-19,40879
+2007,Busan,Women,16-19,21257
+2007,DaeguGyeongbuk,Men,16-19,40386
+2007,DaeguGyeongbuk,Women,16-19,21823
+2007,Incheon,Men,16-19,27236
+2007,Incheon,Women,16-19,17863
+2007,Ulsan,Men,16-19,15587
+2007,Ulsan,Women,16-19,6952
+2007,Gyeonggi,Men,16-19,31916
+2007,Gyeonggi,Women,16-19,13806
+2007,Gangwon,Men,16-19,11845
+2007,Gangwon,Women,16-19,4604
+2007,Chungbuk,Men,16-19,18032
+2007,Chungbuk,Women,16-19,8684
+2007,DaejeonChungnam,Men,16-19,41868
+2007,DaejeonChungnam,Women,16-19,18400
+2007,Jeonbuk,Men,16-19,25955
+2007,Jeonbuk,Women,16-19,13931
+2007,Jeonnam,Men,16-19,42081
+2007,Jeonnam,Women,16-19,31175
+2007,Gyeongnam,Men,16-19,22035
+2007,Gyeongnam,Women,16-19,9689
+2007,Jeju,Men,16-19,5592
+2007,Jeju,Women,16-19,3376
+2007,Outside of Korean Red Cross,Men,16-19,11799
+2007,Outside of Korean Red Cross,Women,16-19,4473
+2008,Central Seoul,Men,16-19,33496
+2008,Central Seoul,Women,16-19,25406
+2008,Western Seoul,Men,16-19,34641
+2008,Western Seoul,Women,16-19,19494
+2008,Southern Seoul,Men,16-19,28697
+2008,Southern Seoul,Women,16-19,15544
+2008,Eastern Seoul,Men,16-19,51614
+2008,Eastern Seoul,Women,16-19,38055
+2008,Busan,Men,16-19,50059
+2008,Busan,Women,16-19,27638
+2008,DaeguGyeongbuk,Men,16-19,44328
+2008,DaeguGyeongbuk,Women,16-19,30076
+2008,Incheon,Men,16-19,29599
+2008,Incheon,Women,16-19,20738
+2008,Ulsan,Men,16-19,17904
+2008,Ulsan,Women,16-19,8587
+2008,Gyeonggi,Men,16-19,33736
+2008,Gyeonggi,Women,16-19,16281
+2008,Gangwon,Men,16-19,13442
+2008,Gangwon,Women,16-19,5744
+2008,Chungbuk,Men,16-19,22623
+2008,Chungbuk,Women,16-19,10588
+2008,DaejeonChungnam,Men,16-19,46678
+2008,DaejeonChungnam,Women,16-19,22226
+2008,Jeonbuk,Men,16-19,29156
+2008,Jeonbuk,Women,16-19,15366
+2008,Jeonnam,Men,16-19,45631
+2008,Jeonnam,Women,16-19,38858
+2008,Gyeongnam,Men,16-19,28740
+2008,Gyeongnam,Women,16-19,9981
+2008,Jeju,Men,16-19,6773
+2008,Jeju,Women,16-19,5490
+2008,Outside of Korean Red Cross,Men,16-19,17433
+2008,Outside of Korean Red Cross,Women,16-19,7129
+2009,Central Seoul,Men,16-19,35424
+2009,Central Seoul,Women,16-19,25729
+2009,Western Seoul,Men,16-19,35883
+2009,Western Seoul,Women,16-19,21336
+2009,Southern Seoul,Men,16-19,28994
+2009,Southern Seoul,Women,16-19,19228
+2009,Eastern Seoul,Men,16-19,52568
+2009,Eastern Seoul,Women,16-19,40774
+2009,Busan,Men,16-19,47231
+2009,Busan,Women,16-19,28921
+2009,DaeguGyeongbuk,Men,16-19,47181
+2009,DaeguGyeongbuk,Women,16-19,33048
+2009,Incheon,Men,16-19,28477
+2009,Incheon,Women,16-19,22756
+2009,Ulsan,Men,16-19,19124
+2009,Ulsan,Women,16-19,9788
+2009,Gyeonggi,Men,16-19,34993
+2009,Gyeonggi,Women,16-19,22092
+2009,Gangwon,Men,16-19,15185
+2009,Gangwon,Women,16-19,7447
+2009,Chungbuk,Men,16-19,25949
+2009,Chungbuk,Women,16-19,11365
+2009,DaejeonChungnam,Men,16-19,41630
+2009,DaejeonChungnam,Women,16-19,21135
+2009,Jeonbuk,Men,16-19,32851
+2009,Jeonbuk,Women,16-19,17158
+2009,Jeonnam,Men,16-19,44918
+2009,Jeonnam,Women,16-19,37491
+2009,Gyeongnam,Men,16-19,29087
+2009,Gyeongnam,Women,16-19,11788
+2009,Jeju,Men,16-19,7109
+2009,Jeju,Women,16-19,6783
+2009,Outside of Korean Red Cross,Men,16-19,22728
+2009,Outside of Korean Red Cross,Women,16-19,11409
+2010,Central Seoul,Men,16-19,50237
+2010,Central Seoul,Women,16-19,36960
+2010,Western Seoul,Men,16-19,16765
+2010,Western Seoul,Women,16-19,10093
+2010,Southern Seoul,Men,16-19,35807
+2010,Southern Seoul,Women,16-19,22542
+2010,Eastern Seoul,Men,16-19,61110
+2010,Eastern Seoul,Women,16-19,49399
+2010,Busan,Men,16-19,57570
+2010,Busan,Women,16-19,35209
+2010,DaeguGyeongbuk,Men,16-19,47832
+2010,DaeguGyeongbuk,Women,16-19,35787
+2010,Incheon,Men,16-19,38379
+2010,Incheon,Women,16-19,31076
+2010,Ulsan,Men,16-19,20303
+2010,Ulsan,Women,16-19,11742
+2010,Gyeonggi,Men,16-19,40438
+2010,Gyeonggi,Women,16-19,27375
+2010,Gangwon,Men,16-19,17960
+2010,Gangwon,Women,16-19,9098
+2010,Chungbuk,Men,16-19,27419
+2010,Chungbuk,Women,16-19,11799
+2010,DaejeonChungnam,Men,16-19,51662
+2010,DaejeonChungnam,Women,16-19,22719
+2010,Jeonbuk,Men,16-19,35190
+2010,Jeonbuk,Women,16-19,18139
+2010,Jeonnam,Men,16-19,47248
+2010,Jeonnam,Women,16-19,41537
+2010,Gyeongnam,Men,16-19,33610
+2010,Gyeongnam,Women,16-19,14188
+2010,Jeju,Men,16-19,7566
+2010,Jeju,Women,16-19,8000
+2010,Outside of Korean Red Cross,Men,16-19,31957
+2010,Outside of Korean Red Cross,Women,16-19,22828
+2011,Central Seoul,Men,16-19,
+2011,Central Seoul,Women,16-19,
+2011,Western Seoul,Men,16-19,54005
+2011,Western Seoul,Women,16-19,44675
+2011,Southern Seoul,Men,16-19,35827
+2011,Southern Seoul,Women,16-19,21368
+2011,Eastern Seoul,Men,16-19,62716
+2011,Eastern Seoul,Women,16-19,50117
+2011,Busan,Men,16-19,52908
+2011,Busan,Women,16-19,35894
+2011,DaeguGyeongbuk,Men,16-19,48942
+2011,DaeguGyeongbuk,Women,16-19,36833
+2011,Incheon,Men,16-19,48150
+2011,Incheon,Women,16-19,36699
+2011,Ulsan,Men,16-19,21495
+2011,Ulsan,Women,16-19,11399
+2011,Gyeonggi,Men,16-19,44702
+2011,Gyeonggi,Women,16-19,29658
+2011,Gangwon,Men,16-19,21332
+2011,Gangwon,Women,16-19,10712
+2011,Chungbuk,Men,16-19,25302
+2011,Chungbuk,Women,16-19,11008
+2011,DaejeonChungnam,Men,16-19,52134
+2011,DaejeonChungnam,Women,16-19,24143
+2011,Jeonbuk,Men,16-19,34212
+2011,Jeonbuk,Women,16-19,21401
+2011,Jeonnam,Men,16-19,48458
+2011,Jeonnam,Women,16-19,44487
+2011,Gyeongnam,Men,16-19,35990
+2011,Gyeongnam,Women,16-19,13411
+2011,Jeju,Men,16-19,8067
+2011,Jeju,Women,16-19,7868
+2011,Outside of Korean Red Cross,Men,16-19,35610
+2011,Outside of Korean Red Cross,Women,16-19,29330
+2012,Central Seoul,Men,16-19,
+2012,Central Seoul,Women,16-19,
+2012,Western Seoul,Men,16-19,56588
+2012,Western Seoul,Women,16-19,41391
+2012,Southern Seoul,Men,16-19,35419
+2012,Southern Seoul,Women,16-19,21638
+2012,Eastern Seoul,Men,16-19,63804
+2012,Eastern Seoul,Women,16-19,49766
+2012,Busan,Men,16-19,48760
+2012,Busan,Women,16-19,32888
+2012,DaeguGyeongbuk,Men,16-19,49658
+2012,DaeguGyeongbuk,Women,16-19,38746
+2012,Incheon,Men,16-19,43679
+2012,Incheon,Women,16-19,33796
+2012,Ulsan,Men,16-19,22062
+2012,Ulsan,Women,16-19,12047
+2012,Gyeonggi,Men,16-19,38703
+2012,Gyeonggi,Women,16-19,24851
+2012,Gangwon,Men,16-19,25398
+2012,Gangwon,Women,16-19,11997
+2012,Chungbuk,Men,16-19,27770
+2012,Chungbuk,Women,16-19,12122
+2012,DaejeonChungnam,Men,16-19,52688
+2012,DaejeonChungnam,Women,16-19,28054
+2012,Jeonbuk,Men,16-19,34720
+2012,Jeonbuk,Women,16-19,21651
+2012,Jeonnam,Men,16-19,45431
+2012,Jeonnam,Women,16-19,39241
+2012,Gyeongnam,Men,16-19,37623
+2012,Gyeongnam,Women,16-19,14840
+2012,Jeju,Men,16-19,6836
+2012,Jeju,Women,16-19,7118
+2012,Outside of Korean Red Cross,Men,16-19,38173
+2012,Outside of Korean Red Cross,Women,16-19,30976
+2013,Central Seoul,Men,16-19,
+2013,Central Seoul,Women,16-19,
+2013,Western Seoul,Men,16-19,55402
+2013,Western Seoul,Women,16-19,41425
+2013,Southern Seoul,Men,16-19,33996
+2013,Southern Seoul,Women,16-19,21483
+2013,Eastern Seoul,Men,16-19,59984
+2013,Eastern Seoul,Women,16-19,49604
+2013,Busan,Men,16-19,49745
+2013,Busan,Women,16-19,36494
+2013,DaeguGyeongbuk,Men,16-19,50441
+2013,DaeguGyeongbuk,Women,16-19,39300
+2013,Incheon,Men,16-19,39808
+2013,Incheon,Women,16-19,34031
+2013,Ulsan,Men,16-19,22057
+2013,Ulsan,Women,16-19,11397
+2013,Gyeonggi,Men,16-19,38780
+2013,Gyeonggi,Women,16-19,25972
+2013,Gangwon,Men,16-19,25418
+2013,Gangwon,Women,16-19,13666
+2013,Chungbuk,Men,16-19,24424
+2013,Chungbuk,Women,16-19,12604
+2013,DaejeonChungnam,Men,16-19,50129
+2013,DaejeonChungnam,Women,16-19,30699
+2013,Jeonbuk,Men,16-19,34151
+2013,Jeonbuk,Women,16-19,20675
+2013,Jeonnam,Men,16-19,44979
+2013,Jeonnam,Women,16-19,42555
+2013,Gyeongnam,Men,16-19,39749
+2013,Gyeongnam,Women,16-19,18365
+2013,Jeju,Men,16-19,6996
+2013,Jeju,Women,16-19,7649
+2013,Outside of Korean Red Cross,Men,16-19,39435
+2013,Outside of Korean Red Cross,Women,16-19,37291
+2014,Central Seoul,Men,16-19,
+2014,Central Seoul,Women,16-19,
+2014,Western Seoul,Men,16-19,63623
+2014,Western Seoul,Women,16-19,43910
+2014,Southern Seoul,Men,16-19,33932
+2014,Southern Seoul,Women,16-19,20582
+2014,Eastern Seoul,Men,16-19,63058
+2014,Eastern Seoul,Women,16-19,49790
+2014,Busan,Men,16-19,45358
+2014,Busan,Women,16-19,37042
+2014,DaeguGyeongbuk,Men,16-19,52822
+2014,DaeguGyeongbuk,Women,16-19,42523
+2014,Incheon,Men,16-19,41228
+2014,Incheon,Women,16-19,33289
+2014,Ulsan,Men,16-19,21921
+2014,Ulsan,Women,16-19,10630
+2014,Gyeonggi,Men,16-19,39954
+2014,Gyeonggi,Women,16-19,26624
+2014,Gangwon,Men,16-19,24830
+2014,Gangwon,Women,16-19,15125
+2014,Chungbuk,Men,16-19,22311
+2014,Chungbuk,Women,16-19,13741
+2014,DaejeonChungnam,Men,16-19,52709
+2014,DaejeonChungnam,Women,16-19,30467
+2014,Jeonbuk,Men,16-19,28182
+2014,Jeonbuk,Women,16-19,20134
+2014,Jeonnam,Men,16-19,46698
+2014,Jeonnam,Women,16-19,44433
+2014,Gyeongnam,Men,16-19,38763
+2014,Gyeongnam,Women,16-19,17914
+2014,Jeju,Men,16-19,7609
+2014,Jeju,Women,16-19,8094
+2014,Outside of Korean Red Cross,Men,16-19,39857
+2014,Outside of Korean Red Cross,Women,16-19,36951
+2015,Central Seoul,Men,16-19,
+2015,Central Seoul,Women,16-19,
+2015,Western Seoul,Men,16-19,56713
+2015,Western Seoul,Women,16-19,42213
+2015,Southern Seoul,Men,16-19,31072
+2015,Southern Seoul,Women,16-19,19206
+2015,Eastern Seoul,Men,16-19,56976
+2015,Eastern Seoul,Women,16-19,43258
+2015,Busan,Men,16-19,48798
+2015,Busan,Women,16-19,36625
+2015,DaeguGyeongbuk,Men,16-19,49940
+2015,DaeguGyeongbuk,Women,16-19,39241
+2015,Incheon,Men,16-19,38824
+2015,Incheon,Women,16-19,30278
+2015,Ulsan,Men,16-19,24046
+2015,Ulsan,Women,16-19,11934
+2015,Gyeonggi,Men,16-19,41308
+2015,Gyeonggi,Women,16-19,28302
+2015,Gangwon,Men,16-19,26830
+2015,Gangwon,Women,16-19,17079
+2015,Chungbuk,Men,16-19,23493
+2015,Chungbuk,Women,16-19,14284
+2015,DaejeonChungnam,Men,16-19,53843
+2015,DaejeonChungnam,Women,16-19,32451
+2015,Jeonbuk,Men,16-19,30825
+2015,Jeonbuk,Women,16-19,19272
+2015,Jeonnam,Men,16-19,48222
+2015,Jeonnam,Women,16-19,43968
+2015,Gyeongnam,Men,16-19,34506
+2015,Gyeongnam,Women,16-19,16183
+2015,Jeju,Men,16-19,7832
+2015,Jeju,Women,16-19,8539
+2015,Outside of Korean Red Cross,Men,16-19,38993
+2015,Outside of Korean Red Cross,Women,16-19,33887
+2016,Central Seoul,Men,16-19,
+2016,Central Seoul,Women,16-19,
+2016,Western Seoul,Men,16-19,46928
+2016,Western Seoul,Women,16-19,29317
+2016,Southern Seoul,Men,16-19,31503
+2016,Southern Seoul,Women,16-19,17259
+2016,Eastern Seoul,Men,16-19,47668
+2016,Eastern Seoul,Women,16-19,32579
+2016,Busan,Men,16-19,44058
+2016,Busan,Women,16-19,25896
+2016,DaeguGyeongbuk,Men,16-19,49541
+2016,DaeguGyeongbuk,Women,16-19,30784
+2016,Incheon,Men,16-19,33131
+2016,Incheon,Women,16-19,22469
+2016,Ulsan,Men,16-19,23160
+2016,Ulsan,Women,16-19,10756
+2016,Gyeonggi,Men,16-19,38543
+2016,Gyeonggi,Women,16-19,21622
+2016,Gangwon,Men,16-19,25470
+2016,Gangwon,Women,16-19,12929
+2016,Chungbuk,Men,16-19,20506
+2016,Chungbuk,Women,16-19,11904
+2016,DaejeonChungnam,Men,16-19,52651
+2016,DaejeonChungnam,Women,16-19,31071
+2016,Jeonbuk,Men,16-19,29651
+2016,Jeonbuk,Women,16-19,15560
+2016,Jeonnam,Men,16-19,46587
+2016,Jeonnam,Women,16-19,36562
+2016,Gyeongnam,Men,16-19,32663
+2016,Gyeongnam,Women,16-19,14200
+2016,Jeju,Men,16-19,7476
+2016,Jeju,Women,16-19,6382
+2016,Outside of Korean Red Cross,Men,16-19,39181
+2016,Outside of Korean Red Cross,Women,16-19,34567
+2017,Central Seoul,Men,16-19,
+2017,Central Seoul,Women,16-19,
+2017,Western Seoul,Men,16-19,43565
+2017,Western Seoul,Women,16-19,27004
+2017,Southern Seoul,Men,16-19,35391
+2017,Southern Seoul,Women,16-19,18732
+2017,Eastern Seoul,Men,16-19,50080
+2017,Eastern Seoul,Women,16-19,33905
+2017,Busan,Men,16-19,42817
+2017,Busan,Women,16-19,25794
+2017,DaeguGyeongbuk,Men,16-19,47374
+2017,DaeguGyeongbuk,Women,16-19,29818
+2017,Incheon,Men,16-19,31190
+2017,Incheon,Women,16-19,21197
+2017,Ulsan,Men,16-19,22964
+2017,Ulsan,Women,16-19,10036
+2017,Gyeonggi,Men,16-19,38229
+2017,Gyeonggi,Women,16-19,21029
+2017,Gangwon,Men,16-19,25971
+2017,Gangwon,Women,16-19,12575
+2017,Chungbuk,Men,16-19,21063
+2017,Chungbuk,Women,16-19,12329
+2017,DaejeonChungnam,Men,16-19,51931
+2017,DaejeonChungnam,Women,16-19,32009
+2017,Jeonbuk,Men,16-19,28172
+2017,Jeonbuk,Women,16-19,14409
+2017,Jeonnam,Men,16-19,49516
+2017,Jeonnam,Women,16-19,38125
+2017,Gyeongnam,Men,16-19,35511
+2017,Gyeongnam,Women,16-19,14940
+2017,Jeju,Men,16-19,6955
+2017,Jeju,Women,16-19,6067
+2017,Outside of Korean Red Cross,Men,16-19,36395
+2017,Outside of Korean Red Cross,Women,16-19,28810
+2018,Central Seoul,Men,16-19,36260
+2018,Central Seoul,Women,16-19,24058
+2018,Western Seoul,Men,16-19,
+2018,Western Seoul,Women,16-19,
+2018,Southern Seoul,Men,16-19,30955
+2018,Southern Seoul,Women,16-19,15809
+2018,Eastern Seoul,Men,16-19,46981
+2018,Eastern Seoul,Women,16-19,31397
+2018,Busan,Men,16-19,42584
+2018,Busan,Women,16-19,26325
+2018,DaeguGyeongbuk,Men,16-19,48723
+2018,DaeguGyeongbuk,Women,16-19,29847
+2018,Incheon,Men,16-19,27676
+2018,Incheon,Women,16-19,19087
+2018,Ulsan,Men,16-19,22098
+2018,Ulsan,Women,16-19,10124
+2018,Gyeonggi,Men,16-19,31027
+2018,Gyeonggi,Women,16-19,17087
+2018,Gangwon,Men,16-19,27159
+2018,Gangwon,Women,16-19,11506
+2018,Chungbuk,Men,16-19,19361
+2018,Chungbuk,Women,16-19,10838
+2018,DaejeonChungnam,Men,16-19,52111
+2018,DaejeonChungnam,Women,16-19,33004
+2018,Jeonbuk,Men,16-19,26509
+2018,Jeonbuk,Women,16-19,13801
+2018,Jeonnam,Men,16-19,43565
+2018,Jeonnam,Women,16-19,33167
+2018,Gyeongnam,Men,16-19,34659
+2018,Gyeongnam,Women,16-19,16606
+2018,Jeju,Men,16-19,7372
+2018,Jeju,Women,16-19,4951
+2018,Outside of Korean Red Cross,Men,16-19,31594
+2018,Outside of Korean Red Cross,Women,16-19,27192
+2019,Central Seoul,Men,16-19,32574
+2019,Central Seoul,Women,16-19,21163
+2019,Western Seoul,Men,16-19,
+2019,Western Seoul,Women,16-19,
+2019,Southern Seoul,Men,16-19,27756
+2019,Southern Seoul,Women,16-19,13967
+2019,Eastern Seoul,Men,16-19,40779
+2019,Eastern Seoul,Women,16-19,28177
+2019,Busan,Men,16-19,40385
+2019,Busan,Women,16-19,24722
+2019,DaeguGyeongbuk,Men,16-19,43955
+2019,DaeguGyeongbuk,Women,16-19,26720
+2019,Incheon,Men,16-19,25858
+2019,Incheon,Women,16-19,17796
+2019,Ulsan,Men,16-19,21851
+2019,Ulsan,Women,16-19,10855
+2019,Gyeonggi,Men,16-19,32679
+2019,Gyeonggi,Women,16-19,18733
+2019,Gangwon,Men,16-19,24108
+2019,Gangwon,Women,16-19,11033
+2019,Chungbuk,Men,16-19,19107
+2019,Chungbuk,Women,16-19,11417
+2019,DaejeonChungnam,Men,16-19,49213
+2019,DaejeonChungnam,Women,16-19,33262
+2019,Jeonbuk,Men,16-19,27067
+2019,Jeonbuk,Women,16-19,14636
+2019,Jeonnam,Men,16-19,43006
+2019,Jeonnam,Women,16-19,32155
+2019,Gyeongnam,Men,16-19,33967
+2019,Gyeongnam,Women,16-19,16236
+2019,Jeju,Men,16-19,7389
+2019,Jeju,Women,16-19,5541
+2019,Outside of Korean Red Cross,Men,16-19,26611
+2019,Outside of Korean Red Cross,Women,16-19,17603
+2020,Central Seoul,Men,16-19,19752
+2020,Central Seoul,Women,16-19,13372
+2020,Western Seoul,Men,16-19,
+2020,Western Seoul,Women,16-19,
+2020,Southern Seoul,Men,16-19,15050
+2020,Southern Seoul,Women,16-19,7040
+2020,Eastern Seoul,Men,16-19,23630
+2020,Eastern Seoul,Women,16-19,14867
+2020,Busan,Men,16-19,28138
+2020,Busan,Women,16-19,16757
+2020,DaeguGyeongbuk,Men,16-19,23789
+2020,DaeguGyeongbuk,Women,16-19,16021
+2020,Incheon,Men,16-19,16723
+2020,Incheon,Women,16-19,11232
+2020,Ulsan,Men,16-19,11958
+2020,Ulsan,Women,16-19,5837
+2020,Gyeonggi,Men,16-19,22913
+2020,Gyeonggi,Women,16-19,12141
+2020,Gangwon,Men,16-19,15379
+2020,Gangwon,Women,16-19,6141
+2020,Chungbuk,Men,16-19,12395
+2020,Chungbuk,Women,16-19,6234
+2020,DaejeonChungnam,Men,16-19,33315
+2020,DaejeonChungnam,Women,16-19,22239
+2020,Jeonbuk,Men,16-19,21144
+2020,Jeonbuk,Women,16-19,10745
+2020,Jeonnam,Men,16-19,27340
+2020,Jeonnam,Women,16-19,20771
+2020,Gyeongnam,Men,16-19,22928
+2020,Gyeongnam,Women,16-19,10594
+2020,Jeju,Men,16-19,6746
+2020,Jeju,Women,16-19,4411
+2020,Outside of Korean Red Cross,Men,16-19,17202
+2020,Outside of Korean Red Cross,Women,16-19,12822
+2021,Central Seoul,Men,16-19,20789
+2021,Central Seoul,Women,16-19,11555
+2021,Western Seoul,Men,16-19,
+2021,Western Seoul,Women,16-19,
+2021,Southern Seoul,Men,16-19,14614
+2021,Southern Seoul,Women,16-19,5931
+2021,Eastern Seoul,Men,16-19,22859
+2021,Eastern Seoul,Women,16-19,13897
+2021,Busan,Men,16-19,30332
+2021,Busan,Women,16-19,16376
+2021,DaeguGyeongbuk,Men,16-19,31731
+2021,DaeguGyeongbuk,Women,16-19,18313
+2021,Incheon,Men,16-19,17492
+2021,Incheon,Women,16-19,10757
+2021,Ulsan,Men,16-19,14672
+2021,Ulsan,Women,16-19,6618
+2021,Gyeonggi,Men,16-19,23657
+2021,Gyeonggi,Women,16-19,12324
+2021,Gangwon,Men,16-19,13922
+2021,Gangwon,Women,16-19,6592
+2021,Chungbuk,Men,16-19,14957
+2021,Chungbuk,Women,16-19,6920
+2021,DaejeonChungnam,Men,16-19,38428
+2021,DaejeonChungnam,Women,16-19,23566
+2021,Jeonbuk,Men,16-19,23115
+2021,Jeonbuk,Women,16-19,11730
+2021,Jeonnam,Men,16-19,33240
+2021,Jeonnam,Women,16-19,23529
+2021,Gyeongnam,Men,16-19,23711
+2021,Gyeongnam,Women,16-19,10025
+2021,Jeju,Men,16-19,7576
+2021,Jeju,Women,16-19,3879
+2021,Outside of Korean Red Cross,Men,16-19,17899
+2021,Outside of Korean Red Cross,Women,16-19,13170
+2022,Central Seoul,Men,16-19,18738
+2022,Central Seoul,Women,16-19,9990
+2022,Western Seoul,Men,16-19,
+2022,Western Seoul,Women,16-19,
+2022,Southern Seoul,Men,16-19,14829
+2022,Southern Seoul,Women,16-19,5930
+2022,Eastern Seoul,Men,16-19,19366
+2022,Eastern Seoul,Women,16-19,12936
+2022,Busan,Men,16-19,25956
+2022,Busan,Women,16-19,14638
+2022,DaeguGyeongbuk,Men,16-19,28923
+2022,DaeguGyeongbuk,Women,16-19,15907
+2022,Incheon,Men,16-19,14414
+2022,Incheon,Women,16-19,9251
+2022,Ulsan,Men,16-19,14303
+2022,Ulsan,Women,16-19,6861
+2022,Gyeonggi,Men,16-19,19541
+2022,Gyeonggi,Women,16-19,10725
+2022,Gangwon,Men,16-19,11516
+2022,Gangwon,Women,16-19,5003
+2022,Chungbuk,Men,16-19,12325
+2022,Chungbuk,Women,16-19,6189
+2022,DaejeonChungnam,Men,16-19,31530
+2022,DaejeonChungnam,Women,16-19,19798
+2022,Jeonbuk,Men,16-19,17640
+2022,Jeonbuk,Women,16-19,9478
+2022,Jeonnam,Men,16-19,24353
+2022,Jeonnam,Women,16-19,17187
+2022,Gyeongnam,Men,16-19,18573
+2022,Gyeongnam,Women,16-19,8013
+2022,Jeju,Men,16-19,6297
+2022,Jeju,Women,16-19,3781
+2022,Outside of Korean Red Cross,Men,16-19,15996
+2022,Outside of Korean Red Cross,Women,16-19,12199
+2023,Central Seoul,Men,16-19,21891
+2023,Central Seoul,Women,16-19,11326
+2023,Western Seoul,Men,16-19,
+2023,Western Seoul,Women,16-19,
+2023,Southern Seoul,Men,16-19,20110
+2023,Southern Seoul,Women,16-19,7018
+2023,Eastern Seoul,Men,16-19,22859
+2023,Eastern Seoul,Women,16-19,13457
+2023,Busan,Men,16-19,29837
+2023,Busan,Women,16-19,14026
+2023,DaeguGyeongbuk,Men,16-19,33886
+2023,DaeguGyeongbuk,Women,16-19,15458
+2023,Incheon,Men,16-19,17388
+2023,Incheon,Women,16-19,9018
+2023,Ulsan,Men,16-19,16190
+2023,Ulsan,Women,16-19,7526
+2023,Gyeonggi,Men,16-19,22396
+2023,Gyeonggi,Women,16-19,10351
+2023,Gangwon,Men,16-19,14328
+2023,Gangwon,Women,16-19,5669
+2023,Chungbuk,Men,16-19,12906
+2023,Chungbuk,Women,16-19,6207
+2023,DaejeonChungnam,Men,16-19,32411
+2023,DaejeonChungnam,Women,16-19,17293
+2023,Jeonbuk,Men,16-19,17742
+2023,Jeonbuk,Women,16-19,8456
+2023,Jeonnam,Men,16-19,26539
+2023,Jeonnam,Women,16-19,17079
+2023,Gyeongnam,Men,16-19,21291
+2023,Gyeongnam,Women,16-19,8079
+2023,Jeju,Men,16-19,6257
+2023,Jeju,Women,16-19,4167
+2023,Outside of Korean Red Cross,Men,16-19,18970
+2023,Outside of Korean Red Cross,Women,16-19,13493
+2005,Central Seoul,Men,20-29,110065
+2005,Central Seoul,Women,20-29,19877
+2005,Western Seoul,Men,20-29,61835
+2005,Western Seoul,Women,20-29,8547
+2005,Southern Seoul,Men,20-29,89573
+2005,Southern Seoul,Women,20-29,14379
+2005,Eastern Seoul,Men,20-29,88682
+2005,Eastern Seoul,Women,20-29,12796
+2005,Busan,Men,20-29,87189
+2005,Busan,Women,20-29,22468
+2005,DaeguGyeongbuk,Men,20-29,69397
+2005,DaeguGyeongbuk,Women,20-29,20176
+2005,Incheon,Men,20-29,40707
+2005,Incheon,Women,20-29,12393
+2005,Ulsan,Men,20-29,27705
+2005,Ulsan,Women,20-29,5994
+2005,Gyeonggi,Men,20-29,54037
+2005,Gyeonggi,Women,20-29,9181
+2005,Gangwon,Men,20-29,54040
+2005,Gangwon,Women,20-29,3293
+2005,Chungbuk,Men,20-29,33133
+2005,Chungbuk,Women,20-29,6260
+2005,DaejeonChungnam,Men,20-29,71747
+2005,DaejeonChungnam,Women,20-29,8582
+2005,Jeonbuk,Men,20-29,47485
+2005,Jeonbuk,Women,20-29,8740
+2005,Jeonnam,Men,20-29,64732
+2005,Jeonnam,Women,20-29,14727
+2005,Gyeongnam,Men,20-29,44550
+2005,Gyeongnam,Women,20-29,4782
+2005,Jeju,Men,20-29,13817
+2005,Jeju,Women,20-29,2658
+2005,Outside of Korean Red Cross,Men,20-29,22055
+2005,Outside of Korean Red Cross,Women,20-29,4324
+2006,Central Seoul,Men,20-29,105762
+2006,Central Seoul,Women,20-29,23697
+2006,Western Seoul,Men,20-29,57228
+2006,Western Seoul,Women,20-29,9937
+2006,Southern Seoul,Men,20-29,84777
+2006,Southern Seoul,Women,20-29,19156
+2006,Eastern Seoul,Men,20-29,77796
+2006,Eastern Seoul,Women,20-29,16040
+2006,Busan,Men,20-29,86243
+2006,Busan,Women,20-29,21942
+2006,DaeguGyeongbuk,Men,20-29,67990
+2006,DaeguGyeongbuk,Women,20-29,20063
+2006,Incheon,Men,20-29,39369
+2006,Incheon,Women,20-29,10104
+2006,Ulsan,Men,20-29,32999
+2006,Ulsan,Women,20-29,6252
+2006,Gyeonggi,Men,20-29,47634
+2006,Gyeonggi,Women,20-29,9844
+2006,Gangwon,Men,20-29,49728
+2006,Gangwon,Women,20-29,3714
+2006,Chungbuk,Men,20-29,33616
+2006,Chungbuk,Women,20-29,6335
+2006,DaejeonChungnam,Men,20-29,59311
+2006,DaejeonChungnam,Women,20-29,11175
+2006,Jeonbuk,Men,20-29,43893
+2006,Jeonbuk,Women,20-29,9325
+2006,Jeonnam,Men,20-29,73145
+2006,Jeonnam,Women,20-29,19411
+2006,Gyeongnam,Men,20-29,43464
+2006,Gyeongnam,Women,20-29,5379
+2006,Jeju,Men,20-29,12836
+2006,Jeju,Women,20-29,2058
+2006,Outside of Korean Red Cross,Men,20-29,22844
+2006,Outside of Korean Red Cross,Women,20-29,3986
+2007,Central Seoul,Men,20-29,74268
+2007,Central Seoul,Women,20-29,23299
+2007,Western Seoul,Men,20-29,56757
+2007,Western Seoul,Women,20-29,15523
+2007,Southern Seoul,Men,20-29,74254
+2007,Southern Seoul,Women,20-29,18054
+2007,Eastern Seoul,Men,20-29,54397
+2007,Eastern Seoul,Women,20-29,16478
+2007,Busan,Men,20-29,73895
+2007,Busan,Women,20-29,16340
+2007,DaeguGyeongbuk,Men,20-29,53580
+2007,DaeguGyeongbuk,Women,20-29,15083
+2007,Incheon,Men,20-29,33292
+2007,Incheon,Women,20-29,9464
+2007,Ulsan,Men,20-29,24304
+2007,Ulsan,Women,20-29,4379
+2007,Gyeonggi,Men,20-29,42080
+2007,Gyeonggi,Women,20-29,9025
+2007,Gangwon,Men,20-29,35801
+2007,Gangwon,Women,20-29,3441
+2007,Chungbuk,Men,20-29,30072
+2007,Chungbuk,Women,20-29,4679
+2007,DaejeonChungnam,Men,20-29,54126
+2007,DaejeonChungnam,Women,20-29,10340
+2007,Jeonbuk,Men,20-29,36297
+2007,Jeonbuk,Women,20-29,6987
+2007,Jeonnam,Men,20-29,59803
+2007,Jeonnam,Women,20-29,16585
+2007,Gyeongnam,Men,20-29,36351
+2007,Gyeongnam,Women,20-29,4977
+2007,Jeju,Men,20-29,10807
+2007,Jeju,Women,20-29,1859
+2007,Outside of Korean Red Cross,Men,20-29,21652
+2007,Outside of Korean Red Cross,Women,20-29,5759
+2008,Central Seoul,Men,20-29,79020
+2008,Central Seoul,Women,20-29,28376
+2008,Western Seoul,Men,20-29,62409
+2008,Western Seoul,Women,20-29,17947
+2008,Southern Seoul,Men,20-29,76395
+2008,Southern Seoul,Women,20-29,21459
+2008,Eastern Seoul,Men,20-29,56077
+2008,Eastern Seoul,Women,20-29,18273
+2008,Busan,Men,20-29,71211
+2008,Busan,Women,20-29,19825
+2008,DaeguGyeongbuk,Men,20-29,61685
+2008,DaeguGyeongbuk,Women,20-29,21258
+2008,Incheon,Men,20-29,36653
+2008,Incheon,Women,20-29,10230
+2008,Ulsan,Men,20-29,24168
+2008,Ulsan,Women,20-29,5047
+2008,Gyeonggi,Men,20-29,44814
+2008,Gyeonggi,Women,20-29,10483
+2008,Gangwon,Men,20-29,39657
+2008,Gangwon,Women,20-29,4493
+2008,Chungbuk,Men,20-29,33907
+2008,Chungbuk,Women,20-29,5978
+2008,DaejeonChungnam,Men,20-29,60770
+2008,DaejeonChungnam,Women,20-29,14546
+2008,Jeonbuk,Men,20-29,35394
+2008,Jeonbuk,Women,20-29,8390
+2008,Jeonnam,Men,20-29,58368
+2008,Jeonnam,Women,20-29,19001
+2008,Gyeongnam,Men,20-29,38755
+2008,Gyeongnam,Women,20-29,5968
+2008,Jeju,Men,20-29,10543
+2008,Jeju,Women,20-29,2858
+2008,Outside of Korean Red Cross,Men,20-29,28996
+2008,Outside of Korean Red Cross,Women,20-29,8055
+2009,Central Seoul,Men,20-29,72902
+2009,Central Seoul,Women,20-29,26715
+2009,Western Seoul,Men,20-29,68072
+2009,Western Seoul,Women,20-29,21726
+2009,Southern Seoul,Men,20-29,82791
+2009,Southern Seoul,Women,20-29,26497
+2009,Eastern Seoul,Men,20-29,57881
+2009,Eastern Seoul,Women,20-29,21817
+2009,Busan,Men,20-29,72756
+2009,Busan,Women,20-29,21582
+2009,DaeguGyeongbuk,Men,20-29,72738
+2009,DaeguGyeongbuk,Women,20-29,24984
+2009,Incheon,Men,20-29,39053
+2009,Incheon,Women,20-29,13082
+2009,Ulsan,Men,20-29,23723
+2009,Ulsan,Women,20-29,4898
+2009,Gyeonggi,Men,20-29,49619
+2009,Gyeonggi,Women,20-29,14010
+2009,Gangwon,Men,20-29,38340
+2009,Gangwon,Women,20-29,5962
+2009,Chungbuk,Men,20-29,39312
+2009,Chungbuk,Women,20-29,7569
+2009,DaejeonChungnam,Men,20-29,67126
+2009,DaejeonChungnam,Women,20-29,17845
+2009,Jeonbuk,Men,20-29,40263
+2009,Jeonbuk,Women,20-29,10018
+2009,Jeonnam,Men,20-29,60979
+2009,Jeonnam,Women,20-29,20704
+2009,Gyeongnam,Men,20-29,41255
+2009,Gyeongnam,Women,20-29,6980
+2009,Jeju,Men,20-29,10985
+2009,Jeju,Women,20-29,3609
+2009,Outside of Korean Red Cross,Men,20-29,37719
+2009,Outside of Korean Red Cross,Women,20-29,13112
+2010,Central Seoul,Men,20-29,75920
+2010,Central Seoul,Women,20-29,31803
+2010,Western Seoul,Men,20-29,30584
+2010,Western Seoul,Women,20-29,10888
+2010,Southern Seoul,Men,20-29,82623
+2010,Southern Seoul,Women,20-29,27531
+2010,Eastern Seoul,Men,20-29,61673
+2010,Eastern Seoul,Women,20-29,26141
+2010,Busan,Men,20-29,69879
+2010,Busan,Women,20-29,23850
+2010,DaeguGyeongbuk,Men,20-29,67520
+2010,DaeguGyeongbuk,Women,20-29,24523
+2010,Incheon,Men,20-29,40716
+2010,Incheon,Women,20-29,14845
+2010,Ulsan,Men,20-29,20767
+2010,Ulsan,Women,20-29,5379
+2010,Gyeonggi,Men,20-29,45035
+2010,Gyeonggi,Women,20-29,13816
+2010,Gangwon,Men,20-29,36817
+2010,Gangwon,Women,20-29,5899
+2010,Chungbuk,Men,20-29,38211
+2010,Chungbuk,Women,20-29,7724
+2010,DaejeonChungnam,Men,20-29,65810
+2010,DaejeonChungnam,Women,20-29,16144
+2010,Jeonbuk,Men,20-29,39785
+2010,Jeonbuk,Women,20-29,9859
+2010,Jeonnam,Men,20-29,53017
+2010,Jeonnam,Women,20-29,20271
+2010,Gyeongnam,Men,20-29,39775
+2010,Gyeongnam,Women,20-29,7648
+2010,Jeju,Men,20-29,10119
+2010,Jeju,Women,20-29,4010
+2010,Outside of Korean Red Cross,Men,20-29,44631
+2010,Outside of Korean Red Cross,Women,20-29,21004
+2011,Central Seoul,Men,20-29,
+2011,Central Seoul,Women,20-29,
+2011,Western Seoul,Men,20-29,74650
+2011,Western Seoul,Women,20-29,35928
+2011,Southern Seoul,Men,20-29,79819
+2011,Southern Seoul,Women,20-29,27627
+2011,Eastern Seoul,Men,20-29,64292
+2011,Eastern Seoul,Women,20-29,30108
+2011,Busan,Men,20-29,62963
+2011,Busan,Women,20-29,23255
+2011,DaeguGyeongbuk,Men,20-29,63640
+2011,DaeguGyeongbuk,Women,20-29,25449
+2011,Incheon,Men,20-29,40107
+2011,Incheon,Women,20-29,16074
+2011,Ulsan,Men,20-29,19419
+2011,Ulsan,Women,20-29,5519
+2011,Gyeonggi,Men,20-29,44072
+2011,Gyeonggi,Women,20-29,13848
+2011,Gangwon,Men,20-29,37177
+2011,Gangwon,Women,20-29,6383
+2011,Chungbuk,Men,20-29,33951
+2011,Chungbuk,Women,20-29,6774
+2011,DaejeonChungnam,Men,20-29,63012
+2011,DaejeonChungnam,Women,20-29,16807
+2011,Jeonbuk,Men,20-29,36675
+2011,Jeonbuk,Women,20-29,10409
+2011,Jeonnam,Men,20-29,46177
+2011,Jeonnam,Women,20-29,18677
+2011,Gyeongnam,Men,20-29,35277
+2011,Gyeongnam,Women,20-29,6843
+2011,Jeju,Men,20-29,7811
+2011,Jeju,Women,20-29,3046
+2011,Outside of Korean Red Cross,Men,20-29,45192
+2011,Outside of Korean Red Cross,Women,20-29,24896
+2012,Central Seoul,Men,20-29,
+2012,Central Seoul,Women,20-29,
+2012,Western Seoul,Men,20-29,81244
+2012,Western Seoul,Women,20-29,36675
+2012,Southern Seoul,Men,20-29,82836
+2012,Southern Seoul,Women,20-29,30784
+2012,Eastern Seoul,Men,20-29,70512
+2012,Eastern Seoul,Women,20-29,30936
+2012,Busan,Men,20-29,67317
+2012,Busan,Women,20-29,25236
+2012,DaeguGyeongbuk,Men,20-29,69486
+2012,DaeguGyeongbuk,Women,20-29,27777
+2012,Incheon,Men,20-29,41780
+2012,Incheon,Women,20-29,17112
+2012,Ulsan,Men,20-29,20052
+2012,Ulsan,Women,20-29,6338
+2012,Gyeonggi,Men,20-29,47964
+2012,Gyeonggi,Women,20-29,14743
+2012,Gangwon,Men,20-29,46286
+2012,Gangwon,Women,20-29,7299
+2012,Chungbuk,Men,20-29,36849
+2012,Chungbuk,Women,20-29,7789
+2012,DaejeonChungnam,Men,20-29,67248
+2012,DaejeonChungnam,Women,20-29,21240
+2012,Jeonbuk,Men,20-29,36962
+2012,Jeonbuk,Women,20-29,10730
+2012,Jeonnam,Men,20-29,45695
+2012,Jeonnam,Women,20-29,18221
+2012,Gyeongnam,Men,20-29,35105
+2012,Gyeongnam,Women,20-29,8169
+2012,Jeju,Men,20-29,7975
+2012,Jeju,Women,20-29,2875
+2012,Outside of Korean Red Cross,Men,20-29,45241
+2012,Outside of Korean Red Cross,Women,20-29,26453
+2013,Central Seoul,Men,20-29,
+2013,Central Seoul,Women,20-29,
+2013,Western Seoul,Men,20-29,96517
+2013,Western Seoul,Women,20-29,37248
+2013,Southern Seoul,Men,20-29,87770
+2013,Southern Seoul,Women,20-29,30705
+2013,Eastern Seoul,Men,20-29,88018
+2013,Eastern Seoul,Women,20-29,32927
+2013,Busan,Men,20-29,71929
+2013,Busan,Women,20-29,28662
+2013,DaeguGyeongbuk,Men,20-29,79151
+2013,DaeguGyeongbuk,Women,20-29,30869
+2013,Incheon,Men,20-29,45355
+2013,Incheon,Women,20-29,18521
+2013,Ulsan,Men,20-29,22149
+2013,Ulsan,Women,20-29,6511
+2013,Gyeonggi,Men,20-29,55392
+2013,Gyeonggi,Women,20-29,16678
+2013,Gangwon,Men,20-29,53149
+2013,Gangwon,Women,20-29,8187
+2013,Chungbuk,Men,20-29,36430
+2013,Chungbuk,Women,20-29,8521
+2013,DaejeonChungnam,Men,20-29,78767
+2013,DaejeonChungnam,Women,20-29,24483
+2013,Jeonbuk,Men,20-29,41543
+2013,Jeonbuk,Women,20-29,11718
+2013,Jeonnam,Men,20-29,53301
+2013,Jeonnam,Women,20-29,22162
+2013,Gyeongnam,Men,20-29,39226
+2013,Gyeongnam,Women,20-29,9695
+2013,Jeju,Men,20-29,8300
+2013,Jeju,Women,20-29,3433
+2013,Outside of Korean Red Cross,Men,20-29,52259
+2013,Outside of Korean Red Cross,Women,20-29,32419
+2014,Central Seoul,Men,20-29,
+2014,Central Seoul,Women,20-29,
+2014,Western Seoul,Men,20-29,108099
+2014,Western Seoul,Women,20-29,40734
+2014,Southern Seoul,Men,20-29,85941
+2014,Southern Seoul,Women,20-29,28168
+2014,Eastern Seoul,Men,20-29,96361
+2014,Eastern Seoul,Women,20-29,36191
+2014,Busan,Men,20-29,75077
+2014,Busan,Women,20-29,30702
+2014,DaeguGyeongbuk,Men,20-29,85317
+2014,DaeguGyeongbuk,Women,20-29,32784
+2014,Incheon,Men,20-29,49214
+2014,Incheon,Women,20-29,19368
+2014,Ulsan,Men,20-29,26345
+2014,Ulsan,Women,20-29,7047
+2014,Gyeonggi,Men,20-29,61530
+2014,Gyeonggi,Women,20-29,18459
+2014,Gangwon,Men,20-29,56269
+2014,Gangwon,Women,20-29,8948
+2014,Chungbuk,Men,20-29,37806
+2014,Chungbuk,Women,20-29,9261
+2014,DaejeonChungnam,Men,20-29,79862
+2014,DaejeonChungnam,Women,20-29,24563
+2014,Jeonbuk,Men,20-29,41498
+2014,Jeonbuk,Women,20-29,11776
+2014,Jeonnam,Men,20-29,59680
+2014,Jeonnam,Women,20-29,25822
+2014,Gyeongnam,Men,20-29,44546
+2014,Gyeongnam,Women,20-29,9902
+2014,Jeju,Men,20-29,8086
+2014,Jeju,Women,20-29,3872
+2014,Outside of Korean Red Cross,Men,20-29,54242
+2014,Outside of Korean Red Cross,Women,20-29,31021
+2015,Central Seoul,Men,20-29,
+2015,Central Seoul,Women,20-29,
+2015,Western Seoul,Men,20-29,107908
+2015,Western Seoul,Women,20-29,40766
+2015,Southern Seoul,Men,20-29,85139
+2015,Southern Seoul,Women,20-29,27976
+2015,Eastern Seoul,Men,20-29,93613
+2015,Eastern Seoul,Women,20-29,32743
+2015,Busan,Men,20-29,71910
+2015,Busan,Women,20-29,31291
+2015,DaeguGyeongbuk,Men,20-29,84503
+2015,DaeguGyeongbuk,Women,20-29,31951
+2015,Incheon,Men,20-29,48178
+2015,Incheon,Women,20-29,19255
+2015,Ulsan,Men,20-29,25275
+2015,Ulsan,Women,20-29,7496
+2015,Gyeonggi,Men,20-29,63689
+2015,Gyeonggi,Women,20-29,20080
+2015,Gangwon,Men,20-29,68042
+2015,Gangwon,Women,20-29,11767
+2015,Chungbuk,Men,20-29,35264
+2015,Chungbuk,Women,20-29,8857
+2015,DaejeonChungnam,Men,20-29,85806
+2015,DaejeonChungnam,Women,20-29,27958
+2015,Jeonbuk,Men,20-29,43084
+2015,Jeonbuk,Women,20-29,11198
+2015,Jeonnam,Men,20-29,60177
+2015,Jeonnam,Women,20-29,27392
+2015,Gyeongnam,Men,20-29,43771
+2015,Gyeongnam,Women,20-29,9362
+2015,Jeju,Men,20-29,9745
+2015,Jeju,Women,20-29,4102
+2015,Outside of Korean Red Cross,Men,20-29,56981
+2015,Outside of Korean Red Cross,Women,20-29,30327
+2016,Central Seoul,Men,20-29,
+2016,Central Seoul,Women,20-29,
+2016,Western Seoul,Men,20-29,95868
+2016,Western Seoul,Women,20-29,32094
+2016,Southern Seoul,Men,20-29,81817
+2016,Southern Seoul,Women,20-29,25812
+2016,Eastern Seoul,Men,20-29,88785
+2016,Eastern Seoul,Women,20-29,27165
+2016,Busan,Men,20-29,58347
+2016,Busan,Women,20-29,23794
+2016,DaeguGyeongbuk,Men,20-29,71720
+2016,DaeguGyeongbuk,Women,20-29,25777
+2016,Incheon,Men,20-29,43234
+2016,Incheon,Women,20-29,15247
+2016,Ulsan,Men,20-29,21167
+2016,Ulsan,Women,20-29,6139
+2016,Gyeonggi,Men,20-29,57020
+2016,Gyeonggi,Women,20-29,15959
+2016,Gangwon,Men,20-29,71291
+2016,Gangwon,Women,20-29,9358
+2016,Chungbuk,Men,20-29,30207
+2016,Chungbuk,Women,20-29,7201
+2016,DaejeonChungnam,Men,20-29,73378
+2016,DaejeonChungnam,Women,20-29,24518
+2016,Jeonbuk,Men,20-29,38077
+2016,Jeonbuk,Women,20-29,8903
+2016,Jeonnam,Men,20-29,50235
+2016,Jeonnam,Women,20-29,22666
+2016,Gyeongnam,Men,20-29,37740
+2016,Gyeongnam,Women,20-29,8134
+2016,Jeju,Men,20-29,7436
+2016,Jeju,Women,20-29,3307
+2016,Outside of Korean Red Cross,Men,20-29,57062
+2016,Outside of Korean Red Cross,Women,20-29,30856
+2017,Central Seoul,Men,20-29,
+2017,Central Seoul,Women,20-29,
+2017,Western Seoul,Men,20-29,88114
+2017,Western Seoul,Women,20-29,28956
+2017,Southern Seoul,Men,20-29,87312
+2017,Southern Seoul,Women,20-29,25862
+2017,Eastern Seoul,Men,20-29,87711
+2017,Eastern Seoul,Women,20-29,25541
+2017,Busan,Men,20-29,60373
+2017,Busan,Women,20-29,23534
+2017,DaeguGyeongbuk,Men,20-29,72803
+2017,DaeguGyeongbuk,Women,20-29,24236
+2017,Incheon,Men,20-29,44968
+2017,Incheon,Women,20-29,14409
+2017,Ulsan,Men,20-29,20838
+2017,Ulsan,Women,20-29,5476
+2017,Gyeonggi,Men,20-29,59583
+2017,Gyeonggi,Women,20-29,16017
+2017,Gangwon,Men,20-29,74351
+2017,Gangwon,Women,20-29,9098
+2017,Chungbuk,Men,20-29,31859
+2017,Chungbuk,Women,20-29,7261
+2017,DaejeonChungnam,Men,20-29,73597
+2017,DaejeonChungnam,Women,20-29,24905
+2017,Jeonbuk,Men,20-29,35704
+2017,Jeonbuk,Women,20-29,8441
+2017,Jeonnam,Men,20-29,53383
+2017,Jeonnam,Women,20-29,23192
+2017,Gyeongnam,Men,20-29,35782
+2017,Gyeongnam,Women,20-29,8375
+2017,Jeju,Men,20-29,7936
+2017,Jeju,Women,20-29,3216
+2017,Outside of Korean Red Cross,Men,20-29,57749
+2017,Outside of Korean Red Cross,Women,20-29,26223
+2018,Central Seoul,Men,20-29,85725
+2018,Central Seoul,Women,20-29,26781
+2018,Western Seoul,Men,20-29,
+2018,Western Seoul,Women,20-29,
+2018,Southern Seoul,Men,20-29,78871
+2018,Southern Seoul,Women,20-29,23003
+2018,Eastern Seoul,Men,20-29,84774
+2018,Eastern Seoul,Women,20-29,24578
+2018,Busan,Men,20-29,61178
+2018,Busan,Women,20-29,24322
+2018,DaeguGyeongbuk,Men,20-29,70615
+2018,DaeguGyeongbuk,Women,20-29,23963
+2018,Incheon,Men,20-29,40030
+2018,Incheon,Women,20-29,14013
+2018,Ulsan,Men,20-29,20789
+2018,Ulsan,Women,20-29,5384
+2018,Gyeonggi,Men,20-29,58539
+2018,Gyeonggi,Women,20-29,15340
+2018,Gangwon,Men,20-29,78217
+2018,Gangwon,Women,20-29,8564
+2018,Chungbuk,Men,20-29,31157
+2018,Chungbuk,Women,20-29,7050
+2018,DaejeonChungnam,Men,20-29,73499
+2018,DaejeonChungnam,Women,20-29,24391
+2018,Jeonbuk,Men,20-29,32497
+2018,Jeonbuk,Women,20-29,7649
+2018,Jeonnam,Men,20-29,50357
+2018,Jeonnam,Women,20-29,21066
+2018,Gyeongnam,Men,20-29,35812
+2018,Gyeongnam,Women,20-29,8344
+2018,Jeju,Men,20-29,7246
+2018,Jeju,Women,20-29,2569
+2018,Outside of Korean Red Cross,Men,20-29,49963
+2018,Outside of Korean Red Cross,Women,20-29,23535
+2019,Central Seoul,Men,20-29,75678
+2019,Central Seoul,Women,20-29,24790
+2019,Western Seoul,Men,20-29,
+2019,Western Seoul,Women,20-29,
+2019,Southern Seoul,Men,20-29,66663
+2019,Southern Seoul,Women,20-29,21327
+2019,Eastern Seoul,Men,20-29,72061
+2019,Eastern Seoul,Women,20-29,22517
+2019,Busan,Men,20-29,55765
+2019,Busan,Women,20-29,22158
+2019,DaeguGyeongbuk,Men,20-29,62946
+2019,DaeguGyeongbuk,Women,20-29,21885
+2019,Incheon,Men,20-29,39663
+2019,Incheon,Women,20-29,13600
+2019,Ulsan,Men,20-29,20356
+2019,Ulsan,Women,20-29,5952
+2019,Gyeonggi,Men,20-29,52877
+2019,Gyeonggi,Women,20-29,15893
+2019,Gangwon,Men,20-29,70871
+2019,Gangwon,Women,20-29,7926
+2019,Chungbuk,Men,20-29,27659
+2019,Chungbuk,Women,20-29,7250
+2019,DaejeonChungnam,Men,20-29,67274
+2019,DaejeonChungnam,Women,20-29,24026
+2019,Jeonbuk,Men,20-29,29244
+2019,Jeonbuk,Women,20-29,7721
+2019,Jeonnam,Men,20-29,47582
+2019,Jeonnam,Women,20-29,20237
+2019,Gyeongnam,Men,20-29,34164
+2019,Gyeongnam,Women,20-29,8042
+2019,Jeju,Men,20-29,7127
+2019,Jeju,Women,20-29,2693
+2019,Outside of Korean Red Cross,Men,20-29,44376
+2019,Outside of Korean Red Cross,Women,20-29,17281
+2020,Central Seoul,Men,20-29,58255
+2020,Central Seoul,Women,20-29,24775
+2020,Western Seoul,Men,20-29,
+2020,Western Seoul,Women,20-29,
+2020,Southern Seoul,Men,20-29,60097
+2020,Southern Seoul,Women,20-29,18878
+2020,Eastern Seoul,Men,20-29,70064
+2020,Eastern Seoul,Women,20-29,21496
+2020,Busan,Men,20-29,49938
+2020,Busan,Women,20-29,22020
+2020,DaeguGyeongbuk,Men,20-29,48737
+2020,DaeguGyeongbuk,Women,20-29,19813
+2020,Incheon,Men,20-29,44042
+2020,Incheon,Women,20-29,15356
+2020,Ulsan,Men,20-29,17614
+2020,Ulsan,Women,20-29,5491
+2020,Gyeonggi,Men,20-29,56816
+2020,Gyeonggi,Women,20-29,17866
+2020,Gangwon,Men,20-29,63135
+2020,Gangwon,Women,20-29,7645
+2020,Chungbuk,Men,20-29,24669
+2020,Chungbuk,Women,20-29,6408
+2020,DaejeonChungnam,Men,20-29,61764
+2020,DaejeonChungnam,Women,20-29,23073
+2020,Jeonbuk,Men,20-29,26799
+2020,Jeonbuk,Women,20-29,7908
+2020,Jeonnam,Men,20-29,43714
+2020,Jeonnam,Women,20-29,17989
+2020,Gyeongnam,Men,20-29,34795
+2020,Gyeongnam,Women,20-29,9021
+2020,Jeju,Men,20-29,7581
+2020,Jeju,Women,20-29,3247
+2020,Outside of Korean Red Cross,Men,20-29,37637
+2020,Outside of Korean Red Cross,Women,20-29,18472
+2021,Central Seoul,Men,20-29,55630
+2021,Central Seoul,Women,20-29,23129
+2021,Western Seoul,Men,20-29,
+2021,Western Seoul,Women,20-29,
+2021,Southern Seoul,Men,20-29,51508
+2021,Southern Seoul,Women,20-29,17370
+2021,Eastern Seoul,Men,20-29,66136
+2021,Eastern Seoul,Women,20-29,22570
+2021,Busan,Men,20-29,48071
+2021,Busan,Women,20-29,22435
+2021,DaeguGyeongbuk,Men,20-29,56709
+2021,DaeguGyeongbuk,Women,20-29,24379
+2021,Incheon,Men,20-29,41484
+2021,Incheon,Women,20-29,15644
+2021,Ulsan,Men,20-29,16904
+2021,Ulsan,Women,20-29,5148
+2021,Gyeonggi,Men,20-29,54011
+2021,Gyeonggi,Women,20-29,18947
+2021,Gangwon,Men,20-29,59089
+2021,Gangwon,Women,20-29,8145
+2021,Chungbuk,Men,20-29,22231
+2021,Chungbuk,Women,20-29,6530
+2021,DaejeonChungnam,Men,20-29,56192
+2021,DaejeonChungnam,Women,20-29,22728
+2021,Jeonbuk,Men,20-29,26854
+2021,Jeonbuk,Women,20-29,7848
+2021,Jeonnam,Men,20-29,40942
+2021,Jeonnam,Women,20-29,18047
+2021,Gyeongnam,Men,20-29,32579
+2021,Gyeongnam,Women,20-29,9436
+2021,Jeju,Men,20-29,7227
+2021,Jeju,Women,20-29,3531
+2021,Outside of Korean Red Cross,Men,20-29,37024
+2021,Outside of Korean Red Cross,Women,20-29,19588
+2022,Central Seoul,Men,20-29,58065
+2022,Central Seoul,Women,20-29,27565
+2022,Western Seoul,Men,20-29,
+2022,Western Seoul,Women,20-29,
+2022,Southern Seoul,Men,20-29,51132
+2022,Southern Seoul,Women,20-29,19439
+2022,Eastern Seoul,Men,20-29,64417
+2022,Eastern Seoul,Women,20-29,26436
+2022,Busan,Men,20-29,52145
+2022,Busan,Women,20-29,26030
+2022,DaeguGyeongbuk,Men,20-29,62086
+2022,DaeguGyeongbuk,Women,20-29,25360
+2022,Incheon,Men,20-29,42145
+2022,Incheon,Women,20-29,16926
+2022,Ulsan,Men,20-29,18444
+2022,Ulsan,Women,20-29,6337
+2022,Gyeonggi,Men,20-29,52829
+2022,Gyeonggi,Women,20-29,19930
+2022,Gangwon,Men,20-29,49767
+2022,Gangwon,Women,20-29,9341
+2022,Chungbuk,Men,20-29,22984
+2022,Chungbuk,Women,20-29,7306
+2022,DaejeonChungnam,Men,20-29,59708
+2022,DaejeonChungnam,Women,20-29,26888
+2022,Jeonbuk,Men,20-29,25340
+2022,Jeonbuk,Women,20-29,8898
+2022,Jeonnam,Men,20-29,45105
+2022,Jeonnam,Women,20-29,23011
+2022,Gyeongnam,Men,20-29,33282
+2022,Gyeongnam,Women,20-29,10206
+2022,Jeju,Men,20-29,7800
+2022,Jeju,Women,20-29,3464
+2022,Outside of Korean Red Cross,Men,20-29,44545
+2022,Outside of Korean Red Cross,Women,20-29,23189
+2023,Central Seoul,Men,20-29,63989
+2023,Central Seoul,Women,20-29,27048
+2023,Western Seoul,Men,20-29,
+2023,Western Seoul,Women,20-29,
+2023,Southern Seoul,Men,20-29,56087
+2023,Southern Seoul,Women,20-29,19329
+2023,Eastern Seoul,Men,20-29,70622
+2023,Eastern Seoul,Women,20-29,27289
+2023,Busan,Men,20-29,53420
+2023,Busan,Women,20-29,24651
+2023,DaeguGyeongbuk,Men,20-29,64793
+2023,DaeguGyeongbuk,Women,20-29,24116
+2023,Incheon,Men,20-29,45709
+2023,Incheon,Women,20-29,16800
+2023,Ulsan,Men,20-29,20828
+2023,Ulsan,Women,20-29,7191
+2023,Gyeonggi,Men,20-29,57407
+2023,Gyeonggi,Women,20-29,19624
+2023,Gangwon,Men,20-29,53759
+2023,Gangwon,Women,20-29,9647
+2023,Chungbuk,Men,20-29,24799
+2023,Chungbuk,Women,20-29,7305
+2023,DaejeonChungnam,Men,20-29,62272
+2023,DaejeonChungnam,Women,20-29,25437
+2023,Jeonbuk,Men,20-29,27117
+2023,Jeonbuk,Women,20-29,9524
+2023,Jeonnam,Men,20-29,46670
+2023,Jeonnam,Women,20-29,21987
+2023,Gyeongnam,Men,20-29,36426
+2023,Gyeongnam,Women,20-29,9889
+2023,Jeju,Men,20-29,8766
+2023,Jeju,Women,20-29,3939
+2023,Outside of Korean Red Cross,Men,20-29,51482
+2023,Outside of Korean Red Cross,Women,20-29,26699
+2005,Central Seoul,Men,30-39,19642
+2005,Central Seoul,Women,30-39,3105
+2005,Western Seoul,Men,30-39,16888
+2005,Western Seoul,Women,30-39,1630
+2005,Southern Seoul,Men,30-39,21314
+2005,Southern Seoul,Women,30-39,2742
+2005,Eastern Seoul,Men,30-39,15810
+2005,Eastern Seoul,Women,30-39,3273
+2005,Busan,Men,30-39,28024
+2005,Busan,Women,30-39,2504
+2005,DaeguGyeongbuk,Men,30-39,22100
+2005,DaeguGyeongbuk,Women,30-39,2552
+2005,Incheon,Men,30-39,11368
+2005,Incheon,Women,30-39,2442
+2005,Ulsan,Men,30-39,11452
+2005,Ulsan,Women,30-39,1005
+2005,Gyeonggi,Men,30-39,26046
+2005,Gyeonggi,Women,30-39,1747
+2005,Gangwon,Men,30-39,4314
+2005,Gangwon,Women,30-39,646
+2005,Chungbuk,Men,30-39,5815
+2005,Chungbuk,Women,30-39,697
+2005,DaejeonChungnam,Men,30-39,11076
+2005,DaejeonChungnam,Women,30-39,1068
+2005,Jeonbuk,Men,30-39,11626
+2005,Jeonbuk,Women,30-39,1028
+2005,Jeonnam,Men,30-39,21789
+2005,Jeonnam,Women,30-39,2577
+2005,Gyeongnam,Men,30-39,12906
+2005,Gyeongnam,Women,30-39,872
+2005,Jeju,Men,30-39,4490
+2005,Jeju,Women,30-39,484
+2005,Outside of Korean Red Cross,Men,30-39,9479
+2005,Outside of Korean Red Cross,Women,30-39,1441
+2006,Central Seoul,Men,30-39,22302
+2006,Central Seoul,Women,30-39,3549
+2006,Western Seoul,Men,30-39,17157
+2006,Western Seoul,Women,30-39,2105
+2006,Southern Seoul,Men,30-39,24215
+2006,Southern Seoul,Women,30-39,3555
+2006,Eastern Seoul,Men,30-39,18773
+2006,Eastern Seoul,Women,30-39,4131
+2006,Busan,Men,30-39,19898
+2006,Busan,Women,30-39,2932
+2006,DaeguGyeongbuk,Men,30-39,17115
+2006,DaeguGyeongbuk,Women,30-39,2473
+2006,Incheon,Men,30-39,11616
+2006,Incheon,Women,30-39,2307
+2006,Ulsan,Men,30-39,8965
+2006,Ulsan,Women,30-39,1134
+2006,Gyeonggi,Men,30-39,21101
+2006,Gyeonggi,Women,30-39,2340
+2006,Gangwon,Men,30-39,4147
+2006,Gangwon,Women,30-39,677
+2006,Chungbuk,Men,30-39,5874
+2006,Chungbuk,Women,30-39,725
+2006,DaejeonChungnam,Men,30-39,11655
+2006,DaejeonChungnam,Women,30-39,1298
+2006,Jeonbuk,Men,30-39,9594
+2006,Jeonbuk,Women,30-39,1372
+2006,Jeonnam,Men,30-39,15822
+2006,Jeonnam,Women,30-39,3029
+2006,Gyeongnam,Men,30-39,12180
+2006,Gyeongnam,Women,30-39,980
+2006,Jeju,Men,30-39,3824
+2006,Jeju,Women,30-39,564
+2006,Outside of Korean Red Cross,Men,30-39,9873
+2006,Outside of Korean Red Cross,Women,30-39,1351
+2007,Central Seoul,Men,30-39,21349
+2007,Central Seoul,Women,30-39,3764
+2007,Western Seoul,Men,30-39,19644
+2007,Western Seoul,Women,30-39,3125
+2007,Southern Seoul,Men,30-39,23019
+2007,Southern Seoul,Women,30-39,3379
+2007,Eastern Seoul,Men,30-39,16743
+2007,Eastern Seoul,Women,30-39,3954
+2007,Busan,Men,30-39,24027
+2007,Busan,Women,30-39,2722
+2007,DaeguGyeongbuk,Men,30-39,15075
+2007,DaeguGyeongbuk,Women,30-39,1955
+2007,Incheon,Men,30-39,12626
+2007,Incheon,Women,30-39,2240
+2007,Ulsan,Men,30-39,7600
+2007,Ulsan,Women,30-39,913
+2007,Gyeonggi,Men,30-39,19024
+2007,Gyeonggi,Women,30-39,2223
+2007,Gangwon,Men,30-39,5400
+2007,Gangwon,Women,30-39,597
+2007,Chungbuk,Men,30-39,6340
+2007,Chungbuk,Women,30-39,649
+2007,DaejeonChungnam,Men,30-39,11664
+2007,DaejeonChungnam,Women,30-39,1481
+2007,Jeonbuk,Men,30-39,9508
+2007,Jeonbuk,Women,30-39,1097
+2007,Jeonnam,Men,30-39,16085
+2007,Jeonnam,Women,30-39,2777
+2007,Gyeongnam,Men,30-39,10779
+2007,Gyeongnam,Women,30-39,1101
+2007,Jeju,Men,30-39,3572
+2007,Jeju,Women,30-39,566
+2007,Outside of Korean Red Cross,Men,30-39,8732
+2007,Outside of Korean Red Cross,Women,30-39,1487
+2008,Central Seoul,Men,30-39,23223
+2008,Central Seoul,Women,30-39,4980
+2008,Western Seoul,Men,30-39,20759
+2008,Western Seoul,Women,30-39,4058
+2008,Southern Seoul,Men,30-39,25557
+2008,Southern Seoul,Women,30-39,4418
+2008,Eastern Seoul,Men,30-39,17091
+2008,Eastern Seoul,Women,30-39,4442
+2008,Busan,Men,30-39,25647
+2008,Busan,Women,30-39,3329
+2008,DaeguGyeongbuk,Men,30-39,17431
+2008,DaeguGyeongbuk,Women,30-39,2735
+2008,Incheon,Men,30-39,13474
+2008,Incheon,Women,30-39,2504
+2008,Ulsan,Men,30-39,8266
+2008,Ulsan,Women,30-39,999
+2008,Gyeonggi,Men,30-39,19850
+2008,Gyeonggi,Women,30-39,2913
+2008,Gangwon,Men,30-39,5376
+2008,Gangwon,Women,30-39,759
+2008,Chungbuk,Men,30-39,6430
+2008,Chungbuk,Women,30-39,799
+2008,DaejeonChungnam,Men,30-39,15028
+2008,DaejeonChungnam,Women,30-39,2316
+2008,Jeonbuk,Men,30-39,12202
+2008,Jeonbuk,Women,30-39,1479
+2008,Jeonnam,Men,30-39,18135
+2008,Jeonnam,Women,30-39,3357
+2008,Gyeongnam,Men,30-39,10501
+2008,Gyeongnam,Women,30-39,1070
+2008,Jeju,Men,30-39,4064
+2008,Jeju,Women,30-39,665
+2008,Outside of Korean Red Cross,Men,30-39,11028
+2008,Outside of Korean Red Cross,Women,30-39,1803
+2009,Central Seoul,Men,30-39,24805
+2009,Central Seoul,Women,30-39,5640
+2009,Western Seoul,Men,30-39,25705
+2009,Western Seoul,Women,30-39,5243
+2009,Southern Seoul,Men,30-39,27974
+2009,Southern Seoul,Women,30-39,5316
+2009,Eastern Seoul,Men,30-39,18591
+2009,Eastern Seoul,Women,30-39,5216
+2009,Busan,Men,30-39,28349
+2009,Busan,Women,30-39,3812
+2009,DaeguGyeongbuk,Men,30-39,18853
+2009,DaeguGyeongbuk,Women,30-39,3655
+2009,Incheon,Men,30-39,13894
+2009,Incheon,Women,30-39,2958
+2009,Ulsan,Men,30-39,8019
+2009,Ulsan,Women,30-39,1139
+2009,Gyeonggi,Men,30-39,23029
+2009,Gyeonggi,Women,30-39,3950
+2009,Gangwon,Men,30-39,6475
+2009,Gangwon,Women,30-39,1129
+2009,Chungbuk,Men,30-39,7934
+2009,Chungbuk,Women,30-39,979
+2009,DaejeonChungnam,Men,30-39,18425
+2009,DaejeonChungnam,Women,30-39,2493
+2009,Jeonbuk,Men,30-39,12647
+2009,Jeonbuk,Women,30-39,1595
+2009,Jeonnam,Men,30-39,19839
+2009,Jeonnam,Women,30-39,3583
+2009,Gyeongnam,Men,30-39,14435
+2009,Gyeongnam,Women,30-39,1394
+2009,Jeju,Men,30-39,4276
+2009,Jeju,Women,30-39,935
+2009,Outside of Korean Red Cross,Men,30-39,13524
+2009,Outside of Korean Red Cross,Women,30-39,2139
+2010,Central Seoul,Men,30-39,28883
+2010,Central Seoul,Women,30-39,6748
+2010,Western Seoul,Men,30-39,11544
+2010,Western Seoul,Women,30-39,2449
+2010,Southern Seoul,Men,30-39,28381
+2010,Southern Seoul,Women,30-39,5559
+2010,Eastern Seoul,Men,30-39,22646
+2010,Eastern Seoul,Women,30-39,6641
+2010,Busan,Men,30-39,27678
+2010,Busan,Women,30-39,4162
+2010,DaeguGyeongbuk,Men,30-39,18224
+2010,DaeguGyeongbuk,Women,30-39,3936
+2010,Incheon,Men,30-39,14243
+2010,Incheon,Women,30-39,3334
+2010,Ulsan,Men,30-39,7422
+2010,Ulsan,Women,30-39,1229
+2010,Gyeonggi,Men,30-39,23004
+2010,Gyeonggi,Women,30-39,3877
+2010,Gangwon,Men,30-39,6691
+2010,Gangwon,Women,30-39,1223
+2010,Chungbuk,Men,30-39,8605
+2010,Chungbuk,Women,30-39,964
+2010,DaejeonChungnam,Men,30-39,18632
+2010,DaejeonChungnam,Women,30-39,2307
+2010,Jeonbuk,Men,30-39,12919
+2010,Jeonbuk,Women,30-39,1475
+2010,Jeonnam,Men,30-39,18166
+2010,Jeonnam,Women,30-39,3807
+2010,Gyeongnam,Men,30-39,13602
+2010,Gyeongnam,Women,30-39,1346
+2010,Jeju,Men,30-39,4186
+2010,Jeju,Women,30-39,1067
+2010,Outside of Korean Red Cross,Men,30-39,15814
+2010,Outside of Korean Red Cross,Women,30-39,3642
+2011,Central Seoul,Men,30-39,
+2011,Central Seoul,Women,30-39,
+2011,Western Seoul,Men,30-39,30302
+2011,Western Seoul,Women,30-39,7903
+2011,Southern Seoul,Men,30-39,28226
+2011,Southern Seoul,Women,30-39,5765
+2011,Eastern Seoul,Men,30-39,24172
+2011,Eastern Seoul,Women,30-39,8100
+2011,Busan,Men,30-39,23105
+2011,Busan,Women,30-39,4155
+2011,DaeguGyeongbuk,Men,30-39,17148
+2011,DaeguGyeongbuk,Women,30-39,4264
+2011,Incheon,Men,30-39,15429
+2011,Incheon,Women,30-39,4016
+2011,Ulsan,Men,30-39,7249
+2011,Ulsan,Women,30-39,1343
+2011,Gyeonggi,Men,30-39,22297
+2011,Gyeonggi,Women,30-39,3983
+2011,Gangwon,Men,30-39,7815
+2011,Gangwon,Women,30-39,1598
+2011,Chungbuk,Men,30-39,7081
+2011,Chungbuk,Women,30-39,1065
+2011,DaejeonChungnam,Men,30-39,17055
+2011,DaejeonChungnam,Women,30-39,2206
+2011,Jeonbuk,Men,30-39,13064
+2011,Jeonbuk,Women,30-39,1669
+2011,Jeonnam,Men,30-39,16984
+2011,Jeonnam,Women,30-39,3619
+2011,Gyeongnam,Men,30-39,12107
+2011,Gyeongnam,Women,30-39,1308
+2011,Jeju,Men,30-39,3250
+2011,Jeju,Women,30-39,908
+2011,Outside of Korean Red Cross,Men,30-39,17782
+2011,Outside of Korean Red Cross,Women,30-39,4377
+2012,Central Seoul,Men,30-39,
+2012,Central Seoul,Women,30-39,
+2012,Western Seoul,Men,30-39,32643
+2012,Western Seoul,Women,30-39,8643
+2012,Southern Seoul,Men,30-39,30203
+2012,Southern Seoul,Women,30-39,6813
+2012,Eastern Seoul,Men,30-39,24902
+2012,Eastern Seoul,Women,30-39,8030
+2012,Busan,Men,30-39,23258
+2012,Busan,Women,30-39,5003
+2012,DaeguGyeongbuk,Men,30-39,18799
+2012,DaeguGyeongbuk,Women,30-39,4958
+2012,Incheon,Men,30-39,16113
+2012,Incheon,Women,30-39,4666
+2012,Ulsan,Men,30-39,8171
+2012,Ulsan,Women,30-39,1631
+2012,Gyeonggi,Men,30-39,24346
+2012,Gyeonggi,Women,30-39,4710
+2012,Gangwon,Men,30-39,7670
+2012,Gangwon,Women,30-39,1628
+2012,Chungbuk,Men,30-39,7783
+2012,Chungbuk,Women,30-39,1150
+2012,DaejeonChungnam,Men,30-39,18100
+2012,DaejeonChungnam,Women,30-39,2809
+2012,Jeonbuk,Men,30-39,13427
+2012,Jeonbuk,Women,30-39,1907
+2012,Jeonnam,Men,30-39,18621
+2012,Jeonnam,Women,30-39,3552
+2012,Gyeongnam,Men,30-39,13247
+2012,Gyeongnam,Women,30-39,1427
+2012,Jeju,Men,30-39,3116
+2012,Jeju,Women,30-39,772
+2012,Outside of Korean Red Cross,Men,30-39,20091
+2012,Outside of Korean Red Cross,Women,30-39,4998
+2013,Central Seoul,Men,30-39,
+2013,Central Seoul,Women,30-39,
+2013,Western Seoul,Men,30-39,33539
+2013,Western Seoul,Women,30-39,9079
+2013,Southern Seoul,Men,30-39,30835
+2013,Southern Seoul,Women,30-39,6959
+2013,Eastern Seoul,Men,30-39,26722
+2013,Eastern Seoul,Women,30-39,7971
+2013,Busan,Men,30-39,20103
+2013,Busan,Women,30-39,5424
+2013,DaeguGyeongbuk,Men,30-39,20653
+2013,DaeguGyeongbuk,Women,30-39,5092
+2013,Incheon,Men,30-39,17502
+2013,Incheon,Women,30-39,4718
+2013,Ulsan,Men,30-39,8399
+2013,Ulsan,Women,30-39,1693
+2013,Gyeonggi,Men,30-39,26217
+2013,Gyeonggi,Women,30-39,4838
+2013,Gangwon,Men,30-39,8850
+2013,Gangwon,Women,30-39,1841
+2013,Chungbuk,Men,30-39,7881
+2013,Chungbuk,Women,30-39,1282
+2013,DaejeonChungnam,Men,30-39,19050
+2013,DaejeonChungnam,Women,30-39,3145
+2013,Jeonbuk,Men,30-39,12369
+2013,Jeonbuk,Women,30-39,1919
+2013,Jeonnam,Men,30-39,22422
+2013,Jeonnam,Women,30-39,4009
+2013,Gyeongnam,Men,30-39,14511
+2013,Gyeongnam,Women,30-39,1792
+2013,Jeju,Men,30-39,3374
+2013,Jeju,Women,30-39,1015
+2013,Outside of Korean Red Cross,Men,30-39,21887
+2013,Outside of Korean Red Cross,Women,30-39,6323
+2014,Central Seoul,Men,30-39,
+2014,Central Seoul,Women,30-39,
+2014,Western Seoul,Men,30-39,35853
+2014,Western Seoul,Women,30-39,9600
+2014,Southern Seoul,Men,30-39,29410
+2014,Southern Seoul,Women,30-39,6609
+2014,Eastern Seoul,Men,30-39,27773
+2014,Eastern Seoul,Women,30-39,8383
+2014,Busan,Men,30-39,20092
+2014,Busan,Women,30-39,6036
+2014,DaeguGyeongbuk,Men,30-39,22042
+2014,DaeguGyeongbuk,Women,30-39,5742
+2014,Incheon,Men,30-39,18075
+2014,Incheon,Women,30-39,4946
+2014,Ulsan,Men,30-39,11294
+2014,Ulsan,Women,30-39,2024
+2014,Gyeonggi,Men,30-39,27014
+2014,Gyeonggi,Women,30-39,5234
+2014,Gangwon,Men,30-39,9798
+2014,Gangwon,Women,30-39,2062
+2014,Chungbuk,Men,30-39,7674
+2014,Chungbuk,Women,30-39,1487
+2014,DaejeonChungnam,Men,30-39,20468
+2014,DaejeonChungnam,Women,30-39,3561
+2014,Jeonbuk,Men,30-39,11431
+2014,Jeonbuk,Women,30-39,2011
+2014,Jeonnam,Men,30-39,18633
+2014,Jeonnam,Women,30-39,4542
+2014,Gyeongnam,Men,30-39,15976
+2014,Gyeongnam,Women,30-39,2128
+2014,Jeju,Men,30-39,3807
+2014,Jeju,Women,30-39,1238
+2014,Outside of Korean Red Cross,Men,30-39,21913
+2014,Outside of Korean Red Cross,Women,30-39,6706
+2015,Central Seoul,Men,30-39,
+2015,Central Seoul,Women,30-39,
+2015,Western Seoul,Men,30-39,35545
+2015,Western Seoul,Women,30-39,10302
+2015,Southern Seoul,Men,30-39,27477
+2015,Southern Seoul,Women,30-39,6715
+2015,Eastern Seoul,Men,30-39,27089
+2015,Eastern Seoul,Women,30-39,7925
+2015,Busan,Men,30-39,19553
+2015,Busan,Women,30-39,6028
+2015,DaeguGyeongbuk,Men,30-39,22338
+2015,DaeguGyeongbuk,Women,30-39,5991
+2015,Incheon,Men,30-39,17300
+2015,Incheon,Women,30-39,5135
+2015,Ulsan,Men,30-39,10673
+2015,Ulsan,Women,30-39,2197
+2015,Gyeonggi,Men,30-39,27602
+2015,Gyeonggi,Women,30-39,5943
+2015,Gangwon,Men,30-39,10908
+2015,Gangwon,Women,30-39,2323
+2015,Chungbuk,Men,30-39,7519
+2015,Chungbuk,Women,30-39,1556
+2015,DaejeonChungnam,Men,30-39,20645
+2015,DaejeonChungnam,Women,30-39,4367
+2015,Jeonbuk,Men,30-39,11374
+2015,Jeonbuk,Women,30-39,1897
+2015,Jeonnam,Men,30-39,17026
+2015,Jeonnam,Women,30-39,4388
+2015,Gyeongnam,Men,30-39,15748
+2015,Gyeongnam,Women,30-39,2102
+2015,Jeju,Men,30-39,3869
+2015,Jeju,Women,30-39,1201
+2015,Outside of Korean Red Cross,Men,30-39,23081
+2015,Outside of Korean Red Cross,Women,30-39,6426
+2016,Central Seoul,Men,30-39,
+2016,Central Seoul,Women,30-39,
+2016,Western Seoul,Men,30-39,34530
+2016,Western Seoul,Women,30-39,10589
+2016,Southern Seoul,Men,30-39,29525
+2016,Southern Seoul,Women,30-39,8225
+2016,Eastern Seoul,Men,30-39,27133
+2016,Eastern Seoul,Women,30-39,8464
+2016,Busan,Men,30-39,20214
+2016,Busan,Women,30-39,5941
+2016,DaeguGyeongbuk,Men,30-39,23719
+2016,DaeguGyeongbuk,Women,30-39,6140
+2016,Incheon,Men,30-39,17917
+2016,Incheon,Women,30-39,5441
+2016,Ulsan,Men,30-39,10574
+2016,Ulsan,Women,30-39,2271
+2016,Gyeonggi,Men,30-39,27730
+2016,Gyeonggi,Women,30-39,6591
+2016,Gangwon,Men,30-39,12638
+2016,Gangwon,Women,30-39,2646
+2016,Chungbuk,Men,30-39,7793
+2016,Chungbuk,Women,30-39,1733
+2016,DaejeonChungnam,Men,30-39,22079
+2016,DaejeonChungnam,Women,30-39,4974
+2016,Jeonbuk,Men,30-39,9762
+2016,Jeonbuk,Women,30-39,2006
+2016,Jeonnam,Men,30-39,17907
+2016,Jeonnam,Women,30-39,4965
+2016,Gyeongnam,Men,30-39,14971
+2016,Gyeongnam,Women,30-39,2727
+2016,Jeju,Men,30-39,4249
+2016,Jeju,Women,30-39,1183
+2016,Outside of Korean Red Cross,Men,30-39,24701
+2016,Outside of Korean Red Cross,Women,30-39,8578
+2017,Central Seoul,Men,30-39,
+2017,Central Seoul,Women,30-39,
+2017,Western Seoul,Men,30-39,34111
+2017,Western Seoul,Women,30-39,10242
+2017,Southern Seoul,Men,30-39,31889
+2017,Southern Seoul,Women,30-39,9141
+2017,Eastern Seoul,Men,30-39,28036
+2017,Eastern Seoul,Women,30-39,8652
+2017,Busan,Men,30-39,24215
+2017,Busan,Women,30-39,6666
+2017,DaeguGyeongbuk,Men,30-39,24679
+2017,DaeguGyeongbuk,Women,30-39,7035
+2017,Incheon,Men,30-39,18258
+2017,Incheon,Women,30-39,5940
+2017,Ulsan,Men,30-39,10494
+2017,Ulsan,Women,30-39,2280
+2017,Gyeonggi,Men,30-39,27866
+2017,Gyeonggi,Women,30-39,6886
+2017,Gangwon,Men,30-39,12942
+2017,Gangwon,Women,30-39,2739
+2017,Chungbuk,Men,30-39,9411
+2017,Chungbuk,Women,30-39,1965
+2017,DaejeonChungnam,Men,30-39,22666
+2017,DaejeonChungnam,Women,30-39,5498
+2017,Jeonbuk,Men,30-39,11932
+2017,Jeonbuk,Women,30-39,2122
+2017,Jeonnam,Men,30-39,23627
+2017,Jeonnam,Women,30-39,5687
+2017,Gyeongnam,Men,30-39,14846
+2017,Gyeongnam,Women,30-39,2905
+2017,Jeju,Men,30-39,5465
+2017,Jeju,Women,30-39,1356
+2017,Outside of Korean Red Cross,Men,30-39,25959
+2017,Outside of Korean Red Cross,Women,30-39,8593
+2018,Central Seoul,Men,30-39,35174
+2018,Central Seoul,Women,30-39,10284
+2018,Western Seoul,Men,30-39,
+2018,Western Seoul,Women,30-39,
+2018,Southern Seoul,Men,30-39,31562
+2018,Southern Seoul,Women,30-39,9353
+2018,Eastern Seoul,Men,30-39,29667
+2018,Eastern Seoul,Women,30-39,9620
+2018,Busan,Men,30-39,25486
+2018,Busan,Women,30-39,7238
+2018,DaeguGyeongbuk,Men,30-39,25791
+2018,DaeguGyeongbuk,Women,30-39,7350
+2018,Incheon,Men,30-39,19254
+2018,Incheon,Women,30-39,6379
+2018,Ulsan,Men,30-39,9892
+2018,Ulsan,Women,30-39,2334
+2018,Gyeonggi,Men,30-39,29386
+2018,Gyeonggi,Women,30-39,7233
+2018,Gangwon,Men,30-39,13058
+2018,Gangwon,Women,30-39,2947
+2018,Chungbuk,Men,30-39,9976
+2018,Chungbuk,Women,30-39,2123
+2018,DaejeonChungnam,Men,30-39,23983
+2018,DaejeonChungnam,Women,30-39,6043
+2018,Jeonbuk,Men,30-39,11419
+2018,Jeonbuk,Women,30-39,2128
+2018,Jeonnam,Men,30-39,25361
+2018,Jeonnam,Women,30-39,5552
+2018,Gyeongnam,Men,30-39,15041
+2018,Gyeongnam,Women,30-39,3272
+2018,Jeju,Men,30-39,4617
+2018,Jeju,Women,30-39,1175
+2018,Outside of Korean Red Cross,Men,30-39,26338
+2018,Outside of Korean Red Cross,Women,30-39,8890
+2019,Central Seoul,Men,30-39,34284
+2019,Central Seoul,Women,30-39,10688
+2019,Western Seoul,Men,30-39,
+2019,Western Seoul,Women,30-39,
+2019,Southern Seoul,Men,30-39,31117
+2019,Southern Seoul,Women,30-39,9536
+2019,Eastern Seoul,Men,30-39,29728
+2019,Eastern Seoul,Women,30-39,9434
+2019,Busan,Men,30-39,23919
+2019,Busan,Women,30-39,7253
+2019,DaeguGyeongbuk,Men,30-39,25683
+2019,DaeguGyeongbuk,Women,30-39,7034
+2019,Incheon,Men,30-39,19254
+2019,Incheon,Women,30-39,6469
+2019,Ulsan,Men,30-39,10298
+2019,Ulsan,Women,30-39,2574
+2019,Gyeonggi,Men,30-39,30458
+2019,Gyeonggi,Women,30-39,7868
+2019,Gangwon,Men,30-39,14073
+2019,Gangwon,Women,30-39,3154
+2019,Chungbuk,Men,30-39,10611
+2019,Chungbuk,Women,30-39,2408
+2019,DaejeonChungnam,Men,30-39,25975
+2019,DaejeonChungnam,Women,30-39,6988
+2019,Jeonbuk,Men,30-39,11469
+2019,Jeonbuk,Women,30-39,2276
+2019,Jeonnam,Men,30-39,26044
+2019,Jeonnam,Women,30-39,5550
+2019,Gyeongnam,Men,30-39,14041
+2019,Gyeongnam,Women,30-39,3186
+2019,Jeju,Men,30-39,4181
+2019,Jeju,Women,30-39,1316
+2019,Outside of Korean Red Cross,Men,30-39,26919
+2019,Outside of Korean Red Cross,Women,30-39,7400
+2020,Central Seoul,Men,30-39,32979
+2020,Central Seoul,Women,30-39,12109
+2020,Western Seoul,Men,30-39,
+2020,Western Seoul,Women,30-39,
+2020,Southern Seoul,Men,30-39,29322
+2020,Southern Seoul,Women,30-39,9532
+2020,Eastern Seoul,Men,30-39,28715
+2020,Eastern Seoul,Women,30-39,9626
+2020,Busan,Men,30-39,23435
+2020,Busan,Women,30-39,8091
+2020,DaeguGyeongbuk,Men,30-39,25507
+2020,DaeguGyeongbuk,Women,30-39,7948
+2020,Incheon,Men,30-39,22183
+2020,Incheon,Women,30-39,7741
+2020,Ulsan,Men,30-39,11520
+2020,Ulsan,Women,30-39,2729
+2020,Gyeonggi,Men,30-39,33627
+2020,Gyeonggi,Women,30-39,9796
+2020,Gangwon,Men,30-39,14670
+2020,Gangwon,Women,30-39,3352
+2020,Chungbuk,Men,30-39,10668
+2020,Chungbuk,Women,30-39,2690
+2020,DaejeonChungnam,Men,30-39,29146
+2020,DaejeonChungnam,Women,30-39,8758
+2020,Jeonbuk,Men,30-39,10204
+2020,Jeonbuk,Women,30-39,2982
+2020,Jeonnam,Men,30-39,22303
+2020,Jeonnam,Women,30-39,6452
+2020,Gyeongnam,Men,30-39,16186
+2020,Gyeongnam,Women,30-39,4179
+2020,Jeju,Men,30-39,5355
+2020,Jeju,Women,30-39,1929
+2020,Outside of Korean Red Cross,Men,30-39,28002
+2020,Outside of Korean Red Cross,Women,30-39,9255
+2021,Central Seoul,Men,30-39,31211
+2021,Central Seoul,Women,30-39,11591
+2021,Western Seoul,Men,30-39,
+2021,Western Seoul,Women,30-39,
+2021,Southern Seoul,Men,30-39,27033
+2021,Southern Seoul,Women,30-39,9033
+2021,Eastern Seoul,Men,30-39,28157
+2021,Eastern Seoul,Women,30-39,9811
+2021,Busan,Men,30-39,21069
+2021,Busan,Women,30-39,7745
+2021,DaeguGyeongbuk,Men,30-39,26075
+2021,DaeguGyeongbuk,Women,30-39,8462
+2021,Incheon,Men,30-39,22157
+2021,Incheon,Women,30-39,7718
+2021,Ulsan,Men,30-39,10309
+2021,Ulsan,Women,30-39,2668
+2021,Gyeonggi,Men,30-39,32414
+2021,Gyeonggi,Women,30-39,10022
+2021,Gangwon,Men,30-39,13362
+2021,Gangwon,Women,30-39,3222
+2021,Chungbuk,Men,30-39,9059
+2021,Chungbuk,Women,30-39,2639
+2021,DaejeonChungnam,Men,30-39,26077
+2021,DaejeonChungnam,Women,30-39,7768
+2021,Jeonbuk,Men,30-39,8684
+2021,Jeonbuk,Women,30-39,2578
+2021,Jeonnam,Men,30-39,19469
+2021,Jeonnam,Women,30-39,5709
+2021,Gyeongnam,Men,30-39,14042
+2021,Gyeongnam,Women,30-39,3696
+2021,Jeju,Men,30-39,4949
+2021,Jeju,Women,30-39,1908
+2021,Outside of Korean Red Cross,Men,30-39,26203
+2021,Outside of Korean Red Cross,Women,30-39,8514
+2022,Central Seoul,Men,30-39,30530
+2022,Central Seoul,Women,30-39,13491
+2022,Western Seoul,Men,30-39,
+2022,Western Seoul,Women,30-39,
+2022,Southern Seoul,Men,30-39,26537
+2022,Southern Seoul,Women,30-39,10314
+2022,Eastern Seoul,Men,30-39,28581
+2022,Eastern Seoul,Women,30-39,11513
+2022,Busan,Men,30-39,21754
+2022,Busan,Women,30-39,9497
+2022,DaeguGyeongbuk,Men,30-39,24662
+2022,DaeguGyeongbuk,Women,30-39,8516
+2022,Incheon,Men,30-39,22434
+2022,Incheon,Women,30-39,8873
+2022,Ulsan,Men,30-39,10274
+2022,Ulsan,Women,30-39,3210
+2022,Gyeonggi,Men,30-39,30285
+2022,Gyeonggi,Women,30-39,10226
+2022,Gangwon,Men,30-39,13069
+2022,Gangwon,Women,30-39,3954
+2022,Chungbuk,Men,30-39,9083
+2022,Chungbuk,Women,30-39,2872
+2022,DaejeonChungnam,Men,30-39,26167
+2022,DaejeonChungnam,Women,30-39,8957
+2022,Jeonbuk,Men,30-39,8753
+2022,Jeonbuk,Women,30-39,3124
+2022,Jeonnam,Men,30-39,19954
+2022,Jeonnam,Women,30-39,7992
+2022,Gyeongnam,Men,30-39,14063
+2022,Gyeongnam,Women,30-39,4281
+2022,Jeju,Men,30-39,4615
+2022,Jeju,Women,30-39,1936
+2022,Outside of Korean Red Cross,Men,30-39,29154
+2022,Outside of Korean Red Cross,Women,30-39,10407
+2023,Central Seoul,Men,30-39,30858
+2023,Central Seoul,Women,30-39,13170
+2023,Western Seoul,Men,30-39,
+2023,Western Seoul,Women,30-39,
+2023,Southern Seoul,Men,30-39,27713
+2023,Southern Seoul,Women,30-39,10226
+2023,Eastern Seoul,Men,30-39,30138
+2023,Eastern Seoul,Women,30-39,12260
+2023,Busan,Men,30-39,20974
+2023,Busan,Women,30-39,9120
+2023,DaeguGyeongbuk,Men,30-39,24547
+2023,DaeguGyeongbuk,Women,30-39,7987
+2023,Incheon,Men,30-39,23003
+2023,Incheon,Women,30-39,8731
+2023,Ulsan,Men,30-39,12149
+2023,Ulsan,Women,30-39,3824
+2023,Gyeonggi,Men,30-39,31657
+2023,Gyeonggi,Women,30-39,9904
+2023,Gangwon,Men,30-39,13622
+2023,Gangwon,Women,30-39,3829
+2023,Chungbuk,Men,30-39,9233
+2023,Chungbuk,Women,30-39,2834
+2023,DaejeonChungnam,Men,30-39,25225
+2023,DaejeonChungnam,Women,30-39,8106
+2023,Jeonbuk,Men,30-39,9467
+2023,Jeonbuk,Women,30-39,3349
+2023,Jeonnam,Men,30-39,19779
+2023,Jeonnam,Women,30-39,7268
+2023,Gyeongnam,Men,30-39,14134
+2023,Gyeongnam,Women,30-39,3928
+2023,Jeju,Men,30-39,5399
+2023,Jeju,Women,30-39,2181
+2023,Outside of Korean Red Cross,Men,30-39,32121
+2023,Outside of Korean Red Cross,Women,30-39,11430
+2005,Central Seoul,Men,40-49,6716
+2005,Central Seoul,Women,40-49,1169
+2005,Western Seoul,Men,40-49,5436
+2005,Western Seoul,Women,40-49,608
+2005,Southern Seoul,Men,40-49,7303
+2005,Southern Seoul,Women,40-49,1139
+2005,Eastern Seoul,Men,40-49,6205
+2005,Eastern Seoul,Women,40-49,1729
+2005,Busan,Men,40-49,6301
+2005,Busan,Women,40-49,1082
+2005,DaeguGyeongbuk,Men,40-49,7423
+2005,DaeguGyeongbuk,Women,40-49,1375
+2005,Incheon,Men,40-49,4456
+2005,Incheon,Women,40-49,1210
+2005,Ulsan,Men,40-49,4523
+2005,Ulsan,Women,40-49,495
+2005,Gyeonggi,Men,40-49,7074
+2005,Gyeonggi,Women,40-49,708
+2005,Gangwon,Men,40-49,2068
+2005,Gangwon,Women,40-49,361
+2005,Chungbuk,Men,40-49,2539
+2005,Chungbuk,Women,40-49,286
+2005,DaejeonChungnam,Men,40-49,4948
+2005,DaejeonChungnam,Women,40-49,521
+2005,Jeonbuk,Men,40-49,2908
+2005,Jeonbuk,Women,40-49,430
+2005,Jeonnam,Men,40-49,6316
+2005,Jeonnam,Women,40-49,1306
+2005,Gyeongnam,Men,40-49,4282
+2005,Gyeongnam,Women,40-49,385
+2005,Jeju,Men,40-49,1184
+2005,Jeju,Women,40-49,216
+2005,Outside of Korean Red Cross,Men,40-49,3190
+2005,Outside of Korean Red Cross,Women,40-49,719
+2006,Central Seoul,Men,40-49,7741
+2006,Central Seoul,Women,40-49,1214
+2006,Western Seoul,Men,40-49,6101
+2006,Western Seoul,Women,40-49,760
+2006,Southern Seoul,Men,40-49,8331
+2006,Southern Seoul,Women,40-49,1360
+2006,Eastern Seoul,Men,40-49,7462
+2006,Eastern Seoul,Women,40-49,2263
+2006,Busan,Men,40-49,6858
+2006,Busan,Women,40-49,1261
+2006,DaeguGyeongbuk,Men,40-49,7369
+2006,DaeguGyeongbuk,Women,40-49,1299
+2006,Incheon,Men,40-49,4670
+2006,Incheon,Women,40-49,1142
+2006,Ulsan,Men,40-49,4881
+2006,Ulsan,Women,40-49,500
+2006,Gyeonggi,Men,40-49,7618
+2006,Gyeonggi,Women,40-49,1007
+2006,Gangwon,Men,40-49,1996
+2006,Gangwon,Women,40-49,404
+2006,Chungbuk,Men,40-49,2681
+2006,Chungbuk,Women,40-49,352
+2006,DaejeonChungnam,Men,40-49,5777
+2006,DaejeonChungnam,Women,40-49,698
+2006,Jeonbuk,Men,40-49,3135
+2006,Jeonbuk,Women,40-49,492
+2006,Jeonnam,Men,40-49,6632
+2006,Jeonnam,Women,40-49,1478
+2006,Gyeongnam,Men,40-49,4989
+2006,Gyeongnam,Women,40-49,406
+2006,Jeju,Men,40-49,1228
+2006,Jeju,Women,40-49,247
+2006,Outside of Korean Red Cross,Men,40-49,3208
+2006,Outside of Korean Red Cross,Women,40-49,652
+2007,Central Seoul,Men,40-49,7537
+2007,Central Seoul,Women,40-49,1261
+2007,Western Seoul,Men,40-49,6550
+2007,Western Seoul,Women,40-49,1087
+2007,Southern Seoul,Men,40-49,8006
+2007,Southern Seoul,Women,40-49,1342
+2007,Eastern Seoul,Men,40-49,6262
+2007,Eastern Seoul,Women,40-49,1997
+2007,Busan,Men,40-49,6495
+2007,Busan,Women,40-49,1190
+2007,DaeguGyeongbuk,Men,40-49,6129
+2007,DaeguGyeongbuk,Women,40-49,1033
+2007,Incheon,Men,40-49,4637
+2007,Incheon,Women,40-49,1122
+2007,Ulsan,Men,40-49,4100
+2007,Ulsan,Women,40-49,458
+2007,Gyeonggi,Men,40-49,7871
+2007,Gyeonggi,Women,40-49,1018
+2007,Gangwon,Men,40-49,1881
+2007,Gangwon,Women,40-49,344
+2007,Chungbuk,Men,40-49,2922
+2007,Chungbuk,Women,40-49,350
+2007,DaejeonChungnam,Men,40-49,6029
+2007,DaejeonChungnam,Women,40-49,729
+2007,Jeonbuk,Men,40-49,3091
+2007,Jeonbuk,Women,40-49,356
+2007,Jeonnam,Men,40-49,6292
+2007,Jeonnam,Women,40-49,1363
+2007,Gyeongnam,Men,40-49,4903
+2007,Gyeongnam,Women,40-49,524
+2007,Jeju,Men,40-49,1176
+2007,Jeju,Women,40-49,199
+2007,Outside of Korean Red Cross,Men,40-49,3382
+2007,Outside of Korean Red Cross,Women,40-49,759
+2008,Central Seoul,Men,40-49,8554
+2008,Central Seoul,Women,40-49,1507
+2008,Western Seoul,Men,40-49,7253
+2008,Western Seoul,Women,40-49,1307
+2008,Southern Seoul,Men,40-49,9286
+2008,Southern Seoul,Women,40-49,1779
+2008,Eastern Seoul,Men,40-49,6841
+2008,Eastern Seoul,Women,40-49,2237
+2008,Busan,Men,40-49,7583
+2008,Busan,Women,40-49,1545
+2008,DaeguGyeongbuk,Men,40-49,6540
+2008,DaeguGyeongbuk,Women,40-49,1305
+2008,Incheon,Men,40-49,5299
+2008,Incheon,Women,40-49,1307
+2008,Ulsan,Men,40-49,4456
+2008,Ulsan,Women,40-49,506
+2008,Gyeonggi,Men,40-49,9049
+2008,Gyeonggi,Women,40-49,1415
+2008,Gangwon,Men,40-49,2225
+2008,Gangwon,Women,40-49,470
+2008,Chungbuk,Men,40-49,2993
+2008,Chungbuk,Women,40-49,391
+2008,DaejeonChungnam,Men,40-49,7825
+2008,DaejeonChungnam,Women,40-49,1103
+2008,Jeonbuk,Men,40-49,3984
+2008,Jeonbuk,Women,40-49,597
+2008,Jeonnam,Men,40-49,7371
+2008,Jeonnam,Women,40-49,1568
+2008,Gyeongnam,Men,40-49,4969
+2008,Gyeongnam,Women,40-49,490
+2008,Jeju,Men,40-49,1380
+2008,Jeju,Women,40-49,291
+2008,Outside of Korean Red Cross,Men,40-49,4557
+2008,Outside of Korean Red Cross,Women,40-49,922
+2009,Central Seoul,Men,40-49,10906
+2009,Central Seoul,Women,40-49,1915
+2009,Western Seoul,Men,40-49,9731
+2009,Western Seoul,Women,40-49,1751
+2009,Southern Seoul,Men,40-49,11035
+2009,Southern Seoul,Women,40-49,2030
+2009,Eastern Seoul,Men,40-49,9072
+2009,Eastern Seoul,Women,40-49,2851
+2009,Busan,Men,40-49,8405
+2009,Busan,Women,40-49,1680
+2009,DaeguGyeongbuk,Men,40-49,9518
+2009,DaeguGyeongbuk,Women,40-49,1695
+2009,Incheon,Men,40-49,6388
+2009,Incheon,Women,40-49,1664
+2009,Ulsan,Men,40-49,4859
+2009,Ulsan,Women,40-49,624
+2009,Gyeonggi,Men,40-49,11406
+2009,Gyeonggi,Women,40-49,1871
+2009,Gangwon,Men,40-49,2998
+2009,Gangwon,Women,40-49,711
+2009,Chungbuk,Men,40-49,4008
+2009,Chungbuk,Women,40-49,565
+2009,DaejeonChungnam,Men,40-49,9448
+2009,DaejeonChungnam,Women,40-49,1345
+2009,Jeonbuk,Men,40-49,4365
+2009,Jeonbuk,Women,40-49,747
+2009,Jeonnam,Men,40-49,9143
+2009,Jeonnam,Women,40-49,2002
+2009,Gyeongnam,Men,40-49,6709
+2009,Gyeongnam,Women,40-49,684
+2009,Jeju,Men,40-49,1987
+2009,Jeju,Women,40-49,464
+2009,Outside of Korean Red Cross,Men,40-49,4966
+2009,Outside of Korean Red Cross,Women,40-49,765
+2010,Central Seoul,Men,40-49,12745
+2010,Central Seoul,Women,40-49,2488
+2010,Western Seoul,Men,40-49,4680
+2010,Western Seoul,Women,40-49,798
+2010,Southern Seoul,Men,40-49,11120
+2010,Southern Seoul,Women,40-49,1982
+2010,Eastern Seoul,Men,40-49,11742
+2010,Eastern Seoul,Women,40-49,3593
+2010,Busan,Men,40-49,8532
+2010,Busan,Women,40-49,2020
+2010,DaeguGyeongbuk,Men,40-49,9463
+2010,DaeguGyeongbuk,Women,40-49,1881
+2010,Incheon,Men,40-49,6766
+2010,Incheon,Women,40-49,1686
+2010,Ulsan,Men,40-49,4710
+2010,Ulsan,Women,40-49,741
+2010,Gyeonggi,Men,40-49,11454
+2010,Gyeonggi,Women,40-49,1961
+2010,Gangwon,Men,40-49,3351
+2010,Gangwon,Women,40-49,762
+2010,Chungbuk,Men,40-49,4173
+2010,Chungbuk,Women,40-49,527
+2010,DaejeonChungnam,Men,40-49,9583
+2010,DaejeonChungnam,Women,40-49,1376
+2010,Jeonbuk,Men,40-49,4820
+2010,Jeonbuk,Women,40-49,706
+2010,Jeonnam,Men,40-49,8849
+2010,Jeonnam,Women,40-49,2041
+2010,Gyeongnam,Men,40-49,6366
+2010,Gyeongnam,Women,40-49,646
+2010,Jeju,Men,40-49,2101
+2010,Jeju,Women,40-49,542
+2010,Outside of Korean Red Cross,Men,40-49,6112
+2010,Outside of Korean Red Cross,Women,40-49,1338
+2011,Central Seoul,Men,40-49,
+2011,Central Seoul,Women,40-49,
+2011,Western Seoul,Men,40-49,14489
+2011,Western Seoul,Women,40-49,3044
+2011,Southern Seoul,Men,40-49,11991
+2011,Southern Seoul,Women,40-49,2107
+2011,Eastern Seoul,Men,40-49,13995
+2011,Eastern Seoul,Women,40-49,4298
+2011,Busan,Men,40-49,8112
+2011,Busan,Women,40-49,2128
+2011,DaeguGyeongbuk,Men,40-49,8982
+2011,DaeguGyeongbuk,Women,40-49,2158
+2011,Incheon,Men,40-49,8198
+2011,Incheon,Women,40-49,2149
+2011,Ulsan,Men,40-49,4408
+2011,Ulsan,Women,40-49,759
+2011,Gyeonggi,Men,40-49,11420
+2011,Gyeonggi,Women,40-49,2016
+2011,Gangwon,Men,40-49,4101
+2011,Gangwon,Women,40-49,883
+2011,Chungbuk,Men,40-49,3744
+2011,Chungbuk,Women,40-49,513
+2011,DaejeonChungnam,Men,40-49,9385
+2011,DaejeonChungnam,Women,40-49,1142
+2011,Jeonbuk,Men,40-49,5129
+2011,Jeonbuk,Women,40-49,832
+2011,Jeonnam,Men,40-49,8516
+2011,Jeonnam,Women,40-49,2045
+2011,Gyeongnam,Men,40-49,6318
+2011,Gyeongnam,Women,40-49,647
+2011,Jeju,Men,40-49,1859
+2011,Jeju,Women,40-49,565
+2011,Outside of Korean Red Cross,Men,40-49,6522
+2011,Outside of Korean Red Cross,Women,40-49,1692
+2012,Central Seoul,Men,40-49,
+2012,Central Seoul,Women,40-49,
+2012,Western Seoul,Men,40-49,15411
+2012,Western Seoul,Women,40-49,3390
+2012,Southern Seoul,Men,40-49,13010
+2012,Southern Seoul,Women,40-49,2576
+2012,Eastern Seoul,Men,40-49,15046
+2012,Eastern Seoul,Women,40-49,4759
+2012,Busan,Men,40-49,9058
+2012,Busan,Women,40-49,2452
+2012,DaeguGyeongbuk,Men,40-49,9746
+2012,DaeguGyeongbuk,Women,40-49,2556
+2012,Incheon,Men,40-49,8962
+2012,Incheon,Women,40-49,2543
+2012,Ulsan,Men,40-49,5414
+2012,Ulsan,Women,40-49,930
+2012,Gyeonggi,Men,40-49,12391
+2012,Gyeonggi,Women,40-49,2334
+2012,Gangwon,Men,40-49,4512
+2012,Gangwon,Women,40-49,1007
+2012,Chungbuk,Men,40-49,4078
+2012,Chungbuk,Women,40-49,542
+2012,DaejeonChungnam,Men,40-49,10257
+2012,DaejeonChungnam,Women,40-49,1473
+2012,Jeonbuk,Men,40-49,5311
+2012,Jeonbuk,Women,40-49,1017
+2012,Jeonnam,Men,40-49,8710
+2012,Jeonnam,Women,40-49,2139
+2012,Gyeongnam,Men,40-49,6511
+2012,Gyeongnam,Women,40-49,761
+2012,Jeju,Men,40-49,1879
+2012,Jeju,Women,40-49,453
+2012,Outside of Korean Red Cross,Men,40-49,8752
+2012,Outside of Korean Red Cross,Women,40-49,2010
+2013,Central Seoul,Men,40-49,
+2013,Central Seoul,Women,40-49,
+2013,Western Seoul,Men,40-49,17208
+2013,Western Seoul,Women,40-49,3793
+2013,Southern Seoul,Men,40-49,14193
+2013,Southern Seoul,Women,40-49,2914
+2013,Eastern Seoul,Men,40-49,16021
+2013,Eastern Seoul,Women,40-49,4980
+2013,Busan,Men,40-49,10098
+2013,Busan,Women,40-49,2910
+2013,DaeguGyeongbuk,Men,40-49,10978
+2013,DaeguGyeongbuk,Women,40-49,2634
+2013,Incheon,Men,40-49,9772
+2013,Incheon,Women,40-49,2594
+2013,Ulsan,Men,40-49,5296
+2013,Ulsan,Women,40-49,1011
+2013,Gyeonggi,Men,40-49,14205
+2013,Gyeonggi,Women,40-49,2369
+2013,Gangwon,Men,40-49,5312
+2013,Gangwon,Women,40-49,1227
+2013,Chungbuk,Men,40-49,4368
+2013,Chungbuk,Women,40-49,560
+2013,DaejeonChungnam,Men,40-49,11323
+2013,DaejeonChungnam,Women,40-49,1708
+2013,Jeonbuk,Men,40-49,5603
+2013,Jeonbuk,Women,40-49,947
+2013,Jeonnam,Men,40-49,9446
+2013,Jeonnam,Women,40-49,2276
+2013,Gyeongnam,Men,40-49,7415
+2013,Gyeongnam,Women,40-49,1049
+2013,Jeju,Men,40-49,2002
+2013,Jeju,Women,40-49,554
+2013,Outside of Korean Red Cross,Men,40-49,9738
+2013,Outside of Korean Red Cross,Women,40-49,2791
+2014,Central Seoul,Men,40-49,
+2014,Central Seoul,Women,40-49,
+2014,Western Seoul,Men,40-49,19198
+2014,Western Seoul,Women,40-49,4248
+2014,Southern Seoul,Men,40-49,15078
+2014,Southern Seoul,Women,40-49,2889
+2014,Eastern Seoul,Men,40-49,17730
+2014,Eastern Seoul,Women,40-49,5840
+2014,Busan,Men,40-49,11150
+2014,Busan,Women,40-49,3750
+2014,DaeguGyeongbuk,Men,40-49,12612
+2014,DaeguGyeongbuk,Women,40-49,3249
+2014,Incheon,Men,40-49,10898
+2014,Incheon,Women,40-49,2735
+2014,Ulsan,Men,40-49,5743
+2014,Ulsan,Women,40-49,1178
+2014,Gyeonggi,Men,40-49,16567
+2014,Gyeonggi,Women,40-49,2764
+2014,Gangwon,Men,40-49,6292
+2014,Gangwon,Women,40-49,1460
+2014,Chungbuk,Men,40-49,4723
+2014,Chungbuk,Women,40-49,827
+2014,DaejeonChungnam,Men,40-49,12884
+2014,DaejeonChungnam,Women,40-49,2071
+2014,Jeonbuk,Men,40-49,6306
+2014,Jeonbuk,Women,40-49,1293
+2014,Jeonnam,Men,40-49,10258
+2014,Jeonnam,Women,40-49,2826
+2014,Gyeongnam,Men,40-49,8932
+2014,Gyeongnam,Women,40-49,1472
+2014,Jeju,Men,40-49,2546
+2014,Jeju,Women,40-49,796
+2014,Outside of Korean Red Cross,Men,40-49,10477
+2014,Outside of Korean Red Cross,Women,40-49,2995
+2015,Central Seoul,Men,40-49,
+2015,Central Seoul,Women,40-49,
+2015,Western Seoul,Men,40-49,21877
+2015,Western Seoul,Women,40-49,5416
+2015,Southern Seoul,Men,40-49,15393
+2015,Southern Seoul,Women,40-49,3389
+2015,Eastern Seoul,Men,40-49,19471
+2015,Eastern Seoul,Women,40-49,6048
+2015,Busan,Men,40-49,12263
+2015,Busan,Women,40-49,3956
+2015,DaeguGyeongbuk,Men,40-49,14430
+2015,DaeguGyeongbuk,Women,40-49,3974
+2015,Incheon,Men,40-49,11541
+2015,Incheon,Women,40-49,3565
+2015,Ulsan,Men,40-49,6805
+2015,Ulsan,Women,40-49,1533
+2015,Gyeonggi,Men,40-49,18964
+2015,Gyeonggi,Women,40-49,3762
+2015,Gangwon,Men,40-49,7303
+2015,Gangwon,Women,40-49,1765
+2015,Chungbuk,Men,40-49,4954
+2015,Chungbuk,Women,40-49,1009
+2015,DaejeonChungnam,Men,40-49,14450
+2015,DaejeonChungnam,Women,40-49,2898
+2015,Jeonbuk,Men,40-49,6836
+2015,Jeonbuk,Women,40-49,1305
+2015,Jeonnam,Men,40-49,11267
+2015,Jeonnam,Women,40-49,3087
+2015,Gyeongnam,Men,40-49,8996
+2015,Gyeongnam,Women,40-49,1507
+2015,Jeju,Men,40-49,2966
+2015,Jeju,Women,40-49,853
+2015,Outside of Korean Red Cross,Men,40-49,12384
+2015,Outside of Korean Red Cross,Women,40-49,3317
+2016,Central Seoul,Men,40-49,
+2016,Central Seoul,Women,40-49,
+2016,Western Seoul,Men,40-49,23065
+2016,Western Seoul,Women,40-49,6081
+2016,Southern Seoul,Men,40-49,18801
+2016,Southern Seoul,Women,40-49,4610
+2016,Eastern Seoul,Men,40-49,21553
+2016,Eastern Seoul,Women,40-49,6743
+2016,Busan,Men,40-49,13572
+2016,Busan,Women,40-49,4251
+2016,DaeguGyeongbuk,Men,40-49,16064
+2016,DaeguGyeongbuk,Women,40-49,4333
+2016,Incheon,Men,40-49,12578
+2016,Incheon,Women,40-49,3878
+2016,Ulsan,Men,40-49,7241
+2016,Ulsan,Women,40-49,1811
+2016,Gyeonggi,Men,40-49,22223
+2016,Gyeonggi,Women,40-49,4741
+2016,Gangwon,Men,40-49,9015
+2016,Gangwon,Women,40-49,2013
+2016,Chungbuk,Men,40-49,5487
+2016,Chungbuk,Women,40-49,1329
+2016,DaejeonChungnam,Men,40-49,16434
+2016,DaejeonChungnam,Women,40-49,3366
+2016,Jeonbuk,Men,40-49,7291
+2016,Jeonbuk,Women,40-49,1480
+2016,Jeonnam,Men,40-49,12274
+2016,Jeonnam,Women,40-49,3548
+2016,Gyeongnam,Men,40-49,10735
+2016,Gyeongnam,Women,40-49,2017
+2016,Jeju,Men,40-49,3227
+2016,Jeju,Women,40-49,885
+2016,Outside of Korean Red Cross,Men,40-49,14466
+2016,Outside of Korean Red Cross,Women,40-49,4741
+2017,Central Seoul,Men,40-49,
+2017,Central Seoul,Women,40-49,
+2017,Western Seoul,Men,40-49,24650
+2017,Western Seoul,Women,40-49,6715
+2017,Southern Seoul,Men,40-49,21448
+2017,Southern Seoul,Women,40-49,5334
+2017,Eastern Seoul,Men,40-49,23787
+2017,Eastern Seoul,Women,40-49,7277
+2017,Busan,Men,40-49,15870
+2017,Busan,Women,40-49,4988
+2017,DaeguGyeongbuk,Men,40-49,18961
+2017,DaeguGyeongbuk,Women,40-49,5270
+2017,Incheon,Men,40-49,14096
+2017,Incheon,Women,40-49,4339
+2017,Ulsan,Men,40-49,7728
+2017,Ulsan,Women,40-49,1844
+2017,Gyeonggi,Men,40-49,23876
+2017,Gyeonggi,Women,40-49,5065
+2017,Gangwon,Men,40-49,9678
+2017,Gangwon,Women,40-49,2310
+2017,Chungbuk,Men,40-49,6444
+2017,Chungbuk,Women,40-49,1567
+2017,DaejeonChungnam,Men,40-49,17563
+2017,DaejeonChungnam,Women,40-49,3960
+2017,Jeonbuk,Men,40-49,8010
+2017,Jeonbuk,Women,40-49,1544
+2017,Jeonnam,Men,40-49,13931
+2017,Jeonnam,Women,40-49,4231
+2017,Gyeongnam,Men,40-49,10833
+2017,Gyeongnam,Women,40-49,2215
+2017,Jeju,Men,40-49,3721
+2017,Jeju,Women,40-49,1071
+2017,Outside of Korean Red Cross,Men,40-49,16741
+2017,Outside of Korean Red Cross,Women,40-49,5075
+2018,Central Seoul,Men,40-49,25615
+2018,Central Seoul,Women,40-49,6950
+2018,Western Seoul,Men,40-49,
+2018,Western Seoul,Women,40-49,
+2018,Southern Seoul,Men,40-49,22311
+2018,Southern Seoul,Women,40-49,5809
+2018,Eastern Seoul,Men,40-49,26023
+2018,Eastern Seoul,Women,40-49,8342
+2018,Busan,Men,40-49,17548
+2018,Busan,Women,40-49,5961
+2018,DaeguGyeongbuk,Men,40-49,21469
+2018,DaeguGyeongbuk,Women,40-49,6004
+2018,Incheon,Men,40-49,15466
+2018,Incheon,Women,40-49,4897
+2018,Ulsan,Men,40-49,8701
+2018,Ulsan,Women,40-49,2008
+2018,Gyeonggi,Men,40-49,25695
+2018,Gyeonggi,Women,40-49,5550
+2018,Gangwon,Men,40-49,11189
+2018,Gangwon,Women,40-49,2582
+2018,Chungbuk,Men,40-49,7306
+2018,Chungbuk,Women,40-49,1653
+2018,DaejeonChungnam,Men,40-49,20171
+2018,DaejeonChungnam,Women,40-49,4545
+2018,Jeonbuk,Men,40-49,8280
+2018,Jeonbuk,Women,40-49,1862
+2018,Jeonnam,Men,40-49,14189
+2018,Jeonnam,Women,40-49,4163
+2018,Gyeongnam,Men,40-49,12259
+2018,Gyeongnam,Women,40-49,2660
+2018,Jeju,Men,40-49,3355
+2018,Jeju,Women,40-49,1012
+2018,Outside of Korean Red Cross,Men,40-49,18686
+2018,Outside of Korean Red Cross,Women,40-49,5842
+2019,Central Seoul,Men,40-49,25887
+2019,Central Seoul,Women,40-49,7618
+2019,Western Seoul,Men,40-49,
+2019,Western Seoul,Women,40-49,
+2019,Southern Seoul,Men,40-49,23031
+2019,Southern Seoul,Women,40-49,6378
+2019,Eastern Seoul,Men,40-49,27882
+2019,Eastern Seoul,Women,40-49,8810
+2019,Busan,Men,40-49,18834
+2019,Busan,Women,40-49,6076
+2019,DaeguGyeongbuk,Men,40-49,23009
+2019,DaeguGyeongbuk,Women,40-49,6537
+2019,Incheon,Men,40-49,17113
+2019,Incheon,Women,40-49,5634
+2019,Ulsan,Men,40-49,9908
+2019,Ulsan,Women,40-49,2463
+2019,Gyeonggi,Men,40-49,28709
+2019,Gyeonggi,Women,40-49,6596
+2019,Gangwon,Men,40-49,12239
+2019,Gangwon,Women,40-49,2802
+2019,Chungbuk,Men,40-49,8421
+2019,Chungbuk,Women,40-49,2013
+2019,DaejeonChungnam,Men,40-49,23012
+2019,DaejeonChungnam,Women,40-49,5742
+2019,Jeonbuk,Men,40-49,9182
+2019,Jeonbuk,Women,40-49,2093
+2019,Jeonnam,Men,40-49,15954
+2019,Jeonnam,Women,40-49,4957
+2019,Gyeongnam,Men,40-49,13208
+2019,Gyeongnam,Women,40-49,2919
+2019,Jeju,Men,40-49,3865
+2019,Jeju,Women,40-49,1211
+2019,Outside of Korean Red Cross,Men,40-49,20833
+2019,Outside of Korean Red Cross,Women,40-49,5510
+2020,Central Seoul,Men,40-49,28475
+2020,Central Seoul,Women,40-49,8923
+2020,Western Seoul,Men,40-49,
+2020,Western Seoul,Women,40-49,
+2020,Southern Seoul,Men,40-49,24961
+2020,Southern Seoul,Women,40-49,6904
+2020,Eastern Seoul,Men,40-49,29522
+2020,Eastern Seoul,Women,40-49,9093
+2020,Busan,Men,40-49,22665
+2020,Busan,Women,40-49,7727
+2020,DaeguGyeongbuk,Men,40-49,25820
+2020,DaeguGyeongbuk,Women,40-49,8488
+2020,Incheon,Men,40-49,22266
+2020,Incheon,Women,40-49,7354
+2020,Ulsan,Men,40-49,13200
+2020,Ulsan,Women,40-49,3119
+2020,Gyeonggi,Men,40-49,36859
+2020,Gyeonggi,Women,40-49,9717
+2020,Gangwon,Men,40-49,15198
+2020,Gangwon,Women,40-49,3913
+2020,Chungbuk,Men,40-49,11347
+2020,Chungbuk,Women,40-49,2868
+2020,DaejeonChungnam,Men,40-49,30474
+2020,DaejeonChungnam,Women,40-49,8909
+2020,Jeonbuk,Men,40-49,11483
+2020,Jeonbuk,Women,40-49,3243
+2020,Jeonnam,Men,40-49,20799
+2020,Jeonnam,Women,40-49,6949
+2020,Gyeongnam,Men,40-49,17388
+2020,Gyeongnam,Women,40-49,4755
+2020,Jeju,Men,40-49,5879
+2020,Jeju,Women,40-49,2046
+2020,Outside of Korean Red Cross,Men,40-49,26984
+2020,Outside of Korean Red Cross,Women,40-49,8663
+2021,Central Seoul,Men,40-49,28256
+2021,Central Seoul,Women,40-49,9376
+2021,Western Seoul,Men,40-49,
+2021,Western Seoul,Women,40-49,
+2021,Southern Seoul,Men,40-49,24173
+2021,Southern Seoul,Women,40-49,6907
+2021,Eastern Seoul,Men,40-49,29299
+2021,Eastern Seoul,Women,40-49,9954
+2021,Busan,Men,40-49,21569
+2021,Busan,Women,40-49,7653
+2021,DaeguGyeongbuk,Men,40-49,27491
+2021,DaeguGyeongbuk,Women,40-49,9514
+2021,Incheon,Men,40-49,23254
+2021,Incheon,Women,40-49,7887
+2021,Ulsan,Men,40-49,12423
+2021,Ulsan,Women,40-49,3259
+2021,Gyeonggi,Men,40-49,36133
+2021,Gyeonggi,Women,40-49,10223
+2021,Gangwon,Men,40-49,14442
+2021,Gangwon,Women,40-49,3967
+2021,Chungbuk,Men,40-49,10528
+2021,Chungbuk,Women,40-49,2947
+2021,DaejeonChungnam,Men,40-49,28783
+2021,DaejeonChungnam,Women,40-49,8384
+2021,Jeonbuk,Men,40-49,10705
+2021,Jeonbuk,Women,40-49,2922
+2021,Jeonnam,Men,40-49,20062
+2021,Jeonnam,Women,40-49,6845
+2021,Gyeongnam,Men,40-49,15600
+2021,Gyeongnam,Women,40-49,4363
+2021,Jeju,Men,40-49,5928
+2021,Jeju,Women,40-49,2080
+2021,Outside of Korean Red Cross,Men,40-49,26845
+2021,Outside of Korean Red Cross,Women,40-49,8685
+2022,Central Seoul,Men,40-49,27722
+2022,Central Seoul,Women,40-49,10347
+2022,Western Seoul,Men,40-49,
+2022,Western Seoul,Women,40-49,
+2022,Southern Seoul,Men,40-49,24176
+2022,Southern Seoul,Women,40-49,7770
+2022,Eastern Seoul,Men,40-49,30354
+2022,Eastern Seoul,Women,40-49,11596
+2022,Busan,Men,40-49,22946
+2022,Busan,Women,40-49,9056
+2022,DaeguGyeongbuk,Men,40-49,26258
+2022,DaeguGyeongbuk,Women,40-49,9892
+2022,Incheon,Men,40-49,24456
+2022,Incheon,Women,40-49,9160
+2022,Ulsan,Men,40-49,12100
+2022,Ulsan,Women,40-49,3816
+2022,Gyeonggi,Men,40-49,34009
+2022,Gyeonggi,Women,40-49,10338
+2022,Gangwon,Men,40-49,14573
+2022,Gangwon,Women,40-49,5100
+2022,Chungbuk,Men,40-49,9930
+2022,Chungbuk,Women,40-49,3725
+2022,DaejeonChungnam,Men,40-49,29166
+2022,DaejeonChungnam,Women,40-49,10191
+2022,Jeonbuk,Men,40-49,10397
+2022,Jeonbuk,Women,40-49,3623
+2022,Jeonnam,Men,40-49,20331
+2022,Jeonnam,Women,40-49,9823
+2022,Gyeongnam,Men,40-49,16084
+2022,Gyeongnam,Women,40-49,5227
+2022,Jeju,Men,40-49,6009
+2022,Jeju,Women,40-49,2146
+2022,Outside of Korean Red Cross,Men,40-49,32386
+2022,Outside of Korean Red Cross,Women,40-49,11176
+2023,Central Seoul,Men,40-49,27618
+2023,Central Seoul,Women,40-49,10291
+2023,Western Seoul,Men,40-49,
+2023,Western Seoul,Women,40-49,
+2023,Southern Seoul,Men,40-49,25548
+2023,Southern Seoul,Women,40-49,7189
+2023,Eastern Seoul,Men,40-49,31644
+2023,Eastern Seoul,Women,40-49,12240
+2023,Busan,Men,40-49,22594
+2023,Busan,Women,40-49,9013
+2023,DaeguGyeongbuk,Men,40-49,26694
+2023,DaeguGyeongbuk,Women,40-49,8992
+2023,Incheon,Men,40-49,24252
+2023,Incheon,Women,40-49,8783
+2023,Ulsan,Men,40-49,14016
+2023,Ulsan,Women,40-49,4250
+2023,Gyeonggi,Men,40-49,34771
+2023,Gyeonggi,Women,40-49,9868
+2023,Gangwon,Men,40-49,14481
+2023,Gangwon,Women,40-49,4547
+2023,Chungbuk,Men,40-49,9971
+2023,Chungbuk,Women,40-49,3349
+2023,DaejeonChungnam,Men,40-49,29071
+2023,DaejeonChungnam,Women,40-49,9475
+2023,Jeonbuk,Men,40-49,10666
+2023,Jeonbuk,Women,40-49,3481
+2023,Jeonnam,Men,40-49,20939
+2023,Jeonnam,Women,40-49,8358
+2023,Gyeongnam,Men,40-49,16752
+2023,Gyeongnam,Women,40-49,5019
+2023,Jeju,Men,40-49,7204
+2023,Jeju,Women,40-49,2494
+2023,Outside of Korean Red Cross,Men,40-49,38657
+2023,Outside of Korean Red Cross,Women,40-49,12739
+2005,Central Seoul,Men,50-59,1974
+2005,Central Seoul,Women,50-59,343
+2005,Western Seoul,Men,50-59,1401
+2005,Western Seoul,Women,50-59,175
+2005,Southern Seoul,Men,50-59,2296
+2005,Southern Seoul,Women,50-59,362
+2005,Eastern Seoul,Men,50-59,1910
+2005,Eastern Seoul,Women,50-59,389
+2005,Busan,Men,50-59,1860
+2005,Busan,Women,50-59,292
+2005,DaeguGyeongbuk,Men,50-59,2137
+2005,DaeguGyeongbuk,Women,50-59,382
+2005,Incheon,Men,50-59,982
+2005,Incheon,Women,50-59,231
+2005,Ulsan,Men,50-59,929
+2005,Ulsan,Women,50-59,86
+2005,Gyeonggi,Men,50-59,1515
+2005,Gyeonggi,Women,50-59,119
+2005,Gangwon,Men,50-59,534
+2005,Gangwon,Women,50-59,61
+2005,Chungbuk,Men,50-59,601
+2005,Chungbuk,Women,50-59,61
+2005,DaejeonChungnam,Men,50-59,1439
+2005,DaejeonChungnam,Women,50-59,134
+2005,Jeonbuk,Men,50-59,848
+2005,Jeonbuk,Women,50-59,64
+2005,Jeonnam,Men,50-59,1395
+2005,Jeonnam,Women,50-59,177
+2005,Gyeongnam,Men,50-59,850
+2005,Gyeongnam,Women,50-59,82
+2005,Jeju,Men,50-59,264
+2005,Jeju,Women,50-59,29
+2005,Outside of Korean Red Cross,Men,50-59,630
+2005,Outside of Korean Red Cross,Women,50-59,161
+2006,Central Seoul,Men,50-59,2316
+2006,Central Seoul,Women,50-59,310
+2006,Western Seoul,Men,50-59,1690
+2006,Western Seoul,Women,50-59,212
+2006,Southern Seoul,Men,50-59,2487
+2006,Southern Seoul,Women,50-59,490
+2006,Eastern Seoul,Men,50-59,2364
+2006,Eastern Seoul,Women,50-59,574
+2006,Busan,Men,50-59,2165
+2006,Busan,Women,50-59,349
+2006,DaeguGyeongbuk,Men,50-59,2205
+2006,DaeguGyeongbuk,Women,50-59,328
+2006,Incheon,Men,50-59,1095
+2006,Incheon,Women,50-59,235
+2006,Ulsan,Men,50-59,1173
+2006,Ulsan,Women,50-59,103
+2006,Gyeonggi,Men,50-59,1779
+2006,Gyeonggi,Women,50-59,160
+2006,Gangwon,Men,50-59,622
+2006,Gangwon,Women,50-59,69
+2006,Chungbuk,Men,50-59,721
+2006,Chungbuk,Women,50-59,82
+2006,DaejeonChungnam,Men,50-59,1602
+2006,DaejeonChungnam,Women,50-59,165
+2006,Jeonbuk,Men,50-59,934
+2006,Jeonbuk,Women,50-59,73
+2006,Jeonnam,Men,50-59,1458
+2006,Jeonnam,Women,50-59,207
+2006,Gyeongnam,Men,50-59,1131
+2006,Gyeongnam,Women,50-59,93
+2006,Jeju,Men,50-59,322
+2006,Jeju,Women,50-59,33
+2006,Outside of Korean Red Cross,Men,50-59,628
+2006,Outside of Korean Red Cross,Women,50-59,158
+2007,Central Seoul,Men,50-59,2304
+2007,Central Seoul,Women,50-59,380
+2007,Western Seoul,Men,50-59,1929
+2007,Western Seoul,Women,50-59,263
+2007,Southern Seoul,Men,50-59,2458
+2007,Southern Seoul,Women,50-59,461
+2007,Eastern Seoul,Men,50-59,2188
+2007,Eastern Seoul,Women,50-59,615
+2007,Busan,Men,50-59,2198
+2007,Busan,Women,50-59,373
+2007,DaeguGyeongbuk,Men,50-59,1927
+2007,DaeguGyeongbuk,Women,50-59,243
+2007,Incheon,Men,50-59,1240
+2007,Incheon,Women,50-59,302
+2007,Ulsan,Men,50-59,1003
+2007,Ulsan,Women,50-59,88
+2007,Gyeonggi,Men,50-59,1785
+2007,Gyeonggi,Women,50-59,198
+2007,Gangwon,Men,50-59,602
+2007,Gangwon,Women,50-59,42
+2007,Chungbuk,Men,50-59,903
+2007,Chungbuk,Women,50-59,83
+2007,DaejeonChungnam,Men,50-59,1648
+2007,DaejeonChungnam,Women,50-59,148
+2007,Jeonbuk,Men,50-59,842
+2007,Jeonbuk,Women,50-59,55
+2007,Jeonnam,Men,50-59,1463
+2007,Jeonnam,Women,50-59,239
+2007,Gyeongnam,Men,50-59,1283
+2007,Gyeongnam,Women,50-59,99
+2007,Jeju,Men,50-59,328
+2007,Jeju,Women,50-59,15
+2007,Outside of Korean Red Cross,Men,50-59,793
+2007,Outside of Korean Red Cross,Women,50-59,184
+2008,Central Seoul,Men,50-59,2628
+2008,Central Seoul,Women,50-59,429
+2008,Western Seoul,Men,50-59,2222
+2008,Western Seoul,Women,50-59,343
+2008,Southern Seoul,Men,50-59,2999
+2008,Southern Seoul,Women,50-59,600
+2008,Eastern Seoul,Men,50-59,2600
+2008,Eastern Seoul,Women,50-59,647
+2008,Busan,Men,50-59,2684
+2008,Busan,Women,50-59,495
+2008,DaeguGyeongbuk,Men,50-59,2126
+2008,DaeguGyeongbuk,Women,50-59,317
+2008,Incheon,Men,50-59,1537
+2008,Incheon,Women,50-59,316
+2008,Ulsan,Men,50-59,1178
+2008,Ulsan,Women,50-59,112
+2008,Gyeonggi,Men,50-59,2478
+2008,Gyeonggi,Women,50-59,304
+2008,Gangwon,Men,50-59,868
+2008,Gangwon,Women,50-59,129
+2008,Chungbuk,Men,50-59,1070
+2008,Chungbuk,Women,50-59,88
+2008,DaejeonChungnam,Men,50-59,2253
+2008,DaejeonChungnam,Women,50-59,226
+2008,Jeonbuk,Men,50-59,1001
+2008,Jeonbuk,Women,50-59,163
+2008,Jeonnam,Men,50-59,1889
+2008,Jeonnam,Women,50-59,307
+2008,Gyeongnam,Men,50-59,1415
+2008,Gyeongnam,Women,50-59,138
+2008,Jeju,Men,50-59,386
+2008,Jeju,Women,50-59,33
+2008,Outside of Korean Red Cross,Men,50-59,1297
+2008,Outside of Korean Red Cross,Women,50-59,281
+2009,Central Seoul,Men,50-59,3453
+2009,Central Seoul,Women,50-59,515
+2009,Western Seoul,Men,50-59,2932
+2009,Western Seoul,Women,50-59,425
+2009,Southern Seoul,Men,50-59,3549
+2009,Southern Seoul,Women,50-59,645
+2009,Eastern Seoul,Men,50-59,3286
+2009,Eastern Seoul,Women,50-59,807
+2009,Busan,Men,50-59,3237
+2009,Busan,Women,50-59,561
+2009,DaeguGyeongbuk,Men,50-59,3094
+2009,DaeguGyeongbuk,Women,50-59,434
+2009,Incheon,Men,50-59,1989
+2009,Incheon,Women,50-59,397
+2009,Ulsan,Men,50-59,1519
+2009,Ulsan,Women,50-59,122
+2009,Gyeonggi,Men,50-59,3100
+2009,Gyeonggi,Women,50-59,466
+2009,Gangwon,Men,50-59,1200
+2009,Gangwon,Women,50-59,192
+2009,Chungbuk,Men,50-59,1506
+2009,Chungbuk,Women,50-59,163
+2009,DaejeonChungnam,Men,50-59,2700
+2009,DaejeonChungnam,Women,50-59,286
+2009,Jeonbuk,Men,50-59,1292
+2009,Jeonbuk,Women,50-59,160
+2009,Jeonnam,Men,50-59,2538
+2009,Jeonnam,Women,50-59,429
+2009,Gyeongnam,Men,50-59,2005
+2009,Gyeongnam,Women,50-59,160
+2009,Jeju,Men,50-59,588
+2009,Jeju,Women,50-59,87
+2009,Outside of Korean Red Cross,Men,50-59,1384
+2009,Outside of Korean Red Cross,Women,50-59,219
+2010,Central Seoul,Men,50-59,4059
+2010,Central Seoul,Women,50-59,756
+2010,Western Seoul,Men,50-59,1474
+2010,Western Seoul,Women,50-59,223
+2010,Southern Seoul,Men,50-59,3491
+2010,Southern Seoul,Women,50-59,621
+2010,Eastern Seoul,Men,50-59,4327
+2010,Eastern Seoul,Women,50-59,1025
+2010,Busan,Men,50-59,3448
+2010,Busan,Women,50-59,649
+2010,DaeguGyeongbuk,Men,50-59,3182
+2010,DaeguGyeongbuk,Women,50-59,526
+2010,Incheon,Men,50-59,2485
+2010,Incheon,Women,50-59,449
+2010,Ulsan,Men,50-59,1730
+2010,Ulsan,Women,50-59,133
+2010,Gyeonggi,Men,50-59,3363
+2010,Gyeonggi,Women,50-59,592
+2010,Gangwon,Men,50-59,1395
+2010,Gangwon,Women,50-59,246
+2010,Chungbuk,Men,50-59,1493
+2010,Chungbuk,Women,50-59,162
+2010,DaejeonChungnam,Men,50-59,3007
+2010,DaejeonChungnam,Women,50-59,315
+2010,Jeonbuk,Men,50-59,1508
+2010,Jeonbuk,Women,50-59,182
+2010,Jeonnam,Men,50-59,2800
+2010,Jeonnam,Women,50-59,452
+2010,Gyeongnam,Men,50-59,2085
+2010,Gyeongnam,Women,50-59,157
+2010,Jeju,Men,50-59,652
+2010,Jeju,Women,50-59,106
+2010,Outside of Korean Red Cross,Men,50-59,1823
+2010,Outside of Korean Red Cross,Women,50-59,426
+2011,Central Seoul,Men,50-59,
+2011,Central Seoul,Women,50-59,
+2011,Western Seoul,Men,50-59,4907
+2011,Western Seoul,Women,50-59,863
+2011,Southern Seoul,Men,50-59,3857
+2011,Southern Seoul,Women,50-59,664
+2011,Eastern Seoul,Men,50-59,5241
+2011,Eastern Seoul,Women,50-59,1109
+2011,Busan,Men,50-59,3448
+2011,Busan,Women,50-59,649
+2011,DaeguGyeongbuk,Men,50-59,3286
+2011,DaeguGyeongbuk,Women,50-59,560
+2011,Incheon,Men,50-59,3093
+2011,Incheon,Women,50-59,644
+2011,Ulsan,Men,50-59,1616
+2011,Ulsan,Women,50-59,143
+2011,Gyeonggi,Men,50-59,3578
+2011,Gyeonggi,Women,50-59,569
+2011,Gangwon,Men,50-59,1709
+2011,Gangwon,Women,50-59,284
+2011,Chungbuk,Men,50-59,1563
+2011,Chungbuk,Women,50-59,172
+2011,DaejeonChungnam,Men,50-59,3155
+2011,DaejeonChungnam,Women,50-59,282
+2011,Jeonbuk,Men,50-59,1631
+2011,Jeonbuk,Women,50-59,254
+2011,Jeonnam,Men,50-59,2935
+2011,Jeonnam,Women,50-59,587
+2011,Gyeongnam,Men,50-59,2165
+2011,Gyeongnam,Women,50-59,146
+2011,Jeju,Men,50-59,637
+2011,Jeju,Women,50-59,94
+2011,Outside of Korean Red Cross,Men,50-59,1949
+2011,Outside of Korean Red Cross,Women,50-59,469
+2012,Central Seoul,Men,50-59,
+2012,Central Seoul,Women,50-59,
+2012,Western Seoul,Men,50-59,5262
+2012,Western Seoul,Women,50-59,978
+2012,Southern Seoul,Men,50-59,4038
+2012,Southern Seoul,Women,50-59,804
+2012,Eastern Seoul,Men,50-59,5781
+2012,Eastern Seoul,Women,50-59,1354
+2012,Busan,Men,50-59,3631
+2012,Busan,Women,50-59,788
+2012,DaeguGyeongbuk,Men,50-59,3916
+2012,DaeguGyeongbuk,Women,50-59,674
+2012,Incheon,Men,50-59,3514
+2012,Incheon,Women,50-59,790
+2012,Ulsan,Men,50-59,1991
+2012,Ulsan,Women,50-59,255
+2012,Gyeonggi,Men,50-59,4426
+2012,Gyeonggi,Women,50-59,720
+2012,Gangwon,Men,50-59,1808
+2012,Gangwon,Women,50-59,358
+2012,Chungbuk,Men,50-59,1576
+2012,Chungbuk,Women,50-59,167
+2012,DaejeonChungnam,Men,50-59,3522
+2012,DaejeonChungnam,Women,50-59,336
+2012,Jeonbuk,Men,50-59,1720
+2012,Jeonbuk,Women,50-59,262
+2012,Jeonnam,Men,50-59,3169
+2012,Jeonnam,Women,50-59,586
+2012,Gyeongnam,Men,50-59,2313
+2012,Gyeongnam,Women,50-59,160
+2012,Jeju,Men,50-59,623
+2012,Jeju,Women,50-59,104
+2012,Outside of Korean Red Cross,Men,50-59,2559
+2012,Outside of Korean Red Cross,Women,50-59,545
+2013,Central Seoul,Men,50-59,
+2013,Central Seoul,Women,50-59,
+2013,Western Seoul,Men,50-59,6107
+2013,Western Seoul,Women,50-59,1048
+2013,Southern Seoul,Men,50-59,4525
+2013,Southern Seoul,Women,50-59,869
+2013,Eastern Seoul,Men,50-59,6112
+2013,Eastern Seoul,Women,50-59,1553
+2013,Busan,Men,50-59,4001
+2013,Busan,Women,50-59,890
+2013,DaeguGyeongbuk,Men,50-59,4255
+2013,DaeguGyeongbuk,Women,50-59,780
+2013,Incheon,Men,50-59,4103
+2013,Incheon,Women,50-59,813
+2013,Ulsan,Men,50-59,2271
+2013,Ulsan,Women,50-59,282
+2013,Gyeonggi,Men,50-59,5284
+2013,Gyeonggi,Women,50-59,763
+2013,Gangwon,Men,50-59,2041
+2013,Gangwon,Women,50-59,380
+2013,Chungbuk,Men,50-59,1611
+2013,Chungbuk,Women,50-59,197
+2013,DaejeonChungnam,Men,50-59,3795
+2013,DaejeonChungnam,Women,50-59,413
+2013,Jeonbuk,Men,50-59,1921
+2013,Jeonbuk,Women,50-59,292
+2013,Jeonnam,Men,50-59,3627
+2013,Jeonnam,Women,50-59,655
+2013,Gyeongnam,Men,50-59,2587
+2013,Gyeongnam,Women,50-59,183
+2013,Jeju,Men,50-59,664
+2013,Jeju,Women,50-59,128
+2013,Outside of Korean Red Cross,Men,50-59,2933
+2013,Outside of Korean Red Cross,Women,50-59,850
+2014,Central Seoul,Men,50-59,
+2014,Central Seoul,Women,50-59,
+2014,Western Seoul,Men,50-59,6895
+2014,Western Seoul,Women,50-59,1189
+2014,Southern Seoul,Men,50-59,4858
+2014,Southern Seoul,Women,50-59,958
+2014,Eastern Seoul,Men,50-59,6639
+2014,Eastern Seoul,Women,50-59,1835
+2014,Busan,Men,50-59,4656
+2014,Busan,Women,50-59,1115
+2014,DaeguGyeongbuk,Men,50-59,4983
+2014,DaeguGyeongbuk,Women,50-59,975
+2014,Incheon,Men,50-59,4468
+2014,Incheon,Women,50-59,887
+2014,Ulsan,Men,50-59,2610
+2014,Ulsan,Women,50-59,362
+2014,Gyeonggi,Men,50-59,6095
+2014,Gyeonggi,Women,50-59,1001
+2014,Gangwon,Men,50-59,2238
+2014,Gangwon,Women,50-59,545
+2014,Chungbuk,Men,50-59,1778
+2014,Chungbuk,Women,50-59,259
+2014,DaejeonChungnam,Men,50-59,4228
+2014,DaejeonChungnam,Women,50-59,560
+2014,Jeonbuk,Men,50-59,2092
+2014,Jeonbuk,Women,50-59,324
+2014,Jeonnam,Men,50-59,3859
+2014,Jeonnam,Women,50-59,691
+2014,Gyeongnam,Men,50-59,2936
+2014,Gyeongnam,Women,50-59,260
+2014,Jeju,Men,50-59,886
+2014,Jeju,Women,50-59,204
+2014,Outside of Korean Red Cross,Men,50-59,3313
+2014,Outside of Korean Red Cross,Women,50-59,926
+2015,Central Seoul,Men,50-59,
+2015,Central Seoul,Women,50-59,
+2015,Western Seoul,Men,50-59,8016
+2015,Western Seoul,Women,50-59,1658
+2015,Southern Seoul,Men,50-59,5414
+2015,Southern Seoul,Women,50-59,1136
+2015,Eastern Seoul,Men,50-59,7497
+2015,Eastern Seoul,Women,50-59,1910
+2015,Busan,Men,50-59,5126
+2015,Busan,Women,50-59,1349
+2015,DaeguGyeongbuk,Men,50-59,5685
+2015,DaeguGyeongbuk,Women,50-59,1230
+2015,Incheon,Men,50-59,4891
+2015,Incheon,Women,50-59,1053
+2015,Ulsan,Men,50-59,2923
+2015,Ulsan,Women,50-59,452
+2015,Gyeonggi,Men,50-59,6774
+2015,Gyeonggi,Women,50-59,1233
+2015,Gangwon,Men,50-59,2688
+2015,Gangwon,Women,50-59,595
+2015,Chungbuk,Men,50-59,1961
+2015,Chungbuk,Women,50-59,330
+2015,DaejeonChungnam,Men,50-59,5146
+2015,DaejeonChungnam,Women,50-59,799
+2015,Jeonbuk,Men,50-59,2326
+2015,Jeonbuk,Women,50-59,358
+2015,Jeonnam,Men,50-59,4695
+2015,Jeonnam,Women,50-59,842
+2015,Gyeongnam,Men,50-59,2920
+2015,Gyeongnam,Women,50-59,323
+2015,Jeju,Men,50-59,1054
+2015,Jeju,Women,50-59,240
+2015,Outside of Korean Red Cross,Men,50-59,3634
+2015,Outside of Korean Red Cross,Women,50-59,1009
+2016,Central Seoul,Men,50-59,
+2016,Central Seoul,Women,50-59,
+2016,Western Seoul,Men,50-59,8723
+2016,Western Seoul,Women,50-59,1944
+2016,Southern Seoul,Men,50-59,6331
+2016,Southern Seoul,Women,50-59,1633
+2016,Eastern Seoul,Men,50-59,8420
+2016,Eastern Seoul,Women,50-59,2306
+2016,Busan,Men,50-59,5758
+2016,Busan,Women,50-59,1632
+2016,DaeguGyeongbuk,Men,50-59,6440
+2016,DaeguGyeongbuk,Women,50-59,1294
+2016,Incheon,Men,50-59,5483
+2016,Incheon,Women,50-59,1258
+2016,Ulsan,Men,50-59,3170
+2016,Ulsan,Women,50-59,576
+2016,Gyeonggi,Men,50-59,7872
+2016,Gyeonggi,Women,50-59,1567
+2016,Gangwon,Men,50-59,3175
+2016,Gangwon,Women,50-59,651
+2016,Chungbuk,Men,50-59,2311
+2016,Chungbuk,Women,50-59,369
+2016,DaejeonChungnam,Men,50-59,6014
+2016,DaejeonChungnam,Women,50-59,1108
+2016,Jeonbuk,Men,50-59,2498
+2016,Jeonbuk,Women,50-59,439
+2016,Jeonnam,Men,50-59,5607
+2016,Jeonnam,Women,50-59,1063
+2016,Gyeongnam,Men,50-59,3710
+2016,Gyeongnam,Women,50-59,476
+2016,Jeju,Men,50-59,1093
+2016,Jeju,Women,50-59,274
+2016,Outside of Korean Red Cross,Men,50-59,4677
+2016,Outside of Korean Red Cross,Women,50-59,1398
+2017,Central Seoul,Men,50-59,
+2017,Central Seoul,Women,50-59,
+2017,Western Seoul,Men,50-59,9335
+2017,Western Seoul,Women,50-59,2269
+2017,Southern Seoul,Men,50-59,7518
+2017,Southern Seoul,Women,50-59,1937
+2017,Eastern Seoul,Men,50-59,9338
+2017,Eastern Seoul,Women,50-59,2662
+2017,Busan,Men,50-59,6989
+2017,Busan,Women,50-59,2071
+2017,DaeguGyeongbuk,Men,50-59,7599
+2017,DaeguGyeongbuk,Women,50-59,1686
+2017,Incheon,Men,50-59,6149
+2017,Incheon,Women,50-59,1608
+2017,Ulsan,Men,50-59,3428
+2017,Ulsan,Women,50-59,667
+2017,Gyeonggi,Men,50-59,8842
+2017,Gyeonggi,Women,50-59,1812
+2017,Gangwon,Men,50-59,3686
+2017,Gangwon,Women,50-59,808
+2017,Chungbuk,Men,50-59,2724
+2017,Chungbuk,Women,50-59,487
+2017,DaejeonChungnam,Men,50-59,6707
+2017,DaejeonChungnam,Women,50-59,1126
+2017,Jeonbuk,Men,50-59,2922
+2017,Jeonbuk,Women,50-59,470
+2017,Jeonnam,Men,50-59,6339
+2017,Jeonnam,Women,50-59,1205
+2017,Gyeongnam,Men,50-59,4002
+2017,Gyeongnam,Women,50-59,651
+2017,Jeju,Men,50-59,1394
+2017,Jeju,Women,50-59,338
+2017,Outside of Korean Red Cross,Men,50-59,5617
+2017,Outside of Korean Red Cross,Women,50-59,1541
+2018,Central Seoul,Men,50-59,10391
+2018,Central Seoul,Women,50-59,2561
+2018,Western Seoul,Men,50-59,
+2018,Western Seoul,Women,50-59,
+2018,Southern Seoul,Men,50-59,8307
+2018,Southern Seoul,Women,50-59,2238
+2018,Eastern Seoul,Men,50-59,11091
+2018,Eastern Seoul,Women,50-59,3345
+2018,Busan,Men,50-59,8071
+2018,Busan,Women,50-59,2626
+2018,DaeguGyeongbuk,Men,50-59,8710
+2018,DaeguGyeongbuk,Women,50-59,2090
+2018,Incheon,Men,50-59,7026
+2018,Incheon,Women,50-59,1833
+2018,Ulsan,Men,50-59,3966
+2018,Ulsan,Women,50-59,752
+2018,Gyeonggi,Men,50-59,10239
+2018,Gyeonggi,Women,50-59,2015
+2018,Gangwon,Men,50-59,4238
+2018,Gangwon,Women,50-59,930
+2018,Chungbuk,Men,50-59,3183
+2018,Chungbuk,Women,50-59,534
+2018,DaejeonChungnam,Men,50-59,7717
+2018,DaejeonChungnam,Women,50-59,1475
+2018,Jeonbuk,Men,50-59,3356
+2018,Jeonbuk,Women,50-59,591
+2018,Jeonnam,Men,50-59,6752
+2018,Jeonnam,Women,50-59,1432
+2018,Gyeongnam,Men,50-59,4563
+2018,Gyeongnam,Women,50-59,839
+2018,Jeju,Men,50-59,1385
+2018,Jeju,Women,50-59,306
+2018,Outside of Korean Red Cross,Men,50-59,6577
+2018,Outside of Korean Red Cross,Women,50-59,1794
+2019,Central Seoul,Men,50-59,11698
+2019,Central Seoul,Women,50-59,3272
+2019,Western Seoul,Men,50-59,
+2019,Western Seoul,Women,50-59,
+2019,Southern Seoul,Men,50-59,9657
+2019,Southern Seoul,Women,50-59,2689
+2019,Eastern Seoul,Men,50-59,12838
+2019,Eastern Seoul,Women,50-59,3981
+2019,Busan,Men,50-59,8933
+2019,Busan,Women,50-59,2967
+2019,DaeguGyeongbuk,Men,50-59,10072
+2019,DaeguGyeongbuk,Women,50-59,2721
+2019,Incheon,Men,50-59,8485
+2019,Incheon,Women,50-59,2465
+2019,Ulsan,Men,50-59,5377
+2019,Ulsan,Women,50-59,1057
+2019,Gyeonggi,Men,50-59,12283
+2019,Gyeonggi,Women,50-59,2721
+2019,Gangwon,Men,50-59,5132
+2019,Gangwon,Women,50-59,1131
+2019,Chungbuk,Men,50-59,3844
+2019,Chungbuk,Women,50-59,785
+2019,DaejeonChungnam,Men,50-59,9588
+2019,DaejeonChungnam,Women,50-59,2028
+2019,Jeonbuk,Men,50-59,3848
+2019,Jeonbuk,Women,50-59,755
+2019,Jeonnam,Men,50-59,7722
+2019,Jeonnam,Women,50-59,1741
+2019,Gyeongnam,Men,50-59,5224
+2019,Gyeongnam,Women,50-59,1074
+2019,Jeju,Men,50-59,1773
+2019,Jeju,Women,50-59,519
+2019,Outside of Korean Red Cross,Men,50-59,7465
+2019,Outside of Korean Red Cross,Women,50-59,1800
+2020,Central Seoul,Men,50-59,15143
+2020,Central Seoul,Women,50-59,4268
+2020,Western Seoul,Men,50-59,
+2020,Western Seoul,Women,50-59,
+2020,Southern Seoul,Men,50-59,12631
+2020,Southern Seoul,Women,50-59,2982
+2020,Eastern Seoul,Men,50-59,15949
+2020,Eastern Seoul,Women,50-59,4649
+2020,Busan,Men,50-59,11447
+2020,Busan,Women,50-59,3938
+2020,DaeguGyeongbuk,Men,50-59,13305
+2020,DaeguGyeongbuk,Women,50-59,4243
+2020,Incheon,Men,50-59,11844
+2020,Incheon,Women,50-59,3482
+2020,Ulsan,Men,50-59,8240
+2020,Ulsan,Women,50-59,1476
+2020,Gyeonggi,Men,50-59,18116
+2020,Gyeonggi,Women,50-59,4449
+2020,Gangwon,Men,50-59,7434
+2020,Gangwon,Women,50-59,1988
+2020,Chungbuk,Men,50-59,5864
+2020,Chungbuk,Women,50-59,1428
+2020,DaejeonChungnam,Men,50-59,14649
+2020,DaejeonChungnam,Women,50-59,3799
+2020,Jeonbuk,Men,50-59,5920
+2020,Jeonbuk,Women,50-59,1367
+2020,Jeonnam,Men,50-59,11416
+2020,Jeonnam,Women,50-59,3130
+2020,Gyeongnam,Men,50-59,7960
+2020,Gyeongnam,Women,50-59,1968
+2020,Jeju,Men,50-59,2960
+2020,Jeju,Women,50-59,953
+2020,Outside of Korean Red Cross,Men,50-59,11932
+2020,Outside of Korean Red Cross,Women,50-59,3292
+2021,Central Seoul,Men,50-59,15839
+2021,Central Seoul,Women,50-59,4713
+2021,Western Seoul,Men,50-59,
+2021,Western Seoul,Women,50-59,
+2021,Southern Seoul,Men,50-59,13111
+2021,Southern Seoul,Women,50-59,3529
+2021,Eastern Seoul,Men,50-59,17390
+2021,Eastern Seoul,Women,50-59,5632
+2021,Busan,Men,50-59,11734
+2021,Busan,Women,50-59,4265
+2021,DaeguGyeongbuk,Men,50-59,14609
+2021,DaeguGyeongbuk,Women,50-59,4816
+2021,Incheon,Men,50-59,12696
+2021,Incheon,Women,50-59,4199
+2021,Ulsan,Men,50-59,8040
+2021,Ulsan,Women,50-59,1778
+2021,Gyeonggi,Men,50-59,19213
+2021,Gyeonggi,Women,50-59,4867
+2021,Gangwon,Men,50-59,7664
+2021,Gangwon,Women,50-59,1929
+2021,Chungbuk,Men,50-59,5899
+2021,Chungbuk,Women,50-59,1444
+2021,DaejeonChungnam,Men,50-59,14942
+2021,DaejeonChungnam,Women,50-59,3628
+2021,Jeonbuk,Men,50-59,5963
+2021,Jeonbuk,Women,50-59,1359
+2021,Jeonnam,Men,50-59,11934
+2021,Jeonnam,Women,50-59,3180
+2021,Gyeongnam,Men,50-59,7857
+2021,Gyeongnam,Women,50-59,1923
+2021,Jeju,Men,50-59,3166
+2021,Jeju,Women,50-59,1087
+2021,Outside of Korean Red Cross,Men,50-59,13327
+2021,Outside of Korean Red Cross,Women,50-59,3990
+2022,Central Seoul,Men,50-59,16412
+2022,Central Seoul,Women,50-59,5803
+2022,Western Seoul,Men,50-59,
+2022,Western Seoul,Women,50-59,
+2022,Southern Seoul,Men,50-59,13514
+2022,Southern Seoul,Women,50-59,4455
+2022,Eastern Seoul,Men,50-59,19509
+2022,Eastern Seoul,Women,50-59,7593
+2022,Busan,Men,50-59,12315
+2022,Busan,Women,50-59,5514
+2022,DaeguGyeongbuk,Men,50-59,14422
+2022,DaeguGyeongbuk,Women,50-59,5601
+2022,Incheon,Men,50-59,13499
+2022,Incheon,Women,50-59,5483
+2022,Ulsan,Men,50-59,7568
+2022,Ulsan,Women,50-59,2323
+2022,Gyeonggi,Men,50-59,18847
+2022,Gyeonggi,Women,50-59,5593
+2022,Gangwon,Men,50-59,7817
+2022,Gangwon,Women,50-59,2654
+2022,Chungbuk,Men,50-59,5695
+2022,Chungbuk,Women,50-59,2116
+2022,DaejeonChungnam,Men,50-59,15789
+2022,DaejeonChungnam,Women,50-59,5388
+2022,Jeonbuk,Men,50-59,5994
+2022,Jeonbuk,Women,50-59,2198
+2022,Jeonnam,Men,50-59,12716
+2022,Jeonnam,Women,50-59,5798
+2022,Gyeongnam,Men,50-59,8727
+2022,Gyeongnam,Women,50-59,2957
+2022,Jeju,Men,50-59,3550
+2022,Jeju,Women,50-59,1282
+2022,Outside of Korean Red Cross,Men,50-59,16520
+2022,Outside of Korean Red Cross,Women,50-59,5268
+2023,Central Seoul,Men,50-59,17300
+2023,Central Seoul,Women,50-59,5904
+2023,Western Seoul,Men,50-59,
+2023,Western Seoul,Women,50-59,
+2023,Southern Seoul,Men,50-59,14656
+2023,Southern Seoul,Women,50-59,4365
+2023,Eastern Seoul,Men,50-59,20762
+2023,Eastern Seoul,Women,50-59,8204
+2023,Busan,Men,50-59,12435
+2023,Busan,Women,50-59,5387
+2023,DaeguGyeongbuk,Men,50-59,14978
+2023,DaeguGyeongbuk,Women,50-59,4973
+2023,Incheon,Men,50-59,13825
+2023,Incheon,Women,50-59,5097
+2023,Ulsan,Men,50-59,8786
+2023,Ulsan,Women,50-59,2385
+2023,Gyeonggi,Men,50-59,19524
+2023,Gyeonggi,Women,50-59,5164
+2023,Gangwon,Men,50-59,8061
+2023,Gangwon,Women,50-59,2676
+2023,Chungbuk,Men,50-59,5493
+2023,Chungbuk,Women,50-59,1776
+2023,DaejeonChungnam,Men,50-59,16189
+2023,DaejeonChungnam,Women,50-59,5130
+2023,Jeonbuk,Men,50-59,6561
+2023,Jeonbuk,Women,50-59,2211
+2023,Jeonnam,Men,50-59,12560
+2023,Jeonnam,Women,50-59,4786
+2023,Gyeongnam,Men,50-59,9064
+2023,Gyeongnam,Women,50-59,2762
+2023,Jeju,Men,50-59,4078
+2023,Jeju,Women,50-59,1580
+2023,Outside of Korean Red Cross,Men,50-59,19369
+2023,Outside of Korean Red Cross,Women,50-59,6019
+2005,Central Seoul,Men,over60,186
+2005,Central Seoul,Women,over60,23
+2005,Western Seoul,Men,over60,108
+2005,Western Seoul,Women,over60,7
+2005,Southern Seoul,Men,over60,217
+2005,Southern Seoul,Women,over60,26
+2005,Eastern Seoul,Men,over60,192
+2005,Eastern Seoul,Women,over60,28
+2005,Busan,Men,over60,149
+2005,Busan,Women,over60,18
+2005,DaeguGyeongbuk,Men,over60,110
+2005,DaeguGyeongbuk,Women,over60,33
+2005,Incheon,Men,over60,68
+2005,Incheon,Women,over60,5
+2005,Ulsan,Men,over60,22
+2005,Ulsan,Women,over60,2
+2005,Gyeonggi,Men,over60,64
+2005,Gyeonggi,Women,over60,18
+2005,Gangwon,Men,over60,57
+2005,Gangwon,Women,over60,8
+2005,Chungbuk,Men,over60,49
+2005,Chungbuk,Women,over60,1
+2005,DaejeonChungnam,Men,over60,173
+2005,DaejeonChungnam,Women,over60,18
+2005,Jeonbuk,Men,over60,37
+2005,Jeonbuk,Women,over60,3
+2005,Jeonnam,Men,over60,116
+2005,Jeonnam,Women,over60,30
+2005,Gyeongnam,Men,over60,35
+2005,Gyeongnam,Women,over60,2
+2005,Jeju,Men,over60,31
+2005,Jeju,Women,over60,
+2005,Outside of Korean Red Cross,Men,over60,30
+2005,Outside of Korean Red Cross,Women,over60,6
+2006,Central Seoul,Men,over60,189
+2006,Central Seoul,Women,over60,18
+2006,Western Seoul,Men,over60,152
+2006,Western Seoul,Women,over60,15
+2006,Southern Seoul,Men,over60,299
+2006,Southern Seoul,Women,over60,22
+2006,Eastern Seoul,Men,over60,258
+2006,Eastern Seoul,Women,over60,21
+2006,Busan,Men,over60,183
+2006,Busan,Women,over60,13
+2006,DaeguGyeongbuk,Men,over60,113
+2006,DaeguGyeongbuk,Women,over60,18
+2006,Incheon,Men,over60,63
+2006,Incheon,Women,over60,14
+2006,Ulsan,Men,over60,46
+2006,Ulsan,Women,over60,2
+2006,Gyeonggi,Men,over60,87
+2006,Gyeonggi,Women,over60,17
+2006,Gangwon,Men,over60,58
+2006,Gangwon,Women,over60,3
+2006,Chungbuk,Men,over60,49
+2006,Chungbuk,Women,over60,
+2006,DaejeonChungnam,Men,over60,168
+2006,DaejeonChungnam,Women,over60,22
+2006,Jeonbuk,Men,over60,56
+2006,Jeonbuk,Women,over60,4
+2006,Jeonnam,Men,over60,129
+2006,Jeonnam,Women,over60,21
+2006,Gyeongnam,Men,over60,35
+2006,Gyeongnam,Women,over60,3
+2006,Jeju,Men,over60,37
+2006,Jeju,Women,over60,6
+2006,Outside of Korean Red Cross,Men,over60,39
+2006,Outside of Korean Red Cross,Women,over60,6
+2007,Central Seoul,Men,over60,206
+2007,Central Seoul,Women,over60,26
+2007,Western Seoul,Men,over60,225
+2007,Western Seoul,Women,over60,20
+2007,Southern Seoul,Men,over60,283
+2007,Southern Seoul,Women,over60,25
+2007,Eastern Seoul,Men,over60,191
+2007,Eastern Seoul,Women,over60,17
+2007,Busan,Men,over60,231
+2007,Busan,Women,over60,16
+2007,DaeguGyeongbuk,Men,over60,144
+2007,DaeguGyeongbuk,Women,over60,21
+2007,Incheon,Men,over60,70
+2007,Incheon,Women,over60,3
+2007,Ulsan,Men,over60,46
+2007,Ulsan,Women,over60,2
+2007,Gyeonggi,Men,over60,141
+2007,Gyeonggi,Women,over60,28
+2007,Gangwon,Men,over60,80
+2007,Gangwon,Women,over60,4
+2007,Chungbuk,Men,over60,88
+2007,Chungbuk,Women,over60,1
+2007,DaejeonChungnam,Men,over60,144
+2007,DaejeonChungnam,Women,over60,20
+2007,Jeonbuk,Men,over60,50
+2007,Jeonbuk,Women,over60,5
+2007,Jeonnam,Men,over60,125
+2007,Jeonnam,Women,over60,16
+2007,Gyeongnam,Men,over60,16
+2007,Gyeongnam,Women,over60,2
+2007,Jeju,Men,over60,49
+2007,Jeju,Women,over60,
+2007,Outside of Korean Red Cross,Men,over60,50
+2007,Outside of Korean Red Cross,Women,over60,8
+2008,Central Seoul,Men,over60,316
+2008,Central Seoul,Women,over60,35
+2008,Western Seoul,Men,over60,380
+2008,Western Seoul,Women,over60,30
+2008,Southern Seoul,Men,over60,379
+2008,Southern Seoul,Women,over60,44
+2008,Eastern Seoul,Men,over60,214
+2008,Eastern Seoul,Women,over60,44
+2008,Busan,Men,over60,227
+2008,Busan,Women,over60,26
+2008,DaeguGyeongbuk,Men,over60,199
+2008,DaeguGyeongbuk,Women,over60,25
+2008,Incheon,Men,over60,131
+2008,Incheon,Women,over60,14
+2008,Ulsan,Men,over60,59
+2008,Ulsan,Women,over60,2
+2008,Gyeonggi,Men,over60,202
+2008,Gyeonggi,Women,over60,32
+2008,Gangwon,Men,over60,100
+2008,Gangwon,Women,over60,10
+2008,Chungbuk,Men,over60,81
+2008,Chungbuk,Women,over60,3
+2008,DaejeonChungnam,Men,over60,240
+2008,DaejeonChungnam,Women,over60,23
+2008,Jeonbuk,Men,over60,98
+2008,Jeonbuk,Women,over60,3
+2008,Jeonnam,Men,over60,159
+2008,Jeonnam,Women,over60,7
+2008,Gyeongnam,Men,over60,38
+2008,Gyeongnam,Women,over60,1
+2008,Jeju,Men,over60,53
+2008,Jeju,Women,over60,6
+2008,Outside of Korean Red Cross,Men,over60,86
+2008,Outside of Korean Red Cross,Women,over60,5
+2009,Central Seoul,Men,over60,435
+2009,Central Seoul,Women,over60,85
+2009,Western Seoul,Men,over60,371
+2009,Western Seoul,Women,over60,48
+2009,Southern Seoul,Men,over60,411
+2009,Southern Seoul,Women,over60,51
+2009,Eastern Seoul,Men,over60,287
+2009,Eastern Seoul,Women,over60,44
+2009,Busan,Men,over60,220
+2009,Busan,Women,over60,58
+2009,DaeguGyeongbuk,Men,over60,244
+2009,DaeguGyeongbuk,Women,over60,35
+2009,Incheon,Men,over60,184
+2009,Incheon,Women,over60,27
+2009,Ulsan,Men,over60,113
+2009,Ulsan,Women,over60,
+2009,Gyeonggi,Men,over60,225
+2009,Gyeonggi,Women,over60,40
+2009,Gangwon,Men,over60,112
+2009,Gangwon,Women,over60,12
+2009,Chungbuk,Men,over60,92
+2009,Chungbuk,Women,over60,5
+2009,DaejeonChungnam,Men,over60,317
+2009,DaejeonChungnam,Women,over60,27
+2009,Jeonbuk,Men,over60,147
+2009,Jeonbuk,Women,over60,2
+2009,Jeonnam,Men,over60,197
+2009,Jeonnam,Women,over60,5
+2009,Gyeongnam,Men,over60,54
+2009,Gyeongnam,Women,over60,2
+2009,Jeju,Men,over60,71
+2009,Jeju,Women,over60,22
+2009,Outside of Korean Red Cross,Men,over60,101
+2009,Outside of Korean Red Cross,Women,over60,8
+2010,Central Seoul,Men,over60,628
+2010,Central Seoul,Women,over60,104
+2010,Western Seoul,Men,over60,212
+2010,Western Seoul,Women,over60,24
+2010,Southern Seoul,Men,over60,498
+2010,Southern Seoul,Women,over60,57
+2010,Eastern Seoul,Men,over60,583
+2010,Eastern Seoul,Women,over60,67
+2010,Busan,Men,over60,312
+2010,Busan,Women,over60,85
+2010,DaeguGyeongbuk,Men,over60,346
+2010,DaeguGyeongbuk,Women,over60,49
+2010,Incheon,Men,over60,242
+2010,Incheon,Women,over60,27
+2010,Ulsan,Men,over60,109
+2010,Ulsan,Women,over60,13
+2010,Gyeonggi,Men,over60,321
+2010,Gyeonggi,Women,over60,43
+2010,Gangwon,Men,over60,180
+2010,Gangwon,Women,over60,10
+2010,Chungbuk,Men,over60,120
+2010,Chungbuk,Women,over60,12
+2010,DaejeonChungnam,Men,over60,397
+2010,DaejeonChungnam,Women,over60,33
+2010,Jeonbuk,Men,over60,194
+2010,Jeonbuk,Women,over60,7
+2010,Jeonnam,Men,over60,214
+2010,Jeonnam,Women,over60,7
+2010,Gyeongnam,Men,over60,108
+2010,Gyeongnam,Women,over60,3
+2010,Jeju,Men,over60,79
+2010,Jeju,Women,over60,26
+2010,Outside of Korean Red Cross,Men,over60,206
+2010,Outside of Korean Red Cross,Women,over60,12
+2011,Central Seoul,Men,over60,
+2011,Central Seoul,Women,over60,
+2011,Western Seoul,Men,over60,724
+2011,Western Seoul,Women,over60,108
+2011,Southern Seoul,Men,over60,645
+2011,Southern Seoul,Women,over60,61
+2011,Eastern Seoul,Men,over60,797
+2011,Eastern Seoul,Women,over60,95
+2011,Busan,Men,over60,324
+2011,Busan,Women,over60,76
+2011,DaeguGyeongbuk,Men,over60,393
+2011,DaeguGyeongbuk,Women,over60,68
+2011,Incheon,Men,over60,311
+2011,Incheon,Women,over60,40
+2011,Ulsan,Men,over60,144
+2011,Ulsan,Women,over60,10
+2011,Gyeonggi,Men,over60,397
+2011,Gyeonggi,Women,over60,49
+2011,Gangwon,Men,over60,271
+2011,Gangwon,Women,over60,22
+2011,Chungbuk,Men,over60,177
+2011,Chungbuk,Women,over60,4
+2011,DaejeonChungnam,Men,over60,383
+2011,DaejeonChungnam,Women,over60,33
+2011,Jeonbuk,Men,over60,214
+2011,Jeonbuk,Women,over60,16
+2011,Jeonnam,Men,over60,248
+2011,Jeonnam,Women,over60,18
+2011,Gyeongnam,Men,over60,109
+2011,Gyeongnam,Women,over60,3
+2011,Jeju,Men,over60,86
+2011,Jeju,Women,over60,28
+2011,Outside of Korean Red Cross,Men,over60,219
+2011,Outside of Korean Red Cross,Women,over60,21
+2012,Central Seoul,Men,over60,
+2012,Central Seoul,Women,over60,
+2012,Western Seoul,Men,over60,823
+2012,Western Seoul,Women,over60,122
+2012,Southern Seoul,Men,over60,730
+2012,Southern Seoul,Women,over60,130
+2012,Eastern Seoul,Men,over60,1005
+2012,Eastern Seoul,Women,over60,129
+2012,Busan,Men,over60,374
+2012,Busan,Women,over60,110
+2012,DaeguGyeongbuk,Men,over60,438
+2012,DaeguGyeongbuk,Women,over60,70
+2012,Incheon,Men,over60,405
+2012,Incheon,Women,over60,78
+2012,Ulsan,Men,over60,180
+2012,Ulsan,Women,over60,10
+2012,Gyeonggi,Men,over60,487
+2012,Gyeonggi,Women,over60,67
+2012,Gangwon,Men,over60,313
+2012,Gangwon,Women,over60,22
+2012,Chungbuk,Men,over60,260
+2012,Chungbuk,Women,over60,11
+2012,DaejeonChungnam,Men,over60,472
+2012,DaejeonChungnam,Women,over60,47
+2012,Jeonbuk,Men,over60,203
+2012,Jeonbuk,Women,over60,14
+2012,Jeonnam,Men,over60,263
+2012,Jeonnam,Women,over60,27
+2012,Gyeongnam,Men,over60,116
+2012,Gyeongnam,Women,over60,14
+2012,Jeju,Men,over60,86
+2012,Jeju,Women,over60,17
+2012,Outside of Korean Red Cross,Men,over60,282
+2012,Outside of Korean Red Cross,Women,over60,33
+2013,Central Seoul,Men,over60,
+2013,Central Seoul,Women,over60,
+2013,Western Seoul,Men,over60,1055
+2013,Western Seoul,Women,over60,182
+2013,Southern Seoul,Men,over60,861
+2013,Southern Seoul,Women,over60,141
+2013,Eastern Seoul,Men,over60,1283
+2013,Eastern Seoul,Women,over60,175
+2013,Busan,Men,over60,525
+2013,Busan,Women,over60,142
+2013,DaeguGyeongbuk,Men,over60,528
+2013,DaeguGyeongbuk,Women,over60,69
+2013,Incheon,Men,over60,491
+2013,Incheon,Women,over60,104
+2013,Ulsan,Men,over60,216
+2013,Ulsan,Women,over60,23
+2013,Gyeonggi,Men,over60,681
+2013,Gyeonggi,Women,over60,83
+2013,Gangwon,Men,over60,343
+2013,Gangwon,Women,over60,41
+2013,Chungbuk,Men,over60,257
+2013,Chungbuk,Women,over60,10
+2013,DaejeonChungnam,Men,over60,498
+2013,DaejeonChungnam,Women,over60,40
+2013,Jeonbuk,Men,over60,274
+2013,Jeonbuk,Women,over60,16
+2013,Jeonnam,Men,over60,302
+2013,Jeonnam,Women,over60,30
+2013,Gyeongnam,Men,over60,190
+2013,Gyeongnam,Women,over60,9
+2013,Jeju,Men,over60,162
+2013,Jeju,Women,over60,27
+2013,Outside of Korean Red Cross,Men,over60,312
+2013,Outside of Korean Red Cross,Women,over60,72
+2014,Central Seoul,Men,over60,
+2014,Central Seoul,Women,over60,
+2014,Western Seoul,Men,over60,1278
+2014,Western Seoul,Women,over60,169
+2014,Southern Seoul,Men,over60,988
+2014,Southern Seoul,Women,over60,161
+2014,Eastern Seoul,Men,over60,1507
+2014,Eastern Seoul,Women,over60,209
+2014,Busan,Men,over60,661
+2014,Busan,Women,over60,157
+2014,DaeguGyeongbuk,Men,over60,630
+2014,DaeguGyeongbuk,Women,over60,86
+2014,Incheon,Men,over60,513
+2014,Incheon,Women,over60,126
+2014,Ulsan,Men,over60,233
+2014,Ulsan,Women,over60,23
+2014,Gyeonggi,Men,over60,807
+2014,Gyeonggi,Women,over60,157
+2014,Gangwon,Men,over60,404
+2014,Gangwon,Women,over60,35
+2014,Chungbuk,Men,over60,302
+2014,Chungbuk,Women,over60,22
+2014,DaejeonChungnam,Men,over60,593
+2014,DaejeonChungnam,Women,over60,51
+2014,Jeonbuk,Men,over60,340
+2014,Jeonbuk,Women,over60,24
+2014,Jeonnam,Men,over60,327
+2014,Jeonnam,Women,over60,26
+2014,Gyeongnam,Men,over60,272
+2014,Gyeongnam,Women,over60,15
+2014,Jeju,Men,over60,206
+2014,Jeju,Women,over60,48
+2014,Outside of Korean Red Cross,Men,over60,399
+2014,Outside of Korean Red Cross,Women,over60,87
+2015,Central Seoul,Men,over60,
+2015,Central Seoul,Women,over60,
+2015,Western Seoul,Men,over60,1601
+2015,Western Seoul,Women,over60,272
+2015,Southern Seoul,Men,over60,1059
+2015,Southern Seoul,Women,over60,199
+2015,Eastern Seoul,Men,over60,1917
+2015,Eastern Seoul,Women,over60,291
+2015,Busan,Men,over60,883
+2015,Busan,Women,over60,219
+2015,DaeguGyeongbuk,Men,over60,788
+2015,DaeguGyeongbuk,Women,over60,156
+2015,Incheon,Men,over60,677
+2015,Incheon,Women,over60,150
+2015,Ulsan,Men,over60,363
+2015,Ulsan,Women,over60,43
+2015,Gyeonggi,Men,over60,937
+2015,Gyeonggi,Women,over60,154
+2015,Gangwon,Men,over60,461
+2015,Gangwon,Women,over60,34
+2015,Chungbuk,Men,over60,384
+2015,Chungbuk,Women,over60,16
+2015,DaejeonChungnam,Men,over60,743
+2015,DaejeonChungnam,Women,over60,58
+2015,Jeonbuk,Men,over60,368
+2015,Jeonbuk,Women,over60,35
+2015,Jeonnam,Men,over60,422
+2015,Jeonnam,Women,over60,43
+2015,Gyeongnam,Men,over60,294
+2015,Gyeongnam,Women,over60,12
+2015,Jeju,Men,over60,219
+2015,Jeju,Women,over60,56
+2015,Outside of Korean Red Cross,Men,over60,592
+2015,Outside of Korean Red Cross,Women,over60,131
+2016,Central Seoul,Men,over60,
+2016,Central Seoul,Women,over60,
+2016,Western Seoul,Men,over60,1816
+2016,Western Seoul,Women,over60,281
+2016,Southern Seoul,Men,over60,1342
+2016,Southern Seoul,Women,over60,286
+2016,Eastern Seoul,Men,over60,2185
+2016,Eastern Seoul,Women,over60,326
+2016,Busan,Men,over60,1117
+2016,Busan,Women,over60,264
+2016,DaeguGyeongbuk,Men,over60,940
+2016,DaeguGyeongbuk,Women,over60,143
+2016,Incheon,Men,over60,926
+2016,Incheon,Women,over60,182
+2016,Ulsan,Men,over60,405
+2016,Ulsan,Women,over60,53
+2016,Gyeonggi,Men,over60,1204
+2016,Gyeonggi,Women,over60,195
+2016,Gangwon,Men,over60,605
+2016,Gangwon,Women,over60,60
+2016,Chungbuk,Men,over60,456
+2016,Chungbuk,Women,over60,46
+2016,DaejeonChungnam,Men,over60,801
+2016,DaejeonChungnam,Women,over60,97
+2016,Jeonbuk,Men,over60,403
+2016,Jeonbuk,Women,over60,34
+2016,Jeonnam,Men,over60,589
+2016,Jeonnam,Women,over60,80
+2016,Gyeongnam,Men,over60,317
+2016,Gyeongnam,Women,over60,34
+2016,Jeju,Men,over60,238
+2016,Jeju,Women,over60,56
+2016,Outside of Korean Red Cross,Men,over60,731
+2016,Outside of Korean Red Cross,Women,over60,191
+2017,Central Seoul,Men,over60,
+2017,Central Seoul,Women,over60,
+2017,Western Seoul,Men,over60,2063
+2017,Western Seoul,Women,over60,324
+2017,Southern Seoul,Men,over60,1622
+2017,Southern Seoul,Women,over60,410
+2017,Eastern Seoul,Men,over60,2375
+2017,Eastern Seoul,Women,over60,422
+2017,Busan,Men,over60,1493
+2017,Busan,Women,over60,395
+2017,DaeguGyeongbuk,Men,over60,1162
+2017,DaeguGyeongbuk,Women,over60,151
+2017,Incheon,Men,over60,1119
+2017,Incheon,Women,over60,260
+2017,Ulsan,Men,over60,448
+2017,Ulsan,Women,over60,58
+2017,Gyeonggi,Men,over60,1334
+2017,Gyeonggi,Women,over60,274
+2017,Gangwon,Men,over60,739
+2017,Gangwon,Women,over60,67
+2017,Chungbuk,Men,over60,488
+2017,Chungbuk,Women,over60,46
+2017,DaejeonChungnam,Men,over60,1014
+2017,DaejeonChungnam,Women,over60,136
+2017,Jeonbuk,Men,over60,451
+2017,Jeonbuk,Women,over60,41
+2017,Jeonnam,Men,over60,871
+2017,Jeonnam,Women,over60,159
+2017,Gyeongnam,Men,over60,391
+2017,Gyeongnam,Women,over60,44
+2017,Jeju,Men,over60,243
+2017,Jeju,Women,over60,42
+2017,Outside of Korean Red Cross,Men,over60,919
+2017,Outside of Korean Red Cross,Women,over60,229
+2018,Central Seoul,Men,over60,2316
+2018,Central Seoul,Women,over60,462
+2018,Western Seoul,Men,over60,
+2018,Western Seoul,Women,over60,
+2018,Southern Seoul,Men,over60,1899
+2018,Southern Seoul,Women,over60,382
+2018,Eastern Seoul,Men,over60,2651
+2018,Eastern Seoul,Women,over60,576
+2018,Busan,Men,over60,1726
+2018,Busan,Women,over60,532
+2018,DaeguGyeongbuk,Men,over60,1401
+2018,DaeguGyeongbuk,Women,over60,192
+2018,Incheon,Men,over60,1349
+2018,Incheon,Women,over60,307
+2018,Ulsan,Men,over60,560
+2018,Ulsan,Women,over60,103
+2018,Gyeonggi,Men,over60,1507
+2018,Gyeonggi,Women,over60,294
+2018,Gangwon,Men,over60,872
+2018,Gangwon,Women,over60,97
+2018,Chungbuk,Men,over60,525
+2018,Chungbuk,Women,over60,102
+2018,DaejeonChungnam,Men,over60,1199
+2018,DaejeonChungnam,Women,over60,185
+2018,Jeonbuk,Men,over60,429
+2018,Jeonbuk,Women,over60,61
+2018,Jeonnam,Men,over60,944
+2018,Jeonnam,Women,over60,195
+2018,Gyeongnam,Men,over60,566
+2018,Gyeongnam,Women,over60,98
+2018,Jeju,Men,over60,244
+2018,Jeju,Women,over60,32
+2018,Outside of Korean Red Cross,Men,over60,981
+2018,Outside of Korean Red Cross,Women,over60,267
+2019,Central Seoul,Men,over60,2795
+2019,Central Seoul,Women,over60,588
+2019,Western Seoul,Men,over60,
+2019,Western Seoul,Women,over60,
+2019,Southern Seoul,Men,over60,2096
+2019,Southern Seoul,Women,over60,517
+2019,Eastern Seoul,Men,over60,2911
+2019,Eastern Seoul,Women,over60,738
+2019,Busan,Men,over60,1947
+2019,Busan,Women,over60,602
+2019,DaeguGyeongbuk,Men,over60,1625
+2019,DaeguGyeongbuk,Women,over60,294
+2019,Incheon,Men,over60,1629
+2019,Incheon,Women,over60,426
+2019,Ulsan,Men,over60,771
+2019,Ulsan,Women,over60,137
+2019,Gyeonggi,Men,over60,1929
+2019,Gyeonggi,Women,over60,424
+2019,Gangwon,Men,over60,985
+2019,Gangwon,Women,over60,152
+2019,Chungbuk,Men,over60,621
+2019,Chungbuk,Women,over60,115
+2019,DaejeonChungnam,Men,over60,1437
+2019,DaejeonChungnam,Women,over60,233
+2019,Jeonbuk,Men,over60,518
+2019,Jeonbuk,Women,over60,94
+2019,Jeonnam,Men,over60,1374
+2019,Jeonnam,Women,over60,283
+2019,Gyeongnam,Men,over60,791
+2019,Gyeongnam,Women,over60,105
+2019,Jeju,Men,over60,316
+2019,Jeju,Women,over60,42
+2019,Outside of Korean Red Cross,Men,over60,1130
+2019,Outside of Korean Red Cross,Women,over60,263
+2020,Central Seoul,Men,over60,3228
+2020,Central Seoul,Women,over60,745
+2020,Western Seoul,Men,over60,
+2020,Western Seoul,Women,over60,
+2020,Southern Seoul,Men,over60,2262
+2020,Southern Seoul,Women,over60,642
+2020,Eastern Seoul,Men,over60,3310
+2020,Eastern Seoul,Women,over60,867
+2020,Busan,Men,over60,2444
+2020,Busan,Women,over60,702
+2020,DaeguGyeongbuk,Men,over60,2128
+2020,DaeguGyeongbuk,Women,over60,574
+2020,Incheon,Men,over60,2325
+2020,Incheon,Women,over60,526
+2020,Ulsan,Men,over60,1128
+2020,Ulsan,Women,over60,206
+2020,Gyeonggi,Men,over60,2862
+2020,Gyeonggi,Women,over60,740
+2020,Gangwon,Men,over60,1517
+2020,Gangwon,Women,over60,298
+2020,Chungbuk,Men,over60,995
+2020,Chungbuk,Women,over60,182
+2020,DaejeonChungnam,Men,over60,2292
+2020,DaejeonChungnam,Women,over60,407
+2020,Jeonbuk,Men,over60,802
+2020,Jeonbuk,Women,over60,173
+2020,Jeonnam,Men,over60,1927
+2020,Jeonnam,Women,over60,363
+2020,Gyeongnam,Men,over60,1148
+2020,Gyeongnam,Women,over60,167
+2020,Jeju,Men,over60,496
+2020,Jeju,Women,over60,70
+2020,Outside of Korean Red Cross,Men,over60,1569
+2020,Outside of Korean Red Cross,Women,over60,361
+2021,Central Seoul,Men,over60,3597
+2021,Central Seoul,Women,over60,798
+2021,Western Seoul,Men,over60,
+2021,Western Seoul,Women,over60,
+2021,Southern Seoul,Men,over60,2430
+2021,Southern Seoul,Women,over60,747
+2021,Eastern Seoul,Men,over60,3794
+2021,Eastern Seoul,Women,over60,1056
+2021,Busan,Men,over60,2736
+2021,Busan,Women,over60,801
+2021,DaeguGyeongbuk,Men,over60,2540
+2021,DaeguGyeongbuk,Women,over60,691
+2021,Incheon,Men,over60,2765
+2021,Incheon,Women,over60,710
+2021,Ulsan,Men,over60,1494
+2021,Ulsan,Women,over60,236
+2021,Gyeonggi,Men,over60,3174
+2021,Gyeonggi,Women,over60,751
+2021,Gangwon,Men,over60,1634
+2021,Gangwon,Women,over60,325
+2021,Chungbuk,Men,over60,1150
+2021,Chungbuk,Women,over60,269
+2021,DaejeonChungnam,Men,over60,2459
+2021,DaejeonChungnam,Women,over60,474
+2021,Jeonbuk,Men,over60,965
+2021,Jeonbuk,Women,over60,192
+2021,Jeonnam,Men,over60,1951
+2021,Jeonnam,Women,over60,390
+2021,Gyeongnam,Men,over60,1215
+2021,Gyeongnam,Women,over60,200
+2021,Jeju,Men,over60,620
+2021,Jeju,Women,over60,84
+2021,Outside of Korean Red Cross,Men,over60,1877
+2021,Outside of Korean Red Cross,Women,over60,536
+2022,Central Seoul,Men,over60,3795
+2022,Central Seoul,Women,over60,1159
+2022,Western Seoul,Men,over60,
+2022,Western Seoul,Women,over60,
+2022,Southern Seoul,Men,over60,2684
+2022,Southern Seoul,Women,over60,1061
+2022,Eastern Seoul,Men,over60,4411
+2022,Eastern Seoul,Women,over60,1544
+2022,Busan,Men,over60,3096
+2022,Busan,Women,over60,1224
+2022,DaeguGyeongbuk,Men,over60,2616
+2022,DaeguGyeongbuk,Women,over60,911
+2022,Incheon,Men,over60,3035
+2022,Incheon,Women,over60,1033
+2022,Ulsan,Men,over60,1494
+2022,Ulsan,Women,over60,389
+2022,Gyeonggi,Men,over60,3429
+2022,Gyeonggi,Women,over60,1055
+2022,Gangwon,Men,over60,1652
+2022,Gangwon,Women,over60,420
+2022,Chungbuk,Men,over60,1213
+2022,Chungbuk,Women,over60,382
+2022,DaejeonChungnam,Men,over60,2797
+2022,DaejeonChungnam,Women,over60,777
+2022,Jeonbuk,Men,over60,1112
+2022,Jeonbuk,Women,over60,407
+2022,Jeonnam,Men,over60,2433
+2022,Jeonnam,Women,over60,822
+2022,Gyeongnam,Men,over60,1439
+2022,Gyeongnam,Women,over60,398
+2022,Jeju,Men,over60,717
+2022,Jeju,Women,over60,151
+2022,Outside of Korean Red Cross,Men,over60,2461
+2022,Outside of Korean Red Cross,Women,over60,703
+2023,Central Seoul,Men,over60,4041
+2023,Central Seoul,Women,over60,1029
+2023,Western Seoul,Men,over60,
+2023,Western Seoul,Women,over60,
+2023,Southern Seoul,Men,over60,3105
+2023,Southern Seoul,Women,over60,910
+2023,Eastern Seoul,Men,over60,4673
+2023,Eastern Seoul,Women,over60,1632
+2023,Busan,Men,over60,3135
+2023,Busan,Women,over60,1103
+2023,DaeguGyeongbuk,Men,over60,2545
+2023,DaeguGyeongbuk,Women,over60,746
+2023,Incheon,Men,over60,3222
+2023,Incheon,Women,over60,1011
+2023,Ulsan,Men,over60,1781
+2023,Ulsan,Women,over60,335
+2023,Gyeonggi,Men,over60,3569
+2023,Gyeonggi,Women,over60,928
+2023,Gangwon,Men,over60,1781
+2023,Gangwon,Women,over60,451
+2023,Chungbuk,Men,over60,1179
+2023,Chungbuk,Women,over60,369
+2023,DaejeonChungnam,Men,over60,3225
+2023,DaejeonChungnam,Women,over60,769
+2023,Jeonbuk,Men,over60,1184
+2023,Jeonbuk,Women,over60,356
+2023,Jeonnam,Men,over60,2475
+2023,Jeonnam,Women,over60,647
+2023,Gyeongnam,Men,over60,1430
+2023,Gyeongnam,Women,over60,319
+2023,Jeju,Men,over60,828
+2023,Jeju,Women,over60,210
+2023,Outside of Korean Red Cross,Men,over60,3034
+2023,Outside of Korean Red Cross,Women,over60,832

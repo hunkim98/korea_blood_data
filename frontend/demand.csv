@@ -1,0 +1,3265 @@
+source,year,month,month_name,unit,patients
+Busan,2006,1,January,14643.53448,5854
+Busan,2006,2,February,13740.79552,5456
+Busan,2006,3,March,13744.99985,5384
+Busan,2006,4,April,12593.38843,4944
+Busan,2006,5,May,13412.91019,5271
+Busan,2006,6,June,13197.69038,5199
+Busan,2006,7,July,13861.91103,5537
+Busan,2006,8,August,14874.88383,5901
+Busan,2006,9,September,13120.8798,5077
+Busan,2006,10,October,12733.5539,4912
+Busan,2006,11,November,13054.4068,5104
+Busan,2006,12,December,13137.05437,5186
+Busan,2007,1,January,17905.78166,7260
+Busan,2007,2,February,14367.51339,5662
+Busan,2007,3,March,15779.43808,6187
+Busan,2007,4,April,14677.41807,5784
+Busan,2007,5,May,15234.33305,5989
+Busan,2007,6,June,14499.26945,5671
+Busan,2007,7,July,15924.3073,6287
+Busan,2007,8,August,16438.70859,6419
+Busan,2007,9,September,13653.2308,5167
+Busan,2007,10,October,15402.64013,5970
+Busan,2007,11,November,14223.87015,5543
+Busan,2007,12,December,13947.93305,5522
+Busan,2008,1,January,18225.5086,7378
+Busan,2008,2,February,14274.04232,5623
+Busan,2008,3,March,15478.26936,6127
+Busan,2008,4,April,14462.22093,5723
+Busan,2008,5,May,14457.42969,5716
+Busan,2008,6,June,14934.30337,5965
+Busan,2008,7,July,16182.25937,6520
+Busan,2008,8,August,15109.30807,6044
+Busan,2008,9,September,14286.40813,5575
+Busan,2008,10,October,12653.47953,4861
+Busan,2008,11,November,13420.21319,5340
+Busan,2008,12,December,14055.78841,5642
+Busan,2009,1,January,17646.78808,7083
+Busan,2009,2,February,16533.27146,6732
+Busan,2009,3,March,16910.85842,6760
+Busan,2009,4,April,15820.53787,6325
+Busan,2009,5,May,15377.78545,6185
+Busan,2009,6,June,15729.21805,6366
+Busan,2009,7,July,17266.77437,7010
+Busan,2009,8,August,17066.53455,6920
+Busan,2009,9,September,16041.14338,6324
+Busan,2009,10,October,15790.0963,6238
+Busan,2009,11,November,15033.27644,5955
+Busan,2009,12,December,16351.28147,6661
+Busan,2010,1,January,19367.20849,7891
+Busan,2010,2,February,15973.17684,6424
+Busan,2010,3,March,18391.07348,7389
+Busan,2010,4,April,16682.86716,6676
+Busan,2010,5,May,16568.20909,6634
+Busan,2010,6,June,17131.01257,6892
+Busan,2010,7,July,16975.16698,6879
+Busan,2010,8,August,17525.98619,7163
+Busan,2010,9,September,15026.7835,5860
+Busan,2010,10,October,15770.43971,6238
+Busan,2010,11,November,15573.56057,6238
+Busan,2010,12,December,15759.70729,6503
+Busan,2011,1,January,18989.17446,7635
+Busan,2011,2,February,15348.28301,6164
+Busan,2011,3,March,17962.59698,7208
+Busan,2011,4,April,15993.21073,6440
+Busan,2011,5,May,16557.21985,6687
+Busan,2011,6,June,16376.06928,6609
+Busan,2011,7,July,16499.85445,6702
+Busan,2011,8,August,15351.725,6203
+Busan,2011,9,September,12540.77273,4922
+Busan,2011,10,October,15015.09541,6033
+Busan,2011,11,November,15323.31973,6221
+Busan,2011,12,December,15616.68518,6478
+Busan,2012,1,January,20231.29568,8294
+Busan,2012,2,February,18703.32684,7688
+Busan,2012,3,March,18133.68479,7302
+Busan,2012,4,April,17075.16266,6914
+Busan,2012,5,May,17788.83314,7245
+Busan,2012,6,June,16973.42425,6840
+Busan,2012,7,July,19133.83818,7794
+Busan,2012,8,August,18679.76629,7548
+Busan,2012,9,September,16275.66942,6451
+Busan,2012,10,October,17811.16064,7174
+Busan,2012,11,November,16895.15922,6856
+Busan,2012,12,December,16345.90049,6768
+Busan,2013,1,January,21360.05867,8880
+Busan,2013,2,February,16855.02158,6873
+Busan,2013,3,March,17603.07456,7160
+Busan,2013,4,April,16976.2781,6934
+Busan,2013,5,May,17118.83211,7042
+Busan,2013,6,June,16140.02614,6631
+Busan,2013,7,July,18336.43318,7610
+Busan,2013,8,August,17181.89332,7047
+Busan,2013,9,September,15894.84247,6378
+Busan,2013,10,October,16604.99532,6771
+Busan,2013,11,November,15903.95457,6539
+Busan,2013,12,December,17179.9051,7227
+Busan,2014,1,January,19284.15471,7932
+Busan,2014,2,February,18204.52492,7545
+Busan,2014,3,March,17556.01538,7156
+Busan,2014,4,April,16648.30607,6747
+Busan,2014,5,May,16207.37533,6538
+Busan,2014,6,June,16362.07493,6592
+Busan,2014,7,July,18050.90125,7329
+Busan,2014,8,August,17111.14044,6902
+Busan,2014,9,September,16696.04883,6626
+Busan,2014,10,October,16382.05126,6560
+Busan,2014,11,November,15546.31437,6331
+Busan,2014,12,December,16844.20793,6999
+Busan,2015,1,January,19956.29375,8149
+Busan,2015,2,February,15566.09052,6226
+Busan,2015,3,March,18181.90819,7342
+Busan,2015,4,April,16781.50025,6719
+Busan,2015,5,May,16044.03929,6423
+Busan,2015,6,June,14701.17352,5757
+Busan,2015,7,July,16844.6727,6683
+Busan,2015,8,August,17319.5066,7000
+Busan,2015,9,September,15869.8406,6260
+Busan,2015,10,October,16842.47668,6729
+Busan,2015,11,November,16507.16405,6716
+Busan,2015,12,December,17291.95008,7177
+Busan,2016,1,January,19864.73171,8108
+Busan,2016,2,February,16826.57702,6809
+Busan,2016,3,March,18719.99103,7570
+Busan,2016,4,April,16329.04647,6577
+Busan,2016,5,May,17375.24119,7056
+Busan,2016,6,June,16764.31333,6702
+Busan,2016,7,July,17145.35208,6823
+Busan,2016,8,August,17658.22212,7076
+Busan,2016,9,September,16063.76937,6255
+Busan,2016,10,October,16141.75247,6433
+Busan,2016,11,November,16579.66119,6659
+Busan,2016,12,December,16674.24574,6890
+Busan,2017,1,January,19123.54318,7832
+Busan,2017,2,February,17018.21163,7001
+Busan,2017,3,March,17607.86612,7152
+Busan,2017,4,April,16146.01072,6549
+Busan,2017,5,May,17202.55965,6990
+Busan,2017,6,June,16761.63978,6790
+Busan,2017,7,July,17448.31963,7149
+Busan,2017,8,August,17903.16647,7284
+Busan,2017,9,September,16664.40526,6677
+Busan,2017,10,October,15282.72213,6183
+Busan,2017,11,November,16444.99063,6793
+Busan,2017,12,December,15930.3065,6663
+Busan,2018,1,January,20876.63807,8687
+Busan,2018,2,February,15743.76872,6428
+Busan,2018,3,March,17732.33439,7255
+Busan,2018,4,April,17078.94966,7029
+Busan,2018,5,May,17375.44066,7139
+Busan,2018,6,June,16221.20008,6619
+Busan,2018,7,July,18253.97105,7543
+Busan,2018,8,August,17717.70674,7271
+Busan,2018,9,September,15362.29965,6166
+Busan,2018,10,October,17548.10767,7157
+Busan,2018,11,November,17005.25611,6994
+Busan,2018,12,December,16831.28887,7095
+Busan,2019,1,January,21207.28451,8802
+Busan,2019,2,February,16439.16549,6771
+Busan,2019,3,March,17851.45328,7392
+Busan,2019,4,April,17599.94676,7292
+Busan,2019,5,May,17827.48964,7408
+Busan,2019,6,June,16845.10619,6945
+Busan,2019,7,July,19189.06841,8002
+Busan,2019,8,August,17854.63988,7387
+Busan,2019,9,September,16995.63677,6980
+Busan,2019,10,October,17418.4677,7105
+Busan,2019,11,November,17268.20475,7183
+Busan,2019,12,December,17783.60612,7584
+Busan,2020,1,January,19539.33711,8168
+Busan,2020,2,February,16693.81371,7003
+Busan,2020,3,March,15919.53847,6599
+Busan,2020,4,April,15607.54764,6398
+Busan,2020,5,May,17001.53715,7076
+Busan,2020,6,June,18130.58644,7580
+Busan,2020,7,July,18543.85737,7716
+Busan,2020,8,August,16920.55967,6963
+Busan,2020,9,September,16394.75204,6651
+Busan,2020,10,October,17133.4132,7097
+Busan,2020,11,November,17361.07949,7298
+Busan,2020,12,December,17403.7146,7401
+Busan,2021,1,January,18782.30261,7858
+Busan,2021,2,February,15814.84127,6587
+Busan,2021,3,March,19414.15861,8182
+Busan,2021,4,April,17966.5227,7525
+Busan,2021,5,May,17363.73096,7233
+Busan,2021,6,June,18272.63194,7594
+Busan,2021,7,July,18724.62816,7770
+Busan,2021,8,August,18466.43356,7670
+Busan,2021,9,September,16801.74315,6907
+Busan,2021,10,October,17656.92913,7337
+Busan,2021,11,November,18282.42489,7690
+Busan,2021,12,December,17434.82518,7541
+Busan,2022,1,January,19229.42004,7955
+Busan,2022,2,February,16357.51489,6819
+Busan,2022,3,March,17389.9659,7202
+Busan,2022,4,April,17434.70387,7243
+Busan,2022,5,May,18659.2002,7832
+Busan,2022,6,June,18487.28867,7755
+Busan,2022,7,July,18729.09129,7767
+Busan,2022,8,August,19333.0564,7949
+Busan,2022,9,September,18131.85612,7421
+Busan,2022,10,October,17966.9699,7471
+Busan,2022,11,November,18454.82403,7793
+Busan,2022,12,December,18038.61341,7747
+Central Seoul,2006,1,January,13642.24946,5441
+Central Seoul,2006,2,February,12832.27159,5087
+Central Seoul,2006,3,March,12786.23134,5003
+Central Seoul,2006,4,April,11692.54688,4585
+Central Seoul,2006,5,May,12425.94763,4880
+Central Seoul,2006,6,June,12274.31815,4827
+Central Seoul,2006,7,July,12927.37037,5152
+Central Seoul,2006,8,August,13932.29717,5495
+Central Seoul,2006,9,September,12207.43878,4710
+Central Seoul,2006,10,October,11851.38024,4561
+Central Seoul,2006,11,November,12281.54274,4788
+Central Seoul,2006,12,December,12355.34156,4861
+Central Seoul,2007,1,January,15995.59489,6480
+Central Seoul,2007,2,February,12666.38027,5001
+Central Seoul,2007,3,March,13947.03932,5470
+Central Seoul,2007,4,April,13002.20394,5126
+Central Seoul,2007,5,May,13494.48939,5302
+Central Seoul,2007,6,June,12850.79793,5014
+Central Seoul,2007,7,July,14105.65594,5558
+Central Seoul,2007,8,August,14586.32192,5683
+Central Seoul,2007,9,September,11909.8877,4523
+Central Seoul,2007,10,October,13653.4766,5303
+Central Seoul,2007,11,November,12629.3475,4925
+Central Seoul,2007,12,December,12324.94642,4890
+Central Seoul,2008,1,January,16242.96933,6718
+Central Seoul,2008,2,February,12462.56636,5028
+Central Seoul,2008,3,March,13652.09308,5522
+Central Seoul,2008,4,April,12680.62026,5129
+Central Seoul,2008,5,May,12610.17253,5100
+Central Seoul,2008,6,June,13161.70282,5356
+Central Seoul,2008,7,July,14197.10794,5857
+Central Seoul,2008,8,August,13251.83096,5422
+Central Seoul,2008,9,September,12342.94226,4934
+Central Seoul,2008,10,October,10941.47887,4317
+Central Seoul,2008,11,November,11743.65626,4781
+Central Seoul,2008,12,December,12349.43413,5074
+Central Seoul,2009,1,January,15972.18194,6531
+Central Seoul,2009,2,February,15121.2419,6246
+Central Seoul,2009,3,March,15452.12841,6269
+Central Seoul,2009,4,April,14401.13503,5855
+Central Seoul,2009,5,May,14025.92316,5735
+Central Seoul,2009,6,June,14488.35869,5932
+Central Seoul,2009,7,July,15900.351,6544
+Central Seoul,2009,8,August,15735.20142,6453
+Central Seoul,2009,9,September,14570.88758,5845
+Central Seoul,2009,10,October,14433.28531,5792
+Central Seoul,2009,11,November,13663.35565,5504
+Central Seoul,2009,12,December,15052.11705,6212
+Central Seoul,2010,1,January,17718.35658,7336
+Central Seoul,2010,2,February,14408.71153,5907
+Central Seoul,2010,3,March,16698.7239,6813
+Central Seoul,2010,4,April,15074.39369,6136
+Central Seoul,2010,5,May,14963.78521,6095
+Central Seoul,2010,6,June,15557.07523,6352
+Central Seoul,2010,7,July,15551.65987,6383
+Central Seoul,2010,8,August,16068.06465,6669
+Central Seoul,2010,9,September,13351.07724,5333
+Central Seoul,2010,10,October,14187.71873,5739
+Central Seoul,2010,11,November,14048.81028,5760
+Central Seoul,2010,12,December,14330.78668,6023
+Central Seoul,2011,1,January,17174.15369,7107
+Central Seoul,2011,2,February,13880.51677,5719
+Central Seoul,2011,3,March,16230.47292,6684
+Central Seoul,2011,4,April,14353.47004,5942
+Central Seoul,2011,5,May,14857.82573,6167
+Central Seoul,2011,6,June,14781.07384,6104
+Central Seoul,2011,7,July,14889.01478,6203
+Central Seoul,2011,8,August,13784.27873,5722
+Central Seoul,2011,9,September,11126.43275,4496
+Central Seoul,2011,10,October,13539.9815,5590
+Central Seoul,2011,11,November,13779.77683,5756
+Central Seoul,2011,12,December,14164.70896,6027
+Central Seoul,2012,1,January,17553.19848,7445
+Central Seoul,2012,2,February,16254.01832,6894
+Central Seoul,2012,3,March,15558.01872,6477
+Central Seoul,2012,4,April,14598.24299,6125
+Central Seoul,2012,5,May,15300.21957,6436
+Central Seoul,2012,6,June,14578.15761,6052
+Central Seoul,2012,7,July,16647.85173,6984
+Central Seoul,2012,8,August,16143.21769,6732
+Central Seoul,2012,9,September,13873.23396,5699
+Central Seoul,2012,10,October,15315.61753,6378
+Central Seoul,2012,11,November,14519.66469,6091
+Central Seoul,2012,12,December,14145.87793,6036
+Central Seoul,2013,1,January,18646.10729,7947
+Central Seoul,2013,2,February,14623.99924,6103
+Central Seoul,2013,3,March,15225.91436,6332
+Central Seoul,2013,4,April,14655.83901,6128
+Central Seoul,2013,5,May,14746.1791,6216
+Central Seoul,2013,6,June,13950.40361,5858
+Central Seoul,2013,7,July,15917.40234,6766
+Central Seoul,2013,8,August,14880.68015,6252
+Central Seoul,2013,9,September,13602.48093,5613
+Central Seoul,2013,10,October,14346.35053,5993
+Central Seoul,2013,11,November,13726.15911,5781
+Central Seoul,2013,12,December,14909.40748,6410
+Central Seoul,2014,1,January,16669.42453,7113
+Central Seoul,2014,2,February,15760.93547,6769
+Central Seoul,2014,3,March,15134.76501,6383
+Central Seoul,2014,4,April,14283.79067,6000
+Central Seoul,2014,5,May,13852.44737,5795
+Central Seoul,2014,6,June,14048.43642,5855
+Central Seoul,2014,7,July,15619.93969,6558
+Central Seoul,2014,8,August,14773.03998,6174
+Central Seoul,2014,9,September,14246.95634,5860
+Central Seoul,2014,10,October,14093.13127,5839
+Central Seoul,2014,11,November,13380.57483,5637
+Central Seoul,2014,12,December,14583.12679,6254
+Central Seoul,2015,1,January,16904.96982,7255
+Central Seoul,2015,2,February,13069.3599,5516
+Central Seoul,2015,3,March,15355.37936,6503
+Central Seoul,2015,4,April,14090.41608,5929
+Central Seoul,2015,5,May,13495.18933,5679
+Central Seoul,2015,6,June,12221.69307,5053
+Central Seoul,2015,7,July,14105.99676,5891
+Central Seoul,2015,8,August,14681.83361,6230
+Central Seoul,2015,9,September,13248.4752,5515
+Central Seoul,2015,10,October,14158.54903,5939
+Central Seoul,2015,11,November,14011.69041,5966
+Central Seoul,2015,12,December,14695.15064,6372
+Central Seoul,2016,1,January,17061.37993,7346
+Central Seoul,2016,2,February,14377.79057,6130
+Central Seoul,2016,3,March,16097.1916,6842
+Central Seoul,2016,4,April,13949.25777,5910
+Central Seoul,2016,5,May,14913.89703,6377
+Central Seoul,2016,6,June,14310.3068,6013
+Central Seoul,2016,7,July,14648.99564,6138
+Central Seoul,2016,8,August,15126.9615,6384
+Central Seoul,2016,9,September,13496.69602,5555
+Central Seoul,2016,10,October,13847.86493,5793
+Central Seoul,2016,11,November,14237.54515,5992
+Central Seoul,2016,12,December,14379.8606,6202
+Central Seoul,2017,1,January,16442.73211,7148
+Central Seoul,2017,2,February,14682.58006,6390
+Central Seoul,2017,3,March,15188.76657,6523
+Central Seoul,2017,4,April,13918.38261,5969
+Central Seoul,2017,5,May,14792.45995,6360
+Central Seoul,2017,6,June,14341.23237,6159
+Central Seoul,2017,7,July,15052.81109,6543
+Central Seoul,2017,8,August,15361.96212,6642
+Central Seoul,2017,9,September,14237.31521,6080
+Central Seoul,2017,10,October,13078.81932,5601
+Central Seoul,2017,11,November,14327.98029,6225
+Central Seoul,2017,12,December,13748.10067,6046
+Central Seoul,2018,1,January,17746.56748,7845
+Central Seoul,2018,2,February,13313.55347,5807
+Central Seoul,2018,3,March,15001.10884,6516
+Central Seoul,2018,4,April,14519.91414,6333
+Central Seoul,2018,5,May,14717.96521,6435
+Central Seoul,2018,6,June,13635.30742,5930
+Central Seoul,2018,7,July,15510.45906,6835
+Central Seoul,2018,8,August,14975.40026,6571
+Central Seoul,2018,9,September,12787.73169,5524
+Central Seoul,2018,10,October,14729.79356,6412
+Central Seoul,2018,11,November,14349.8465,6272
+Central Seoul,2018,12,December,14199.44153,6342
+Central Seoul,2019,1,January,18199.00349,8040
+Central Seoul,2019,2,February,14016.10345,6139
+Central Seoul,2019,3,March,15378.12549,6743
+Central Seoul,2019,4,April,15175.29476,6655
+Central Seoul,2019,5,May,15367.9438,6773
+Central Seoul,2019,6,June,14400.08514,6323
+Central Seoul,2019,7,July,16506.14181,7324
+Central Seoul,2019,8,August,15251.9675,6738
+Central Seoul,2019,9,September,14473.77525,6341
+Central Seoul,2019,10,October,14813.4556,6433
+Central Seoul,2019,11,November,14812.61408,6541
+Central Seoul,2019,12,December,15307.37752,6886
+Central Seoul,2020,1,January,16248.00523,7146
+Central Seoul,2020,2,February,13988.42292,6189
+Central Seoul,2020,3,March,13506.10755,5897
+Central Seoul,2020,4,April,13019.81736,5615
+Central Seoul,2020,5,May,14141.05082,6184
+Central Seoul,2020,6,June,15024.21179,6610
+Central Seoul,2020,7,July,15333.82225,6734
+Central Seoul,2020,8,August,13819.73783,6026
+Central Seoul,2020,9,September,13461.75727,5807
+Central Seoul,2020,10,October,14227.33052,6193
+Central Seoul,2020,11,November,14446.12142,6375
+Central Seoul,2020,12,December,14441.57942,6449
+Central Seoul,2021,1,January,16138.33622,7074
+Central Seoul,2021,2,February,13466.34796,5887
+Central Seoul,2021,3,March,16642.57108,7325
+Central Seoul,2021,4,April,15378.67672,6751
+Central Seoul,2021,5,May,14808.0805,6491
+Central Seoul,2021,6,June,15461.83486,6789
+Central Seoul,2021,7,July,15798.71653,6941
+Central Seoul,2021,8,August,15646.32953,6889
+Central Seoul,2021,9,September,14164.10158,6168
+Central Seoul,2021,10,October,14915.3133,6549
+Central Seoul,2021,11,November,15524.15085,6859
+Central Seoul,2021,12,December,14847.83613,6730
+Central Seoul,2022,1,January,16793.0827,7220
+Central Seoul,2022,2,February,14339.64382,6190
+Central Seoul,2022,3,March,15272.40221,6552
+Central Seoul,2022,4,April,15270.16561,6581
+Central Seoul,2022,5,May,16353.99834,7121
+Central Seoul,2022,6,June,16098.78898,7032
+Central Seoul,2022,7,July,16263.73663,7054
+Central Seoul,2022,8,August,16707.05675,7210
+Central Seoul,2022,9,September,15603.04913,6688
+Central Seoul,2022,10,October,15674.3271,6786
+Central Seoul,2022,11,November,16155.26541,7072
+Central Seoul,2022,12,December,15689.8425,6999
+Chungbuk,2006,1,January,3839.377994,1469
+Chungbuk,2006,2,February,3622.185039,1375
+Chungbuk,2006,3,March,3647.597179,1362
+Chungbuk,2006,4,April,3353.27991,1251
+Chungbuk,2006,5,May,3567.237208,1336
+Chungbuk,2006,6,June,3500.775437,1316
+Chungbuk,2006,7,July,3631.302118,1388
+Chungbuk,2006,8,August,3876.704139,1476
+Chungbuk,2006,9,September,3480.771705,1284
+Chungbuk,2006,10,October,3386.881683,1246
+Chungbuk,2006,11,November,3429.83031,1276
+Chungbuk,2006,12,December,3434.217876,1297
+Chungbuk,2007,1,January,4679.538794,1801
+Chungbuk,2007,2,February,3886.613678,1442
+Chungbuk,2007,3,March,4266.120726,1572
+Chungbuk,2007,4,April,3951.270065,1466
+Chungbuk,2007,5,May,4081.265609,1514
+Chungbuk,2007,6,June,3890.840968,1441
+Chungbuk,2007,7,July,4236.109364,1585
+Chungbuk,2007,8,August,4410.729016,1627
+Chungbuk,2007,9,September,3824.201979,1351
+Chungbuk,2007,10,October,4154.70864,1507
+Chungbuk,2007,11,November,3834.27583,1398
+Chungbuk,2007,12,December,3716.416838,1386
+Chungbuk,2008,1,January,4780.552889,1809
+Chungbuk,2008,2,February,3881.87098,1423
+Chungbuk,2008,3,March,4149.670269,1529
+Chungbuk,2008,4,April,3906.579032,1438
+Chungbuk,2008,5,May,3932.814278,1448
+Chungbuk,2008,6,June,3976.594374,1485
+Chungbuk,2008,7,July,4305.66883,1618
+Chungbuk,2008,8,August,4057.328721,1518
+Chungbuk,2008,9,September,3917.607129,1422
+Chungbuk,2008,10,October,3491.989241,1244
+Chungbuk,2008,11,November,3613.382696,1336
+Chungbuk,2008,12,December,3724.387212,1398
+Chungbuk,2009,1,January,5010.742896,1878
+Chungbuk,2009,2,February,4612.592323,1764
+Chungbuk,2009,3,March,4812.172215,1806
+Chungbuk,2009,4,April,4531.935164,1703
+Chungbuk,2009,5,May,4391.301786,1664
+Chungbuk,2009,6,June,4429.010527,1696
+Chungbuk,2009,7,July,4833.292622,1854
+Chungbuk,2009,8,August,4752.616218,1822
+Chungbuk,2009,9,September,4613.77922,1713
+Chungbuk,2009,10,October,4511.821691,1681
+Chungbuk,2009,11,November,4302.487619,1603
+Chungbuk,2009,12,December,4537.766156,1743
+Chungbuk,2010,1,January,5718.206593,2187
+Chungbuk,2010,2,February,4788.182327,1807
+Chungbuk,2010,3,March,5498.189216,2078
+Chungbuk,2010,4,April,5025.364406,1889
+Chungbuk,2010,5,May,4983.493009,1877
+Chungbuk,2010,6,June,5111.530276,1941
+Chungbuk,2010,7,July,5056.142405,1934
+Chungbuk,2010,8,August,5267.95944,2022
+Chungbuk,2010,9,September,4764.402585,1728
+Chungbuk,2010,10,October,4912.486795,1807
+Chungbuk,2010,11,November,4830.208101,1796
+Chungbuk,2010,12,December,4772.17798,1835
+Chungbuk,2011,1,January,5974.153622,2262
+Chungbuk,2011,2,February,4826.604829,1835
+Chungbuk,2011,3,March,5644.80095,2138
+Chungbuk,2011,4,April,5066.741633,1922
+Chungbuk,2011,5,May,5225.601146,1992
+Chungbuk,2011,6,June,5151.806766,1969
+Chungbuk,2011,7,July,5182.288184,1990
+Chungbuk,2011,8,August,4847.310681,1848
+Chungbuk,2011,9,September,4043.94283,1493
+Chungbuk,2011,10,October,4720.127029,1784
+Chungbuk,2011,11,November,4835.682467,1844
+Chungbuk,2011,12,December,4866.044814,1907
+Chungbuk,2012,1,January,5919.053527,2298
+Chungbuk,2012,2,February,5449.847315,2129
+Chungbuk,2012,3,March,5387.962531,2054
+Chungbuk,2012,4,April,5091.059893,1946
+Chungbuk,2012,5,May,5255.592418,2027
+Chungbuk,2012,6,June,5016.634918,1924
+Chungbuk,2012,7,July,5550.553599,2154
+Chungbuk,2012,8,August,5476.376157,2105
+Chungbuk,2012,9,September,4872.85148,1823
+Chungbuk,2012,10,October,5263.215347,2004
+Chungbuk,2012,11,November,4989.593552,1912
+Chungbuk,2012,12,December,4773.277126,1877
+Chungbuk,2013,1,January,6100.193738,2420
+Chungbuk,2013,2,February,4862.928573,1896
+Chungbuk,2013,3,March,5106.823834,1988
+Chungbuk,2013,4,April,4927.433119,1922
+Chungbuk,2013,5,May,4974.609348,1952
+Chungbuk,2013,6,June,4679.052881,1841
+Chungbuk,2013,7,July,5273.789699,2092
+Chungbuk,2013,8,August,4982.228164,1955
+Chungbuk,2013,9,September,4664.35739,1781
+Chungbuk,2013,10,October,4812.609779,1871
+Chungbuk,2013,11,November,4603.919285,1803
+Chungbuk,2013,12,December,4907.188525,1975
+Chungbuk,2014,1,January,5751.893395,2304
+Chungbuk,2014,2,February,5425.086435,2193
+Chungbuk,2014,3,March,5293.032114,2105
+Chungbuk,2014,4,April,5044.341626,1993
+Chungbuk,2014,5,May,4922.416178,1935
+Chungbuk,2014,6,June,4931.825269,1940
+Chungbuk,2014,7,July,5385.570421,2136
+Chungbuk,2014,8,August,5115.330645,2014
+Chungbuk,2014,9,September,5051.561991,1959
+Chungbuk,2014,10,October,4931.066707,1930
+Chungbuk,2014,11,November,4694.36291,1864
+Chungbuk,2014,12,December,5046.571299,2049
+Chungbuk,2015,1,January,6083.825249,2441
+Chungbuk,2015,2,February,4790.556215,1879
+Chungbuk,2015,3,March,5612.809803,2224
+Chungbuk,2015,4,April,5200.520646,2041
+Chungbuk,2015,5,May,4973.007434,1954
+Chungbuk,2015,6,June,4599.968252,1766
+Chungbuk,2015,7,July,5198.541331,2031
+Chungbuk,2015,8,August,5286.947939,2107
+Chungbuk,2015,9,September,4904.17626,1900
+Chungbuk,2015,10,October,5183.914321,2039
+Chungbuk,2015,11,November,5067.125638,2023
+Chungbuk,2015,12,December,5260.286629,2150
+Chungbuk,2016,1,January,6014.859492,2426
+Chungbuk,2016,2,February,5137.227106,2054
+Chungbuk,2016,3,March,5726.928612,2283
+Chungbuk,2016,4,April,5038.318463,2004
+Chungbuk,2016,5,May,5318.883127,2129
+Chungbuk,2016,6,June,5135.922471,2043
+Chungbuk,2016,7,July,5250.866506,2080
+Chungbuk,2016,8,August,5378.384047,2147
+Chungbuk,2016,9,September,4957.439569,1922
+Chungbuk,2016,10,October,4926.578118,1956
+Chungbuk,2016,11,November,5036.863356,2017
+Chungbuk,2016,12,December,5056.15517,2090
+Chungbuk,2017,1,January,5713.212512,2300
+Chungbuk,2017,2,February,5091.329124,2063
+Chungbuk,2017,3,March,5317.460471,2122
+Chungbuk,2017,4,April,4879.006269,1947
+Chungbuk,2017,5,May,5167.600435,2067
+Chungbuk,2017,6,June,5029.123404,2010
+Chungbuk,2017,7,July,5214.963661,2106
+Chungbuk,2017,8,August,5337.840621,2142
+Chungbuk,2017,9,September,4973.858902,1964
+Chungbuk,2017,10,October,4606.979004,1834
+Chungbuk,2017,11,November,4902.095061,1994
+Chungbuk,2017,12,December,4750.545647,1964
+Chungbuk,2018,1,January,6123.82711,2500
+Chungbuk,2018,2,February,4699.77504,1873
+Chungbuk,2018,3,March,5273.513871,2115
+Chungbuk,2018,4,April,5088.953101,2053
+Chungbuk,2018,5,May,5177.779245,2084
+Chungbuk,2018,6,June,4845.480003,1943
+Chungbuk,2018,7,July,5367.170781,2181
+Chungbuk,2018,8,August,5219.303715,2107
+Chungbuk,2018,9,September,4570.144043,1804
+Chungbuk,2018,10,October,5152.888254,2072
+Chungbuk,2018,11,November,5026.093561,2031
+Chungbuk,2018,12,December,4933.54513,2051
+Chungbuk,2019,1,January,6179.614514,2525
+Chungbuk,2019,2,February,4842.940602,1965
+Chungbuk,2019,3,March,5294.786634,2156
+Chungbuk,2019,4,April,5225.80481,2130
+Chungbuk,2019,5,May,5265.906833,2157
+Chungbuk,2019,6,June,4970.707848,2026
+Chungbuk,2019,7,July,5605.654864,2309
+Chungbuk,2019,8,August,5218.315191,2136
+Chungbuk,2019,9,September,4989.696778,2027
+Chungbuk,2019,10,October,5136.058894,2070
+Chungbuk,2019,11,November,5058.625076,2077
+Chungbuk,2019,12,December,5175.216551,2183
+Chungbuk,2020,1,January,5674.298319,2299
+Chungbuk,2020,2,February,4834.789907,1962
+Chungbuk,2020,3,March,4711.802225,1876
+Chungbuk,2020,4,April,4615.993157,1834
+Chungbuk,2020,5,May,4975.266693,2016
+Chungbuk,2020,6,June,5241.076773,2146
+Chungbuk,2020,7,July,5355.033509,2183
+Chungbuk,2020,8,August,4917.73332,1980
+Chungbuk,2020,9,September,4790.114531,1895
+Chungbuk,2020,10,October,4979.549868,2012
+Chungbuk,2020,11,November,4991.862214,2050
+Chungbuk,2020,12,December,4979.492894,2067
+Chungbuk,2021,1,January,5422.918455,2157
+Chungbuk,2021,2,February,4552.036746,1812
+Chungbuk,2021,3,March,5535.765853,2233
+Chungbuk,2021,4,April,5141.031281,2064
+Chungbuk,2021,5,May,4973.327174,1992
+Chungbuk,2021,6,June,5151.13866,2071
+Chungbuk,2021,7,July,5254.92704,2113
+Chungbuk,2021,8,August,5227.029121,2095
+Chungbuk,2021,9,September,4801.419603,1903
+Chungbuk,2021,10,October,4952.844975,1996
+Chungbuk,2021,11,November,5104.90661,2078
+Chungbuk,2021,12,December,4783.091374,2006
+Chungbuk,2022,1,January,5558.648775,2213
+Chungbuk,2022,2,February,4758.525697,1906
+Chungbuk,2022,3,March,5154.828082,2042
+Chungbuk,2022,4,April,5101.668643,2048
+Chungbuk,2022,5,May,5367.657068,2188
+Chungbuk,2022,6,June,5293.576832,2162
+Chungbuk,2022,7,July,5355.423743,2162
+Chungbuk,2022,8,August,5527.290319,2214
+Chungbuk,2022,9,September,5241.605151,2086
+Chungbuk,2022,10,October,5178.882018,2088
+Chungbuk,2022,11,November,5278.599343,2160
+Chungbuk,2022,12,December,5090.570761,2125
+DaeguGyeongbuk,2006,1,January,17012.49246,6491
+DaeguGyeongbuk,2006,2,February,16017.18013,6072
+DaeguGyeongbuk,2006,3,March,16109.49733,6030
+DaeguGyeongbuk,2006,4,April,14784.69546,5547
+DaeguGyeongbuk,2006,5,May,15729.81522,5918
+DaeguGyeongbuk,2006,6,June,15499.32479,5850
+DaeguGyeongbuk,2006,7,July,16158.15214,6177
+DaeguGyeongbuk,2006,8,August,17413.76048,6592
+DaeguGyeongbuk,2006,9,September,15536.33216,5739
+DaeguGyeongbuk,2006,10,October,15076.19768,5551
+DaeguGyeongbuk,2006,11,November,15306.37912,5712
+DaeguGyeongbuk,2006,12,December,15343.20465,5788
+DaeguGyeongbuk,2007,1,January,19980.99112,7678
+DaeguGyeongbuk,2007,2,February,16309.0316,6081
+DaeguGyeongbuk,2007,3,March,17899.49202,6642
+DaeguGyeongbuk,2007,4,April,16617.46966,6205
+DaeguGyeongbuk,2007,5,May,17263.26121,6435
+DaeguGyeongbuk,2007,6,June,16568.54663,6138
+DaeguGyeongbuk,2007,7,July,18060.37218,6752
+DaeguGyeongbuk,2007,8,August,18789.3869,6928
+DaeguGyeongbuk,2007,9,September,15830.8696,5657
+DaeguGyeongbuk,2007,10,October,17552.70454,6419
+DaeguGyeongbuk,2007,11,November,16147.47609,5941
+DaeguGyeongbuk,2007,12,December,15700.69443,5887
+DaeguGyeongbuk,2008,1,January,20200.67132,7932
+DaeguGyeongbuk,2008,2,February,16077.23301,6137
+DaeguGyeongbuk,2008,3,March,17364.04966,6665
+DaeguGyeongbuk,2008,4,April,16259.78924,6238
+DaeguGyeongbuk,2008,5,May,16309.04657,6255
+DaeguGyeongbuk,2008,6,June,16717.81383,6488
+DaeguGyeongbuk,2008,7,July,18059.788,7062
+DaeguGyeongbuk,2008,8,August,16937.4275,6580
+DaeguGyeongbuk,2008,9,September,16152.04336,6113
+DaeguGyeongbuk,2008,10,October,14336.25889,5335
+DaeguGyeongbuk,2008,11,November,15059.9531,5809
+DaeguGyeongbuk,2008,12,December,15641.8342,6107
+DaeguGyeongbuk,2009,1,January,20885.47434,8106
+DaeguGyeongbuk,2009,2,February,19443.36204,7677
+DaeguGyeongbuk,2009,3,March,20093.26125,7783
+DaeguGyeongbuk,2009,4,April,18845.55968,7306
+DaeguGyeongbuk,2009,5,May,18273.5282,7136
+DaeguGyeongbuk,2009,6,June,18622.35572,7324
+DaeguGyeongbuk,2009,7,July,20425.77232,8043
+DaeguGyeongbuk,2009,8,August,20193.75477,7932
+DaeguGyeongbuk,2009,9,September,19212.46483,7337
+DaeguGyeongbuk,2009,10,October,18846.84583,7220
+DaeguGyeongbuk,2009,11,November,17891.17218,6874
+DaeguGyeongbuk,2009,12,December,19278.4918,7616
+DaeguGyeongbuk,2010,1,January,22569.57481,8880
+DaeguGyeongbuk,2010,2,February,18679.6911,7253
+DaeguGyeongbuk,2010,3,March,21512.69328,8361
+DaeguGyeongbuk,2010,4,April,19560.06522,7564
+DaeguGyeongbuk,2010,5,May,19417.10931,7516
+DaeguGyeongbuk,2010,6,June,20097.53705,7811
+DaeguGyeongbuk,2010,7,July,20003.50687,7808
+DaeguGyeongbuk,2010,8,August,20747.58136,8144
+DaeguGyeongbuk,2010,9,September,18103.94844,6779
+DaeguGyeongbuk,2010,10,October,18848.42496,7164
+DaeguGyeongbuk,2010,11,November,18476.34,7129
+DaeguGyeongbuk,2010,12,December,18639.33717,7417
+DaeguGyeongbuk,2011,1,January,22281.85037,8650
+DaeguGyeongbuk,2011,2,February,18060.1633,7019
+DaeguGyeongbuk,2011,3,March,21112.83137,8195
+DaeguGyeongbuk,2011,4,April,18846.9354,7335
+DaeguGyeongbuk,2011,5,May,19458.81114,7607
+DaeguGyeongbuk,2011,6,June,19284.63218,7534
+DaeguGyeongbuk,2011,7,July,19360.75044,7602
+DaeguGyeongbuk,2011,8,August,18018.24572,7025
+DaeguGyeongbuk,2011,9,September,14921.44157,5647
+DaeguGyeongbuk,2011,10,October,17621.44282,6838
+DaeguGyeongbuk,2011,11,November,18026.9525,7072
+DaeguGyeongbuk,2011,12,December,18319.53487,7367
+DaeguGyeongbuk,2012,1,January,22604.8551,8946
+DaeguGyeongbuk,2012,2,February,20900.46044,8301
+DaeguGyeongbuk,2012,3,March,20485.07126,7965
+DaeguGyeongbuk,2012,4,April,19281.02453,7534
+DaeguGyeongbuk,2012,5,May,20012.66057,7869
+DaeguGyeongbuk,2012,6,June,19164.93587,7465
+DaeguGyeongbuk,2012,7,July,21392.96824,8414
+DaeguGyeongbuk,2012,8,August,20992.47917,8184
+DaeguGyeongbuk,2012,9,September,18455.18381,7040
+DaeguGyeongbuk,2012,10,October,20091.56996,7810
+DaeguGyeongbuk,2012,11,November,19025.87417,7450
+DaeguGyeongbuk,2012,12,December,18333.77374,7354
+DaeguGyeongbuk,2013,1,January,23907.80933,9563
+DaeguGyeongbuk,2013,2,February,19009.1085,7459
+DaeguGyeongbuk,2013,3,March,19944.24309,7821
+DaeguGyeongbuk,2013,4,April,19219.05307,7562
+DaeguGyeongbuk,2013,5,May,19369.41968,7674
+DaeguGyeongbuk,2013,6,June,18238.82384,7230
+DaeguGyeongbuk,2013,7,July,20593.39996,8234
+DaeguGyeongbuk,2013,8,August,19397.92909,7662
+DaeguGyeongbuk,2013,9,September,18105.45983,6983
+DaeguGyeongbuk,2013,10,October,18803.25079,7383
+DaeguGyeongbuk,2013,11,November,17993.34972,7124
+DaeguGyeongbuk,2013,12,December,19297.57393,7847
+DaeguGyeongbuk,2014,1,January,21671.04596,8610
+DaeguGyeongbuk,2014,2,February,20404.75526,8182
+DaeguGyeongbuk,2014,3,March,19826.66435,7818
+DaeguGyeongbuk,2014,4,April,18865.20135,7395
+DaeguGyeongbuk,2014,5,May,18411.10229,7182
+DaeguGyeongbuk,2014,6,June,18516.99443,7217
+DaeguGyeongbuk,2014,7,July,20325.6303,7985
+DaeguGyeongbuk,2014,8,August,19326.131,7536
+DaeguGyeongbuk,2014,9,September,19010.62521,7300
+DaeguGyeongbuk,2014,10,October,18613.64055,7216
+DaeguGyeongbuk,2014,11,November,17620.84194,6946
+DaeguGyeongbuk,2014,12,December,18981.52208,7650
+DaeguGyeongbuk,2015,1,January,22933.85411,9175
+DaeguGyeongbuk,2015,2,February,17984.4042,7034
+DaeguGyeongbuk,2015,3,March,21049.47078,8329
+DaeguGyeongbuk,2015,4,April,19474.89889,7633
+DaeguGyeongbuk,2015,5,May,18628.34474,7304
+DaeguGyeongbuk,2015,6,June,17156.50609,6571
+DaeguGyeongbuk,2015,7,July,19477.82341,7578
+DaeguGyeongbuk,2015,8,August,19906.20074,7899
+DaeguGyeongbuk,2015,9,September,18408.0923,7116
+DaeguGyeongbuk,2015,10,October,19519.57946,7658
+DaeguGyeongbuk,2015,11,November,19078.39162,7613
+DaeguGyeongbuk,2015,12,December,19871.35476,8112
+DaeguGyeongbuk,2016,1,January,22608.42606,9093
+DaeguGyeongbuk,2016,2,February,19265.43619,7678
+DaeguGyeongbuk,2016,3,March,21517.84476,8568
+DaeguGyeongbuk,2016,4,April,18865.82111,7488
+DaeguGyeongbuk,2016,5,May,19950.97805,7983
+DaeguGyeongbuk,2016,6,June,19244.61611,7619
+DaeguGyeongbuk,2016,7,July,19662.4584,7746
+DaeguGyeongbuk,2016,8,August,20148.77459,7994
+DaeguGyeongbuk,2016,9,September,18539.72869,7151
+DaeguGyeongbuk,2016,10,October,18532.86517,7321
+DaeguGyeongbuk,2016,11,November,18998.74817,7566
+DaeguGyeongbuk,2016,12,December,19024.9383,7815
+DaeguGyeongbuk,2017,1,January,21729.76742,8850
+DaeguGyeongbuk,2017,2,February,19372.28041,7929
+DaeguGyeongbuk,2017,3,March,20185.91112,8146
+DaeguGyeongbuk,2017,4,April,18512.11299,7466
+DaeguGyeongbuk,2017,5,May,19652.63215,7950
+DaeguGyeongbuk,2017,6,June,19108.44165,7721
+DaeguGyeongbuk,2017,7,July,19834.18359,8100
+DaeguGyeongbuk,2017,8,August,20320.40887,8245
+DaeguGyeongbuk,2017,9,September,18923.98724,7561
+DaeguGyeongbuk,2017,10,October,17514.34209,7057
+DaeguGyeongbuk,2017,11,November,18773.88834,7715
+DaeguGyeongbuk,2017,12,December,18151.97518,7573
+DaeguGyeongbuk,2018,1,January,23430.61733,9798
+DaeguGyeongbuk,2018,2,February,17815.07873,7285
+DaeguGyeongbuk,2018,3,March,20104.48384,8259
+DaeguGyeongbuk,2018,4,April,19413.16503,8016
+DaeguGyeongbuk,2018,5,May,19693.80778,8126
+DaeguGyeongbuk,2018,6,June,18381.48838,7550
+DaeguGyeongbuk,2018,7,July,20487.76344,8531
+DaeguGyeongbuk,2018,8,August,19889.34933,8231
+DaeguGyeongbuk,2018,9,September,17274.72433,7001
+DaeguGyeongbuk,2018,10,October,19662.62465,8103
+DaeguGyeongbuk,2018,11,November,19207.60808,7951
+DaeguGyeongbuk,2018,12,December,18924.95496,8055
+DaeguGyeongbuk,2019,1,January,23343.72128,9788
+DaeguGyeongbuk,2019,2,February,18229.92364,7579
+DaeguGyeongbuk,2019,3,March,19897.54364,8293
+DaeguGyeongbuk,2019,4,April,19615.7466,8175
+DaeguGyeongbuk,2019,5,May,19768.83555,8279
+DaeguGyeongbuk,2019,6,June,18587.6636,7750
+DaeguGyeongbuk,2019,7,July,21056.95275,8884
+DaeguGyeongbuk,2019,8,August,19544.47469,8197
+DaeguGyeongbuk,2019,9,September,18664.68788,7765
+DaeguGyeongbuk,2019,10,October,19232.75068,7932
+DaeguGyeongbuk,2019,11,November,19072.66415,8014
+DaeguGyeongbuk,2019,12,December,19622.14524,8470
+DaeguGyeongbuk,2020,1,January,20484.39281,8548
+DaeguGyeongbuk,2020,2,February,17474.02422,7308
+DaeguGyeongbuk,2020,3,March,16870.83397,6918
+DaeguGyeongbuk,2020,4,April,16499.33867,6731
+DaeguGyeongbuk,2020,5,May,17890.6953,7440
+DaeguGyeongbuk,2020,6,June,18866.24395,7922
+DaeguGyeongbuk,2020,7,July,19238.97801,8049
+DaeguGyeongbuk,2020,8,August,17576.25043,7273
+DaeguGyeongbuk,2020,9,September,17065.14896,6946
+DaeguGyeongbuk,2020,10,October,17919.49723,7428
+DaeguGyeongbuk,2020,11,November,18075.63193,7618
+DaeguGyeongbuk,2020,12,December,18054.41249,7704
+DaeguGyeongbuk,2021,1,January,20382.455,8485
+DaeguGyeongbuk,2021,2,February,17135.48227,7122
+DaeguGyeongbuk,2021,3,March,21005.26732,8827
+DaeguGyeongbuk,2021,4,April,19438.65816,8130
+DaeguGyeongbuk,2021,5,May,18740.97095,7814
+DaeguGyeongbuk,2021,6,June,19517.886,8159
+DaeguGyeongbuk,2021,7,July,19911.77016,8328
+DaeguGyeongbuk,2021,8,August,19670.40904,8219
+DaeguGyeongbuk,2021,9,September,18012.3578,7444
+DaeguGyeongbuk,2021,10,October,18826.61902,7890
+DaeguGyeongbuk,2021,11,November,19520.91615,8252
+DaeguGyeongbuk,2021,12,December,18524.07292,8063
+DaeguGyeongbuk,2022,1,January,20164.41437,8360
+DaeguGyeongbuk,2022,2,February,17261.39395,7194
+DaeguGyeongbuk,2022,3,March,18541.5783,7641
+DaeguGyeongbuk,2022,4,April,18415.89551,7662
+DaeguGyeongbuk,2022,5,May,19504.6632,8229
+DaeguGyeongbuk,2022,6,June,19209.01798,8134
+DaeguGyeongbuk,2022,7,July,19407.74591,8134
+DaeguGyeongbuk,2022,8,August,19939.51793,8296
+DaeguGyeongbuk,2022,9,September,18867.38833,7800
+DaeguGyeongbuk,2022,10,October,18770.8861,7858
+DaeguGyeongbuk,2022,11,November,19300.01419,8191
+DaeguGyeongbuk,2022,12,December,18702.02428,8103
+DaejeonChungnam,2006,1,January,12159.45902,4723
+DaejeonChungnam,2006,2,February,11497.63092,4434
+DaejeonChungnam,2006,3,March,11637.01138,4426
+DaejeonChungnam,2006,4,April,10737.79573,4089
+DaejeonChungnam,2006,5,May,11449.80073,4373
+DaejeonChungnam,2006,6,June,11269.61871,4326
+DaejeonChungnam,2006,7,July,11656.76396,4540
+DaejeonChungnam,2006,8,August,12352.86469,4797
+DaejeonChungnam,2006,9,September,11093.16575,4196
+DaejeonChungnam,2006,10,October,10775.78843,4060
+DaejeonChungnam,2006,11,November,11047.92127,4202
+DaejeonChungnam,2006,12,December,11049.08025,4252
+DaejeonChungnam,2007,1,January,13868.70927,5463
+DaejeonChungnam,2007,2,February,11391.11156,4348
+DaejeonChungnam,2007,3,March,12558.62304,4760
+DaejeonChungnam,2007,4,April,11689.45011,4461
+DaejeonChungnam,2007,5,May,12119.10563,4630
+DaejeonChungnam,2007,6,June,11460.11547,4375
+DaejeonChungnam,2007,7,July,12465.50569,4796
+DaejeonChungnam,2007,8,August,12918.13272,4913
+DaejeonChungnam,2007,9,September,11065.44468,4045
+DaejeonChungnam,2007,10,October,12247.50732,4591
+DaejeonChungnam,2007,11,November,11337.10067,4265
+DaejeonChungnam,2007,12,December,10999.55154,4216
+DaejeonChungnam,2008,1,January,14532.64445,5643
+DaejeonChungnam,2008,2,February,11624.70618,4388
+DaejeonChungnam,2008,3,March,12586.21058,4779
+DaejeonChungnam,2008,4,April,11829.77336,4490
+DaejeonChungnam,2008,5,May,11848.79965,4496
+DaejeonChungnam,2008,6,June,12137.88624,4664
+DaejeonChungnam,2008,7,July,13094.88064,5066
+DaejeonChungnam,2008,8,August,12240.56104,4708
+DaejeonChungnam,2008,9,September,11706.01889,4380
+DaejeonChungnam,2008,10,October,10434.64062,3843
+DaejeonChungnam,2008,11,November,10913.08964,4155
+DaejeonChungnam,2008,12,December,11343.47809,4373
+DaejeonChungnam,2009,1,January,13915.31086,5361
+DaejeonChungnam,2009,2,February,12939.61213,5073
+DaejeonChungnam,2009,3,March,13398.91265,5158
+DaejeonChungnam,2009,4,April,12571.91488,4844
+DaejeonChungnam,2009,5,May,12229.51211,4747
+DaejeonChungnam,2009,6,June,12401.92783,4858
+DaejeonChungnam,2009,7,July,13518.27382,5313
+DaejeonChungnam,2009,8,August,13294.38309,5227
+DaejeonChungnam,2009,9,September,12745.27325,4860
+DaejeonChungnam,2009,10,October,12520.69158,4782
+DaejeonChungnam,2009,11,November,11937.63633,4561
+DaejeonChungnam,2009,12,December,12716.97288,5003
+DaejeonChungnam,2010,1,January,15382.68409,6056
+DaejeonChungnam,2010,2,February,12846.68925,4993
+DaejeonChungnam,2010,3,March,14800.47214,5749
+DaejeonChungnam,2010,4,April,13491.77685,5218
+DaejeonChungnam,2010,5,May,13373.97331,5181
+DaejeonChungnam,2010,6,June,13729.73998,5364
+DaejeonChungnam,2010,7,July,13557.75482,5342
+DaejeonChungnam,2010,8,August,14090.04942,5586
+DaejeonChungnam,2010,9,September,12514.07516,4697
+DaejeonChungnam,2010,10,October,12999.97582,4942
+DaejeonChungnam,2010,11,November,12870.58499,4941
+DaejeonChungnam,2010,12,December,12778.58948,5064
+DaejeonChungnam,2011,1,January,15180.9491,5851
+DaejeonChungnam,2011,2,February,12286.13937,4750
+DaejeonChungnam,2011,3,March,14423.40057,5558
+DaejeonChungnam,2011,4,April,12936.65405,4993
+DaejeonChungnam,2011,5,May,13364.8821,5183
+DaejeonChungnam,2011,6,June,13145.85792,5113
+DaejeonChungnam,2011,7,July,13195.88487,5157
+DaejeonChungnam,2011,8,August,12313.28757,4784
+DaejeonChungnam,2011,9,September,10239.50549,3856
+DaejeonChungnam,2011,10,October,12102.21362,4663
+DaejeonChungnam,2011,11,November,12385.47798,4809
+DaejeonChungnam,2011,12,December,12415.54154,4944
+DaejeonChungnam,2012,1,January,16095.76798,6281
+DaejeonChungnam,2012,2,February,14825.10858,5822
+DaejeonChungnam,2012,3,March,14656.52133,5621
+DaejeonChungnam,2012,4,April,13875.60036,5339
+DaejeonChungnam,2012,5,May,14333.07674,5568
+DaejeonChungnam,2012,6,June,13634.54004,5271
+DaejeonChungnam,2012,7,July,15088.77369,5911
+DaejeonChungnam,2012,8,August,14859.13652,5764
+DaejeonChungnam,2012,9,September,13262.14782,5014
+DaejeonChungnam,2012,10,October,14377.96211,5517
+DaejeonChungnam,2012,11,November,13620.1825,5256
+DaejeonChungnam,2012,12,December,12987.39189,5129
+DaejeonChungnam,2013,1,January,17094.08585,6738
+DaejeonChungnam,2013,2,February,13600.2177,5272
+DaejeonChungnam,2013,3,March,14276.92849,5522
+DaejeonChungnam,2013,4,April,13820.84077,5361
+DaejeonChungnam,2013,5,May,13941.63176,5446
+DaejeonChungnam,2013,6,June,13091.30374,5128
+DaejeonChungnam,2013,7,July,14770.75198,5838
+DaejeonChungnam,2013,8,August,13908.25381,5436
+DaejeonChungnam,2013,9,September,13101.3118,4985
+DaejeonChungnam,2013,10,October,13532.48964,5238
+DaejeonChungnam,2013,11,November,12952.3682,5047
+DaejeonChungnam,2013,12,December,13741.75914,5495
+DaejeonChungnam,2014,1,January,15522.52472,6119
+DaejeonChungnam,2014,2,February,14605.59929,5808
+DaejeonChungnam,2014,3,March,14300.33082,5594
+DaejeonChungnam,2014,4,April,13657.8952,5312
+DaejeonChungnam,2014,5,May,13310.9397,5161
+DaejeonChungnam,2014,6,June,13319.10872,5178
+DaejeonChungnam,2014,7,July,14542.9787,5706
+DaejeonChungnam,2014,8,August,13816.33185,5382
+DaejeonChungnam,2014,9,September,13674.40316,5236
+DaejeonChungnam,2014,10,October,13367.00652,5162
+DaejeonChungnam,2014,11,November,12712.42126,4969
+DaejeonChungnam,2014,12,December,13594.14821,5427
+DaejeonChungnam,2015,1,January,16247.64664,6402
+DaejeonChungnam,2015,2,February,12875.286,4968
+DaejeonChungnam,2015,3,March,15051.78166,5860
+DaejeonChungnam,2015,4,April,13967.68896,5392
+DaejeonChungnam,2015,5,May,13364.21027,5169
+DaejeonChungnam,2015,6,June,12433.74771,4705
+DaejeonChungnam,2015,7,July,13957.58007,5375
+DaejeonChungnam,2015,8,August,14160.55653,5568
+DaejeonChungnam,2015,9,September,13231.93929,5058
+DaejeonChungnam,2015,10,October,13916.31808,5386
+DaejeonChungnam,2015,11,November,13585.20943,5338
+DaejeonChungnam,2015,12,December,13967.2559,5615
+DaejeonChungnam,2016,1,January,16314.7478,6493
+DaejeonChungnam,2016,2,February,13944.77316,5507
+DaejeonChungnam,2016,3,March,15554.43696,6120
+DaejeonChungnam,2016,4,April,13660.50492,5361
+DaejeonChungnam,2016,5,May,14433.50179,5717
+DaejeonChungnam,2016,6,June,13879.4321,5452
+DaejeonChungnam,2016,7,July,14226.06433,5564
+DaejeonChungnam,2016,8,August,14569.04498,5748
+DaejeonChungnam,2016,9,September,13439.76227,5141
+DaejeonChungnam,2016,10,October,13330.57621,5221
+DaejeonChungnam,2016,11,November,13588.43518,5363
+DaejeonChungnam,2016,12,December,13486.29434,5490
+DaejeonChungnam,2017,1,January,16071.59061,6420
+DaejeonChungnam,2017,2,February,14266.44263,5730
+DaejeonChungnam,2017,3,March,14947.29204,5914
+DaejeonChungnam,2017,4,April,13724.77651,5433
+DaejeonChungnam,2017,5,May,14562.03538,5791
+DaejeonChungnam,2017,6,June,14135.69879,5622
+DaejeonChungnam,2017,7,July,14673.58575,5900
+DaejeonChungnam,2017,8,August,15037.56273,6013
+DaejeonChungnam,2017,9,September,14054.36945,5534
+DaejeonChungnam,2017,10,October,12985.01254,5135
+DaejeonChungnam,2017,11,November,13807.47006,5571
+DaejeonChungnam,2017,12,December,13255.72915,5427
+DaejeonChungnam,2018,1,January,17314.40062,7063
+DaejeonChungnam,2018,2,February,13323.75509,5316
+DaejeonChungnam,2018,3,March,14895.39292,5970
+DaejeonChungnam,2018,4,April,14387.229,5799
+DaejeonChungnam,2018,5,May,14648.60634,5902
+DaejeonChungnam,2018,6,June,13681.87812,5492
+DaejeonChungnam,2018,7,July,15204.02198,6195
+DaejeonChungnam,2018,8,August,14795.272,5997
+DaejeonChungnam,2018,9,September,12922.96753,5124
+DaejeonChungnam,2018,10,October,14570.68635,5870
+DaejeonChungnam,2018,11,November,14189.40532,5732
+DaejeonChungnam,2018,12,December,13821.71099,5737
+DaejeonChungnam,2019,1,January,17799.8786,7245
+DaejeonChungnam,2019,2,February,13941.12702,5625
+DaejeonChungnam,2019,3,March,15234.1467,6163
+DaejeonChungnam,2019,4,April,15066.50361,6105
+DaejeonChungnam,2019,5,May,15162.60915,6184
+DaejeonChungnam,2019,6,June,14263.45248,5794
+DaejeonChungnam,2019,7,July,16119.33105,6629
+DaejeonChungnam,2019,8,August,15010.16559,6143
+DaejeonChungnam,2019,9,September,14346.08406,5814
+DaejeonChungnam,2019,10,October,14784.87102,5934
+DaejeonChungnam,2019,11,November,14547.35427,5943
+DaejeonChungnam,2019,12,December,14790.00812,6205
+DaejeonChungnam,2020,1,January,15853.61668,6414
+DaejeonChungnam,2020,2,February,13522.81643,5487
+DaejeonChungnam,2020,3,March,13287.26217,5289
+DaejeonChungnam,2020,4,April,12950.18256,5135
+DaejeonChungnam,2020,5,May,13888.07201,5618
+DaejeonChungnam,2020,6,June,14566.23881,5963
+DaejeonChungnam,2020,7,July,14886.98817,6077
+DaejeonChungnam,2020,8,August,13677.56722,5516
+DaejeonChungnam,2020,9,September,13379.34562,5304
+DaejeonChungnam,2020,10,October,13922.34166,5617
+DaejeonChungnam,2020,11,November,13923.61146,5709
+DaejeonChungnam,2020,12,December,13824.95852,5735
+DaejeonChungnam,2021,1,January,15797.41293,6353
+DaejeonChungnam,2021,2,February,13255.74924,5334
+DaejeonChungnam,2021,3,March,16146.15769,6577
+DaejeonChungnam,2021,4,April,14983.79783,6081
+DaejeonChungnam,2021,5,May,14456.56804,5853
+DaejeonChungnam,2021,6,June,14970.67448,6091
+DaejeonChungnam,2021,7,July,15263.9693,6215
+DaejeonChungnam,2021,8,August,15176.29093,6165
+DaejeonChungnam,2021,9,September,13922.58094,5587
+DaejeonChungnam,2021,10,October,14392.73463,5866
+DaejeonChungnam,2021,11,November,14884.14687,6121
+DaejeonChungnam,2021,12,December,13940.29877,5907
+DaejeonChungnam,2022,1,January,15959.37497,6395
+DaejeonChungnam,2022,2,February,13660.46026,5501
+DaejeonChungnam,2022,3,March,14820.67425,5893
+DaejeonChungnam,2022,4,April,14609.51889,5895
+DaejeonChungnam,2022,5,May,15332.07665,6294
+DaejeonChungnam,2022,6,June,15069.44829,6208
+DaejeonChungnam,2022,7,July,15237.70393,6212
+DaejeonChungnam,2022,8,August,15748.80527,6373
+DaejeonChungnam,2022,9,September,14953.93651,5997
+DaejeonChungnam,2022,10,October,14811.97141,6014
+DaejeonChungnam,2022,11,November,15114.12131,6229
+DaejeonChungnam,2022,12,December,14500.02002,6108
+Eastern Seoul,2006,1,January,13642.24946,5441
+Eastern Seoul,2006,2,February,12832.27159,5087
+Eastern Seoul,2006,3,March,12786.23134,5003
+Eastern Seoul,2006,4,April,11692.54688,4585
+Eastern Seoul,2006,5,May,12425.94763,4880
+Eastern Seoul,2006,6,June,12274.31815,4827
+Eastern Seoul,2006,7,July,12927.37037,5152
+Eastern Seoul,2006,8,August,13932.29717,5495
+Eastern Seoul,2006,9,September,12207.43878,4710
+Eastern Seoul,2006,10,October,11851.38024,4561
+Eastern Seoul,2006,11,November,12281.54274,4788
+Eastern Seoul,2006,12,December,12355.34156,4861
+Eastern Seoul,2007,1,January,15995.59489,6480
+Eastern Seoul,2007,2,February,12666.38027,5001
+Eastern Seoul,2007,3,March,13947.03932,5470
+Eastern Seoul,2007,4,April,13002.20394,5126
+Eastern Seoul,2007,5,May,13494.48939,5302
+Eastern Seoul,2007,6,June,12850.79793,5014
+Eastern Seoul,2007,7,July,14105.65594,5558
+Eastern Seoul,2007,8,August,14586.32192,5683
+Eastern Seoul,2007,9,September,11909.8877,4523
+Eastern Seoul,2007,10,October,13653.4766,5303
+Eastern Seoul,2007,11,November,12629.3475,4925
+Eastern Seoul,2007,12,December,12324.94642,4890
+Eastern Seoul,2008,1,January,16242.96933,6718
+Eastern Seoul,2008,2,February,12462.56636,5028
+Eastern Seoul,2008,3,March,13652.09308,5522
+Eastern Seoul,2008,4,April,12680.62026,5129
+Eastern Seoul,2008,5,May,12610.17253,5100
+Eastern Seoul,2008,6,June,13161.70282,5356
+Eastern Seoul,2008,7,July,14197.10794,5857
+Eastern Seoul,2008,8,August,13251.83096,5422
+Eastern Seoul,2008,9,September,12342.94226,4934
+Eastern Seoul,2008,10,October,10941.47887,4317
+Eastern Seoul,2008,11,November,11743.65626,4781
+Eastern Seoul,2008,12,December,12349.43413,5074
+Eastern Seoul,2009,1,January,15972.18194,6531
+Eastern Seoul,2009,2,February,15121.2419,6246
+Eastern Seoul,2009,3,March,15452.12841,6269
+Eastern Seoul,2009,4,April,14401.13503,5855
+Eastern Seoul,2009,5,May,14025.92316,5735
+Eastern Seoul,2009,6,June,14488.35869,5932
+Eastern Seoul,2009,7,July,15900.351,6544
+Eastern Seoul,2009,8,August,15735.20142,6453
+Eastern Seoul,2009,9,September,14570.88758,5845
+Eastern Seoul,2009,10,October,14433.28531,5792
+Eastern Seoul,2009,11,November,13663.35565,5504
+Eastern Seoul,2009,12,December,15052.11705,6212
+Eastern Seoul,2010,1,January,17718.35658,7336
+Eastern Seoul,2010,2,February,14408.71153,5907
+Eastern Seoul,2010,3,March,16698.7239,6813
+Eastern Seoul,2010,4,April,15074.39369,6136
+Eastern Seoul,2010,5,May,14963.78521,6095
+Eastern Seoul,2010,6,June,15557.07523,6352
+Eastern Seoul,2010,7,July,15551.65987,6383
+Eastern Seoul,2010,8,August,16068.06465,6669
+Eastern Seoul,2010,9,September,13351.07724,5333
+Eastern Seoul,2010,10,October,14187.71873,5739
+Eastern Seoul,2010,11,November,14048.81028,5760
+Eastern Seoul,2010,12,December,14330.78668,6023
+Eastern Seoul,2011,1,January,17174.15369,7107
+Eastern Seoul,2011,2,February,13880.51677,5719
+Eastern Seoul,2011,3,March,16230.47292,6684
+Eastern Seoul,2011,4,April,14353.47004,5942
+Eastern Seoul,2011,5,May,14857.82573,6167
+Eastern Seoul,2011,6,June,14781.07384,6104
+Eastern Seoul,2011,7,July,14889.01478,6203
+Eastern Seoul,2011,8,August,13784.27873,5722
+Eastern Seoul,2011,9,September,11126.43275,4496
+Eastern Seoul,2011,10,October,13539.9815,5590
+Eastern Seoul,2011,11,November,13779.77683,5756
+Eastern Seoul,2011,12,December,14164.70896,6027
+Eastern Seoul,2012,1,January,17553.19848,7445
+Eastern Seoul,2012,2,February,16254.01832,6894
+Eastern Seoul,2012,3,March,15558.01872,6477
+Eastern Seoul,2012,4,April,14598.24299,6125
+Eastern Seoul,2012,5,May,15300.21957,6436
+Eastern Seoul,2012,6,June,14578.15761,6052
+Eastern Seoul,2012,7,July,16647.85173,6984
+Eastern Seoul,2012,8,August,16143.21769,6732
+Eastern Seoul,2012,9,September,13873.23396,5699
+Eastern Seoul,2012,10,October,15315.61753,6378
+Eastern Seoul,2012,11,November,14519.66469,6091
+Eastern Seoul,2012,12,December,14145.87793,6036
+Eastern Seoul,2013,1,January,18646.10729,7947
+Eastern Seoul,2013,2,February,14623.99924,6103
+Eastern Seoul,2013,3,March,15225.91436,6332
+Eastern Seoul,2013,4,April,14655.83901,6128
+Eastern Seoul,2013,5,May,14746.1791,6216
+Eastern Seoul,2013,6,June,13950.40361,5858
+Eastern Seoul,2013,7,July,15917.40234,6766
+Eastern Seoul,2013,8,August,14880.68015,6252
+Eastern Seoul,2013,9,September,13602.48093,5613
+Eastern Seoul,2013,10,October,14346.35053,5993
+Eastern Seoul,2013,11,November,13726.15911,5781
+Eastern Seoul,2013,12,December,14909.40748,6410
+Eastern Seoul,2014,1,January,16669.42453,7113
+Eastern Seoul,2014,2,February,15760.93547,6769
+Eastern Seoul,2014,3,March,15134.76501,6383
+Eastern Seoul,2014,4,April,14283.79067,6000
+Eastern Seoul,2014,5,May,13852.44737,5795
+Eastern Seoul,2014,6,June,14048.43642,5855
+Eastern Seoul,2014,7,July,15619.93969,6558
+Eastern Seoul,2014,8,August,14773.03998,6174
+Eastern Seoul,2014,9,September,14246.95634,5860
+Eastern Seoul,2014,10,October,14093.13127,5839
+Eastern Seoul,2014,11,November,13380.57483,5637
+Eastern Seoul,2014,12,December,14583.12679,6254
+Eastern Seoul,2015,1,January,16904.96982,7255
+Eastern Seoul,2015,2,February,13069.3599,5516
+Eastern Seoul,2015,3,March,15355.37936,6503
+Eastern Seoul,2015,4,April,14090.41608,5929
+Eastern Seoul,2015,5,May,13495.18933,5679
+Eastern Seoul,2015,6,June,12221.69307,5053
+Eastern Seoul,2015,7,July,14105.99676,5891
+Eastern Seoul,2015,8,August,14681.83361,6230
+Eastern Seoul,2015,9,September,13248.4752,5515
+Eastern Seoul,2015,10,October,14158.54903,5939
+Eastern Seoul,2015,11,November,14011.69041,5966
+Eastern Seoul,2015,12,December,14695.15064,6372
+Eastern Seoul,2016,1,January,17061.37993,7346
+Eastern Seoul,2016,2,February,14377.79057,6130
+Eastern Seoul,2016,3,March,16097.1916,6842
+Eastern Seoul,2016,4,April,13949.25777,5910
+Eastern Seoul,2016,5,May,14913.89703,6377
+Eastern Seoul,2016,6,June,14310.3068,6013
+Eastern Seoul,2016,7,July,14648.99564,6138
+Eastern Seoul,2016,8,August,15126.9615,6384
+Eastern Seoul,2016,9,September,13496.69602,5555
+Eastern Seoul,2016,10,October,13847.86493,5793
+Eastern Seoul,2016,11,November,14237.54515,5992
+Eastern Seoul,2016,12,December,14379.8606,6202
+Eastern Seoul,2017,1,January,16442.73211,7148
+Eastern Seoul,2017,2,February,14682.58006,6390
+Eastern Seoul,2017,3,March,15188.76657,6523
+Eastern Seoul,2017,4,April,13918.38261,5969
+Eastern Seoul,2017,5,May,14792.45995,6360
+Eastern Seoul,2017,6,June,14341.23237,6159
+Eastern Seoul,2017,7,July,15052.81109,6543
+Eastern Seoul,2017,8,August,15361.96212,6642
+Eastern Seoul,2017,9,September,14237.31521,6080
+Eastern Seoul,2017,10,October,13078.81932,5601
+Eastern Seoul,2017,11,November,14327.98029,6225
+Eastern Seoul,2017,12,December,13748.10067,6046
+Eastern Seoul,2018,1,January,17746.56748,7845
+Eastern Seoul,2018,2,February,13313.55347,5807
+Eastern Seoul,2018,3,March,15001.10884,6516
+Eastern Seoul,2018,4,April,14519.91414,6333
+Eastern Seoul,2018,5,May,14717.96521,6435
+Eastern Seoul,2018,6,June,13635.30742,5930
+Eastern Seoul,2018,7,July,15510.45906,6835
+Eastern Seoul,2018,8,August,14975.40026,6571
+Eastern Seoul,2018,9,September,12787.73169,5524
+Eastern Seoul,2018,10,October,14729.79356,6412
+Eastern Seoul,2018,11,November,14349.8465,6272
+Eastern Seoul,2018,12,December,14199.44153,6342
+Eastern Seoul,2019,1,January,18199.00349,8040
+Eastern Seoul,2019,2,February,14016.10345,6139
+Eastern Seoul,2019,3,March,15378.12549,6743
+Eastern Seoul,2019,4,April,15175.29476,6655
+Eastern Seoul,2019,5,May,15367.9438,6773
+Eastern Seoul,2019,6,June,14400.08514,6323
+Eastern Seoul,2019,7,July,16506.14181,7324
+Eastern Seoul,2019,8,August,15251.9675,6738
+Eastern Seoul,2019,9,September,14473.77525,6341
+Eastern Seoul,2019,10,October,14813.4556,6433
+Eastern Seoul,2019,11,November,14812.61408,6541
+Eastern Seoul,2019,12,December,15307.37752,6886
+Eastern Seoul,2020,1,January,16248.00523,7146
+Eastern Seoul,2020,2,February,13988.42292,6189
+Eastern Seoul,2020,3,March,13506.10755,5897
+Eastern Seoul,2020,4,April,13019.81736,5615
+Eastern Seoul,2020,5,May,14141.05082,6184
+Eastern Seoul,2020,6,June,15024.21179,6610
+Eastern Seoul,2020,7,July,15333.82225,6734
+Eastern Seoul,2020,8,August,13819.73783,6026
+Eastern Seoul,2020,9,September,13461.75727,5807
+Eastern Seoul,2020,10,October,14227.33052,6193
+Eastern Seoul,2020,11,November,14446.12142,6375
+Eastern Seoul,2020,12,December,14441.57942,6449
+Eastern Seoul,2021,1,January,16138.33622,7074
+Eastern Seoul,2021,2,February,13466.34796,5887
+Eastern Seoul,2021,3,March,16642.57108,7325
+Eastern Seoul,2021,4,April,15378.67672,6751
+Eastern Seoul,2021,5,May,14808.0805,6491
+Eastern Seoul,2021,6,June,15461.83486,6789
+Eastern Seoul,2021,7,July,15798.71653,6941
+Eastern Seoul,2021,8,August,15646.32953,6889
+Eastern Seoul,2021,9,September,14164.10158,6168
+Eastern Seoul,2021,10,October,14915.3133,6549
+Eastern Seoul,2021,11,November,15524.15085,6859
+Eastern Seoul,2021,12,December,14847.83613,6730
+Eastern Seoul,2022,1,January,16793.0827,7220
+Eastern Seoul,2022,2,February,14339.64382,6190
+Eastern Seoul,2022,3,March,15272.40221,6552
+Eastern Seoul,2022,4,April,15270.16561,6581
+Eastern Seoul,2022,5,May,16353.99834,7121
+Eastern Seoul,2022,6,June,16098.78898,7032
+Eastern Seoul,2022,7,July,16263.73663,7054
+Eastern Seoul,2022,8,August,16707.05675,7210
+Eastern Seoul,2022,9,September,15603.04913,6688
+Eastern Seoul,2022,10,October,15674.3271,6786
+Eastern Seoul,2022,11,November,16155.26541,7072
+Eastern Seoul,2022,12,December,15689.8425,6999
+Gangwon,2006,1,January,4985.691233,1890
+Gangwon,2006,2,February,4687.959529,1763
+Gangwon,2006,3,March,4736.829021,1756
+Gangwon,2006,4,April,4350.796049,1615
+Gangwon,2006,5,May,4625.247588,1721
+Gangwon,2006,6,June,4547.087194,1699
+Gangwon,2006,7,July,4723.587807,1792
+Gangwon,2006,8,August,5067.368277,1910
+Gangwon,2006,9,September,4547.855721,1669
+Gangwon,2006,10,October,4409.838014,1610
+Gangwon,2006,11,November,4481.083646,1656
+Gangwon,2006,12,December,4472.251824,1671
+Gangwon,2007,1,January,5833.82652,2184
+Gangwon,2007,2,February,4838.704046,1758
+Gangwon,2007,3,March,5319.83149,1923
+Gangwon,2007,4,April,4933.52478,1796
+Gangwon,2007,5,May,5120.59609,1862
+Gangwon,2007,6,June,4902.785118,1775
+Gangwon,2007,7,July,5337.915371,1951
+Gangwon,2007,8,August,5553.570515,2001
+Gangwon,2007,9,September,4765.925474,1662
+Gangwon,2007,10,October,5217.352303,1858
+Gangwon,2007,11,November,4798.881833,1719
+Gangwon,2007,12,December,4637.722768,1691
+Gangwon,2008,1,January,5849.770194,2255
+Gangwon,2008,2,February,4696.661912,1764
+Gangwon,2008,3,March,5066.841119,1911
+Gangwon,2008,4,April,4764.862373,1799
+Gangwon,2008,5,May,4785.573806,1808
+Gangwon,2008,6,June,4903.656864,1875
+Gangwon,2008,7,July,5279.332001,2033
+Gangwon,2008,8,August,4957.527277,1899
+Gangwon,2008,9,September,4757.66867,1776
+Gangwon,2008,10,October,4184.526288,1531
+Gangwon,2008,11,November,4401.908886,1669
+Gangwon,2008,12,December,4534.017907,1735
+Gangwon,2009,1,January,5664.040675,2161
+Gangwon,2009,2,February,5257.03001,2037
+Gangwon,2009,3,March,5463.809379,2077
+Gangwon,2009,4,April,5136.63684,1956
+Gangwon,2009,5,May,4988.546827,1914
+Gangwon,2009,6,June,5069.514745,1959
+Gangwon,2009,7,July,5547.33225,2148
+Gangwon,2009,8,August,5474.448088,2116
+Gangwon,2009,9,September,5252.570349,1975
+Gangwon,2009,10,October,5126.041918,1927
+Gangwon,2009,11,November,4857.713678,1831
+Gangwon,2009,12,December,5175.47305,2000
+Gangwon,2010,1,January,5882.621009,2275
+Gangwon,2010,2,February,4924.862131,1882
+Gangwon,2010,3,March,5655.063013,2159
+Gangwon,2010,4,April,5165.493954,1965
+Gangwon,2010,5,May,5119.346651,1949
+Gangwon,2010,6,June,5287.145851,2022
+Gangwon,2010,7,July,5274.656355,2028
+Gangwon,2010,8,August,5491.07252,2122
+Gangwon,2010,9,September,4843.628994,1786
+Gangwon,2010,10,October,5010.086209,1869
+Gangwon,2010,11,November,4901.922945,1855
+Gangwon,2010,12,December,4895.444089,1906
+Gangwon,2011,1,January,5808.730318,2201
+Gangwon,2011,2,February,4730.860506,1796
+Gangwon,2011,3,March,5545.610192,2103
+Gangwon,2011,4,April,4957.472415,1888
+Gangwon,2011,5,May,5118.077185,1957
+Gangwon,2011,6,June,5068.350012,1938
+Gangwon,2011,7,July,5106.398106,1964
+Gangwon,2011,8,August,4751.524264,1816
+Gangwon,2011,9,September,3908.880339,1449
+Gangwon,2011,10,October,4645.104301,1765
+Gangwon,2011,11,November,4725.444677,1812
+Gangwon,2011,12,December,4740.650902,1856
+Gangwon,2012,1,January,5834.931092,2278
+Gangwon,2012,2,February,5397.442537,2116
+Gangwon,2012,3,March,5323.53671,2043
+Gangwon,2012,4,April,5028.09993,1940
+Gangwon,2012,5,May,5206.85306,2022
+Gangwon,2012,6,June,4990.048561,1924
+Gangwon,2012,7,July,5544.704505,2159
+Gangwon,2012,8,August,5450.141794,2105
+Gangwon,2012,9,September,4835.30991,1829
+Gangwon,2012,10,October,5221.895404,2004
+Gangwon,2012,11,November,4938.268304,1907
+Gangwon,2012,12,December,4719.022378,1863
+Gangwon,2013,1,January,6179.436472,2432
+Gangwon,2013,2,February,4949.892283,1915
+Gangwon,2013,3,March,5195.200733,2008
+Gangwon,2013,4,April,5016.029448,1945
+Gangwon,2013,5,May,5059.31476,1976
+Gangwon,2013,6,June,4764.828362,1865
+Gangwon,2013,7,July,5372.444616,2120
+Gangwon,2013,8,August,5072.538873,1981
+Gangwon,2013,9,September,4747.096351,1810
+Gangwon,2013,10,October,4915.392532,1904
+Gangwon,2013,11,November,4700.736102,1833
+Gangwon,2013,12,December,4998.92348,1996
+Gangwon,2014,1,January,5641.812178,2230
+Gangwon,2014,2,February,5322.656001,2121
+Gangwon,2014,3,March,5211.37781,2047
+Gangwon,2014,4,April,4972.655916,1944
+Gangwon,2014,5,May,4852.9739,1889
+Gangwon,2014,6,June,4873.73916,1897
+Gangwon,2014,7,July,5343.4465,2096
+Gangwon,2014,8,August,5081.260742,1980
+Gangwon,2014,9,September,4995.21134,1919
+Gangwon,2014,10,October,4901.81578,1899
+Gangwon,2014,11,November,4641.657745,1824
+Gangwon,2014,12,December,4964.379847,1989
+Gangwon,2015,1,January,5978.222613,2370
+Gangwon,2015,2,February,4729.928819,1840
+Gangwon,2015,3,March,5532.855683,2174
+Gangwon,2015,4,April,5133.405198,2000
+Gangwon,2015,5,May,4913.151948,1917
+Gangwon,2015,6,June,4534.421102,1733
+Gangwon,2015,7,July,5137.932217,1991
+Gangwon,2015,8,August,5244.730836,2070
+Gangwon,2015,9,September,4866.318146,1875
+Gangwon,2015,10,October,5143.01692,2007
+Gangwon,2015,11,November,5014.075902,1986
+Gangwon,2015,12,December,5184.322979,2094
+Gangwon,2016,1,January,6085.212859,2436
+Gangwon,2016,2,February,5204.708302,2068
+Gangwon,2016,3,March,5814.246667,2306
+Gangwon,2016,4,April,5101.419281,2019
+Gangwon,2016,5,May,5399.702955,2153
+Gangwon,2016,6,June,5212.400794,2058
+Gangwon,2016,7,July,5335.981246,2099
+Gangwon,2016,8,August,5463.094584,2165
+Gangwon,2016,9,September,5031.410419,1941
+Gangwon,2016,10,October,5027.658399,1981
+Gangwon,2016,11,November,5143.490263,2040
+Gangwon,2016,12,December,5129.535843,2092
+Gangwon,2017,1,January,5859.775861,2357
+Gangwon,2017,2,February,5224.634924,2111
+Gangwon,2017,3,March,5469.393532,2181
+Gangwon,2017,4,April,5021.682298,2004
+Gangwon,2017,5,May,5324.75382,2131
+Gangwon,2017,6,June,5177.365386,2070
+Gangwon,2017,7,July,5371.649898,2171
+Gangwon,2017,8,August,5501.195667,2211
+Gangwon,2017,9,September,5134.31462,2034
+Gangwon,2017,10,October,4742.710098,1891
+Gangwon,2017,11,November,5076.733531,2061
+Gangwon,2017,12,December,4875.813145,2007
+Gangwon,2018,1,January,6240.61956,2573
+Gangwon,2018,2,February,4786.267236,1934
+Gangwon,2018,3,March,5366.836578,2174
+Gangwon,2018,4,April,5180.932717,2110
+Gangwon,2018,5,May,5260.758193,2142
+Gangwon,2018,6,June,4910.23385,1991
+Gangwon,2018,7,July,5477.838936,2253
+Gangwon,2018,8,August,5321.425259,2177
+Gangwon,2018,9,September,4643.308813,1861
+Gangwon,2018,10,October,5252.618032,2136
+Gangwon,2018,11,November,5130.164651,2094
+Gangwon,2018,12,December,5018.362502,2103
+Gangwon,2019,1,January,6388.815315,2601
+Gangwon,2019,2,February,5000.538752,2020
+Gangwon,2019,3,March,5461.248251,2212
+Gangwon,2019,4,April,5391.479332,2185
+Gangwon,2019,5,May,5427.834615,2211
+Gangwon,2019,6,June,5109.672375,2073
+Gangwon,2019,7,July,5779.274039,2373
+Gangwon,2019,8,August,5379.786669,2199
+Gangwon,2019,9,September,5138.601212,2082
+Gangwon,2019,10,October,5301.831311,2128
+Gangwon,2019,11,November,5222.370241,2132
+Gangwon,2019,12,December,5327.670216,2233
+Gangwon,2020,1,January,5857.104581,2350
+Gangwon,2020,2,February,5001.001436,2011
+Gangwon,2020,3,March,4889.170164,1928
+Gangwon,2020,4,April,4764.03622,1871
+Gangwon,2020,5,May,5121.0048,2052
+Gangwon,2020,6,June,5361.234931,2171
+Gangwon,2020,7,July,5485.669906,2216
+Gangwon,2020,8,August,5025.987397,2006
+Gangwon,2020,9,September,4920.826448,1931
+Gangwon,2020,10,October,5124.113578,2046
+Gangwon,2020,11,November,5132.825929,2084
+Gangwon,2020,12,December,5093.69882,2092
+Gangwon,2021,1,January,5716.426486,2283
+Gangwon,2021,2,February,4809.466694,1923
+Gangwon,2021,3,March,5845.630359,2360
+Gangwon,2021,4,April,5427.246711,2184
+Gangwon,2021,5,May,5239.199519,2104
+Gangwon,2021,6,June,5429.178738,2189
+Gangwon,2021,7,July,5535.572337,2235
+Gangwon,2021,8,August,5494.07257,2216
+Gangwon,2021,9,September,5053.372442,2014
+Gangwon,2021,10,October,5231.0538,2115
+Gangwon,2021,11,November,5394.859326,2196
+Gangwon,2021,12,December,5050.987403,2118
+Gangwon,2022,1,January,5721.814066,2271
+Gangwon,2022,2,February,4892.447967,1950
+Gangwon,2022,3,March,5293.224171,2081
+Gangwon,2022,4,April,5214.908877,2080
+Gangwon,2022,5,May,5468.897436,2218
+Gangwon,2022,6,June,5369.553341,2189
+Gangwon,2022,7,July,5454.739648,2201
+Gangwon,2022,8,August,5625.656499,2253
+Gangwon,2022,9,September,5342.521224,2122
+Gangwon,2022,10,October,5298.709771,2130
+Gangwon,2022,11,November,5407.67451,2204
+Gangwon,2022,12,December,5176.152419,2157
+Gyeonggi,2006,1,January,36674.61112,13642
+Gyeonggi,2006,2,February,34594.22238,12759
+Gyeonggi,2006,3,March,34916.28559,12677
+Gyeonggi,2006,4,April,32084.8585,11662
+Gyeonggi,2006,5,May,34050.49848,12417
+Gyeonggi,2006,6,June,33420.88982,12233
+Gyeonggi,2006,7,July,34668.69099,12908
+Gyeonggi,2006,8,August,37212.85989,13768
+Gyeonggi,2006,9,September,33445.28066,12018
+Gyeonggi,2006,10,October,32503.95753,11629
+Gyeonggi,2006,11,November,33092.88764,11975
+Gyeonggi,2006,12,December,32968.8653,12082
+Gyeonggi,2007,1,January,44004.07019,16388
+Gyeonggi,2007,2,February,36505.36275,13145
+Gyeonggi,2007,3,March,40085.47182,14319
+Gyeonggi,2007,4,April,37082.09135,13340
+Gyeonggi,2007,5,May,38389.87849,13807
+Gyeonggi,2007,6,June,36618.56964,13119
+Gyeonggi,2007,7,July,39918.52384,14459
+Gyeonggi,2007,8,August,41746.04211,14905
+Gyeonggi,2007,9,September,35980.39718,12366
+Gyeonggi,2007,10,October,39305.40991,13841
+Gyeonggi,2007,11,November,36256.26078,12832
+Gyeonggi,2007,12,December,34887.07754,12612
+Gyeonggi,2008,1,January,44440.50046,16741
+Gyeonggi,2008,2,February,35643.87298,13024
+Gyeonggi,2008,3,March,38318.11236,14064
+Gyeonggi,2008,4,April,35873.48841,13163
+Gyeonggi,2008,5,May,35981.84941,13215
+Gyeonggi,2008,6,June,36666.54908,13637
+Gyeonggi,2008,7,July,39652.31645,14900
+Gyeonggi,2008,8,August,37302.11458,13915
+Gyeonggi,2008,9,September,35779.49096,12958
+Gyeonggi,2008,10,October,31906.80589,11332
+Gyeonggi,2008,11,November,33150.42003,12220
+Gyeonggi,2008,12,December,34189.32992,12768
+Gyeonggi,2009,1,January,44494.12367,16536
+Gyeonggi,2009,2,February,40960.1172,15493
+Gyeonggi,2009,3,March,42488.3737,15721
+Gyeonggi,2009,4,April,39812.97837,14759
+Gyeonggi,2009,5,May,38501.74545,14397
+Gyeonggi,2009,6,June,39047.63054,14715
+Gyeonggi,2009,7,July,42953.9587,16238
+Gyeonggi,2009,8,August,42516.36813,16045
+Gyeonggi,2009,9,September,40784.14616,14917
+Gyeonggi,2009,10,October,39814.88473,14570
+Gyeonggi,2009,11,November,37804.68201,13875
+Gyeonggi,2009,12,December,40240.97285,15206
+Gyeonggi,2010,1,January,48389.12296,18246
+Gyeonggi,2010,2,February,40261.63842,15012
+Gyeonggi,2010,3,March,46063.86696,17139
+Gyeonggi,2010,4,April,42068.90569,15594
+Gyeonggi,2010,5,May,41703.70608,15484
+Gyeonggi,2010,6,June,42998.78046,16059
+Gyeonggi,2010,7,July,42806.90721,16074
+Gyeonggi,2010,8,August,44496.93074,16807
+Gyeonggi,2010,9,September,39576.89188,14168
+Gyeonggi,2010,10,October,40897.80796,14836
+Gyeonggi,2010,11,November,39967.11537,14699
+Gyeonggi,2010,12,December,39649.68399,15050
+Gyeonggi,2011,1,January,49525.13289,18422
+Gyeonggi,2011,2,February,39939.52875,14877
+Gyeonggi,2011,3,March,46644.86529,17348
+Gyeonggi,2011,4,April,41680.91974,15559
+Gyeonggi,2011,5,May,42936.31472,16116
+Gyeonggi,2011,6,June,42571.35601,15974
+Gyeonggi,2011,7,July,42876.31457,16200
+Gyeonggi,2011,8,August,40090.73496,15057
+Gyeonggi,2011,9,September,33358.61222,12102
+Gyeonggi,2011,10,October,39005.85668,14520
+Gyeonggi,2011,11,November,39756.46452,14947
+Gyeonggi,2011,12,December,39913.00586,15369
+Gyeonggi,2012,1,January,49972.4703,19091
+Gyeonggi,2012,2,February,46097.60511,17694
+Gyeonggi,2012,3,March,45350.50949,17001
+Gyeonggi,2012,4,April,42688.30345,16093
+Gyeonggi,2012,5,May,44259.44347,16822
+Gyeonggi,2012,6,June,42384.69093,15960
+Gyeonggi,2012,7,July,47275.34397,18013
+Gyeonggi,2012,8,August,46601.02715,17596
+Gyeonggi,2012,9,September,41268.72779,15226
+Gyeonggi,2012,10,October,44404.4161,16634
+Gyeonggi,2012,11,November,41991.89126,15847
+Gyeonggi,2012,12,December,40051.00429,15474
+Gyeonggi,2013,1,January,52452.61673,20402
+Gyeonggi,2013,2,February,41823.60184,15966
+Gyeonggi,2013,3,March,43726.49374,16657
+Gyeonggi,2013,4,April,42169.21437,16131
+Gyeonggi,2013,5,May,42484.97656,16389
+Gyeonggi,2013,6,June,40026.21477,15458
+Gyeonggi,2013,7,July,45190.77139,17625
+Gyeonggi,2013,8,August,42742.11722,16467
+Gyeonggi,2013,9,September,40066.2225,15040
+Gyeonggi,2013,10,October,41270.49841,15751
+Gyeonggi,2013,11,November,39340.87158,15133
+Gyeonggi,2013,12,December,41727.87465,16477
+Gyeonggi,2014,1,January,48699.27309,18947
+Gyeonggi,2014,2,February,45693.48208,17949
+Gyeonggi,2014,3,March,44610.38506,17220
+Gyeonggi,2014,4,April,42535.90617,16329
+Gyeonggi,2014,5,May,41547.67522,15892
+Gyeonggi,2014,6,June,41722.15297,15966
+Gyeonggi,2014,7,July,45640.34766,17615
+Gyeonggi,2014,8,August,43466.24025,16652
+Gyeonggi,2014,9,September,42864.22503,16129
+Gyeonggi,2014,10,October,41823.13106,15874
+Gyeonggi,2014,11,November,39560.34967,15249
+Gyeonggi,2014,12,December,42311.11094,16661
+Gyeonggi,2015,1,January,50601.77993,19768
+Gyeonggi,2015,2,February,40027.69628,15312
+Gyeonggi,2015,3,March,46677.21122,18024
+Gyeonggi,2015,4,April,43309.62517,16582
+Gyeonggi,2015,5,May,41510.82009,15918
+Gyeonggi,2015,6,June,38625.67792,14495
+Gyeonggi,2015,7,July,43412.30236,16559
+Gyeonggi,2015,8,August,44088.92336,17155
+Gyeonggi,2015,9,September,41088.5278,15557
+Gyeonggi,2015,10,October,43206.11196,16554
+Gyeonggi,2015,11,November,42174.75915,16422
+Gyeonggi,2015,12,December,43370.98242,17282
+Gyeonggi,2016,1,January,50421.80512,19836
+Gyeonggi,2016,2,February,43074.70408,16813
+Gyeonggi,2016,3,March,48047.20093,18695
+Gyeonggi,2016,4,April,42193.83782,16381
+Gyeonggi,2016,5,May,44586.09641,17482
+Gyeonggi,2016,6,June,42954.77457,16671
+Gyeonggi,2016,7,July,44016.25052,17010
+Gyeonggi,2016,8,August,45141.5944,17589
+Gyeonggi,2016,9,September,41566.55992,15711
+Gyeonggi,2016,10,October,41255.25393,15952
+Gyeonggi,2016,11,November,42049.23395,16377
+Gyeonggi,2016,12,December,41610.5713,16714
+Gyeonggi,2017,1,January,49209.36074,19494
+Gyeonggi,2017,2,February,43629.39446,17367
+Gyeonggi,2017,3,March,45661.77267,17929
+Gyeonggi,2017,4,April,41985.85232,16488
+Gyeonggi,2017,5,May,44587.04664,17593
+Gyeonggi,2017,6,June,43340.88365,17097
+Gyeonggi,2017,7,July,45021.54854,17962
+Gyeonggi,2017,8,August,46199.59924,18313
+Gyeonggi,2017,9,September,43251.70778,16880
+Gyeonggi,2017,10,October,39744.98559,15591
+Gyeonggi,2017,11,November,42252.5328,16897
+Gyeonggi,2017,12,December,40532.79367,16436
+Gyeonggi,2018,1,January,53438.74001,21477
+Gyeonggi,2018,2,February,41100.86232,16169
+Gyeonggi,2018,3,March,45983.75005,18151
+Gyeonggi,2018,4,April,44337.59672,17617
+Gyeonggi,2018,5,May,45136.9862,17941
+Gyeonggi,2018,6,June,42195.00917,16697
+Gyeonggi,2018,7,July,46940.44887,18850
+Gyeonggi,2018,8,August,45743.65919,18261
+Gyeonggi,2018,9,September,39990.46902,15617
+Gyeonggi,2018,10,October,45020.26023,17856
+Gyeonggi,2018,11,November,43738.08074,17407
+Gyeonggi,2018,12,December,42523.0079,17403
+Gyeonggi,2019,1,January,54167.95882,21623
+Gyeonggi,2019,2,February,42390.54972,16768
+Gyeonggi,2019,3,March,46199.33338,18353
+Gyeonggi,2019,4,April,45632.33748,18159
+Gyeonggi,2019,5,May,45992.73824,18417
+Gyeonggi,2019,6,June,43327.82847,17267
+Gyeonggi,2019,7,July,48950.59194,19759
+Gyeonggi,2019,8,August,45658.1385,18325
+Gyeonggi,2019,9,September,43645.95135,17338
+Gyeonggi,2019,10,October,44907.33635,17671
+Gyeonggi,2019,11,November,44147.80239,17690
+Gyeonggi,2019,12,December,44705.4968,18410
+Gyeonggi,2020,1,January,49678.99563,19827
+Gyeonggi,2020,2,February,42406.26264,16997
+Gyeonggi,2020,3,March,41630.19792,16390
+Gyeonggi,2020,4,April,40509.6833,15854
+Gyeonggi,2020,5,May,43369.63237,17313
+Gyeonggi,2020,6,June,45555.42592,18382
+Gyeonggi,2020,7,July,46644.61727,18770
+Gyeonggi,2020,8,August,42884.88169,17045
+Gyeonggi,2020,9,September,42065.27667,16439
+Gyeonggi,2020,10,October,43517.31342,17306
+Gyeonggi,2020,11,November,43482.08642,17586
+Gyeonggi,2020,12,December,43209.9141,17679
+Gyeonggi,2021,1,January,49496.28622,19713
+Gyeonggi,2021,2,February,41545.23281,16553
+Gyeonggi,2021,3,March,50486.63479,20340
+Gyeonggi,2021,4,April,46912.20945,18841
+Gyeonggi,2021,5,May,45354.56826,18170
+Gyeonggi,2021,6,June,47052.24111,18925
+Gyeonggi,2021,7,July,48096.71924,19347
+Gyeonggi,2021,8,August,47791.33089,19213
+Gyeonggi,2021,9,September,43851.44613,17403
+Gyeonggi,2021,10,October,45253.88608,18204
+Gyeonggi,2021,11,November,46638.06506,18926
+Gyeonggi,2021,12,December,43633.78355,18254
+Gyeonggi,2022,1,January,51396.84526,20392
+Gyeonggi,2022,2,February,43884.54039,17501
+Gyeonggi,2022,3,March,47464.82772,18713
+Gyeonggi,2022,4,April,46842.1266,18710
+Gyeonggi,2022,5,May,49223.56167,19984
+Gyeonggi,2022,6,June,48422.10212,19731
+Gyeonggi,2022,7,July,49206.94231,19843
+Gyeonggi,2022,8,August,50878.37797,20362
+Gyeonggi,2022,9,September,48151.24592,19098
+Gyeonggi,2022,10,October,47598.36004,19116
+Gyeonggi,2022,11,November,48476.6286,19750
+Gyeonggi,2022,12,December,46483.62176,19353
+Gyeongnam,2006,1,January,8951.115785,3414
+Gyeongnam,2006,2,February,8452.575754,3200
+Gyeongnam,2006,3,March,8536.524004,3186
+Gyeongnam,2006,4,April,7878.469996,2943
+Gyeongnam,2006,5,May,8388.049369,3146
+Gyeongnam,2006,6,June,8254.405885,3110
+Gyeongnam,2006,7,July,8544.522797,3267
+Gyeongnam,2006,8,August,9115.822454,3469
+Gyeongnam,2006,9,September,8203.064763,3034
+Gyeongnam,2006,10,October,7960.052737,2933
+Gyeongnam,2006,11,November,8051.730106,2997
+Gyeongnam,2006,12,December,8049.459981,3037
+Gyeongnam,2007,1,January,10593.64167,4100
+Gyeongnam,2007,2,February,8758.266621,3280
+Gyeongnam,2007,3,March,9634.684904,3592
+Gyeongnam,2007,4,April,8955.277101,3360
+Gyeongnam,2007,5,May,9296.345531,3491
+Gyeongnam,2007,6,June,8889.390514,3328
+Gyeongnam,2007,7,July,9639.937144,3637
+Gyeongnam,2007,8,August,10011.50225,3723
+Gyeongnam,2007,9,September,8605.110985,3081
+Gyeongnam,2007,10,October,9390.178283,3448
+Gyeongnam,2007,11,November,8663.990012,3199
+Gyeongnam,2007,12,December,8432.466127,3181
+Gyeongnam,2008,1,January,10450.3664,4104
+Gyeongnam,2008,2,February,8435.841431,3223
+Gyeongnam,2008,3,March,9089.791978,3494
+Gyeongnam,2008,4,April,8553.806782,3286
+Gyeongnam,2008,5,May,8622.247481,3313
+Gyeongnam,2008,6,June,8788.839976,3422
+Gyeongnam,2008,7,July,9490.381783,3713
+Gyeongnam,2008,8,August,8897.790591,3460
+Gyeongnam,2008,9,September,8515.275173,3225
+Gyeongnam,2008,10,October,7566.728236,2817
+Gyeongnam,2008,11,November,7894.338022,3044
+Gyeongnam,2008,12,December,8178.274719,3194
+Gyeongnam,2009,1,January,11564.10156,4483
+Gyeongnam,2009,2,February,10725.02079,4229
+Gyeongnam,2009,3,March,11093.86792,4287
+Gyeongnam,2009,4,April,10438.16789,4039
+Gyeongnam,2009,5,May,10141.1718,3954
+Gyeongnam,2009,6,June,10300.39665,4047
+Gyeongnam,2009,7,July,11295.15599,4448
+Gyeongnam,2009,8,August,11163.18219,4389
+Gyeongnam,2009,9,September,10661.4699,4070
+Gyeongnam,2009,10,October,10397.62332,3975
+Gyeongnam,2009,11,November,9892.87084,3793
+Gyeongnam,2009,12,December,10571.43625,4165
+Gyeongnam,2010,1,January,12844.68659,5036
+Gyeongnam,2010,2,February,10689.15119,4141
+Gyeongnam,2010,3,March,12235.07888,4733
+Gyeongnam,2010,4,April,11162.6223,4299
+Gyeongnam,2010,5,May,11085.00124,4274
+Gyeongnam,2010,6,June,11471.11901,4445
+Gyeongnam,2010,7,July,11428.49462,4454
+Gyeongnam,2010,8,August,11887.77295,4660
+Gyeongnam,2010,9,September,10429.72088,3888
+Gyeongnam,2010,10,October,10789.38839,4077
+Gyeongnam,2010,11,November,10561.26543,4048
+Gyeongnam,2010,12,December,10597.35485,4189
+Gyeongnam,2011,1,January,12669.09205,4880
+Gyeongnam,2011,2,February,10268.4365,3961
+Gyeongnam,2011,3,March,11966.74941,4605
+Gyeongnam,2011,4,April,10695.12426,4129
+Gyeongnam,2011,5,May,11056.81531,4290
+Gyeongnam,2011,6,June,10983.20182,4259
+Gyeongnam,2011,7,July,11054.28714,4313
+Gyeongnam,2011,8,August,10318.43383,4003
+Gyeongnam,2011,9,September,8517.010571,3200
+Gyeongnam,2011,10,October,9996.636712,3847
+Gyeongnam,2011,11,November,10213.65545,3973
+Gyeongnam,2011,12,December,10342.63502,4119
+Gyeongnam,2012,1,January,13102.24667,5132
+Gyeongnam,2012,2,February,12124.57829,4769
+Gyeongnam,2012,3,March,11887.00632,4574
+Gyeongnam,2012,4,April,11196.43115,4331
+Gyeongnam,2012,5,May,11634.79332,4531
+Gyeongnam,2012,6,June,11170.16614,4312
+Gyeongnam,2012,7,July,12464.88531,4858
+Gyeongnam,2012,8,August,12265.26033,4742
+Gyeongnam,2012,9,September,10793.18805,4084
+Gyeongnam,2012,10,October,11642.16683,4477
+Gyeongnam,2012,11,November,11011.98058,4264
+Gyeongnam,2012,12,December,10570.18906,4188
+Gyeongnam,2013,1,January,13869.71235,5457
+Gyeongnam,2013,2,February,11078.04597,4281
+Gyeongnam,2013,3,March,11597.85016,4481
+Gyeongnam,2013,4,April,11173.43657,4337
+Gyeongnam,2013,5,May,11277.04424,4409
+Gyeongnam,2013,6,June,10670.28911,4176
+Gyeongnam,2013,7,July,12038.6776,4749
+Gyeongnam,2013,8,August,11391.06394,4441
+Gyeongnam,2013,9,September,10610.74391,4042
+Gyeongnam,2013,10,October,10942.12773,4239
+Gyeongnam,2013,11,November,10415.07748,4068
+Gyeongnam,2013,12,December,11117.78389,4450
+Gyeongnam,2014,1,January,12883.87785,5103
+Gyeongnam,2014,2,February,12125.67883,4846
+Gyeongnam,2014,3,March,11815.91052,4655
+Gyeongnam,2014,4,April,11274.64883,4420
+Gyeongnam,2014,5,May,11031.18084,4304
+Gyeongnam,2014,6,June,11110.8977,4330
+Gyeongnam,2014,7,July,12182.20611,4782
+Gyeongnam,2014,8,August,11583.88214,4513
+Gyeongnam,2014,9,September,11405.30928,4383
+Gyeongnam,2014,10,October,11125.98167,4314
+Gyeongnam,2014,11,November,10507.30491,4140
+Gyeongnam,2014,12,December,11283.22497,4537
+Gyeongnam,2015,1,January,13585.49834,5442
+Gyeongnam,2015,2,February,10696.85579,4198
+Gyeongnam,2015,3,March,12528.75625,4974
+Gyeongnam,2015,4,April,11618.33727,4572
+Gyeongnam,2015,5,May,11139.29163,4388
+Gyeongnam,2015,6,June,10320.1921,3980
+Gyeongnam,2015,7,July,11683.86933,4571
+Gyeongnam,2015,8,August,11915.68356,4749
+Gyeongnam,2015,9,September,11027.81183,4288
+Gyeongnam,2015,10,October,11646.50011,4589
+Gyeongnam,2015,11,November,11364.69926,4550
+Gyeongnam,2015,12,December,11785.55914,4815
+Gyeongnam,2016,1,January,13655.04166,5512
+Gyeongnam,2016,2,February,11668.89308,4679
+Gyeongnam,2016,3,March,12994.35407,5205
+Gyeongnam,2016,4,April,11437.67952,4574
+Gyeongnam,2016,5,May,12124.3241,4881
+Gyeongnam,2016,6,June,11744.86653,4683
+Gyeongnam,2016,7,July,11998.5492,4764
+Gyeongnam,2016,8,August,12326.43587,4928
+Gyeongnam,2016,9,September,11312.28583,4403
+Gyeongnam,2016,10,October,11278.00793,4490
+Gyeongnam,2016,11,November,11532.36765,4621
+Gyeongnam,2016,12,December,11529.78258,4748
+Gyeongnam,2017,1,January,13490.07815,5484
+Gyeongnam,2017,2,February,12000.89283,4901
+Gyeongnam,2017,3,March,12521.36504,5053
+Gyeongnam,2017,4,April,11515.46594,4649
+Gyeongnam,2017,5,May,12272.6303,4966
+Gyeongnam,2017,6,June,11965.2746,4833
+Gyeongnam,2017,7,July,12427.35186,5072
+Gyeongnam,2017,8,August,12740.7778,5168
+Gyeongnam,2017,9,September,11867.10972,4745
+Gyeongnam,2017,10,October,10937.36373,4413
+Gyeongnam,2017,11,November,11674.86767,4799
+Gyeongnam,2017,12,December,11268.86597,4688
+Gyeongnam,2018,1,January,14003.58253,5787
+Gyeongnam,2018,2,February,10687.79115,4333
+Gyeongnam,2018,3,March,12010.56,4881
+Gyeongnam,2018,4,April,11597.38681,4742
+Gyeongnam,2018,5,May,11805.24978,4822
+Gyeongnam,2018,6,June,11050.67385,4493
+Gyeongnam,2018,7,July,12336.35709,5080
+Gyeongnam,2018,8,August,12012.01616,4918
+Gyeongnam,2018,9,September,10452.92905,4191
+Gyeongnam,2018,10,October,11836.9102,4817
+Gyeongnam,2018,11,November,11493.10784,4702
+Gyeongnam,2018,12,December,11289.0523,4735
+Gyeongnam,2019,1,January,13826.57939,5663
+Gyeongnam,2019,2,February,10813.29698,4396
+Gyeongnam,2019,3,March,11789.0722,4812
+Gyeongnam,2019,4,April,11647.54005,4758
+Gyeongnam,2019,5,May,11763.51183,4825
+Gyeongnam,2019,6,June,11109.90171,4533
+Gyeongnam,2019,7,July,12573.42509,5190
+Gyeongnam,2019,8,August,11734.86977,4817
+Gyeongnam,2019,9,September,11180.018,4551
+Gyeongnam,2019,10,October,11500.67079,4643
+Gyeongnam,2019,11,November,11322.00937,4652
+Gyeongnam,2019,12,December,11574.97474,4880
+Gyeongnam,2020,1,January,13044.49198,5331
+Gyeongnam,2020,2,February,11132.42873,4557
+Gyeongnam,2020,3,March,10785.60487,4356
+Gyeongnam,2020,4,April,10581.41051,4249
+Gyeongnam,2020,5,May,11462.65365,4680
+Gyeongnam,2020,6,June,12141.87644,4994
+Gyeongnam,2020,7,July,12433.94173,5098
+Gyeongnam,2020,8,August,11382.14316,4615
+Gyeongnam,2020,9,September,11069.0329,4421
+Gyeongnam,2020,10,October,11510.94341,4683
+Gyeongnam,2020,11,November,11570.35958,4775
+Gyeongnam,2020,12,December,11533.77039,4807
+Gyeongnam,2021,1,January,12447.50248,5127
+Gyeongnam,2021,2,February,10489.58387,4317
+Gyeongnam,2021,3,March,12828.76244,5333
+Gyeongnam,2021,4,April,11916.91163,4934
+Gyeongnam,2021,5,May,11527.51691,4757
+Gyeongnam,2021,6,June,12034.01437,4971
+Gyeongnam,2021,7,July,12298.1632,5080
+Gyeongnam,2021,8,August,12185.44878,5031
+Gyeongnam,2021,9,September,11133.13513,4551
+Gyeongnam,2021,10,October,11585.72728,4793
+Gyeongnam,2021,11,November,11966.74563,4994
+Gyeongnam,2021,12,December,11307.00157,4843
+Gyeongnam,2022,1,January,12320.006,5086
+Gyeongnam,2022,2,February,10540.16327,4374
+Gyeongnam,2022,3,March,11349.61813,4664
+Gyeongnam,2022,4,April,11340.12867,4706
+Gyeongnam,2022,5,May,12026.63508,5056
+Gyeongnam,2022,6,June,11859.66999,4999
+Gyeongnam,2022,7,July,11962.55696,4991
+Gyeongnam,2022,8,August,12336.01173,5112
+Gyeongnam,2022,9,September,11640.11903,4796
+Gyeongnam,2022,10,October,11544.8159,4814
+Gyeongnam,2022,11,November,11849.12772,5004
+Gyeongnam,2022,12,December,11475.36017,4933
+Incheon,2006,1,January,8464.410485,3224
+Incheon,2006,2,February,8020.377285,3045
+Incheon,2006,3,March,8025.808691,3005
+Incheon,2006,4,April,7363.240989,2762
+Incheon,2006,5,May,7823.468606,2942
+Incheon,2006,6,June,7682.573728,2895
+Incheon,2006,7,July,8001.766991,3051
+Incheon,2006,8,August,8592.498233,3246
+Incheon,2006,9,September,7650.868378,2815
+Incheon,2006,10,October,7476.774594,2751
+Incheon,2006,11,November,7638.769261,2856
+Incheon,2006,12,December,7714.813313,2928
+Incheon,2007,1,January,10334.21427,3998
+Incheon,2007,2,February,8358.820165,3127
+Incheon,2007,3,March,9212.713433,3442
+Incheon,2007,4,April,8549.0336,3212
+Incheon,2007,5,May,8882.093328,3331
+Incheon,2007,6,June,8497.593352,3163
+Incheon,2007,7,July,9239.575796,3465
+Incheon,2007,8,August,9609.576461,3551
+Incheon,2007,9,September,8071.848875,2884
+Incheon,2007,10,October,9049.758816,3330
+Incheon,2007,11,November,8334.224194,3090
+Incheon,2007,12,December,8161.858799,3090
+Incheon,2008,1,January,10273.20947,4099
+Incheon,2008,2,February,8114.206711,3149
+Incheon,2008,3,March,8807.61269,3443
+Incheon,2008,4,April,8231.559775,3213
+Incheon,2008,5,May,8232.433958,3209
+Incheon,2008,6,June,8464.7913,3339
+Incheon,2008,7,July,9144.500453,3624
+Incheon,2008,8,August,8531.526568,3357
+Incheon,2008,9,September,8105.092311,3112
+Incheon,2008,10,October,7282.056296,2763
+Incheon,2008,11,November,7629.541437,2994
+Incheon,2008,12,December,8018.692937,3190
+Incheon,2009,1,January,10799.43124,4224
+Incheon,2009,2,February,10117.27103,4029
+Incheon,2009,3,March,10413.22969,4072
+Incheon,2009,4,April,9756.610285,3816
+Incheon,2009,5,May,9457.165728,3725
+Incheon,2009,6,June,9680.194361,3837
+Incheon,2009,7,July,10648.66532,4215
+Incheon,2009,8,August,10547.74683,4159
+Incheon,2009,9,September,9942.908672,3816
+Incheon,2009,10,October,9806.509202,3788
+Incheon,2009,11,November,9323.656422,3619
+Incheon,2009,12,December,10162.44774,4052
+Incheon,2010,1,January,12264.82164,4883
+Incheon,2010,2,February,10069.96754,3954
+Incheon,2010,3,March,11560.05954,4547
+Incheon,2010,4,April,10471.41436,4096
+Incheon,2010,5,May,10416.0645,4076
+Incheon,2010,6,June,10855.71669,4254
+Incheon,2010,7,July,10790.82662,4241
+Incheon,2010,8,August,11148.54296,4408
+Incheon,2010,9,September,9524.146591,3602
+Incheon,2010,10,October,9976.63877,3841
+Incheon,2010,11,November,9767.651333,3830
+Incheon,2010,12,December,9939.582591,4014
+Incheon,2011,1,January,12155.16205,4760
+Incheon,2011,2,February,9801.300533,3838
+Incheon,2011,3,March,11390.403,4458
+Incheon,2011,4,April,10097.58434,3967
+Incheon,2011,5,May,10463.02148,4126
+Incheon,2011,6,June,10403.22231,4089
+Incheon,2011,7,July,10458.14325,4129
+Incheon,2011,8,August,9760.701169,3827
+Incheon,2011,9,September,8040.777709,3067
+Incheon,2011,10,October,9478.882994,3709
+Incheon,2011,11,November,9666.307608,3832
+Incheon,2011,12,December,9957.426663,4036
+Incheon,2012,1,January,12459.97289,4999
+Incheon,2012,2,February,11521.97775,4633
+Incheon,2012,3,March,11134.72476,4385
+Incheon,2012,4,April,10444.23816,4137
+Incheon,2012,5,May,10906.82866,4342
+Incheon,2012,6,June,10457.67092,4112
+Incheon,2012,7,July,11824.91645,4689
+Incheon,2012,8,August,11572.21474,4550
+Incheon,2012,9,September,10018.12719,3863
+Incheon,2012,10,October,10922.29154,4297
+Incheon,2012,11,November,10347.35462,4105
+Incheon,2012,12,December,10045.35555,4076
+Incheon,2013,1,January,13551.27722,5513
+Incheon,2013,2,February,10695.05732,4264
+Incheon,2013,3,March,11116.42321,4421
+Incheon,2013,4,April,10690.22509,4271
+Incheon,2013,5,May,10769.17898,4331
+Incheon,2013,6,June,10179.68801,4085
+Incheon,2013,7,July,11570.91508,4687
+Incheon,2013,8,August,10881.04494,4354
+Incheon,2013,9,September,10043.74373,3930
+Incheon,2013,10,October,10440.34637,4159
+Incheon,2013,11,November,9965.5412,4009
+Incheon,2013,12,December,10802.02532,4453
+Incheon,2014,1,January,12590.03616,5127
+Incheon,2014,2,February,11867.48152,4871
+Incheon,2014,3,March,11382.10606,4599
+Incheon,2014,4,April,10790.85857,4336
+Incheon,2014,5,May,10539.37186,4209
+Incheon,2014,6,June,10660.73671,4242
+Incheon,2014,7,July,11787.16104,4721
+Incheon,2014,8,August,11190.69309,4452
+Incheon,2014,9,September,10904.43701,4274
+Incheon,2014,10,October,10655.19435,4218
+Incheon,2014,11,November,10056.78886,4056
+Incheon,2014,12,December,10922.86892,4496
+Incheon,2015,1,January,13085.545,5361
+Incheon,2015,2,February,10179.93694,4085
+Incheon,2015,3,March,11854.56627,4810
+Incheon,2015,4,April,10932.95391,4397
+Incheon,2015,5,May,10484.41966,4214
+Incheon,2015,6,June,9624.913792,3784
+Incheon,2015,7,July,11054.59749,4397
+Incheon,2015,8,August,11375.4696,4604
+Incheon,2015,9,September,10391.29362,4110
+Incheon,2015,10,October,10996.6549,4411
+Incheon,2015,11,November,10757.15281,4394
+Incheon,2015,12,December,11326.52624,4713
+Incheon,2016,1,January,13133.6431,5432
+Incheon,2016,2,February,11122.03256,4565
+Incheon,2016,3,March,12318.40089,5049
+Incheon,2016,4,April,10783.61329,4407
+Incheon,2016,5,May,11478.59006,4719
+Incheon,2016,6,June,11114.72386,4511
+Incheon,2016,7,July,11363.31696,4595
+Incheon,2016,8,August,11731.15405,4774
+Incheon,2016,9,September,10624.24898,4205
+Incheon,2016,10,October,10655.44621,4315
+Incheon,2016,11,November,10943.85973,4464
+Incheon,2016,12,December,11068.15472,4638
+Incheon,2017,1,January,12816.60831,5328
+Incheon,2017,2,February,11390.37725,4758
+Incheon,2017,3,March,11757.17335,4852
+Incheon,2017,4,April,10803.79572,4454
+Incheon,2017,5,May,11541.34901,4763
+Incheon,2017,6,June,11263.05065,4632
+Incheon,2017,7,July,11738.34523,4881
+Incheon,2017,8,August,12040.79025,4975
+Incheon,2017,9,September,11176.46445,4552
+Incheon,2017,10,October,10224.02335,4203
+Incheon,2017,11,November,10978.68175,4604
+Incheon,2017,12,December,10674.94625,4524
+Incheon,2018,1,January,14019.48122,5932
+Incheon,2018,2,February,10585.17258,4401
+Incheon,2018,3,March,11876.39386,4942
+Incheon,2018,4,April,11467.50808,4798
+Incheon,2018,5,May,11686.9258,4882
+Incheon,2018,6,June,10913.58602,4533
+Incheon,2018,7,July,12285.53121,5165
+Incheon,2018,8,August,11916.87208,4982
+Incheon,2018,9,September,10297.37331,4214
+Incheon,2018,10,October,11751.80594,4880
+Incheon,2018,11,November,11380.11406,4759
+Incheon,2018,12,December,11280.92391,4824
+Incheon,2019,1,January,13770.13819,5757
+Incheon,2019,2,February,10697.58966,4440
+Incheon,2019,3,March,11656.20669,4855
+Incheon,2019,4,April,11512.70777,4798
+Incheon,2019,5,May,11641.81586,4869
+Incheon,2019,6,June,10975.61857,4562
+Incheon,2019,7,July,12489.58649,5247
+Incheon,2019,8,August,11614.28866,4850
+Incheon,2019,9,September,11050.98978,4578
+Incheon,2019,10,October,11328.3312,4661
+Incheon,2019,11,November,11229.59588,4704
+Incheon,2019,12,December,11576.08292,4968
+Incheon,2020,1,January,12323.63896,5122
+Incheon,2020,2,February,10531.51064,4388
+Incheon,2020,3,March,10178.92606,4185
+Incheon,2020,4,April,9947.222433,4061
+Incheon,2020,5,May,10784.29232,4473
+Incheon,2020,6,June,11451.68506,4780
+Incheon,2020,7,July,11709.24325,4870
+Incheon,2020,8,August,10677.51728,4397
+Incheon,2020,9,September,10365.37141,4207
+Incheon,2020,10,October,10849.71814,4480
+Incheon,2020,11,November,10946.58767,4584
+Incheon,2020,12,December,10945.07963,4629
+Incheon,2021,1,January,11711.5553,4870
+Incheon,2021,2,February,9844.697493,4089
+Incheon,2021,3,March,12077.7196,5062
+Incheon,2021,4,April,11186.39698,4671
+Incheon,2021,5,May,10797.24261,4496
+Incheon,2021,6,June,11270.96137,4699
+Incheon,2021,7,July,11521.22515,4803
+Incheon,2021,8,August,11409.02895,4758
+Incheon,2021,9,September,10398.40136,4290
+Incheon,2021,10,October,10842.03291,4523
+Incheon,2021,11,November,11253.25139,4733
+Incheon,2021,12,December,10682.89447,4610
+Incheon,2022,1,January,11584.34102,4756
+Incheon,2022,2,February,9892.041473,4083
+Incheon,2022,3,March,10614.70788,4344
+Incheon,2022,4,April,10589.73588,4370
+Incheon,2022,5,May,11260.95061,4706
+Incheon,2022,6,June,11096.26479,4648
+Incheon,2022,7,July,11218.02067,4650
+Incheon,2022,8,August,11568.62165,4764
+Incheon,2022,9,September,10881.20221,4453
+Incheon,2022,10,October,10808.71152,4477
+Incheon,2022,11,November,11094.90723,4656
+Incheon,2022,12,December,10764.20555,4600
+Jeju,2006,1,January,2072.179289,721
+Jeju,2006,2,February,1951.346459,671
+Jeju,2006,3,March,1981.586656,670
+Jeju,2006,4,April,1819.920415,616
+Jeju,2006,5,May,1926.704568,655
+Jeju,2006,6,June,1882.709772,642
+Jeju,2006,7,July,1943.408456,676
+Jeju,2006,8,August,2095.782888,725
+Jeju,2006,9,September,1910.792784,641
+Jeju,2006,10,October,1853.627762,617
+Jeju,2006,11,November,1867.614133,628
+Jeju,2006,12,December,1844.220547,628
+Jeju,2007,1,January,2403.134901,853
+Jeju,2007,2,February,2020.396413,695
+Jeju,2007,3,March,2206.203163,751
+Jeju,2007,4,April,2034.220661,697
+Jeju,2007,5,May,2109.28978,723
+Jeju,2007,6,June,2019.406771,689
+Jeju,2007,7,July,2205.097651,762
+Jeju,2007,8,August,2315.292024,788
+Jeju,2007,9,September,2011.793968,660
+Jeju,2007,10,October,2167.593876,725
+Jeju,2007,11,November,1993.408174,670
+Jeju,2007,12,December,1911.729843,657
+Jeju,2008,1,January,2234.221113,804
+Jeju,2008,2,February,1820.250367,636
+Jeju,2008,3,March,1937.039873,678
+Jeju,2008,4,April,1819.153254,637
+Jeju,2008,5,May,1830.997153,643
+Jeju,2008,6,June,1850.32279,658
+Jeju,2008,7,July,2004.50992,719
+Jeju,2008,8,August,1899.413883,680
+Jeju,2008,9,September,1843.201971,640
+Jeju,2008,10,October,1635.272888,555
+Jeju,2008,11,November,1686.205585,594
+Jeju,2008,12,December,1725.105526,616
+Jeju,2009,1,January,2225.326288,805
+Jeju,2009,2,February,2035.827427,750
+Jeju,2009,3,March,2116.193953,762
+Jeju,2009,4,April,1983.65982,716
+Jeju,2009,5,May,1915.391941,697
+Jeju,2009,6,June,1932.065687,709
+Jeju,2009,7,July,2125.512732,782
+Jeju,2009,8,August,2100.48176,772
+Jeju,2009,9,September,2035.991847,725
+Jeju,2009,10,October,1980.02644,706
+Jeju,2009,11,November,1881.057643,672
+Jeju,2009,12,December,1985.45402,730
+Jeju,2010,1,January,2311.374971,853
+Jeju,2010,2,February,1930.914334,703
+Jeju,2010,3,March,2192.295595,795
+Jeju,2010,4,April,2006.723485,724
+Jeju,2010,5,May,1982.393494,716
+Jeju,2010,6,June,2031.0891,738
+Jeju,2010,7,July,2024.046024,742
+Jeju,2010,8,August,2103.966734,775
+Jeju,2010,9,September,1896.464039,658
+Jeju,2010,10,October,1954.916676,688
+Jeju,2010,11,November,1908.732677,681
+Jeju,2010,12,December,1892.147841,700
+Jeju,2011,1,January,2288.014746,823
+Jeju,2011,2,February,1840.061547,663
+Jeju,2011,3,March,2148.214946,771
+Jeju,2011,4,April,1918.26696,690
+Jeju,2011,5,May,1972.477742,714
+Jeju,2011,6,June,1949.123225,706
+Jeju,2011,7,July,1975.584484,721
+Jeju,2011,8,August,1849.242903,671
+Jeju,2011,9,September,1534.761504,536
+Jeju,2011,10,October,1789.396532,641
+Jeju,2011,11,November,1827.533433,662
+Jeju,2011,12,December,1826.280965,680
+Jeju,2012,1,January,2488.613508,957
+Jeju,2012,2,February,2291.049542,886
+Jeju,2012,3,March,2253.679238,848
+Jeju,2012,4,April,2121.631195,801
+Jeju,2012,5,May,2188.95001,833
+Jeju,2012,6,June,2084.200747,787
+Jeju,2012,7,July,2318.000362,888
+Jeju,2012,8,August,2287.407858,868
+Jeju,2012,9,September,2033.813149,751
+Jeju,2012,10,October,2201.067948,827
+Jeju,2012,11,November,2088.421115,790
+Jeju,2012,12,December,1992.677459,774
+Jeju,2013,1,January,2624.139678,1029
+Jeju,2013,2,February,2097.648443,808
+Jeju,2013,3,March,2184.803085,837
+Jeju,2013,4,April,2099.997964,806
+Jeju,2013,5,May,2115.138536,817
+Jeju,2013,6,June,1987.636627,769
+Jeju,2013,7,July,2248.080955,879
+Jeju,2013,8,August,2132.831082,825
+Jeju,2013,9,September,1993.635234,749
+Jeju,2013,10,October,2054.318083,786
+Jeju,2013,11,November,1961.672673,756
+Jeju,2013,12,December,2092.634808,831
+Jeju,2014,1,January,2434.010054,936
+Jeju,2014,2,February,2282.368345,885
+Jeju,2014,3,March,2229.777006,849
+Jeju,2014,4,April,2130.157125,806
+Jeju,2014,5,May,2084.572847,786
+Jeju,2014,6,June,2079.171129,784
+Jeju,2014,7,July,2274.650134,866
+Jeju,2014,8,August,2178.557435,825
+Jeju,2014,9,September,2143.224574,796
+Jeju,2014,10,October,2097.015293,786
+Jeju,2014,11,November,1981.576741,753
+Jeju,2014,12,December,2108.510145,819
+Jeju,2015,1,January,2631.969639,1037
+Jeju,2015,2,February,2087.244644,805
+Jeju,2015,3,March,2391.050763,925
+Jeju,2015,4,April,2214.942623,848
+Jeju,2015,5,May,2125.098987,815
+Jeju,2015,6,June,1954.300455,729
+Jeju,2015,7,July,2216.360926,844
+Jeju,2015,8,August,2266.765551,884
+Jeju,2015,9,September,2107.544269,797
+Jeju,2015,10,October,2208.931547,846
+Jeju,2015,11,November,2143.719665,835
+Jeju,2015,12,December,2224.413153,889
+Jeju,2016,1,January,2772.712873,1108
+Jeju,2016,2,February,2353.829356,932
+Jeju,2016,3,March,2572.356495,1006
+Jeju,2016,4,April,2252.26866,878
+Jeju,2016,5,May,2379.372447,934
+Jeju,2016,6,June,2292.398884,892
+Jeju,2016,7,July,2379.100129,927
+Jeju,2016,8,August,2444.921687,962
+Jeju,2016,9,September,2230.831955,845
+Jeju,2016,10,October,2198.562092,852
+Jeju,2016,11,November,2237.058731,873
+Jeju,2016,12,December,2248.184681,911
+Jeju,2017,1,January,2662.386225,1034
+Jeju,2017,2,February,2364.645027,925
+Jeju,2017,3,March,2439.446854,936
+Jeju,2017,4,April,2236.895323,858
+Jeju,2017,5,May,2364.753678,908
+Jeju,2017,6,June,2302.085375,882
+Jeju,2017,7,July,2403.037653,934
+Jeju,2017,8,August,2478.190744,958
+Jeju,2017,9,September,2324.837319,882
+Jeju,2017,10,October,2098.793167,799
+Jeju,2017,11,November,2227.120714,869
+Jeju,2017,12,December,2159.46419,857
+Jeju,2018,1,January,2838.326368,1124
+Jeju,2018,2,February,2198.339847,853
+Jeju,2018,3,March,2411.143327,933
+Jeju,2018,4,April,2310.77378,900
+Jeju,2018,5,May,2360.016958,917
+Jeju,2018,6,June,2209.887528,853
+Jeju,2018,7,July,2471.342679,970
+Jeju,2018,8,August,2416.086999,942
+Jeju,2018,9,September,2120.46995,804
+Jeju,2018,10,October,2356.314885,908
+Jeju,2018,11,November,2291.60007,891
+Jeju,2018,12,December,2240.21682,898
+Jeju,2019,1,January,2892.566836,1178
+Jeju,2019,2,February,2256.404653,910
+Jeju,2019,3,March,2418.589669,974
+Jeju,2019,4,April,2371.189836,955
+Jeju,2019,5,May,2389.094811,967
+Jeju,2019,6,June,2248.54191,902
+Jeju,2019,7,July,2564.206421,1047
+Jeju,2019,8,August,2400.789031,974
+Jeju,2019,9,September,2265.038502,904
+Jeju,2019,10,October,2328.281339,921
+Jeju,2019,11,November,2292.389455,927
+Jeju,2019,12,December,2339.919112,977
+Jeju,2020,1,January,2537.878427,1001
+Jeju,2020,2,February,2164.612923,856
+Jeju,2020,3,March,2098.940641,813
+Jeju,2020,4,April,2045.815675,788
+Jeju,2020,5,May,2193.638197,862
+Jeju,2020,6,June,2296.205051,910
+Jeju,2020,7,July,2359.970674,932
+Jeju,2020,8,August,2173.621197,847
+Jeju,2020,9,September,2126.18178,812
+Jeju,2020,10,October,2181.643302,851
+Jeju,2020,11,November,2185.506026,868
+Jeju,2020,12,December,2177.283144,875
+Jeju,2021,1,January,2404.965504,942
+Jeju,2021,2,February,2024.372644,793
+Jeju,2021,3,March,2447.39659,971
+Jeju,2021,4,April,2275.070714,897
+Jeju,2021,5,May,2203.157865,865
+Jeju,2021,6,June,2290.412883,902
+Jeju,2021,7,July,2342.783983,922
+Jeju,2021,8,August,2327.136072,914
+Jeju,2021,9,September,2136.175768,829
+Jeju,2021,10,October,2202.675975,868
+Jeju,2021,11,November,2259.773207,900
+Jeju,2021,12,December,2117.00844,870
+Jeju,2022,1,January,2304.409031,898
+Jeju,2022,2,February,1965.911449,771
+Jeju,2022,3,March,2123.044655,821
+Jeju,2022,4,April,2088.086651,818
+Jeju,2022,5,May,2190.287513,873
+Jeju,2022,6,June,2163.110005,864
+Jeju,2022,7,July,2205.414508,871
+Jeju,2022,8,August,2278.680353,892
+Jeju,2022,9,September,2158.094369,838
+Jeju,2022,10,October,2125.959649,837
+Jeju,2022,11,November,2158.631685,864
+Jeju,2022,12,December,2075.994257,849
+Jeonbuk,2006,1,January,6938.758663,2730
+Jeonbuk,2006,2,February,6561.851088,2568
+Jeonbuk,2006,3,March,6585.915329,2541
+Jeonbuk,2006,4,April,6059.893629,2342
+Jeonbuk,2006,5,May,6453.024119,2501
+Jeonbuk,2006,6,June,6360.344356,2472
+Jeonbuk,2006,7,July,6615.235043,2604
+Jeonbuk,2006,8,August,7084.714393,2767
+Jeonbuk,2006,9,September,6301.342865,2396
+Jeonbuk,2006,10,October,6135.627805,2329
+Jeonbuk,2006,11,November,6270.386625,2415
+Jeonbuk,2006,12,December,6324.962474,2468
+Jeonbuk,2007,1,January,8317.774372,3247
+Jeonbuk,2007,2,February,6774.157403,2559
+Jeonbuk,2007,3,March,7460.449677,2808
+Jeonbuk,2007,4,April,6924.380557,2621
+Jeonbuk,2007,5,May,7191.393687,2718
+Jeonbuk,2007,6,June,6883.560272,2586
+Jeonbuk,2007,7,July,7473.879012,2831
+Jeonbuk,2007,8,August,7767.445414,2901
+Jeonbuk,2007,9,September,6551.145616,2363
+Jeonbuk,2007,10,October,7305.483907,2707
+Jeonbuk,2007,11,November,6732.247163,2511
+Jeonbuk,2007,12,December,6573.215734,2504
+Jeonbuk,2008,1,January,8318.04643,3311
+Jeonbuk,2008,2,February,6592.163216,2551
+Jeonbuk,2008,3,March,7138.634308,2776
+Jeonbuk,2008,4,April,6682.023913,2597
+Jeonbuk,2008,5,May,6688.104028,2597
+Jeonbuk,2008,6,June,6866.836745,2696
+Jeonbuk,2008,7,July,7410.568872,2931
+Jeonbuk,2008,8,August,6935.138385,2727
+Jeonbuk,2008,9,September,6580.032262,2519
+Jeonbuk,2008,10,October,5874.53795,2219
+Jeonbuk,2008,11,November,6178.353069,2413
+Jeonbuk,2008,12,December,6456.804285,2560
+Jeonbuk,2009,1,January,8167.99567,3201
+Jeonbuk,2009,2,February,7617.617632,3037
+Jeonbuk,2009,3,March,7869.712161,3077
+Jeonbuk,2009,4,April,7390.473565,2892
+Jeonbuk,2009,5,May,7173.628944,2827
+Jeonbuk,2009,6,June,7305.639871,2899
+Jeonbuk,2009,7,July,8010.25067,3184
+Jeonbuk,2009,8,August,7905.788945,3135
+Jeonbuk,2009,9,September,7513.611911,2896
+Jeonbuk,2009,10,October,7385.833402,2858
+Jeonbuk,2009,11,November,7018.698465,2723
+Jeonbuk,2009,12,December,7571.015248,3020
+Jeonbuk,2010,1,January,8989.260524,3538
+Jeonbuk,2010,2,February,7441.348976,2891
+Jeonbuk,2010,3,March,8556.070928,3327
+Jeonbuk,2010,4,April,7779.811055,3010
+Jeonbuk,2010,5,May,7732.080694,2995
+Jeonbuk,2010,6,June,8020.614453,3117
+Jeonbuk,2010,7,July,7986.381077,3117
+Jeonbuk,2010,8,August,8291.166729,3253
+Jeonbuk,2010,9,September,7204.156808,2698
+Jeonbuk,2010,10,October,7496.173751,2850
+Jeonbuk,2010,11,November,7344.417571,2836
+Jeonbuk,2010,12,December,7401.689147,2943
+Jeonbuk,2011,1,January,9030.616151,3486
+Jeonbuk,2011,2,February,7333.464784,2835
+Jeonbuk,2011,3,March,8545.667717,3302
+Jeonbuk,2011,4,April,7613.991833,2954
+Jeonbuk,2011,5,May,7884.156543,3073
+Jeonbuk,2011,6,June,7841.187823,3048
+Jeonbuk,2011,7,July,7858.876288,3067
+Jeonbuk,2011,8,August,7325.504562,2838
+Jeonbuk,2011,9,September,6066.629266,2288
+Jeonbuk,2011,10,October,7133.636038,2758
+Jeonbuk,2011,11,November,7275.84484,2846
+Jeonbuk,2011,12,December,7423.379308,2966
+Jeonbuk,2012,1,January,8992.234942,3589
+Jeonbuk,2012,2,February,8337.012007,3337
+Jeonbuk,2012,3,March,8114.623297,3182
+Jeonbuk,2012,4,April,7632.355129,3009
+Jeonbuk,2012,5,May,7950.312467,3150
+Jeonbuk,2012,6,June,7637.871552,2995
+Jeonbuk,2012,7,July,8563.283584,3384
+Jeonbuk,2012,8,August,8388.047574,3289
+Jeonbuk,2012,9,September,7308.931079,2808
+Jeonbuk,2012,10,October,7960.788972,3118
+Jeonbuk,2012,11,November,7533.846302,2973
+Jeonbuk,2012,12,December,7292.766072,2944
+Jeonbuk,2013,1,January,9618.225301,3890
+Jeonbuk,2013,2,February,7614.092604,3020
+Jeonbuk,2013,3,March,7963.050104,3156
+Jeonbuk,2013,4,April,7674.470604,3056
+Jeonbuk,2013,5,May,7735.431553,3099
+Jeonbuk,2013,6,June,7315.476196,2928
+Jeonbuk,2013,7,July,8280.375799,3341
+Jeonbuk,2013,8,August,7787.110772,3103
+Jeonbuk,2013,9,September,7211.199592,2813
+Jeonbuk,2013,10,October,7495.261625,2976
+Jeonbuk,2013,11,November,7159.379032,2869
+Jeonbuk,2013,12,December,7726.347908,3172
+Jeonbuk,2014,1,January,8637.741448,3479
+Jeonbuk,2014,2,February,8146.102943,3308
+Jeonbuk,2014,3,March,7864.267243,3148
+Jeonbuk,2014,4,April,7473.459454,2975
+Jeonbuk,2014,5,May,7297.408523,2886
+Jeonbuk,2014,6,June,7376.044846,2910
+Jeonbuk,2014,7,July,8112.603906,3220
+Jeonbuk,2014,8,August,7688.51726,3028
+Jeonbuk,2014,9,September,7552.450972,2937
+Jeonbuk,2014,10,October,7366.056871,2892
+Jeonbuk,2014,11,November,6961.399582,2782
+Jeonbuk,2014,12,December,7546.10608,3081
+Jeonbuk,2015,1,January,8872.810913,3576
+Jeonbuk,2015,2,February,6928.441226,2733
+Jeonbuk,2015,3,March,8105.25435,3242
+Jeonbuk,2015,4,April,7500.242367,2972
+Jeonbuk,2015,5,May,7194.54779,2851
+Jeonbuk,2015,6,June,6650.978954,2579
+Jeonbuk,2015,7,July,7590.047954,2979
+Jeonbuk,2015,8,August,7764.804984,3100
+Jeonbuk,2015,9,September,7135.441849,2783
+Jeonbuk,2015,10,October,7550.966529,2990
+Jeonbuk,2015,11,November,7366.358049,2970
+Jeonbuk,2015,12,December,7709.200379,3167
+Jeonbuk,2016,1,January,8850.126792,3592
+Jeonbuk,2016,2,February,7522.135546,3031
+Jeonbuk,2016,3,March,8338.372774,3358
+Jeonbuk,2016,4,April,7323.279429,2943
+Jeonbuk,2016,5,May,7779.415624,3143
+Jeonbuk,2016,6,June,7552.392356,3019
+Jeonbuk,2016,7,July,7711.920538,3071
+Jeonbuk,2016,8,August,7953.586934,3187
+Jeonbuk,2016,9,September,7244.245334,2824
+Jeonbuk,2016,10,October,7243.897242,2891
+Jeonbuk,2016,11,November,7435.100252,2989
+Jeonbuk,2016,12,December,7480.016236,3090
+Jeonbuk,2017,1,January,8532.288238,3467
+Jeonbuk,2017,2,February,7581.664898,3097
+Jeonbuk,2017,3,March,7865.857463,3177
+Jeonbuk,2017,4,April,7232.649293,2920
+Jeonbuk,2017,5,May,7726.50321,3124
+Jeonbuk,2017,6,June,7545.933855,3041
+Jeonbuk,2017,7,July,7842.798006,3194
+Jeonbuk,2017,8,August,8054.874477,3257
+Jeonbuk,2017,9,September,7491.614345,2984
+Jeonbuk,2017,10,October,6876.283072,2770
+Jeonbuk,2017,11,November,7338.512256,3017
+Jeonbuk,2017,12,December,7118.222228,2960
+Jeonbuk,2018,1,January,8949.403986,3710
+Jeonbuk,2018,2,February,6779.733615,2762
+Jeonbuk,2018,3,March,7636.953996,3119
+Jeonbuk,2018,4,April,7368.283671,3029
+Jeonbuk,2018,5,May,7517.198022,3084
+Jeonbuk,2018,6,June,7047.189272,2874
+Jeonbuk,2018,7,July,7898.121595,3258
+Jeonbuk,2018,8,August,7692.354231,3154
+Jeonbuk,2018,9,September,6685.846284,2683
+Jeonbuk,2018,10,October,7598.959879,3096
+Jeonbuk,2018,11,November,7328.925217,3009
+Jeonbuk,2018,12,December,7231.13827,3035
+Jeonbuk,2019,1,January,8867.76199,3660
+Jeonbuk,2019,2,February,6904.831641,2832
+Jeonbuk,2019,3,March,7511.329819,3097
+Jeonbuk,2019,4,April,7424.35428,3064
+Jeonbuk,2019,5,May,7516.623509,3110
+Jeonbuk,2019,6,June,7119.365744,2925
+Jeonbuk,2019,7,July,8081.696099,3356
+Jeonbuk,2019,8,August,7548.909389,3115
+Jeonbuk,2019,9,September,7184.568254,2943
+Jeonbuk,2019,10,October,7363.682528,2996
+Jeonbuk,2019,11,November,7257.85079,3007
+Jeonbuk,2019,12,December,7448.201171,3162
+Jeonbuk,2020,1,January,8304.260259,3445
+Jeonbuk,2020,2,February,7086.352135,2944
+Jeonbuk,2020,3,March,6799.702321,2796
+Jeonbuk,2020,4,April,6687.297415,2728
+Jeonbuk,2020,5,May,7278.610224,3012
+Jeonbuk,2020,6,June,7751.176253,3221
+Jeonbuk,2020,7,July,7946.168287,3289
+Jeonbuk,2020,8,August,7262.470658,2973
+Jeonbuk,2020,9,September,7042.385531,2843
+Jeonbuk,2020,10,October,7319.756459,3016
+Jeonbuk,2020,11,November,7389.409287,3085
+Jeonbuk,2020,12,December,7380.299689,3111
+Jeonbuk,2021,1,January,7643.206263,3173
+Jeonbuk,2021,2,February,6468.615582,2679
+Jeonbuk,2021,3,March,7902.866145,3304
+Jeonbuk,2021,4,April,7345.434674,3055
+Jeonbuk,2021,5,May,7115.381297,2945
+Jeonbuk,2021,6,June,7478.636604,3086
+Jeonbuk,2021,7,July,7658.954671,3159
+Jeonbuk,2021,8,August,7567.937804,3124
+Jeonbuk,2021,9,September,6897.995938,2823
+Jeonbuk,2021,10,October,7220.408977,2984
+Jeonbuk,2021,11,November,7442.063704,3107
+Jeonbuk,2021,12,December,7061.37367,3022
+Jeonbuk,2022,1,January,7573.100556,3126
+Jeonbuk,2022,2,February,6457.435998,2683
+Jeonbuk,2022,3,March,6887.298014,2840
+Jeonbuk,2022,4,April,6926.69623,2873
+Jeonbuk,2022,5,May,7393.93178,3097
+Jeonbuk,2022,6,June,7325.391494,3068
+Jeonbuk,2022,7,July,7407.572249,3071
+Jeonbuk,2022,8,August,7640.181977,3144
+Jeonbuk,2022,9,September,7178.925557,2943
+Jeonbuk,2022,10,October,7113.317211,2956
+Jeonbuk,2022,11,November,7294.033551,3073
+Jeonbuk,2022,12,December,7108.258504,3041
+Jeonnam,2006,1,January,12191.34439,5073
+Jeonnam,2006,2,February,11476.66615,4752
+Jeonnam,2006,3,March,11411.66014,4649
+Jeonnam,2006,4,April,10477.73084,4269
+Jeonnam,2006,5,May,11179.32549,4560
+Jeonnam,2006,6,June,11012.4724,4499
+Jeonnam,2006,7,July,11563.76152,4789
+Jeonnam,2006,8,August,12353.06753,5092
+Jeonnam,2006,9,September,10781.25916,4321
+Jeonnam,2006,10,October,10491.97769,4204
+Jeonnam,2006,11,November,10808.53223,4391
+Jeonnam,2006,12,December,10996.01824,4527
+Jeonnam,2007,1,January,14301.03867,5997
+Jeonnam,2007,2,February,11385.62056,4633
+Jeonnam,2007,3,March,12499.18198,5059
+Jeonnam,2007,4,April,11628.36861,4720
+Jeonnam,2007,5,May,12076.96042,4892
+Jeonnam,2007,6,June,11504.25164,4636
+Jeonnam,2007,7,July,12600.62837,5125
+Jeonnam,2007,8,August,12952.13575,5211
+Jeonnam,2007,9,September,10663.26383,4146
+Jeonnam,2007,10,October,12071.52597,4815
+Jeonnam,2007,11,November,11186.92237,4489
+Jeonnam,2007,12,December,11091.84552,4539
+Jeonnam,2008,1,January,14981.79108,6277
+Jeonnam,2008,2,February,11737.45617,4782
+Jeonnam,2008,3,March,12679.98726,5176
+Jeonnam,2008,4,April,11861.8952,4831
+Jeonnam,2008,5,May,11904.27906,4846
+Jeonnam,2008,6,June,12253.61651,5034
+Jeonnam,2008,7,July,13289.27515,5505
+Jeonnam,2008,8,August,12424.46637,5125
+Jeonnam,2008,9,September,11643.41044,4672
+Jeonnam,2008,10,October,10317.35851,4090
+Jeonnam,2008,11,November,10998.50159,4504
+Jeonnam,2008,12,December,11584.82148,4808
+Jeonnam,2009,1,January,14821.62217,6132
+Jeonnam,2009,2,February,13879.81525,5817
+Jeonnam,2009,3,March,14146.94471,5807
+Jeonnam,2009,4,April,13276.91943,5449
+Jeonnam,2009,5,May,12930.72842,5336
+Jeonnam,2009,6,June,13188.35514,5472
+Jeonnam,2009,7,July,14492.17331,6042
+Jeonnam,2009,8,August,14301.61454,5957
+Jeonnam,2009,9,September,13377.38653,5407
+Jeonnam,2009,10,October,13155.29682,5334
+Jeonnam,2009,11,November,12563.87186,5110
+Jeonnam,2009,12,December,13699.78968,5733
+Jeonnam,2010,1,January,15993.46382,6652
+Jeonnam,2010,2,February,13158.72909,5394
+Jeonnam,2010,3,March,15093.23068,6170
+Jeonnam,2010,4,April,13698.43102,5571
+Jeonnam,2010,5,May,13593.93753,5530
+Jeonnam,2010,6,June,14080.01515,5747
+Jeonnam,2010,7,July,14059.22434,5783
+Jeonnam,2010,8,August,14626.87474,6061
+Jeonnam,2010,9,September,12447.43848,4913
+Jeonnam,2010,10,October,13065.34997,5242
+Jeonnam,2010,11,November,12905.01437,5250
+Jeonnam,2010,12,December,13199.6542,5541
+Jeonnam,2011,1,January,15856.96336,6504
+Jeonnam,2011,2,February,12853.40658,5265
+Jeonnam,2011,3,March,14960.83725,6107
+Jeonnam,2011,4,April,13327.76018,5449
+Jeonnam,2011,5,May,13800.89768,5661
+Jeonnam,2011,6,June,13706.71085,5614
+Jeonnam,2011,7,July,13770.79572,5675
+Jeonnam,2011,8,August,12783.28192,5237
+Jeonnam,2011,9,September,10452.77639,4160
+Jeonnam,2011,10,October,12412.31734,5050
+Jeonnam,2011,11,November,12762.87306,5258
+Jeonnam,2011,12,December,13191.33923,5576
+Jeonnam,2012,1,January,16137.76652,6792
+Jeonnam,2012,2,February,14971.03063,6316
+Jeonnam,2012,3,March,14488.50331,5980
+Jeonnam,2012,4,April,13630.23487,5645
+Jeonnam,2012,5,May,14215.56727,5917
+Jeonnam,2012,6,June,13574.21724,5595
+Jeonnam,2012,7,July,15212.14176,6333
+Jeonnam,2012,8,August,14844.25924,6131
+Jeonnam,2012,9,September,12852.76181,5192
+Jeonnam,2012,10,October,14154.35116,5830
+Jeonnam,2012,11,November,13463.73984,5589
+Jeonnam,2012,12,December,13163.47702,5593
+Jeonnam,2013,1,January,17471.43798,7415
+Jeonnam,2013,2,February,13747.90172,5721
+Jeonnam,2013,3,March,14405.63133,5978
+Jeonnam,2013,4,April,13888.29198,5777
+Jeonnam,2013,5,May,14026.52267,5866
+Jeonnam,2013,6,June,13212.89497,5518
+Jeonnam,2013,7,July,14959.66806,6305
+Jeonnam,2013,8,August,14003.32603,5837
+Jeonnam,2013,9,September,12891.55019,5255
+Jeonnam,2013,10,October,13519.03735,5606
+Jeonnam,2013,11,November,12993.34104,5434
+Jeonnam,2013,12,December,14160.43379,6078
+Jeonnam,2014,1,January,15820.47988,6719
+Jeonnam,2014,2,February,14992.16638,6414
+Jeonnam,2014,3,March,14423.45745,6059
+Jeonnam,2014,4,April,13644.99126,5695
+Jeonnam,2014,5,May,13272.5639,5508
+Jeonnam,2014,6,June,13360.50374,5530
+Jeonnam,2014,7,July,14692.63159,6125
+Jeonnam,2014,8,August,13888.92476,5756
+Jeonnam,2014,9,September,13566.47178,5547
+Jeonnam,2014,10,October,13338.68578,5502
+Jeonnam,2014,11,November,12735.77093,5335
+Jeonnam,2014,12,December,13929.96338,5966
+Jeonnam,2015,1,January,16352.94301,7008
+Jeonnam,2015,2,February,12610.07097,5284
+Jeonnam,2015,3,March,14885.89345,6289
+Jeonnam,2015,4,April,13688.2351,5727
+Jeonnam,2015,5,May,13100.41967,5480
+Jeonnam,2015,6,June,11912.11067,4870
+Jeonnam,2015,7,July,13656.22683,5668
+Jeonnam,2015,8,August,14081.51726,5950
+Jeonnam,2015,9,September,12793.17956,5276
+Jeonnam,2015,10,October,13708.5911,5738
+Jeonnam,2015,11,November,13529.27362,5748
+Jeonnam,2015,12,December,14299.48214,6213
+Jeonnam,2016,1,January,16086.62268,6864
+Jeonnam,2016,2,February,13636.18455,5761
+Jeonnam,2016,3,March,15144.19683,6370
+Jeonnam,2016,4,April,13274.34208,5567
+Jeonnam,2016,5,May,14081.64798,5940
+Jeonnam,2016,6,June,13589.03641,5682
+Jeonnam,2016,7,July,13866.18567,5782
+Jeonnam,2016,8,August,14284.04467,5999
+Jeonnam,2016,9,September,12885.89255,5267
+Jeonnam,2016,10,October,13037.57514,5440
+Jeonnam,2016,11,November,13420.67812,5643
+Jeonnam,2016,12,December,13665.7423,5913
+Jeonnam,2017,1,January,14967.63252,6438
+Jeonnam,2017,2,February,13380.37395,5778
+Jeonnam,2017,3,March,13839.47524,5888
+Jeonnam,2017,4,April,12687.01257,5392
+Jeonnam,2017,5,May,13512.81683,5753
+Jeonnam,2017,6,June,13135.6195,5582
+Jeonnam,2017,7,July,13698.52356,5884
+Jeonnam,2017,8,August,13992.71704,5976
+Jeonnam,2017,9,September,12929.12102,5447
+Jeonnam,2017,10,October,11980.62356,5082
+Jeonnam,2017,11,November,12949.36042,5591
+Jeonnam,2017,12,December,12616.8981,5528
+Jeonnam,2018,1,January,16208.93604,7006
+Jeonnam,2018,2,February,12197.33347,5169
+Jeonnam,2018,3,March,13777.44498,5847
+Jeonnam,2018,4,April,13321.46462,5678
+Jeonnam,2018,5,May,13511.03338,5752
+Jeonnam,2018,6,June,12610.43254,5345
+Jeonnam,2018,7,July,14115.64514,6053
+Jeonnam,2018,8,August,13674.94094,5832
+Jeonnam,2018,9,September,11780.1065,4927
+Jeonnam,2018,10,October,13519.40018,5741
+Jeonnam,2018,11,November,13201.00481,5637
+Jeonnam,2018,12,December,13137.96452,5749
+Jeonnam,2019,1,January,15879.20681,6824
+Jeonnam,2019,2,February,12367.68119,5276
+Jeonnam,2019,3,March,13528.09929,5778
+Jeonnam,2019,4,April,13376.90264,5711
+Jeonnam,2019,5,May,13506.51404,5787
+Jeonnam,2019,6,June,12687.10281,5413
+Jeonnam,2019,7,July,14409.3452,6213
+Jeonnam,2019,8,August,13364.44243,5736
+Jeonnam,2019,9,September,12701.62285,5409
+Jeonnam,2019,10,October,13066.5357,5522
+Jeonnam,2019,11,November,13001.98324,5588
+Jeonnam,2019,12,December,13470.4557,5926
+Jeonnam,2020,1,January,14734.48125,6287
+Jeonnam,2020,2,February,12594.56519,5379
+Jeonnam,2020,3,March,12149.70431,5108
+Jeonnam,2020,4,April,11881.18852,4966
+Jeonnam,2020,5,May,12946.36624,5495
+Jeonnam,2020,6,June,13697.31255,5856
+Jeonnam,2020,7,July,13949.76266,5945
+Jeonnam,2020,8,August,12690.1965,5361
+Jeonnam,2020,9,September,12240.73018,5096
+Jeonnam,2020,10,October,12958.91378,5480
+Jeonnam,2020,11,November,13115.25313,5624
+Jeonnam,2020,12,December,13085.92598,5671
+Jeonnam,2021,1,January,14147.00895,6005
+Jeonnam,2021,2,February,11911.98595,5049
+Jeonnam,2021,3,March,14656.83649,6267
+Jeonnam,2021,4,April,13571.61268,5777
+Jeonnam,2021,5,May,13081.4977,5555
+Jeonnam,2021,6,June,13636.20146,5797
+Jeonnam,2021,7,July,13887.19875,5910
+Jeonnam,2021,8,August,13724.81787,5839
+Jeonnam,2021,9,September,12506.70333,5267
+Jeonnam,2021,10,October,13105.1696,5585
+Jeonnam,2021,11,November,13648.86157,5861
+Jeonnam,2021,12,December,12992.84281,5721
+Jeonnam,2022,1,January,13923.34695,5859
+Jeonnam,2022,2,February,11932.34602,5044
+Jeonnam,2022,3,March,12814.36215,5363
+Jeonnam,2022,4,April,12815.73062,5409
+Jeonnam,2022,5,May,13633.33167,5824
+Jeonnam,2022,6,June,13416.25537,5747
+Jeonnam,2022,7,July,13476.67092,5719
+Jeonnam,2022,8,August,13834.65672,5836
+Jeonnam,2022,9,September,13061.88749,5479
+Jeonnam,2022,10,October,13031.20248,5528
+Jeonnam,2022,11,November,13452.15527,5779
+Jeonnam,2022,12,December,13084.95464,5726
+Southern Seoul,2006,1,January,13642.24946,5441
+Southern Seoul,2006,2,February,12832.27159,5087
+Southern Seoul,2006,3,March,12786.23134,5003
+Southern Seoul,2006,4,April,11692.54688,4585
+Southern Seoul,2006,5,May,12425.94763,4880
+Southern Seoul,2006,6,June,12274.31815,4827
+Southern Seoul,2006,7,July,12927.37037,5152
+Southern Seoul,2006,8,August,13932.29717,5495
+Southern Seoul,2006,9,September,12207.43878,4710
+Southern Seoul,2006,10,October,11851.38024,4561
+Southern Seoul,2006,11,November,12281.54274,4788
+Southern Seoul,2006,12,December,12355.34156,4861
+Southern Seoul,2007,1,January,15995.59489,6480
+Southern Seoul,2007,2,February,12666.38027,5001
+Southern Seoul,2007,3,March,13947.03932,5470
+Southern Seoul,2007,4,April,13002.20394,5126
+Southern Seoul,2007,5,May,13494.48939,5302
+Southern Seoul,2007,6,June,12850.79793,5014
+Southern Seoul,2007,7,July,14105.65594,5558
+Southern Seoul,2007,8,August,14586.32192,5683
+Southern Seoul,2007,9,September,11909.8877,4523
+Southern Seoul,2007,10,October,13653.4766,5303
+Southern Seoul,2007,11,November,12629.3475,4925
+Southern Seoul,2007,12,December,12324.94642,4890
+Southern Seoul,2008,1,January,16242.96933,6718
+Southern Seoul,2008,2,February,12462.56636,5028
+Southern Seoul,2008,3,March,13652.09308,5522
+Southern Seoul,2008,4,April,12680.62026,5129
+Southern Seoul,2008,5,May,12610.17253,5100
+Southern Seoul,2008,6,June,13161.70282,5356
+Southern Seoul,2008,7,July,14197.10794,5857
+Southern Seoul,2008,8,August,13251.83096,5422
+Southern Seoul,2008,9,September,12342.94226,4934
+Southern Seoul,2008,10,October,10941.47887,4317
+Southern Seoul,2008,11,November,11743.65626,4781
+Southern Seoul,2008,12,December,12349.43413,5074
+Southern Seoul,2009,1,January,15972.18194,6531
+Southern Seoul,2009,2,February,15121.2419,6246
+Southern Seoul,2009,3,March,15452.12841,6269
+Southern Seoul,2009,4,April,14401.13503,5855
+Southern Seoul,2009,5,May,14025.92316,5735
+Southern Seoul,2009,6,June,14488.35869,5932
+Southern Seoul,2009,7,July,15900.351,6544
+Southern Seoul,2009,8,August,15735.20142,6453
+Southern Seoul,2009,9,September,14570.88758,5845
+Southern Seoul,2009,10,October,14433.28531,5792
+Southern Seoul,2009,11,November,13663.35565,5504
+Southern Seoul,2009,12,December,15052.11705,6212
+Southern Seoul,2010,1,January,17718.35658,7336
+Southern Seoul,2010,2,February,14408.71153,5907
+Southern Seoul,2010,3,March,16698.7239,6813
+Southern Seoul,2010,4,April,15074.39369,6136
+Southern Seoul,2010,5,May,14963.78521,6095
+Southern Seoul,2010,6,June,15557.07523,6352
+Southern Seoul,2010,7,July,15551.65987,6383
+Southern Seoul,2010,8,August,16068.06465,6669
+Southern Seoul,2010,9,September,13351.07724,5333
+Southern Seoul,2010,10,October,14187.71873,5739
+Southern Seoul,2010,11,November,14048.81028,5760
+Southern Seoul,2010,12,December,14330.78668,6023
+Southern Seoul,2011,1,January,17174.15369,7107
+Southern Seoul,2011,2,February,13880.51677,5719
+Southern Seoul,2011,3,March,16230.47292,6684
+Southern Seoul,2011,4,April,14353.47004,5942
+Southern Seoul,2011,5,May,14857.82573,6167
+Southern Seoul,2011,6,June,14781.07384,6104
+Southern Seoul,2011,7,July,14889.01478,6203
+Southern Seoul,2011,8,August,13784.27873,5722
+Southern Seoul,2011,9,September,11126.43275,4496
+Southern Seoul,2011,10,October,13539.9815,5590
+Southern Seoul,2011,11,November,13779.77683,5756
+Southern Seoul,2011,12,December,14164.70896,6027
+Southern Seoul,2012,1,January,17553.19848,7445
+Southern Seoul,2012,2,February,16254.01832,6894
+Southern Seoul,2012,3,March,15558.01872,6477
+Southern Seoul,2012,4,April,14598.24299,6125
+Southern Seoul,2012,5,May,15300.21957,6436
+Southern Seoul,2012,6,June,14578.15761,6052
+Southern Seoul,2012,7,July,16647.85173,6984
+Southern Seoul,2012,8,August,16143.21769,6732
+Southern Seoul,2012,9,September,13873.23396,5699
+Southern Seoul,2012,10,October,15315.61753,6378
+Southern Seoul,2012,11,November,14519.66469,6091
+Southern Seoul,2012,12,December,14145.87793,6036
+Southern Seoul,2013,1,January,18646.10729,7947
+Southern Seoul,2013,2,February,14623.99924,6103
+Southern Seoul,2013,3,March,15225.91436,6332
+Southern Seoul,2013,4,April,14655.83901,6128
+Southern Seoul,2013,5,May,14746.1791,6216
+Southern Seoul,2013,6,June,13950.40361,5858
+Southern Seoul,2013,7,July,15917.40234,6766
+Southern Seoul,2013,8,August,14880.68015,6252
+Southern Seoul,2013,9,September,13602.48093,5613
+Southern Seoul,2013,10,October,14346.35053,5993
+Southern Seoul,2013,11,November,13726.15911,5781
+Southern Seoul,2013,12,December,14909.40748,6410
+Southern Seoul,2014,1,January,16669.42453,7113
+Southern Seoul,2014,2,February,15760.93547,6769
+Southern Seoul,2014,3,March,15134.76501,6383
+Southern Seoul,2014,4,April,14283.79067,6000
+Southern Seoul,2014,5,May,13852.44737,5795
+Southern Seoul,2014,6,June,14048.43642,5855
+Southern Seoul,2014,7,July,15619.93969,6558
+Southern Seoul,2014,8,August,14773.03998,6174
+Southern Seoul,2014,9,September,14246.95634,5860
+Southern Seoul,2014,10,October,14093.13127,5839
+Southern Seoul,2014,11,November,13380.57483,5637
+Southern Seoul,2014,12,December,14583.12679,6254
+Southern Seoul,2015,1,January,16904.96982,7255
+Southern Seoul,2015,2,February,13069.3599,5516
+Southern Seoul,2015,3,March,15355.37936,6503
+Southern Seoul,2015,4,April,14090.41608,5929
+Southern Seoul,2015,5,May,13495.18933,5679
+Southern Seoul,2015,6,June,12221.69307,5053
+Southern Seoul,2015,7,July,14105.99676,5891
+Southern Seoul,2015,8,August,14681.83361,6230
+Southern Seoul,2015,9,September,13248.4752,5515
+Southern Seoul,2015,10,October,14158.54903,5939
+Southern Seoul,2015,11,November,14011.69041,5966
+Southern Seoul,2015,12,December,14695.15064,6372
+Southern Seoul,2016,1,January,17061.37993,7346
+Southern Seoul,2016,2,February,14377.79057,6130
+Southern Seoul,2016,3,March,16097.1916,6842
+Southern Seoul,2016,4,April,13949.25777,5910
+Southern Seoul,2016,5,May,14913.89703,6377
+Southern Seoul,2016,6,June,14310.3068,6013
+Southern Seoul,2016,7,July,14648.99564,6138
+Southern Seoul,2016,8,August,15126.9615,6384
+Southern Seoul,2016,9,September,13496.69602,5555
+Southern Seoul,2016,10,October,13847.86493,5793
+Southern Seoul,2016,11,November,14237.54515,5992
+Southern Seoul,2016,12,December,14379.8606,6202
+Southern Seoul,2017,1,January,16442.73211,7148
+Southern Seoul,2017,2,February,14682.58006,6390
+Southern Seoul,2017,3,March,15188.76657,6523
+Southern Seoul,2017,4,April,13918.38261,5969
+Southern Seoul,2017,5,May,14792.45995,6360
+Southern Seoul,2017,6,June,14341.23237,6159
+Southern Seoul,2017,7,July,15052.81109,6543
+Southern Seoul,2017,8,August,15361.96212,6642
+Southern Seoul,2017,9,September,14237.31521,6080
+Southern Seoul,2017,10,October,13078.81932,5601
+Southern Seoul,2017,11,November,14327.98029,6225
+Southern Seoul,2017,12,December,13748.10067,6046
+Southern Seoul,2018,1,January,17746.56748,7845
+Southern Seoul,2018,2,February,13313.55347,5807
+Southern Seoul,2018,3,March,15001.10884,6516
+Southern Seoul,2018,4,April,14519.91414,6333
+Southern Seoul,2018,5,May,14717.96521,6435
+Southern Seoul,2018,6,June,13635.30742,5930
+Southern Seoul,2018,7,July,15510.45906,6835
+Southern Seoul,2018,8,August,14975.40026,6571
+Southern Seoul,2018,9,September,12787.73169,5524
+Southern Seoul,2018,10,October,14729.79356,6412
+Southern Seoul,2018,11,November,14349.8465,6272
+Southern Seoul,2018,12,December,14199.44153,6342
+Southern Seoul,2019,1,January,18199.00349,8040
+Southern Seoul,2019,2,February,14016.10345,6139
+Southern Seoul,2019,3,March,15378.12549,6743
+Southern Seoul,2019,4,April,15175.29476,6655
+Southern Seoul,2019,5,May,15367.9438,6773
+Southern Seoul,2019,6,June,14400.08514,6323
+Southern Seoul,2019,7,July,16506.14181,7324
+Southern Seoul,2019,8,August,15251.9675,6738
+Southern Seoul,2019,9,September,14473.77525,6341
+Southern Seoul,2019,10,October,14813.4556,6433
+Southern Seoul,2019,11,November,14812.61408,6541
+Southern Seoul,2019,12,December,15307.37752,6886
+Southern Seoul,2020,1,January,16248.00523,7146
+Southern Seoul,2020,2,February,13988.42292,6189
+Southern Seoul,2020,3,March,13506.10755,5897
+Southern Seoul,2020,4,April,13019.81736,5615
+Southern Seoul,2020,5,May,14141.05082,6184
+Southern Seoul,2020,6,June,15024.21179,6610
+Southern Seoul,2020,7,July,15333.82225,6734
+Southern Seoul,2020,8,August,13819.73783,6026
+Southern Seoul,2020,9,September,13461.75727,5807
+Southern Seoul,2020,10,October,14227.33052,6193
+Southern Seoul,2020,11,November,14446.12142,6375
+Southern Seoul,2020,12,December,14441.57942,6449
+Southern Seoul,2021,1,January,16138.33622,7074
+Southern Seoul,2021,2,February,13466.34796,5887
+Southern Seoul,2021,3,March,16642.57108,7325
+Southern Seoul,2021,4,April,15378.67672,6751
+Southern Seoul,2021,5,May,14808.0805,6491
+Southern Seoul,2021,6,June,15461.83486,6789
+Southern Seoul,2021,7,July,15798.71653,6941
+Southern Seoul,2021,8,August,15646.32953,6889
+Southern Seoul,2021,9,September,14164.10158,6168
+Southern Seoul,2021,10,October,14915.3133,6549
+Southern Seoul,2021,11,November,15524.15085,6859
+Southern Seoul,2021,12,December,14847.83613,6730
+Southern Seoul,2022,1,January,16793.0827,7220
+Southern Seoul,2022,2,February,14339.64382,6190
+Southern Seoul,2022,3,March,15272.40221,6552
+Southern Seoul,2022,4,April,15270.16561,6581
+Southern Seoul,2022,5,May,16353.99834,7121
+Southern Seoul,2022,6,June,16098.78898,7032
+Southern Seoul,2022,7,July,16263.73663,7054
+Southern Seoul,2022,8,August,16707.05675,7210
+Southern Seoul,2022,9,September,15603.04913,6688
+Southern Seoul,2022,10,October,15674.3271,6786
+Southern Seoul,2022,11,November,16155.26541,7072
+Southern Seoul,2022,12,December,15689.8425,6999
+Ulsan,2006,1,January,4435.931128,1675
+Ulsan,2006,2,February,4176.502211,1563
+Ulsan,2006,3,March,4220.232136,1554
+Ulsan,2006,4,April,3882.044712,1430
+Ulsan,2006,5,May,4130.75984,1527
+Ulsan,2006,6,June,4044.763507,1502
+Ulsan,2006,7,July,4198.06731,1587
+Ulsan,2006,8,August,4460.494337,1683
+Ulsan,2006,9,September,4009.30604,1471
+Ulsan,2006,10,October,3891.289014,1420
+Ulsan,2006,11,November,3989.560665,1468
+Ulsan,2006,12,December,3970.109061,1478
+Ulsan,2007,1,January,5042.565508,1916
+Ulsan,2007,2,February,4168.546844,1532
+Ulsan,2007,3,March,4591.216176,1674
+Ulsan,2007,4,April,4253.285763,1562
+Ulsan,2007,5,May,4397.118926,1616
+Ulsan,2007,6,June,4150.870087,1525
+Ulsan,2007,7,July,4537.815912,1683
+Ulsan,2007,8,August,4715.773257,1727
+Ulsan,2007,9,September,4082.352186,1436
+Ulsan,2007,10,October,4474.776921,1613
+Ulsan,2007,11,November,4145.743324,1499
+Ulsan,2007,12,December,4004.513082,1478
+Ulsan,2008,1,January,5144.916815,1973
+Ulsan,2008,2,February,4102.387991,1527
+Ulsan,2008,3,March,4401.063807,1643
+Ulsan,2008,4,April,4122.51921,1537
+Ulsan,2008,5,May,4143.309208,1547
+Ulsan,2008,6,June,4231.303863,1598
+Ulsan,2008,7,July,4600.737048,1755
+Ulsan,2008,8,August,4323.499716,1641
+Ulsan,2008,9,September,4124.177893,1519
+Ulsan,2008,10,October,3658.538481,1323
+Ulsan,2008,11,November,3816.742594,1429
+Ulsan,2008,12,December,3964.827468,1504
+Ulsan,2009,1,January,5140.675028,2007
+Ulsan,2009,2,February,4743.992368,1879
+Ulsan,2009,3,March,4852.89364,1877
+Ulsan,2009,4,April,4555.237707,1765
+Ulsan,2009,5,May,4417.02862,1723
+Ulsan,2009,6,June,4478.413531,1760
+Ulsan,2009,7,July,4944.437398,1958
+Ulsan,2009,8,August,4883.170697,1935
+Ulsan,2009,9,September,4631.097771,1774
+Ulsan,2009,10,October,4524.412286,1733
+Ulsan,2009,11,November,4314.739177,1654
+Ulsan,2009,12,December,4619.103122,1825
+Ulsan,2010,1,January,5485.142588,2190
+Ulsan,2010,2,February,4560.758276,1799
+Ulsan,2010,3,March,5187.774219,2035
+Ulsan,2010,4,April,4732.833788,1849
+Ulsan,2010,5,May,4692.977323,1836
+Ulsan,2010,6,June,4819.909867,1901
+Ulsan,2010,7,July,4782.931282,1909
+Ulsan,2010,8,August,4966.430775,2000
+Ulsan,2010,9,September,4359.262258,1656
+Ulsan,2010,10,October,4522.36699,1740
+Ulsan,2010,11,November,4463.318181,1734
+Ulsan,2010,12,December,4447.658045,1786
+Ulsan,2011,1,January,5543.299002,2151
+Ulsan,2011,2,February,4449.386471,1729
+Ulsan,2011,3,March,5189.33817,2005
+Ulsan,2011,4,April,4650.167746,1799
+Ulsan,2011,5,May,4799.262364,1865
+Ulsan,2011,6,June,4727.174961,1842
+Ulsan,2011,7,July,4791.280424,1883
+Ulsan,2011,8,August,4487.714527,1756
+Ulsan,2011,9,September,3686.2174,1389
+Ulsan,2011,10,October,4342.793011,1675
+Ulsan,2011,11,November,4443.23012,1728
+Ulsan,2011,12,December,4472.504358,1786
+Ulsan,2012,1,January,5355.652828,2093
+Ulsan,2012,2,February,4925.14119,1936
+Ulsan,2012,3,March,4830.559936,1850
+Ulsan,2012,4,April,4565.361607,1754
+Ulsan,2012,5,May,4728.450006,1833
+Ulsan,2012,6,June,4496.720875,1734
+Ulsan,2012,7,July,5007.931632,1959
+Ulsan,2012,8,August,4943.343946,1918
+Ulsan,2012,9,September,4385.128057,1656
+Ulsan,2012,10,October,4722.481548,1807
+Ulsan,2012,11,November,4479.116,1724
+Ulsan,2012,12,December,4279.582467,1686
+Ulsan,2013,1,January,6028.208682,2382
+Ulsan,2013,2,February,4799.929227,1865
+Ulsan,2013,3,March,4971.189414,1920
+Ulsan,2013,4,April,4795.859408,1860
+Ulsan,2013,5,May,4836.210561,1889
+Ulsan,2013,6,June,4558.55522,1783
+Ulsan,2013,7,July,5179.789813,2049
+Ulsan,2013,8,August,4903.922347,1920
+Ulsan,2013,9,September,4573.949295,1741
+Ulsan,2013,10,October,4695.442344,1816
+Ulsan,2013,11,November,4471.554138,1742
+Ulsan,2013,12,December,4762.172966,1903
+Ulsan,2014,1,January,5800.263952,2299
+Ulsan,2014,2,February,5429.707935,2168
+Ulsan,2014,3,March,5206.702318,2035
+Ulsan,2014,4,April,4961.951448,1928
+Ulsan,2014,5,May,4853.410462,1876
+Ulsan,2014,6,June,4866.458061,1878
+Ulsan,2014,7,July,5371.954928,2096
+Ulsan,2014,8,August,5149.660851,2000
+Ulsan,2014,9,September,4994.480372,1893
+Ulsan,2014,10,October,4874.409657,1867
+Ulsan,2014,11,November,4588.981793,1785
+Ulsan,2014,12,December,4923.672202,1956
+Ulsan,2015,1,January,6027.479773,2375
+Ulsan,2015,2,February,4767.121535,1841
+Ulsan,2015,3,March,5442.424533,2110
+Ulsan,2015,4,April,5041.220455,1936
+Ulsan,2015,5,May,4839.660242,1861
+Ulsan,2015,6,June,4464.442725,1672
+Ulsan,2015,7,July,5085.480619,1940
+Ulsan,2015,8,August,5212.044779,2033
+Ulsan,2015,9,September,4820.252849,1827
+Ulsan,2015,10,October,5033.627857,1929
+Ulsan,2015,11,November,4887.177638,1905
+Ulsan,2015,12,December,5086.501762,2029
+Ulsan,2016,1,January,5858.478446,2338
+Ulsan,2016,2,February,4988.829671,1977
+Ulsan,2016,3,March,5471.904647,2153
+Ulsan,2016,4,April,4795.918656,1881
+Ulsan,2016,5,May,5087.470329,2013
+Ulsan,2016,6,June,4909.742372,1915
+Ulsan,2016,7,July,5073.162174,1977
+Ulsan,2016,8,August,5224.120126,2053
+Ulsan,2016,9,September,4769.682004,1811
+Ulsan,2016,10,October,4704.005721,1826
+Ulsan,2016,11,November,4792.075224,1872
+Ulsan,2016,12,December,4793.366911,1933
+Ulsan,2017,1,January,5609.599718,2245
+Ulsan,2017,2,February,4975.583696,2002
+Ulsan,2017,3,March,5127.462532,2026
+Ulsan,2017,4,April,4716.489288,1863
+Ulsan,2017,5,May,5003.103479,1982
+Ulsan,2017,6,June,4874.196309,1927
+Ulsan,2017,7,July,5098.212338,2046
+Ulsan,2017,8,August,5257.810062,2099
+Ulsan,2017,9,September,4918.37999,1931
+Ulsan,2017,10,October,4433.396589,1744
+Ulsan,2017,11,November,4725.418727,1900
+Ulsan,2017,12,December,4566.816187,1861
+Ulsan,2018,1,January,5872.724496,2394
+Ulsan,2018,2,February,4537.649031,1820
+Ulsan,2018,3,March,4994.734224,1995
+Ulsan,2018,4,April,4803.395923,1931
+Ulsan,2018,5,May,4907.763139,1972
+Ulsan,2018,6,June,4592.142079,1833
+Ulsan,2018,7,July,5163.144574,2095
+Ulsan,2018,8,August,5042.313239,2035
+Ulsan,2018,9,September,4396.992156,1730
+Ulsan,2018,10,October,4897.021019,1950
+Ulsan,2018,11,November,4755.834446,1909
+Ulsan,2018,12,December,4666.015818,1923
+Ulsan,2019,1,January,5904.08738,2394
+Ulsan,2019,2,February,4592.92388,1847
+Ulsan,2019,3,March,4933.279717,1988
+Ulsan,2019,4,April,4862.070157,1962
+Ulsan,2019,5,May,4925.342625,1996
+Ulsan,2019,6,June,4652.988671,1868
+Ulsan,2019,7,July,5313.799923,2166
+Ulsan,2019,8,August,4980.776863,2018
+Ulsan,2019,9,September,4698.690576,1879
+Ulsan,2019,10,October,4804.986472,1904
+Ulsan,2019,11,November,4724.655209,1909
+Ulsan,2019,12,December,4816.016021,1999
+Ulsan,2020,1,January,5343.085471,2122
+Ulsan,2020,2,February,4572.008456,1823
+Ulsan,2020,3,March,4365.555092,1722
+Ulsan,2020,4,April,4273.878943,1663
+Ulsan,2020,5,May,4620.949149,1824
+Ulsan,2020,6,June,4893.754693,1937
+Ulsan,2020,7,July,5058.068922,1997
+Ulsan,2020,8,August,4650.608009,1813
+Ulsan,2020,9,September,4535.467503,1740
+Ulsan,2020,10,October,4616.845662,1807
+Ulsan,2020,11,November,4648.819298,1848
+Ulsan,2020,12,December,4644.790189,1868
+Ulsan,2021,1,January,4976.978296,1970
+Ulsan,2021,2,February,4229.596051,1671
+Ulsan,2021,3,March,5094.531581,2031
+Ulsan,2021,4,April,4752.956165,1884
+Ulsan,2021,5,May,4622.361479,1822
+Ulsan,2021,6,June,4871.502988,1913
+Ulsan,2021,7,July,5010.818857,1966
+Ulsan,2021,8,August,4958.352646,1950
+Ulsan,2021,9,September,4529.00537,1761
+Ulsan,2021,10,October,4695.721658,1841
+Ulsan,2021,11,November,4792.789107,1901
+Ulsan,2021,12,December,4513.142449,1843
+Ulsan,2022,1,January,5089.571251,2025
+Ulsan,2022,2,February,4314.219079,1729
+Ulsan,2022,3,March,4582.960182,1822
+Ulsan,2022,4,April,4582.145542,1831
+Ulsan,2022,5,May,4874.906825,1969
+Ulsan,2022,6,June,4843.680775,1956
+Ulsan,2022,7,July,4968.174471,1986
+Ulsan,2022,8,August,5135.605029,2036
+Ulsan,2022,9,September,4816.328166,1898
+Ulsan,2022,10,October,4726.332961,1890
+Ulsan,2022,11,November,4803.40854,1951
+Ulsan,2022,12,December,4656.789163,1923
+Western Seoul,2006,1,January,13642.24946,5441
+Western Seoul,2006,2,February,12832.27159,5087
+Western Seoul,2006,3,March,12786.23134,5003
+Western Seoul,2006,4,April,11692.54688,4585
+Western Seoul,2006,5,May,12425.94763,4880
+Western Seoul,2006,6,June,12274.31815,4827
+Western Seoul,2006,7,July,12927.37037,5152
+Western Seoul,2006,8,August,13932.29717,5495
+Western Seoul,2006,9,September,12207.43878,4710
+Western Seoul,2006,10,October,11851.38024,4561
+Western Seoul,2006,11,November,12281.54274,4788
+Western Seoul,2006,12,December,12355.34156,4861
+Western Seoul,2007,1,January,15995.59489,6480
+Western Seoul,2007,2,February,12666.38027,5001
+Western Seoul,2007,3,March,13947.03932,5470
+Western Seoul,2007,4,April,13002.20394,5126
+Western Seoul,2007,5,May,13494.48939,5302
+Western Seoul,2007,6,June,12850.79793,5014
+Western Seoul,2007,7,July,14105.65594,5558
+Western Seoul,2007,8,August,14586.32192,5683
+Western Seoul,2007,9,September,11909.8877,4523
+Western Seoul,2007,10,October,13653.4766,5303
+Western Seoul,2007,11,November,12629.3475,4925
+Western Seoul,2007,12,December,12324.94642,4890
+Western Seoul,2008,1,January,16242.96933,6718
+Western Seoul,2008,2,February,12462.56636,5028
+Western Seoul,2008,3,March,13652.09308,5522
+Western Seoul,2008,4,April,12680.62026,5129
+Western Seoul,2008,5,May,12610.17253,5100
+Western Seoul,2008,6,June,13161.70282,5356
+Western Seoul,2008,7,July,14197.10794,5857
+Western Seoul,2008,8,August,13251.83096,5422
+Western Seoul,2008,9,September,12342.94226,4934
+Western Seoul,2008,10,October,10941.47887,4317
+Western Seoul,2008,11,November,11743.65626,4781
+Western Seoul,2008,12,December,12349.43413,5074
+Western Seoul,2009,1,January,15972.18194,6531
+Western Seoul,2009,2,February,15121.2419,6246
+Western Seoul,2009,3,March,15452.12841,6269
+Western Seoul,2009,4,April,14401.13503,5855
+Western Seoul,2009,5,May,14025.92316,5735
+Western Seoul,2009,6,June,14488.35869,5932
+Western Seoul,2009,7,July,15900.351,6544
+Western Seoul,2009,8,August,15735.20142,6453
+Western Seoul,2009,9,September,14570.88758,5845
+Western Seoul,2009,10,October,14433.28531,5792
+Western Seoul,2009,11,November,13663.35565,5504
+Western Seoul,2009,12,December,15052.11705,6212
+Western Seoul,2010,1,January,17718.35658,7336
+Western Seoul,2010,2,February,14408.71153,5907
+Western Seoul,2010,3,March,16698.7239,6813
+Western Seoul,2010,4,April,15074.39369,6136
+Western Seoul,2010,5,May,14963.78521,6095
+Western Seoul,2010,6,June,15557.07523,6352
+Western Seoul,2010,7,July,15551.65987,6383
+Western Seoul,2010,8,August,16068.06465,6669
+Western Seoul,2010,9,September,13351.07724,5333
+Western Seoul,2010,10,October,14187.71873,5739
+Western Seoul,2010,11,November,14048.81028,5760
+Western Seoul,2010,12,December,14330.78668,6023
+Western Seoul,2011,1,January,17174.15369,7107
+Western Seoul,2011,2,February,13880.51677,5719
+Western Seoul,2011,3,March,16230.47292,6684
+Western Seoul,2011,4,April,14353.47004,5942
+Western Seoul,2011,5,May,14857.82573,6167
+Western Seoul,2011,6,June,14781.07384,6104
+Western Seoul,2011,7,July,14889.01478,6203
+Western Seoul,2011,8,August,13784.27873,5722
+Western Seoul,2011,9,September,11126.43275,4496
+Western Seoul,2011,10,October,13539.9815,5590
+Western Seoul,2011,11,November,13779.77683,5756
+Western Seoul,2011,12,December,14164.70896,6027
+Western Seoul,2012,1,January,17553.19848,7445
+Western Seoul,2012,2,February,16254.01832,6894
+Western Seoul,2012,3,March,15558.01872,6477
+Western Seoul,2012,4,April,14598.24299,6125
+Western Seoul,2012,5,May,15300.21957,6436
+Western Seoul,2012,6,June,14578.15761,6052
+Western Seoul,2012,7,July,16647.85173,6984
+Western Seoul,2012,8,August,16143.21769,6732
+Western Seoul,2012,9,September,13873.23396,5699
+Western Seoul,2012,10,October,15315.61753,6378
+Western Seoul,2012,11,November,14519.66469,6091
+Western Seoul,2012,12,December,14145.87793,6036
+Western Seoul,2013,1,January,18646.10729,7947
+Western Seoul,2013,2,February,14623.99924,6103
+Western Seoul,2013,3,March,15225.91436,6332
+Western Seoul,2013,4,April,14655.83901,6128
+Western Seoul,2013,5,May,14746.1791,6216
+Western Seoul,2013,6,June,13950.40361,5858
+Western Seoul,2013,7,July,15917.40234,6766
+Western Seoul,2013,8,August,14880.68015,6252
+Western Seoul,2013,9,September,13602.48093,5613
+Western Seoul,2013,10,October,14346.35053,5993
+Western Seoul,2013,11,November,13726.15911,5781
+Western Seoul,2013,12,December,14909.40748,6410
+Western Seoul,2014,1,January,16669.42453,7113
+Western Seoul,2014,2,February,15760.93547,6769
+Western Seoul,2014,3,March,15134.76501,6383
+Western Seoul,2014,4,April,14283.79067,6000
+Western Seoul,2014,5,May,13852.44737,5795
+Western Seoul,2014,6,June,14048.43642,5855
+Western Seoul,2014,7,July,15619.93969,6558
+Western Seoul,2014,8,August,14773.03998,6174
+Western Seoul,2014,9,September,14246.95634,5860
+Western Seoul,2014,10,October,14093.13127,5839
+Western Seoul,2014,11,November,13380.57483,5637
+Western Seoul,2014,12,December,14583.12679,6254
+Western Seoul,2015,1,January,16904.96982,7255
+Western Seoul,2015,2,February,13069.3599,5516
+Western Seoul,2015,3,March,15355.37936,6503
+Western Seoul,2015,4,April,14090.41608,5929
+Western Seoul,2015,5,May,13495.18933,5679
+Western Seoul,2015,6,June,12221.69307,5053
+Western Seoul,2015,7,July,14105.99676,5891
+Western Seoul,2015,8,August,14681.83361,6230
+Western Seoul,2015,9,September,13248.4752,5515
+Western Seoul,2015,10,October,14158.54903,5939
+Western Seoul,2015,11,November,14011.69041,5966
+Western Seoul,2015,12,December,14695.15064,6372
+Western Seoul,2016,1,January,17061.37993,7346
+Western Seoul,2016,2,February,14377.79057,6130
+Western Seoul,2016,3,March,16097.1916,6842
+Western Seoul,2016,4,April,13949.25777,5910
+Western Seoul,2016,5,May,14913.89703,6377
+Western Seoul,2016,6,June,14310.3068,6013
+Western Seoul,2016,7,July,14648.99564,6138
+Western Seoul,2016,8,August,15126.9615,6384
+Western Seoul,2016,9,September,13496.69602,5555
+Western Seoul,2016,10,October,13847.86493,5793
+Western Seoul,2016,11,November,14237.54515,5992
+Western Seoul,2016,12,December,14379.8606,6202
+Western Seoul,2017,1,January,16442.73211,7148
+Western Seoul,2017,2,February,14682.58006,6390
+Western Seoul,2017,3,March,15188.76657,6523
+Western Seoul,2017,4,April,13918.38261,5969
+Western Seoul,2017,5,May,14792.45995,6360
+Western Seoul,2017,6,June,14341.23237,6159
+Western Seoul,2017,7,July,15052.81109,6543
+Western Seoul,2017,8,August,15361.96212,6642
+Western Seoul,2017,9,September,14237.31521,6080
+Western Seoul,2017,10,October,13078.81932,5601
+Western Seoul,2017,11,November,14327.98029,6225
+Western Seoul,2017,12,December,13748.10067,6046
+Western Seoul,2018,1,January,17746.56748,7845
+Western Seoul,2018,2,February,13313.55347,5807
+Western Seoul,2018,3,March,15001.10884,6516
+Western Seoul,2018,4,April,14519.91414,6333
+Western Seoul,2018,5,May,14717.96521,6435
+Western Seoul,2018,6,June,13635.30742,5930
+Western Seoul,2018,7,July,15510.45906,6835
+Western Seoul,2018,8,August,14975.40026,6571
+Western Seoul,2018,9,September,12787.73169,5524
+Western Seoul,2018,10,October,14729.79356,6412
+Western Seoul,2018,11,November,14349.8465,6272
+Western Seoul,2018,12,December,14199.44153,6342
+Western Seoul,2019,1,January,18199.00349,8040
+Western Seoul,2019,2,February,14016.10345,6139
+Western Seoul,2019,3,March,15378.12549,6743
+Western Seoul,2019,4,April,15175.29476,6655
+Western Seoul,2019,5,May,15367.9438,6773
+Western Seoul,2019,6,June,14400.08514,6323
+Western Seoul,2019,7,July,16506.14181,7324
+Western Seoul,2019,8,August,15251.9675,6738
+Western Seoul,2019,9,September,14473.77525,6341
+Western Seoul,2019,10,October,14813.4556,6433
+Western Seoul,2019,11,November,14812.61408,6541
+Western Seoul,2019,12,December,15307.37752,6886
+Western Seoul,2020,1,January,16248.00523,7146
+Western Seoul,2020,2,February,13988.42292,6189
+Western Seoul,2020,3,March,13506.10755,5897
+Western Seoul,2020,4,April,13019.81736,5615
+Western Seoul,2020,5,May,14141.05082,6184
+Western Seoul,2020,6,June,15024.21179,6610
+Western Seoul,2020,7,July,15333.82225,6734
+Western Seoul,2020,8,August,13819.73783,6026
+Western Seoul,2020,9,September,13461.75727,5807
+Western Seoul,2020,10,October,14227.33052,6193
+Western Seoul,2020,11,November,14446.12142,6375
+Western Seoul,2020,12,December,14441.57942,6449
+Western Seoul,2021,1,January,16138.33622,7074
+Western Seoul,2021,2,February,13466.34796,5887
+Western Seoul,2021,3,March,16642.57108,7325
+Western Seoul,2021,4,April,15378.67672,6751
+Western Seoul,2021,5,May,14808.0805,6491
+Western Seoul,2021,6,June,15461.83486,6789
+Western Seoul,2021,7,July,15798.71653,6941
+Western Seoul,2021,8,August,15646.32953,6889
+Western Seoul,2021,9,September,14164.10158,6168
+Western Seoul,2021,10,October,14915.3133,6549
+Western Seoul,2021,11,November,15524.15085,6859
+Western Seoul,2021,12,December,14847.83613,6730
+Western Seoul,2022,1,January,16793.0827,7220
+Western Seoul,2022,2,February,14339.64382,6190
+Western Seoul,2022,3,March,15272.40221,6552
+Western Seoul,2022,4,April,15270.16561,6581
+Western Seoul,2022,5,May,16353.99834,7121
+Western Seoul,2022,6,June,16098.78898,7032
+Western Seoul,2022,7,July,16263.73663,7054
+Western Seoul,2022,8,August,16707.05675,7210
+Western Seoul,2022,9,September,15603.04913,6688
+Western Seoul,2022,10,October,15674.3271,6786
+Western Seoul,2022,11,November,16155.26541,7072
+Western Seoul,2022,12,December,15689.8425,6999
